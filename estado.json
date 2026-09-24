@@ -1,0 +1,86 @@
+{
+ "partidos": {
+  "5575515": {
+   "acta": "https://www.elbalondemadrid.es/acta/5575515?temporada=22&competicion=26738243&grupo=26738244",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "fecha": "2026-09-27",
+   "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
+   "hora": "17:30",
+   "jornada": 1,
+   "local": [
+    "18456762",
+    "FUTSALA VILLAVERDE 'B'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas",
+   "visitante": [
+    "21445298",
+    "CDE ANDEL - CENTRO EDUCATIVO"
+   ]
+  },
+  "5575892": {
+   "acta": "https://www.elbalondemadrid.es/acta/5575892?temporada=22&competicion=26738221&grupo=26771028",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "fecha": "2026-09-26",
+   "grupo": "Tercera División FS Grupo 3",
+   "hora": "19:00",
+   "jornada": 2,
+   "local": [
+    "17149145",
+    "FUTSALA VILLAVERDE 'A'"
+   ],
+   "pos": [
+    4,
+    6
+   ],
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas",
+   "visitante": [
+    "17146426",
+    "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'"
+   ]
+  },
+  "5576981": {
+   "acta": "https://www.elbalondemadrid.es/acta/5576981?temporada=22&competicion=26749998&grupo=26814437",
+   "campo": "ARGANDA - P.M. LUIS AMADO (Fútbol Sala)",
+   "fecha": "2026-09-27",
+   "grupo": "Primera División Autonómica Juvenil FS Grupo Unico",
+   "hora": "12:30",
+   "jornada": 2,
+   "local": [
+    "18378932",
+    "CLUB ARGANDA FUTSAL 'A'"
+   ],
+   "pos": [
+    10,
+    4
+   ],
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas",
+   "visitante": [
+    "18586496",
+    "FUTSALA VILLAVERDE"
+   ]
+  },
+  "5578121": {
+   "acta": "https://www.elbalondemadrid.es/acta/5578121?temporada=22&competicion=26738218&grupo=26738219",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "fecha": "2026-09-27",
+   "grupo": "Primera División Autonómica Femenino FS Grupo Unico",
+   "hora": "19:30",
+   "jornada": 1,
+   "local": [
+    "18694124",
+    "FUTSALA VILLAVERDE"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738218/grupo/26738219/jornadas",
+   "visitante": [
+    "21430669",
+    "C.D.B. MORALZARZAL FUTSAL - TOOLYDO"
+   ]
+  }
+ }
+}
