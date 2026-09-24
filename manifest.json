@@ -1,0 +1,32 @@
+{
+  "name": "Partidos Futsala Villaverde",
+  "short_name": "Partidos FSV",
+  "description": "Partidos y resultados del fin de semana de Futsala Villaverde, listos para WhatsApp",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#efefec",
+  "theme_color": "#0b6236",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
