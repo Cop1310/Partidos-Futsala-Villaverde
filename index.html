@@ -194,6 +194,7 @@
 <div class="rayas" aria-hidden="true"></div>
 <main>
   <header class="cabecera">
+    <img class="escudo" src="escudo.png" alt="Escudo de Futsala Villaverde" width="108" height="108">
     <h1>Partidos del fin de semana</h1>
     <div class="fila-cuando">
       <p class="cuando" id="cuando">Futsala Villaverde</p>
@@ -534,8 +535,10 @@
     if (datos.generado) {
       var p = datos.generado.split(" ");
       var d = p[0].split("-");
-      elPie.textContent = "Actualizado el " + d[2] + "/" + d[1] + "/" + d[0] + " a las " + p[1] +
-        ". Datos de elbalondemadrid.es (RFFM), no oficiales: antes de desplazarte, revisa el acta del partido.";
+      var pie = "Actualizado el " + d[2] + "/" + d[1] + "/" + d[0] + " a las " + p[1] +
+        ". Datos de elbalondemadrid.es (RFFM), no oficiales" +
+        (activa === "partidos" ? ": antes de desplazarte, revisa el acta del partido." : ".");
+      elPie.textContent = pie;
     }
   }
 
