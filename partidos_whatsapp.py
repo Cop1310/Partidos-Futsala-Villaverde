@@ -78,7 +78,8 @@ QUITAR_PREFIJOS = {
 SIGLAS = {"IDB", "CC", "II", "III", "IV", "PVO", "FS"}
 MINUSCULAS = {"de", "del", "la", "las", "los", "el", "y"}
 ACENTOS_TITULO = {"Alevin": "Alevín", "Benjamin": "Benjamín", "GRUPO": "Grupo",
-                  "Division": "División", "Autonomica": "Autonómica", "Autonomico": "Autonómico"}
+                  "Division": "División", "Autonomica": "Autonómica", "Autonomico": "Autonómico",
+                  "Unico": "Único"}
 
 
 # ---------------------------------------------------------------------------
