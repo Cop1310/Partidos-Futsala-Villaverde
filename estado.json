@@ -200,7 +200,7 @@
     }
    ],
    "jornada": 1,
-   "titulo": "Primera División Autonómica Femenino FS Grupo Unico"
+   "titulo": "Primera División Autonómica Femenino FS Grupo Único"
   },
   "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas": {
    "filas": [
@@ -862,7 +862,7 @@
     }
    ],
    "jornada": 1,
-   "titulo": "Primera División Autonómica Juvenil FS Grupo Unico"
+   "titulo": "Primera División Autonómica Juvenil FS Grupo Único"
   }
  },
  "meta": {
@@ -1119,7 +1119,7 @@
    "acta": "https://www.elbalondemadrid.es/acta/5576981?temporada=22&competicion=26749998&grupo=26814437",
    "campo": "ARGANDA - P.M. LUIS AMADO (Fútbol Sala)",
    "fecha": "2026-09-27",
-   "grupo": "Primera División Autonómica Juvenil FS Grupo Unico",
+   "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
    "hora": "12:30",
    "jornada": 2,
    "local": [
@@ -1141,7 +1141,7 @@
    "acta": "https://www.elbalondemadrid.es/acta/5578121?temporada=22&competicion=26738218&grupo=26738219",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
    "fecha": "2026-09-27",
-   "grupo": "Primera División Autonómica Femenino FS Grupo Unico",
+   "grupo": "Primera División Autonómica Femenino FS Grupo Único",
    "hora": "19:30",
    "jornada": 1,
    "local": [
@@ -1154,6 +1154,28 @@
    "visitante": [
     "21430669",
     "C.D.B. MORALZARZAL FUTSAL - TOOLYDO"
+   ]
+  },
+  "manual|https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas|1": {
+   "acta": null,
+   "campo": "P.M. PLATA Y CASTAÑAR",
+   "fecha": "2026-09-19",
+   "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
+   "hora": "18:00",
+   "jornada": 1,
+   "local": [
+    "18586496",
+    "FUTSALA VILLAVERDE"
+   ],
+   "pos": null,
+   "resultado": [
+    5,
+    1
+   ],
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas",
+   "visitante": [
+    "manual-CD RIVAS FUTSAL - YOUFIRST SMART FINANCE 'A'",
+    "CD RIVAS FUTSAL - YOUFIRST SMART FINANCE 'A'"
    ]
   }
  }
