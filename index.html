@@ -32,7 +32,7 @@
     line-height: 1.45;
     padding-bottom: calc(96px + env(safe-area-inset-bottom, 0px));
   }
-  /* Franja con las rayas de la camiseta del club */
+  /* Franja con los colores del club */
   .rayas {
     height: 18px;
     background: repeating-linear-gradient(90deg, #0b6236 0 18px, #ffffff 18px 36px);
@@ -41,14 +41,19 @@
     box-sizing: content-box;
   }
   main { max-width: 560px; margin: 0 auto; padding: 22px 16px 8px; }
+  .cabecera { text-align: center; margin: 0 0 22px; }
+  .escudo { display: block; height: 108px; width: auto; margin: 0 auto 12px; filter: drop-shadow(0 3px 4px rgba(0,0,0,0.28)); }
   h1 {
     font-size: 1.75rem;
     line-height: 1.1;
     letter-spacing: -0.02em;
-    margin: 0 0 6px;
+    margin: 0 0 12px;
     font-weight: 800;
   }
-  .cuando { margin: 0 0 20px; color: var(--suave); font-size: 1rem; }
+  .cuando {
+    display: inline-block; margin: 0; padding: 6px 16px; border-radius: 4px;
+    background: var(--tinta); color: #fff; font-weight: 700; font-size: 0.98rem;
+  }
 
   .mensaje {
     background: var(--papel);
@@ -71,6 +76,78 @@
   .partido.origen { background: #f6f6f3; color: var(--suave); font-size: 0.9rem; }
   .partido.origen a { color: inherit; }
   .partido.dia { background: var(--tinta); color: #fff; padding: 10px 16px; }
+  .banda { display: flex; align-items: center; gap: 8px; padding: 10px 14px; font-size: 1rem; font-weight: 800; }
+  .banda.dia-c { background: var(--tinta); color: #fff; }
+  .banda.pend { background: #faeeda; color: #633806; border-top: 1px solid var(--linea); }
+  .banda svg { flex: none; }
+  .p { padding: 12px 14px; border-top: 1px solid var(--linea); }
+  .banda + .p { border-top: 0; }
+  .p .f1 { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .p .hora { display: inline-flex; align-items: center; gap: 4px; font-size: 1.45rem; font-weight: 800; line-height: 1; color: #185fa5; }
+  .p .pill { display: inline-block; font-size: 0.78rem; font-weight: 700; padding: 3px 9px; border-radius: 4px; }
+  .cat-violeta { background: #eeedfe; color: #3c3489; }
+  .cat-aqua { background: #e1f5ee; color: #085041; }
+  .cat-naranja { background: #faece7; color: #712b13; }
+  .cat-magenta { background: #fbeaf0; color: #72243e; }
+  .cat-azul { background: #e6f1fb; color: #0c447c; }
+  .cat-gris { background: #f1efe8; color: #444441; }
+  .p .v { display: flex; align-items: center; gap: 4px; flex-wrap: wrap; margin-top: 6px; font-size: 0.86rem; color: var(--suave); }
+  .p .v em { font-style: italic; }
+  .p .v svg { flex: none; }
+  /* Cada equipo en su propia fila a todo el ancho: nada de repartir la tarjeta a
+     medias, así el nombre (con posición o sin ella) siempre tiene sitio de sobra. */
+  .p .eq { margin-top: 10px; font-size: 1rem; }
+  .p .eq .fila { display: flex; align-items: baseline; flex-wrap: wrap; }
+  .p .vs { font-size: 0.82rem; color: var(--suave); margin: 3px 0; }
+  .p .us { background: #f7e9b0; border-radius: 4px; padding: 1px 6px; font-weight: 800; }
+  .p .pos { font-size: 0.72rem; font-weight: 800; color: var(--suave); margin-right: 4px; }
+  .p .sc { display: inline-block; margin: 3px 0; font-size: 1.1rem; font-weight: 800; padding: 2px 10px; border-radius: 4px; white-space: nowrap; }
+  .sc.gana { background: #eaf3de; color: #27500a; }
+  .sc.empata { background: #faeeda; color: #633806; }
+  .sc.pierde { background: #fcebeb; color: #791f1f; }
+  .sc.neutro { background: #f1efe8; color: #444441; }
+  .semanas { display: flex; gap: 8px; margin: 0 0 12px; }
+  .semanas[hidden] { display: none; }
+  .semanas button { flex: none; width: 48px; min-height: 46px; padding: 0; font-size: 1rem; background: var(--papel); color: var(--tinta); }
+  .semanas select option { text-align: center; }
+  .semanas button:disabled { opacity: 0.35; cursor: default; }
+  .semanas select {
+    flex: 1; min-width: 0; min-height: 46px; font: inherit; font-weight: 700; font-size: 1rem; padding: 0 30px;
+    text-align: center; text-align-last: center; -moz-text-align-last: center;
+    color: var(--tinta); background: var(--papel); border: 2px solid var(--tinta); border-radius: 4px;
+  }
+  .chips { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin: 0 0 12px; }
+  .chips[hidden] { display: none; }
+  .chip {
+    flex: none; min-height: 42px; padding: 0 12px; font-size: 0.92rem; font-weight: 600;
+    background: var(--papel); color: var(--tinta); border: 2px solid var(--tinta);
+  }
+  .chip[aria-pressed="true"] { background: var(--tinta); color: #fff; }
+  .chip.pendiente { border-style: dashed; color: var(--suave); background: transparent; }
+  .chip.pendiente[aria-pressed="true"] { background: var(--suave); color: #fff; border-color: var(--suave); }
+  /* Color de categoría (todo el cuadro), igual que en las tarjetas de partido */
+  .chip.cat-violeta { background: #eeedfe; color: #3c3489; border-color: #3c3489; }
+  .chip.cat-aqua { background: #e1f5ee; color: #085041; border-color: #085041; }
+  .chip.cat-naranja { background: #faece7; color: #712b13; border-color: #712b13; }
+  .chip.cat-magenta { background: #fbeaf0; color: #72243e; border-color: #72243e; }
+  .chip.cat-azul { background: #e6f1fb; color: #0c447c; border-color: #0c447c; }
+  .chip.cat-gris { background: #f1efe8; color: #444441; border-color: #444441; }
+  .chip.cat-violeta[aria-pressed="true"] { background: #3c3489; color: #fff; }
+  .chip.cat-aqua[aria-pressed="true"] { background: #085041; color: #fff; }
+  .chip.cat-naranja[aria-pressed="true"] { background: #712b13; color: #fff; }
+  .chip.cat-magenta[aria-pressed="true"] { background: #72243e; color: #fff; }
+  .chip.cat-azul[aria-pressed="true"] { background: #0c447c; color: #fff; }
+  .chip.cat-gris[aria-pressed="true"] { background: #444441; color: #fff; }
+  .sin-barra .barra { display: none; }
+  .sin-barra { padding-bottom: 28px; }
+  .nota { margin: 0; padding: 10px 16px; font-size: 0.9rem; color: var(--suave); border-bottom: 1px solid var(--linea); }
+  .tabla-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  table.clas { border-collapse: collapse; width: 100%; table-layout: fixed; font-size: clamp(11px, 2.9vw, 14px); }
+  table.clas th, table.clas td { padding: 5px 1px; text-align: center; line-height: 1.2; border-bottom: 1px solid var(--linea); background: var(--papel); }
+  table.clas th { font-weight: 700; font-size: 0.95em; background: #f6f6f3; color: var(--suave); border-bottom: 1px solid var(--tinta); }
+  table.clas th.e, table.clas td.e { text-align: left; padding-left: 6px; overflow-wrap: anywhere; }
+  table.clas td.pts { font-weight: 800; }
+  table.clas tr.nuestro td { font-weight: 800; background: #f7e9b0; }
   .estado { padding: 18px 16px; margin: 0; }
   .aviso { margin: 16px 0 0; color: var(--suave); font-size: 0.92rem; }
   .pie { margin: 22px 0 0; color: var(--suave); font-size: 0.85rem; }
@@ -101,23 +178,45 @@
   #whatsapp { background: var(--verde); color: #fff; border-color: var(--verde-oscuro); }
   button:focus-visible, a.boton:focus-visible { outline: 3px solid #2563eb; outline-offset: 2px; }
   .desactivado { opacity: 0.4; pointer-events: none; }
+  .fila-cuando { display: flex; align-items: center; justify-content: center; gap: 8px; }
+  #actualizar {
+    flex: none; width: 36px; height: 36px; min-height: 0; padding: 0;
+    border-radius: 50%; background: var(--papel); color: var(--tinta);
+    font-size: 1.05rem; line-height: 1;
+  }
+  #actualizar.cargando { animation: girar 0.8s linear infinite; }
+  @keyframes girar { to { transform: rotate(360deg); } }
+  .aviso p { margin: 0 0 4px; }
+  .aviso p:last-child { margin-bottom: 0; }
 </style>
 </head>
 <body>
 <div class="rayas" aria-hidden="true"></div>
 <main>
-  <h1>Partidos del fin de semana</h1>
-  <p class="cuando" id="cuando">Futsala Villaverde</p>
+  <header class="cabecera">
+    <h1>Partidos del fin de semana</h1>
+    <div class="fila-cuando">
+      <p class="cuando" id="cuando">Futsala Villaverde</p>
+      <button type="button" id="actualizar" aria-label="Actualizar partidos" title="Actualizar">⟳</button>
+    </div>
+  </header>
 
   <div class="pestanas" role="tablist">
     <button type="button" role="tab" id="tab-partidos" aria-selected="true">Partidos</button>
     <button type="button" role="tab" id="tab-resultados" aria-selected="false">Resultados</button>
+    <button type="button" role="tab" id="tab-clasificacion" aria-selected="false">Clasificación</button>
   </div>
+  <div class="semanas" id="semanas" hidden>
+    <button type="button" id="sem-ant" aria-label="Fin de semana anterior">◀</button>
+    <select id="sem-sel" aria-label="Elegir fin de semana"></select>
+    <button type="button" id="sem-sig" aria-label="Fin de semana siguiente">▶</button>
+  </div>
+  <div class="chips" id="chips" hidden></div>
 
   <div class="mensaje" id="mensaje" aria-live="polite">
     <p class="estado">Cargando partidos…</p>
   </div>
-  <p class="aviso" id="aviso"></p>
+  <div class="aviso" id="aviso"></div>
   <p class="pie" id="pie"></p>
 </main>
 
@@ -132,6 +231,8 @@
 (function () {
   var datos = null;
   var activa = "partidos";
+  var grupoSel = 0;
+  var sel = { partidos: null, resultados: null };   // semana elegida en cada pestaña (posición en datos.semanas)
   var elMensaje = document.getElementById("mensaje");
   var elCuando = document.getElementById("cuando");
   var elAviso = document.getElementById("aviso");
@@ -140,6 +241,13 @@
   var btnWa = document.getElementById("whatsapp");
   var tabP = document.getElementById("tab-partidos");
   var tabR = document.getElementById("tab-resultados");
+  var tabC = document.getElementById("tab-clasificacion");
+  var elChips = document.getElementById("chips");
+  var elSemanas = document.getElementById("semanas");
+  var selSemana = document.getElementById("sem-sel");
+  var btnAnt = document.getElementById("sem-ant");
+  var btnSig = document.getElementById("sem-sig");
+  var btnActualizar = document.getElementById("actualizar");
 
   function escapar(s) {
     return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
@@ -164,33 +272,246 @@
     return "Sábado " + fecha(desde) + " y domingo " + fecha(hasta) + "/" + desde.split("-")[0];
   }
 
+  function semanas() {
+    return (datos && datos.semanas) || [];
+  }
+
+  function sumarDia(iso, n) {
+    var d = new Date(iso + "T12:00:00");
+    d.setDate(d.getDate() + n);
+    var mm = String(d.getMonth() + 1).padStart(2, "0");
+    var dd = String(d.getDate()).padStart(2, "0");
+    return d.getFullYear() + "-" + mm + "-" + dd;
+  }
+
+  function etiquetaSemana(iso) {
+    var dom = sumarDia(iso, 1);
+    var a = iso.split("-"), b = dom.split("-");
+    return a[1] === b[1] ? a[2] + "-" + b[2] + "/" + b[1] + "/" + b[0]
+                         : a[2] + "/" + a[1] + " - " + b[2] + "/" + b[1] + "/" + b[0];
+  }
+
+  function indiceSemana(iso) {
+    var s = semanas(), i;
+    for (i = 0; i < s.length; i++) if (s[i].sabado === iso) return i;
+    return s.length - 1;
+  }
+
+  function pintarSelectorSemanas() {
+    var s = semanas();
+    if (activa === "clasificacion" || s.length < 2) { elSemanas.hidden = true; return; }
+    elSemanas.hidden = false;
+    var i = sel[activa];
+    // las más recientes arriba en el desplegable
+    selSemana.innerHTML = s.map(function (x, k) { return { x: x, k: k }; }).reverse().map(function (o) {
+      return '<option value="' + o.k + '"' + (o.k === i ? " selected" : "") + ">" + etiquetaSemana(o.x.sabado) + "</option>";
+    }).join("");
+    btnAnt.disabled = i <= 0;
+    btnSig.disabled = i >= s.length - 1;
+  }
+
+  function clasificaciones() {
+    return (datos && datos.clasificaciones) || [];
+  }
+
+  // Mensaje de WhatsApp con la clasificación del grupo elegido
+  function textoClasificacion() {
+    var cl = clasificaciones();
+    if (!cl.length) return "";
+    var g = cl[Math.min(grupoSel, cl.length - 1)];
+    var lineas = ["Información sacada de la web El Balón de Madrid", "", "🏆 *Clasificación*", g.titulo];
+    if (g.jornada) lineas.push("📌 _Tras la jornada " + g.jornada + "_");
+    lineas.push("");
+    g.filas.forEach(function (f) {
+      var nombre = f.nuestro ? "*_" + f.nombre + "_*" : f.nombre;
+      lineas.push(f.pos + "º " + nombre + " - " + f.pts + " pts (" + f.pj + " PJ)");
+    });
+    return lineas.join("\n");
+  }
+
   function textoActivo() {
     if (!datos) return "";
+    if (activa === "clasificacion") return textoClasificacion();
+    var s = semanas();
+    if (s.length) {
+      var w = s[Math.max(0, Math.min(sel[activa], s.length - 1))];
+      return ((activa === "partidos" ? w.partidos : w.resultados) || "").trim();
+    }
     return ((activa === "partidos" ? datos.texto : datos.resultados) || "").trim();
+  }
+
+
+  // ---------- Vista previa con colores y tamaños (el texto que se envía no cambia) ----------
+  var SVG = 'width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"';
+  var ICONO_RELOJ = '<svg ' + SVG + '><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg>';
+  var ICONO_CAL = '<svg ' + SVG + '><rect x="4" y="5" width="16" height="16" rx="2"/><path d="M16 3v4M8 3v4M4 11h16"/></svg>';
+  var ICONO_PIN = '<svg ' + SVG + '><path d="M9 11a3 3 0 1 0 6 0a3 3 0 0 0-6 0"/><path d="M17.657 16.657l-4.243 4.243a2 2 0 0 1-2.827 0l-4.244-4.243a8 8 0 1 1 11.314 0"/></svg>';
+  var CATEGORIAS = [[/aficionado/i, "violeta"], [/juvenil/i, "aqua"], [/cadete/i, "naranja"],
+                    [/infantil/i, "magenta"], [/alev[ií]n|benjam[ií]n/i, "azul"]];
+
+  function claseCategoria(t) {
+    for (var i = 0; i < CATEGORIAS.length; i++) if (CATEGORIAS[i][0].test(t)) return CATEGORIAS[i][1];
+    return "gris";
+  }
+
+  function equipoHtml(s) {
+    s = s.replace(/^[\p{Extended_Pictographic}\uFE0F\s]+/u, "").trim();
+    var pos = "", m = /^\*\((\d+)º\)\*\s*(.*)$/.exec(s);
+    if (m) { pos = '<span class="pos">' + m[1] + "º</span> "; s = m[2]; }
+    var us = /^\*_(.+)_\*$/.exec(s);
+    return us ? pos + '<span class="us">' + escapar(us[1]) + "</span>" : pos + escapar(s);
+  }
+
+  function partirEquipos(linea) {
+    var m = /^(\S+)\s+(.*)$/.exec(linea);
+    if (!m) return null;
+    var icono = m[1], resto = m[2];
+    var sc = /^(.*?)\s(\d+)\s-\s(\d+)\s(.*)$/.exec(resto);
+    if (sc) return { icono: icono, local: sc[1], visitante: sc[4], marcador: [sc[2], sc[3]] };
+    var us = /(\*\(\d+º\)\*\s*)?\*_.+?_\*/.exec(resto);   // sin marcador: se separa por nuestro equipo
+    if (!us) return null;
+    if (us.index > 0) {
+      return { icono: icono, local: resto.slice(0, us.index).replace(/\s-\s*$/, "").trim(), visitante: us[0], marcador: null };
+    }
+    return { icono: icono, local: us[0], visitante: resto.slice(us[0].length).replace(/^\s*-\s*/, "").trim(), marcador: null };
+  }
+
+  function partidoHtml(bloque) {
+    var l = bloque.split("\n"), hora = null, titulo, jor = null, campo = null, eq = null;
+    var cab = /^⏰\s*\*(\d{2}:\d{2})h\*\s*-\s*(.+)$/.exec(l[0]);
+    if (cab) { hora = cab[1]; titulo = cab[2]; }
+    else {
+      var t = /^🏆\s*(.+)$/.exec(l[0]);
+      if (!t) return null;
+      titulo = t[1];
+    }
+    for (var i = 1; i < l.length; i++) {
+      var j = /^📌\s*_Jornada (\d+)_$/.exec(l[i]);
+      var c = /^📍\s*(?:Campo|Pabellón):\s*(.+)$/.exec(l[i]);
+      if (j) jor = j[1];
+      else if (c) campo = c[1];
+      else eq = partirEquipos(l[i]);
+    }
+    if (!eq) return null;
+    var clase = { "🟢": "gana", "🟡": "empata", "🔴": "pierde" }[eq.icono] || "neutro";
+    var centro = eq.marcador
+      ? '<div class="sc ' + clase + '">' + eq.marcador[0] + " - " + eq.marcador[1] + "</div>"
+      : '<div class="vs">vs</div>';
+    var etiqueta = escapar(titulo.replace(/\s+Grupo\s+(\d+)/i, " · grupo $1"));
+    var detalle = (jor ? "<em>Jornada " + jor + "</em>" : "") + (jor && campo ? " · " : "") + (campo ? ICONO_PIN + escapar(campo) : "");
+    return '<div class="p"><div class="f1">' +
+      (hora ? '<span class="hora">' + ICONO_RELOJ + hora + "</span>" : "") +
+      '<span class="pill cat-' + claseCategoria(titulo) + '">' + etiqueta + "</span></div>" +
+      (detalle ? '<div class="v">' + detalle + "</div>" : "") +
+      '<div class="eq"><div class="fila">' + equipoHtml(eq.local) + "</div>" + centro +
+      '<div class="fila">' + equipoHtml(eq.visitante) + "</div></div></div>";
+  }
+
+  function mensajeHtml(texto) {
+    return texto.split(/\n\s*\n/).map(function (bloque) {
+      if (/^Información sacada de la web/.test(bloque)) {
+        return '<div class="partido origen"><p>' + formato(bloque) + "</p></div>";
+      }
+      if (bloque.indexOf("📅") !== -1) {   // rótulo de día o de pendientes
+        var t = /📅\s*\*(.+?)\*/.exec(bloque);
+        if (t) {
+          var pend = /PENDIENTE/i.test(t[1]);
+          var nombre = pend ? "Pendiente de confirmar día y hora" : t[1].charAt(0) + t[1].slice(1).toLowerCase();
+          return '<div class="banda ' + (pend ? "pend" : "dia-c") + '">' + ICONO_CAL + escapar(nombre) + "</div>";
+        }
+      }
+      var p = partidoHtml(bloque);
+      if (p) return p;
+      return '<div class="partido"><p>' + formato(bloque).replace(/\n/g, "<br>") + "</p></div>";
+    }).join("");
+  }
+
+  function pintarClasificacion() {
+    var cl = clasificaciones();
+    elCuando.textContent = "Elige una categoría para ver su clasificación";
+    if (!cl.length) {
+      elChips.hidden = true;
+      elMensaje.innerHTML = '<p class="estado">Todavía no hay clasificaciones disponibles. Aparecerán cuando la federación publique los calendarios.</p>';
+      return;
+    }
+    if (grupoSel >= cl.length) grupoSel = 0;
+    elChips.hidden = false;
+    elChips.innerHTML = cl.map(function (g, i) {
+      var etiqueta = g.titulo;
+      if (g.pendiente) {   // varios equipos de la misma categoría: se distinguen por su letra
+        var letra = /\s([A-Z])$/.exec(g.equipo || "");
+        if (letra) etiqueta += " (" + letra[1] + ")";
+      }
+      var clase = "chip" + (g.pendiente ? " pendiente" : " cat-" + claseCategoria(g.titulo));
+      return '<button type="button" class="' + clase + '" data-i="' + i +
+        '" aria-pressed="' + (i === grupoSel) + '">' + escapar(etiqueta) + "</button>";
+    }).join("");
+
+    var g = cl[grupoSel];
+    if (g.pendiente) {
+      elMensaje.innerHTML = '<p class="estado"><strong>' + escapar(g.equipo || g.titulo) + "</strong><br>" +
+        "La federación todavía no ha publicado esta competición para la temporada 2026/27. " +
+        "Aparecerá aquí en cuanto la publique.</p>";
+      return;
+    }
+    // "Categoría - Grupo X" en vez de "Tras la jornada X"
+    var nota = g.titulo.replace(/\s+Grupo\s+(\d+)/i, " - Grupo $1");
+    var cab = ["#", "Equipo", "PJ", "G", "E", "P", "GF", "GC", "DG", "Pts"].map(function (c, i) {
+      return "<th" + (i === 1 ? ' class="e"' : "") + ">" + c + "</th>";
+    }).join("");
+    var anchos = ["2em", "", "1.9em", "1.6em", "1.6em", "1.6em", "2em", "2em", "2.4em", "2.3em"];
+    var cols = anchos.map(function (a) { return a ? '<col style="width:' + a + '">' : "<col>"; }).join("");
+    var filas = g.filas.map(function (f) {
+      var dg = f.dg > 0 ? "+" + f.dg : f.dg;
+      return '<tr' + (f.nuestro ? ' class="nuestro"' : "") + "><td>" + f.pos + '</td><td class="e">' + escapar(f.nombre) + "</td><td>" + f.pj +
+        "</td><td>" + f.g + "</td><td>" + f.e + "</td><td>" + f.p + "</td><td>" + f.gf + "</td><td>" + f.gc + "</td><td>" + dg +
+        '</td><td class="pts">' + f.pts + "</td></tr>";
+    }).join("");
+    elMensaje.innerHTML = (nota ? '<p class="nota">' + escapar(nota) + "</p>" : "") +
+      '<div class="tabla-wrap"><table class="clas"><colgroup>' + cols + "</colgroup><thead><tr>" + cab +
+      "</tr></thead><tbody>" + filas + "</tbody></table></div>";
   }
 
   function pintar() {
     var texto = textoActivo();
     tabP.setAttribute("aria-selected", activa === "partidos");
     tabR.setAttribute("aria-selected", activa === "resultados");
-    elCuando.textContent = activa === "partidos"
-      ? rango(datos.desde, datos.hasta)
-      : rango(datos.resultados_desde, datos.resultados_hasta);
+    tabC.setAttribute("aria-selected", activa === "clasificacion");
+    document.body.classList.toggle("sin-barra", activa === "clasificacion");   // la clasificación no se envía
+    elChips.hidden = activa !== "clasificacion";
+    if (activa !== "clasificacion") {
+      var sm = semanas();
+      if (sm.length) {
+        var sab = sm[Math.max(0, Math.min(sel[activa], sm.length - 1))].sabado;
+        elCuando.textContent = rango(sab, sumarDia(sab, 1));
+      } else {
+        elCuando.textContent = activa === "partidos"
+          ? rango(datos.desde, datos.hasta)
+          : rango(datos.resultados_desde, datos.resultados_hasta);
+      }
+    }
+    pintarSelectorSemanas();
 
-    if (!texto) {
+    if (activa === "clasificacion") {
+      pintarClasificacion();
+      if (texto) {
+        btnCopiar.classList.remove("desactivado");
+        btnWa.classList.remove("desactivado");
+        btnWa.href = "https://wa.me/?text=" + encodeURIComponent(texto);
+      } else {
+        btnCopiar.classList.add("desactivado");
+        btnWa.classList.add("desactivado");
+        btnWa.href = "#";
+      }
+    } else if (!texto) {
       elMensaje.innerHTML = activa === "partidos"
-        ? '<p class="estado">Todavía no hay partidos publicados para este fin de semana. La página se actualiza cada día a primera hora.</p>'
-        : '<p class="estado">Todavía no hay resultados publicados de este fin de semana. Aparecen según los va publicando la federación.</p>';
+        ? '<p class="estado">No hay partidos guardados para este fin de semana. La página se actualiza cada día a primera hora.</p>'
+        : '<p class="estado">No hay resultados publicados de este fin de semana. Aparecen según los va publicando la federación.</p>';
       btnCopiar.classList.add("desactivado");
       btnWa.classList.add("desactivado");
       btnWa.href = "#";
     } else {
-      elMensaje.innerHTML = texto.split(/\n\s*\n/).map(function (bloque) {
-        var esDia = bloque.indexOf("📅") !== -1;
-        if (esDia) bloque = bloque.replace(/^━+$/gm, "").trim();   // las líneas ━ solo son para WhatsApp
-        var clase = /^Información sacada de la web/.test(bloque) ? " origen" : (esDia ? " dia" : "");
-        return '<div class="partido' + clase + '"><p>' + formato(bloque).replace(/\n/g, "<br>") + "</p></div>";
-      }).join("");
+      elMensaje.innerHTML = mensajeHtml(texto);
       btnCopiar.classList.remove("desactivado");
       btnWa.classList.remove("desactivado");
       btnWa.href = "https://wa.me/?text=" + encodeURIComponent(texto);
@@ -198,12 +519,17 @@
 
     var avisos = [];
     if (activa === "partidos" && datos.sin_partido && datos.sin_partido.length) {
-      avisos.push("Sin partido este fin de semana: " + datos.sin_partido.join(", ") + ".");
+      avisos.push("<p>Sin partido este fin de semana:<br>" +
+        datos.sin_partido.map(escapar).join("<br>") + "</p>");
+    }
+    if (activa === "partidos" && datos.sin_calendario && datos.sin_calendario.length) {
+      avisos.push("<p>Calendario todavía sin publicar por la federación: " +
+        escapar(datos.sin_calendario.join(", ")) + ".</p>");
     }
     if (datos.errores && datos.errores.length) {
-      avisos.push("No se han podido consultar: " + datos.errores.join(", ") + ". Puede faltar algún dato.");
+      avisos.push("<p>No se han podido consultar: " + escapar(datos.errores.join(", ")) + ". Puede faltar algún dato.</p>");
     }
-    elAviso.textContent = avisos.join(" ");
+    elAviso.innerHTML = avisos.join("");
 
     if (datos.generado) {
       var p = datos.generado.split(" ");
@@ -244,24 +570,51 @@
 
   tabP.addEventListener("click", function () { elegir("partidos"); });
   tabR.addEventListener("click", function () { elegir("resultados"); });
+  tabC.addEventListener("click", function () { elegir("clasificacion"); });
+  selSemana.addEventListener("change", function () { sel[activa] = parseInt(selSemana.value, 10); pintar(); });
+  btnAnt.addEventListener("click", function () { if (sel[activa] > 0) { sel[activa] -= 1; pintar(); } });
+  btnSig.addEventListener("click", function () { if (sel[activa] < semanas().length - 1) { sel[activa] += 1; pintar(); } });
+  elChips.addEventListener("click", function (e) {
+    var b = e.target.closest ? e.target.closest(".chip") : null;
+    if (!b) return;
+    grupoSel = parseInt(b.getAttribute("data-i"), 10) || 0;
+    pintar();
+  });
   btnCopiar.addEventListener("click", copiar);
 
   if ("serviceWorker" in navigator) {
     navigator.serviceWorker.register("sw.js").catch(function () {});
   }
 
-  fetch("partidos.json?t=" + Date.now(), { cache: "no-store" })
-    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
-    .then(function (d) {
-      datos = d;
-      // Domingo, lunes y martes se abre directamente en Resultados si ya hay alguno
-      var dia = new Date().getDay();
-      if ((dia === 0 || dia === 1 || dia === 2) && (d.resultados || "").trim()) activa = "resultados";
-      pintar();
-    })
-    .catch(function () {
-      elMensaje.innerHTML = '<p class="estado">No se han podido cargar los partidos. Comprueba que la acción "Actualizar partidos" de GitHub se ha ejecutado al menos una vez.</p>';
-    });
+  function cargarDatos(esPrimeraVez) {
+    btnActualizar.classList.add("cargando");
+    btnActualizar.disabled = true;
+    return fetch("partidos.json?t=" + Date.now(), { cache: "no-store" })
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (d) {
+        datos = d;
+        sel.partidos = indiceSemana(d.desde);
+        sel.resultados = indiceSemana(d.resultados_desde);
+        if (esPrimeraVez) {
+          // Domingo, lunes y martes se abre directamente en Resultados si ya hay alguno
+          var dia = new Date().getDay();
+          if ((dia === 0 || dia === 1 || dia === 2) && (d.resultados || "").trim()) activa = "resultados";
+        }
+        pintar();
+      })
+      .catch(function () {
+        if (!datos) {
+          elMensaje.innerHTML = '<p class="estado">No se han podido cargar los partidos. Comprueba que la acción "Actualizar partidos" de GitHub se ha ejecutado al menos una vez.</p>';
+        }
+      })
+      .then(function () {
+        btnActualizar.classList.remove("cargando");
+        btnActualizar.disabled = false;
+      });
+  }
+
+  btnActualizar.addEventListener("click", function () { cargarDatos(false); });
+  cargarDatos(true);
 })();
 </script>
 </body>
