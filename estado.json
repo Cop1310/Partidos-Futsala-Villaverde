@@ -205,6 +205,20 @@
   "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas": {
    "filas": [
     {
+     "dg": 3,
+     "e": 0,
+     "g": 2,
+     "gc": 2,
+     "gf": 5,
+     "id": "21476533",
+     "nombre": "Agrupacion Auto-Escuela Simancas-Dynavin A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 2,
+     "pos": 1,
+     "pts": 6
+    },
+    {
      "dg": 5,
      "e": 0,
      "g": 1,
@@ -215,7 +229,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 1,
+     "pos": 2,
      "pts": 3
     },
     {
@@ -229,7 +243,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 2,
+     "pos": 3,
      "pts": 3
     },
     {
@@ -243,7 +257,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 3,
+     "pos": 4,
      "pts": 3
     },
     {
@@ -257,7 +271,7 @@
      "nuestro": true,
      "p": 0,
      "pj": 1,
-     "pos": 4,
+     "pos": 5,
      "pts": 3
     },
     {
@@ -271,7 +285,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 5,
+     "pos": 6,
      "pts": 3
     },
     {
@@ -282,20 +296,6 @@
      "gf": 4,
      "id": "17146426",
      "nombre": "Casco Antiguo Carabanchel A",
-     "nuestro": false,
-     "p": 0,
-     "pj": 1,
-     "pos": 6,
-     "pts": 3
-    },
-    {
-     "dg": 2,
-     "e": 0,
-     "g": 1,
-     "gc": 1,
-     "gf": 3,
-     "id": "21476533",
-     "nombre": "Agrupacion Auto-Escuela Simancas-Dynavin A",
      "nuestro": false,
      "p": 0,
      "pj": 1,
@@ -404,20 +404,6 @@
      "dg": -5,
      "e": 0,
      "g": 0,
-     "gc": 6,
-     "gf": 1,
-     "id": "18728976",
-     "nombre": "Andres Segovia-Mostoles A",
-     "nuestro": false,
-     "p": 1,
-     "pj": 1,
-     "pos": 15,
-     "pts": 0
-    },
-    {
-     "dg": -5,
-     "e": 0,
-     "g": 0,
      "gc": 5,
      "gf": 0,
      "id": "18439661",
@@ -425,28 +411,56 @@
      "nuestro": false,
      "p": 1,
      "pj": 1,
+     "pos": 15,
+     "pts": 0
+    },
+    {
+     "dg": -6,
+     "e": 0,
+     "g": 0,
+     "gc": 8,
+     "gf": 2,
+     "id": "18728976",
+     "nombre": "Andres Segovia-Mostoles A",
+     "nuestro": false,
+     "p": 2,
+     "pj": 2,
      "pos": 16,
      "pts": 0
     }
    ],
-   "jornada": 1,
+   "jornada": 2,
    "titulo": "Tercera División FS Grupo 3"
   },
   "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas": {
    "filas": [
     {
      "dg": 0,
-     "e": 0,
+     "e": 1,
      "g": 0,
-     "gc": 0,
-     "gf": 0,
+     "gc": 1,
+     "gf": 1,
      "id": "21476720",
      "nombre": "Atletico Trabenco Zarzaquemada B",
      "nuestro": false,
      "p": 0,
-     "pj": 0,
+     "pj": 1,
      "pos": 1,
-     "pts": 0
+     "pts": 1
+    },
+    {
+     "dg": 0,
+     "e": 1,
+     "g": 0,
+     "gc": 1,
+     "gf": 1,
+     "id": "18728896",
+     "nombre": "Fuenlabrada Futbol Sala A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 1,
+     "pos": 2,
+     "pts": 1
     },
     {
      "dg": 0,
@@ -456,20 +470,6 @@
      "gf": 0,
      "id": "17145360",
      "nombre": "Casco Antiguo Carabanchel B",
-     "nuestro": false,
-     "p": 0,
-     "pj": 0,
-     "pos": 2,
-     "pts": 0
-    },
-    {
-     "dg": 0,
-     "e": 0,
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
-     "id": "18728896",
-     "nombre": "Fuenlabrada Futbol Sala A",
      "nuestro": false,
      "p": 0,
      "pj": 0,
@@ -911,7 +911,10 @@
     "18456762",
     "FUTSALA VILLAVERDE 'B'"
    ],
-   "pos": null,
+   "pos": [
+    14,
+    6
+   ],
    "resultado": null,
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas",
    "visitante": [
@@ -1154,28 +1157,6 @@
    "visitante": [
     "21430669",
     "C.D.B. MORALZARZAL FUTSAL - TOOLYDO"
-   ]
-  },
-  "manual|https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas|1": {
-   "acta": null,
-   "campo": "P.M. PLATA Y CASTAÑAR",
-   "fecha": "2026-09-19",
-   "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
-   "hora": "18:00",
-   "jornada": 1,
-   "local": [
-    "18586496",
-    "FUTSALA VILLAVERDE"
-   ],
-   "pos": null,
-   "resultado": [
-    5,
-    1
-   ],
-   "url_grupo": "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas",
-   "visitante": [
-    "manual-CD RIVAS FUTSAL - YOUFIRST SMART FINANCE 'A'",
-    "CD RIVAS FUTSAL - YOUFIRST SMART FINANCE 'A'"
    ]
   }
  }
