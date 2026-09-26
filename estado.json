@@ -407,7 +407,7 @@
      "gc": 6,
      "gf": 1,
      "id": "18728976",
-     "nombre": "Andres Segovia-Mostoles",
+     "nombre": "Andres Segovia-Mostoles A",
      "nuestro": false,
      "p": 1,
      "pj": 1,
@@ -685,7 +685,7 @@
      "gc": 1,
      "gf": 5,
      "id": "18586496",
-     "nombre": "Futsala Villaverde",
+     "nombre": "Futsala Villaverde A",
      "nuestro": true,
      "p": 0,
      "pj": 1,
@@ -811,7 +811,7 @@
      "gc": 7,
      "gf": 3,
      "id": "21675505",
-     "nombre": "Gredos San Diego las Suertes",
+     "nombre": "Gredos San Diego las Suertes A",
      "nuestro": false,
      "p": 1,
      "pj": 1,
@@ -1134,7 +1134,7 @@
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas",
    "visitante": [
     "18586496",
-    "FUTSALA VILLAVERDE"
+    "FUTSALA VILLAVERDE 'A'"
    ]
   },
   "5578121": {
