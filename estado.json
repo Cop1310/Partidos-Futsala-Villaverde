@@ -205,6 +205,20 @@
   "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas": {
    "filas": [
     {
+     "dg": 8,
+     "e": 0,
+     "g": 2,
+     "gc": 3,
+     "gf": 11,
+     "id": "17149145",
+     "nombre": "Futsala Villaverde A",
+     "nuestro": true,
+     "p": 0,
+     "pj": 2,
+     "pos": 1,
+     "pts": 6
+    },
+    {
      "dg": 3,
      "e": 0,
      "g": 2,
@@ -215,7 +229,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 2,
-     "pos": 1,
+     "pos": 2,
      "pts": 6
     },
     {
@@ -229,7 +243,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 2,
+     "pos": 3,
      "pts": 3
     },
     {
@@ -243,7 +257,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 3,
+     "pos": 4,
      "pts": 3
     },
     {
@@ -255,20 +269,6 @@
      "id": "17210303",
      "nombre": "C.F.S. Eurosiris-Bingo las Vegas A",
      "nuestro": false,
-     "p": 0,
-     "pj": 1,
-     "pos": 4,
-     "pts": 3
-    },
-    {
-     "dg": 4,
-     "e": 0,
-     "g": 1,
-     "gc": 1,
-     "gf": 5,
-     "id": "17149145",
-     "nombre": "Futsala Villaverde A",
-     "nuestro": true,
      "p": 0,
      "pj": 1,
      "pos": 5,
@@ -289,17 +289,31 @@
      "pts": 3
     },
     {
-     "dg": 2,
+     "dg": -2,
      "e": 0,
      "g": 1,
-     "gc": 2,
-     "gf": 4,
+     "gc": 8,
+     "gf": 6,
      "id": "17146426",
      "nombre": "Casco Antiguo Carabanchel A",
      "nuestro": false,
-     "p": 0,
-     "pj": 1,
+     "p": 1,
+     "pj": 2,
      "pos": 7,
+     "pts": 3
+    },
+    {
+     "dg": -4,
+     "e": 0,
+     "g": 1,
+     "gc": 8,
+     "gf": 4,
+     "id": "18439661",
+     "nombre": "Club Arganda Futsal-Albero-Mudanzas Segoviana A",
+     "nuestro": false,
+     "p": 1,
+     "pj": 2,
+     "pos": 8,
      "pts": 3
     },
     {
@@ -313,7 +327,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 8,
+     "pos": 9,
      "pts": 1
     },
     {
@@ -327,7 +341,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 9,
+     "pos": 10,
      "pts": 1
     },
     {
@@ -341,7 +355,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 1,
-     "pos": 10,
+     "pos": 11,
      "pts": 0
     },
     {
@@ -355,7 +369,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 1,
-     "pos": 11,
+     "pos": 12,
      "pts": 0
     },
     {
@@ -366,20 +380,6 @@
      "gf": 4,
      "id": "18310655",
      "nombre": "Sporting Morata F.S. A",
-     "nuestro": false,
-     "p": 1,
-     "pj": 1,
-     "pos": 12,
-     "pts": 0
-    },
-    {
-     "dg": -4,
-     "e": 0,
-     "g": 0,
-     "gc": 6,
-     "gf": 2,
-     "id": "17145583",
-     "nombre": "Rivas Futsal-Youfirst Smart Finace",
      "nuestro": false,
      "p": 1,
      "pj": 1,
@@ -404,13 +404,13 @@
      "dg": -5,
      "e": 0,
      "g": 0,
-     "gc": 5,
-     "gf": 0,
-     "id": "18439661",
-     "nombre": "Club Arganda Futsal-Albero-Mudanzas Segoviana A",
+     "gc": 10,
+     "gf": 5,
+     "id": "17145583",
+     "nombre": "Rivas Futsal-Youfirst Smart Finace",
      "nuestro": false,
-     "p": 1,
-     "pj": 1,
+     "p": 2,
+     "pj": 2,
      "pos": 15,
      "pts": 0
     },
@@ -432,8 +432,224 @@
    "jornada": 2,
    "titulo": "Tercera División FS Grupo 3"
   },
+  "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas": {
+   "filas": [
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "22510184",
+     "nombre": "La Villa Mostoles B",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 1,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "18949928",
+     "nombre": "Andres Segovia-Mostoles",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 2,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "26884014",
+     "nombre": "Fuenlabrada Futbol Sala (FS) B",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 3,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "22071510",
+     "nombre": "Intersala Mostoles",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 4,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "27296547",
+     "nombre": "Oroquieta-Espinillo B",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 5,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "18637528",
+     "nombre": "Pinar de San Jose-Alcorcon B",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 6,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "19361375",
+     "nombre": "San Jose de Valderas-Valderas F.S. B",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 7,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "18627864",
+     "nombre": "C.S.D. Parque de Lisboa Futsal",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 8,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "18921921",
+     "nombre": "E.F.S. Humanes B",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 9,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "26752417",
+     "nombre": "Mostoles Sur FS (FS)",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 10,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "27275488",
+     "nombre": "Sport Latina-Em Aluche FS",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 11,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "24772220",
+     "nombre": "F.S. Diagonal C",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 12,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "27561905",
+     "nombre": "Futsal Pinto (FS) B",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 13,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "21727163",
+     "nombre": "Futsala Villaverde B",
+     "nuestro": true,
+     "p": 0,
+     "pj": 0,
+     "pos": 14,
+     "pts": 0
+    }
+   ],
+   "jornada": 1,
+   "titulo": "Primera Juvenil FS Grupo 5"
+  },
   "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas": {
    "filas": [
+    {
+     "dg": 2,
+     "e": 0,
+     "g": 1,
+     "gc": 4,
+     "gf": 6,
+     "id": "17151976",
+     "nombre": "Club C.F.S. el Alamo B",
+     "nuestro": false,
+     "p": 0,
+     "pj": 1,
+     "pos": 1,
+     "pts": 3
+    },
     {
      "dg": 0,
      "e": 1,
@@ -445,7 +661,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 1,
+     "pos": 2,
      "pts": 1
     },
     {
@@ -459,7 +675,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 2,
+     "pos": 3,
      "pts": 1
     },
     {
@@ -473,7 +689,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 3,
+     "pos": 4,
      "pts": 0
     },
     {
@@ -487,7 +703,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 4,
+     "pos": 5,
      "pts": 0
     },
     {
@@ -501,7 +717,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 5,
+     "pos": 6,
      "pts": 0
     },
     {
@@ -515,7 +731,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 6,
+     "pos": 7,
      "pts": 0
     },
     {
@@ -529,7 +745,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 7,
+     "pos": 8,
      "pts": 0
     },
     {
@@ -543,35 +759,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 8,
-     "pts": 0
-    },
-    {
-     "dg": 0,
-     "e": 0,
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
-     "id": "17151976",
-     "nombre": "Club C.F.S. el Alamo B",
-     "nuestro": false,
-     "p": 0,
-     "pj": 0,
      "pos": 9,
-     "pts": 0
-    },
-    {
-     "dg": 0,
-     "e": 0,
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
-     "id": "21493878",
-     "nombre": "Club Escuela Deportiva Manila-Estrellas A",
-     "nuestro": false,
-     "p": 0,
-     "pj": 0,
-     "pos": 10,
      "pts": 0
     },
     {
@@ -585,7 +773,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 11,
+     "pos": 10,
      "pts": 0
     },
     {
@@ -599,7 +787,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 12,
+     "pos": 11,
      "pts": 0
     },
     {
@@ -613,7 +801,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 13,
+     "pos": 12,
      "pts": 0
     },
     {
@@ -627,6 +815,20 @@
      "nuestro": true,
      "p": 0,
      "pj": 0,
+     "pos": 13,
+     "pts": 0
+    },
+    {
+     "dg": -2,
+     "e": 0,
+     "g": 0,
+     "gc": 6,
+     "gf": 4,
+     "id": "21493878",
+     "nombre": "Club Escuela Deportiva Manila-Estrellas A",
+     "nuestro": false,
+     "p": 1,
+     "pj": 1,
      "pos": 14,
      "pts": 0
     }
@@ -636,6 +838,20 @@
   },
   "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas": {
    "filas": [
+    {
+     "dg": 4,
+     "e": 0,
+     "g": 2,
+     "gc": 8,
+     "gf": 12,
+     "id": "17145520",
+     "nombre": "A.D.Escurialense",
+     "nuestro": false,
+     "p": 0,
+     "pj": 2,
+     "pos": 1,
+     "pts": 6
+    },
     {
      "dg": 7,
      "e": 0,
@@ -647,7 +863,21 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 1,
+     "pos": 2,
+     "pts": 3
+    },
+    {
+     "dg": 5,
+     "e": 0,
+     "g": 1,
+     "gc": 9,
+     "gf": 14,
+     "id": "19068045",
+     "nombre": "Paraiso Sagrados Corazones A",
+     "nuestro": false,
+     "p": 1,
+     "pj": 2,
+     "pos": 3,
      "pts": 3
     },
     {
@@ -661,7 +891,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 2,
+     "pos": 4,
      "pts": 3
     },
     {
@@ -675,7 +905,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 3,
+     "pos": 5,
      "pts": 3
     },
     {
@@ -689,7 +919,7 @@
      "nuestro": true,
      "p": 0,
      "pj": 1,
-     "pos": 4,
+     "pos": 6,
      "pts": 3
     },
     {
@@ -703,21 +933,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 5,
-     "pts": 3
-    },
-    {
-     "dg": 3,
-     "e": 0,
-     "g": 1,
-     "gc": 3,
-     "gf": 6,
-     "id": "17145520",
-     "nombre": "A.D.Escurialense",
-     "nuestro": false,
-     "p": 0,
-     "pj": 1,
-     "pos": 6,
+     "pos": 7,
      "pts": 3
     },
     {
@@ -731,7 +947,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 7,
+     "pos": 8,
      "pts": 3
     },
     {
@@ -745,22 +961,8 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 8,
-     "pts": 3
-    },
-    {
-     "dg": -1,
-     "e": 0,
-     "g": 0,
-     "gc": 8,
-     "gf": 7,
-     "id": "19068045",
-     "nombre": "Paraiso Sagrados Corazones A",
-     "nuestro": false,
-     "p": 1,
-     "pj": 1,
      "pos": 9,
-     "pts": 0
+     "pts": 3
     },
     {
      "dg": -1,
@@ -780,20 +982,6 @@
      "dg": -3,
      "e": 0,
      "g": 0,
-     "gc": 7,
-     "gf": 4,
-     "id": "22413229",
-     "nombre": "Lope de Vega A",
-     "nuestro": false,
-     "p": 1,
-     "pj": 1,
-     "pos": 11,
-     "pts": 0
-    },
-    {
-     "dg": -3,
-     "e": 0,
-     "g": 0,
      "gc": 6,
      "gf": 3,
      "id": "17145361",
@@ -801,21 +989,21 @@
      "nuestro": false,
      "p": 1,
      "pj": 1,
-     "pos": 12,
+     "pos": 11,
      "pts": 0
     },
     {
      "dg": -4,
      "e": 0,
      "g": 0,
-     "gc": 7,
-     "gf": 3,
-     "id": "21675505",
-     "nombre": "Gredos San Diego las Suertes A",
+     "gc": 13,
+     "gf": 9,
+     "id": "22413229",
+     "nombre": "Lope de Vega A",
      "nuestro": false,
-     "p": 1,
-     "pj": 1,
-     "pos": 13,
+     "p": 2,
+     "pj": 2,
+     "pos": 12,
      "pts": 0
     },
     {
@@ -829,7 +1017,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 1,
-     "pos": 14,
+     "pos": 13,
      "pts": 0
     },
     {
@@ -843,7 +1031,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 1,
-     "pos": 15,
+     "pos": 14,
      "pts": 0
     },
     {
@@ -857,12 +1045,318 @@
      "nuestro": false,
      "p": 1,
      "pj": 1,
+     "pos": 15,
+     "pts": 0
+    },
+    {
+     "dg": -10,
+     "e": 0,
+     "g": 0,
+     "gc": 14,
+     "gf": 4,
+     "id": "21675505",
+     "nombre": "Gredos San Diego las Suertes A",
+     "nuestro": false,
+     "p": 2,
+     "pj": 2,
      "pos": 16,
      "pts": 0
     }
    ],
-   "jornada": 1,
+   "jornada": 2,
    "titulo": "Primera División Autonómica Juvenil FS Grupo Único"
+  },
+  "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas": {
+   "filas": [
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "17155835",
+     "nombre": "Sport Sala 12",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 1,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "26735448",
+     "nombre": "Aquila (FS)",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 2,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "27737683",
+     "nombre": "Butarque Futsal-Hellotickets.Es",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 3,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "26746888",
+     "nombre": "Las Aves FS",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 4,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "27509906",
+     "nombre": "Colegio Abaco (FS) B",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 5,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "17271080",
+     "nombre": "F.S. Diagonal A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 6,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "26750663",
+     "nombre": "Futbol Sala Parla (FS)",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 7,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "21999670",
+     "nombre": "Futsal Pinto-Grupo Egido",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 8,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "25048394",
+     "nombre": "Futsala Villaverde",
+     "nuestro": true,
+     "p": 0,
+     "pj": 0,
+     "pos": 9,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "17149214",
+     "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 10,
+     "pts": 0
+    }
+   ],
+   "jornada": 1,
+   "titulo": "Alevín 1ª Fase FS Grupo 4"
+  },
+  "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas": {
+   "filas": [
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "17145797",
+     "nombre": "Alcorcon F.S. A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 1,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "26745921",
+     "nombre": "El Valle (FS) D",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 2,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "24800380",
+     "nombre": "Sport Latina-Em Aluche FS",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 3,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "24706419",
+     "nombre": "Club Arganda Futsal B",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 4,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "27509809",
+     "nombre": "Colegio Abaco (FS) A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 5,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "18377870",
+     "nombre": "F.S. Diagonal",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 6,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "18613589",
+     "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 7,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "26731723",
+     "nombre": "Futsala Villaverde",
+     "nuestro": true,
+     "p": 0,
+     "pj": 0,
+     "pos": 8,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "17149558",
+     "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles B",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 9,
+     "pts": 0
+    },
+    {
+     "dg": 0,
+     "e": 0,
+     "g": 0,
+     "gc": 0,
+     "gf": 0,
+     "id": "19200947",
+     "nombre": "Racing la Paloma",
+     "nuestro": false,
+     "p": 0,
+     "pj": 0,
+     "pos": 10,
+     "pts": 0
+    }
+   ],
+   "jornada": 1,
+   "titulo": "Benjamín 1ª Fase FS Grupo 4"
   }
  },
  "meta": {
@@ -882,6 +1376,11 @@
     "cursor": null,
     "fecha": "2026-09-25"
    },
+   "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas": {
+    "actual": 1,
+    "cursor": null,
+    "fecha": "2026-09-26"
+   },
    "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas": {
     "actual": 1,
     "cursor": null,
@@ -891,6 +1390,16 @@
     "actual": 2,
     "cursor": null,
     "fecha": "2026-09-25"
+   },
+   "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas": {
+    "actual": 1,
+    "cursor": null,
+    "fecha": "2026-09-26"
+   },
+   "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas": {
+    "actual": 1,
+    "cursor": null,
+    "fecha": "2026-09-26"
    }
   },
   "terminado": {
@@ -1035,7 +1544,10 @@
     4,
     6
    ],
-   "resultado": null,
+   "resultado": [
+    6,
+    2
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas",
    "visitante": [
     "17146426",
@@ -1157,6 +1669,313 @@
    "visitante": [
     "21430669",
     "C.D.B. MORALZARZAL FUTSAL - TOOLYDO"
+   ]
+  },
+  "5712402": {
+   "acta": "https://www.elbalondemadrid.es/acta/5712402?temporada=22&competicion=26750017&grupo=28105968",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "fecha": "2026-10-03",
+   "grupo": "Alevín 1ª Fase FS Grupo 4",
+   "hora": null,
+   "jornada": 1,
+   "local": [
+    "25048394",
+    "FUTSALA VILLAVERDE"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas",
+   "visitante": [
+    "21999670",
+    "FUTSAL PINTO - GRUPO EGIDO"
+   ]
+  },
+  "5712408": {
+   "acta": "https://www.elbalondemadrid.es/acta/5712408?temporada=22&competicion=26750017&grupo=28105968",
+   "campo": "PARLA - P.M. SUPERA PARLA ESTE (futbol sala)",
+   "fecha": "2026-10-17",
+   "grupo": "Alevín 1ª Fase FS Grupo 4",
+   "hora": null,
+   "jornada": 2,
+   "local": [
+    "17155835",
+    "C.D.E. SPORT SALA 12"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas",
+   "visitante": [
+    "25048394",
+    "FUTSALA VILLAVERDE"
+   ]
+  },
+  "5712413": {
+   "acta": "https://www.elbalondemadrid.es/acta/5712413?temporada=22&competicion=26750017&grupo=28105968",
+   "campo": "LEGANES - P.M. LA FORTUNA (futbol sala)",
+   "fecha": "2026-10-24",
+   "grupo": "Alevín 1ª Fase FS Grupo 4",
+   "hora": null,
+   "jornada": 3,
+   "local": [
+    "27737683",
+    "CDE BUTARQUE FUTSAL - HELLOTICKETS.ES"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas",
+   "visitante": [
+    "25048394",
+    "FUTSALA VILLAVERDE"
+   ]
+  },
+  "5712418": {
+   "acta": "https://www.elbalondemadrid.es/acta/5712418?temporada=22&competicion=26750017&grupo=28105968",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "fecha": "2026-11-07",
+   "grupo": "Alevín 1ª Fase FS Grupo 4",
+   "hora": null,
+   "jornada": 4,
+   "local": [
+    "25048394",
+    "FUTSALA VILLAVERDE"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas",
+   "visitante": [
+    "26735448",
+    "CDE AQUILA (FS)"
+   ]
+  },
+  "5712422": {
+   "acta": "https://www.elbalondemadrid.es/acta/5712422?temporada=22&competicion=26750017&grupo=28105968",
+   "campo": "GETAFE - PABELLON DEPORTIVO MUNICIPAL M4 (futbol sala)",
+   "fecha": "2026-11-15",
+   "grupo": "Alevín 1ª Fase FS Grupo 4",
+   "hora": "17:30",
+   "jornada": 5,
+   "local": [
+    "26746888",
+    "CDE LAS AVES FS"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas",
+   "visitante": [
+    "25048394",
+    "FUTSALA VILLAVERDE"
+   ]
+  },
+  "5719182": {
+   "acta": "https://www.elbalondemadrid.es/acta/5719182?temporada=22&competicion=26750019&grupo=28118560",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "fecha": "2026-10-03",
+   "grupo": "Benjamín 1ª Fase FS Grupo 4",
+   "hora": null,
+   "jornada": 1,
+   "local": [
+    "26731723",
+    "FUTSALA VILLAVERDE"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas",
+   "visitante": [
+    "27509809",
+    "COLEGIO ABACO (FS) 'A'"
+   ]
+  },
+  "5719188": {
+   "acta": "https://www.elbalondemadrid.es/acta/5719188?temporada=22&competicion=26750019&grupo=28118560",
+   "campo": "PINTO - P.M. PATRICIA CHAMORRO (futbol sala)",
+   "fecha": "2026-10-17",
+   "grupo": "Benjamín 1ª Fase FS Grupo 4",
+   "hora": null,
+   "jornada": 2,
+   "local": [
+    "18613589",
+    "FUTSALA PINTO - ESCUELA PATRI CHAMORRO 'A'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas",
+   "visitante": [
+    "26731723",
+    "FUTSALA VILLAVERDE"
+   ]
+  },
+  "5719193": {
+   "acta": "https://www.elbalondemadrid.es/acta/5719193?temporada=22&competicion=26750019&grupo=28118560",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "fecha": "2026-10-24",
+   "grupo": "Benjamín 1ª Fase FS Grupo 4",
+   "hora": null,
+   "jornada": 3,
+   "local": [
+    "26731723",
+    "FUTSALA VILLAVERDE"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas",
+   "visitante": [
+    "17149558",
+    "MRB F.S. MOSTOLES - CIUDAD DE MOSTOLES 'B'"
+   ]
+  },
+  "5719199": {
+   "acta": "https://www.elbalondemadrid.es/acta/5719199?temporada=22&competicion=26750019&grupo=28118560",
+   "campo": "COL. EL VALLE LAS TABLAS (futbol sala)",
+   "fecha": "2026-11-07",
+   "grupo": "Benjamín 1ª Fase FS Grupo 4",
+   "hora": null,
+   "jornada": 4,
+   "local": [
+    "26745921",
+    "C.D.E. EL VALLE (FS) 'D'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas",
+   "visitante": [
+    "26731723",
+    "FUTSALA VILLAVERDE"
+   ]
+  },
+  "5719204": {
+   "acta": "https://www.elbalondemadrid.es/acta/5719204?temporada=22&competicion=26750019&grupo=28118560",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "fecha": "2026-11-14",
+   "grupo": "Benjamín 1ª Fase FS Grupo 4",
+   "hora": null,
+   "jornada": 5,
+   "local": [
+    "26731723",
+    "FUTSALA VILLAVERDE"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas",
+   "visitante": [
+    "24706419",
+    "CLUB ARGANDA FUTSAL 'B'"
+   ]
+  },
+  "5721153": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721153?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "ALCORCON - CLUB SOCIAL DEPORTIVO PARQUE DE LISBOA (futbol sala)",
+   "fecha": "2026-10-03",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 1,
+   "local": [
+    "18627864",
+    "C.S.D. PARQUE DE LISBOA FUTSAL"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ]
+  },
+  "5721160": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721160?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "fecha": "2026-10-17",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 2,
+   "local": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "18949928",
+    "C.D.E. ANDRES SEGOVIA-MOSTOLES"
+   ]
+  },
+  "5721166": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721166?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "PARLA - P.M. EL NIDO (futbol sala)",
+   "fecha": "2026-10-24",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 3,
+   "local": [
+    "24772220",
+    "F.S. DIAGONAL 'C'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ]
+  },
+  "5721173": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721173?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "fecha": "2026-11-07",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 4,
+   "local": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "27561905",
+    "FUTSAL PINTO (FS) 'B'"
+   ]
+  },
+  "5721179": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721179?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "MOSTOLES - P.M. ESTORIL 2 (futbol sala)",
+   "fecha": "2026-11-14",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 5,
+   "local": [
+    "22510184",
+    "C.D. LA VILLA MOSTOLES 'B'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ]
+  },
+  "manual|https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas|1": {
+   "acta": null,
+   "campo": "P.M. PLATA Y CASTAÑAR",
+   "fecha": "2026-09-19",
+   "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
+   "hora": "18:00",
+   "jornada": 1,
+   "local": [
+    "18586496",
+    "FUTSALA VILLAVERDE"
+   ],
+   "pos": null,
+   "resultado": [
+    5,
+    1
+   ],
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas",
+   "visitante": [
+    "manual-CD RIVAS FUTSAL - YOUFIRST SMART FINANCE 'A'",
+    "CD RIVAS FUTSAL - YOUFIRST SMART FINANCE 'A'"
    ]
   }
  }
