@@ -3,6 +3,34 @@
   "https://www.elbalondemadrid.es/competicion/26738218/grupo/26738219/jornadas": {
    "filas": [
     {
+     "dg": 3,
+     "e": 0,
+     "g": 1,
+     "gc": 0,
+     "gf": 3,
+     "id": "17148272",
+     "nombre": "Ad Collado-Villalba-Cobiosa A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 1,
+     "pos": 1,
+     "pts": 3
+    },
+    {
+     "dg": 1,
+     "e": 0,
+     "g": 1,
+     "gc": 1,
+     "gf": 2,
+     "id": "17149523",
+     "nombre": "Futsi Atletico Navalcarnero-Frozen C",
+     "nuestro": false,
+     "p": 0,
+     "pj": 1,
+     "pos": 2,
+     "pts": 3
+    },
+    {
      "dg": 0,
      "e": 0,
      "g": 0,
@@ -10,34 +38,6 @@
      "gf": 0,
      "id": "17149226",
      "nombre": "Alcorcon Fsf C",
-     "nuestro": false,
-     "p": 0,
-     "pj": 0,
-     "pos": 1,
-     "pts": 0
-    },
-    {
-     "dg": 0,
-     "e": 0,
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
-     "id": "17148272",
-     "nombre": "Ad Collado-Villalba-Cobiosa A",
-     "nuestro": false,
-     "p": 0,
-     "pj": 0,
-     "pos": 2,
-     "pts": 0
-    },
-    {
-     "dg": 0,
-     "e": 0,
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
-     "id": "21476536",
-     "nombre": "Agrupacion Auto-Escuela Simancas",
      "nuestro": false,
      "p": 0,
      "pj": 0,
@@ -50,8 +50,8 @@
      "g": 0,
      "gc": 0,
      "gf": 0,
-     "id": "17149523",
-     "nombre": "Futsi Atletico Navalcarnero-Frozen C",
+     "id": "21476536",
+     "nombre": "Agrupacion Auto-Escuela Simancas",
      "nuestro": false,
      "p": 0,
      "pj": 0,
@@ -171,30 +171,30 @@
      "pts": 0
     },
     {
-     "dg": 0,
+     "dg": -1,
      "e": 0,
      "g": 0,
-     "gc": 0,
-     "gf": 0,
+     "gc": 2,
+     "gf": 1,
      "id": "18405554",
      "nombre": "Leganes F.S. Masdeporte B",
      "nuestro": false,
-     "p": 0,
-     "pj": 0,
+     "p": 1,
+     "pj": 1,
      "pos": 13,
      "pts": 0
     },
     {
-     "dg": 0,
+     "dg": -3,
      "e": 0,
      "g": 0,
-     "gc": 0,
+     "gc": 3,
      "gf": 0,
      "id": "17145541",
      "nombre": "Torrejon Sala Five Play- Dominos Pizza",
      "nuestro": false,
-     "p": 0,
-     "pj": 0,
+     "p": 1,
+     "pj": 1,
      "pos": 14,
      "pts": 0
     }
@@ -839,6 +839,20 @@
   "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas": {
    "filas": [
     {
+     "dg": 5,
+     "e": 0,
+     "g": 2,
+     "gc": 4,
+     "gf": 9,
+     "id": "18346138",
+     "nombre": "El Valle A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 2,
+     "pos": 1,
+     "pts": 6
+    },
+    {
      "dg": 4,
      "e": 0,
      "g": 2,
@@ -849,21 +863,21 @@
      "nuestro": false,
      "p": 0,
      "pj": 2,
-     "pos": 1,
+     "pos": 2,
      "pts": 6
     },
     {
-     "dg": 7,
+     "dg": 6,
      "e": 0,
      "g": 1,
-     "gc": 2,
-     "gf": 9,
+     "gc": 6,
+     "gf": 12,
      "id": "17146979",
      "nombre": "Alcorcon F.S. B",
      "nuestro": false,
-     "p": 0,
-     "pj": 1,
-     "pos": 2,
+     "p": 1,
+     "pj": 2,
+     "pos": 3,
      "pts": 3
     },
     {
@@ -877,7 +891,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 2,
-     "pos": 3,
+     "pos": 4,
      "pts": 3
     },
     {
@@ -888,20 +902,6 @@
      "gf": 7,
      "id": "18455408",
      "nombre": "Pinar de San Jose-Alcorcon A",
-     "nuestro": false,
-     "p": 0,
-     "pj": 1,
-     "pos": 4,
-     "pts": 3
-    },
-    {
-     "dg": 4,
-     "e": 0,
-     "g": 1,
-     "gc": 1,
-     "gf": 5,
-     "id": "18346138",
-     "nombre": "El Valle A",
      "nuestro": false,
      "p": 0,
      "pj": 1,
@@ -940,6 +940,20 @@
      "dg": 1,
      "e": 0,
      "g": 1,
+     "gc": 8,
+     "gf": 9,
+     "id": "17145361",
+     "nombre": "Union Deportiva las Rozas Boadilla-Ast Tcnet",
+     "nuestro": false,
+     "p": 1,
+     "pj": 2,
+     "pos": 8,
+     "pts": 3
+    },
+    {
+     "dg": 1,
+     "e": 0,
+     "g": 1,
      "gc": 7,
      "gf": 8,
      "id": "18613591",
@@ -947,7 +961,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 8,
+     "pos": 9,
      "pts": 3
     },
     {
@@ -961,7 +975,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 9,
+     "pos": 10,
      "pts": 3
     },
     {
@@ -972,20 +986,6 @@
      "gf": 4,
      "id": "18378932",
      "nombre": "Club Arganda Futsal A",
-     "nuestro": false,
-     "p": 1,
-     "pj": 1,
-     "pos": 10,
-     "pts": 0
-    },
-    {
-     "dg": -3,
-     "e": 0,
-     "g": 0,
-     "gc": 6,
-     "gf": 3,
-     "id": "17145361",
-     "nombre": "Union Deportiva las Rozas Boadilla-Ast Tcnet",
      "nuestro": false,
      "p": 1,
      "pj": 1,
@@ -1035,20 +1035,6 @@
      "pts": 0
     },
     {
-     "dg": -7,
-     "e": 0,
-     "g": 0,
-     "gc": 9,
-     "gf": 2,
-     "id": "21492126",
-     "nombre": "Dosa",
-     "nuestro": false,
-     "p": 1,
-     "pj": 1,
-     "pos": 15,
-     "pts": 0
-    },
-    {
      "dg": -10,
      "e": 0,
      "g": 0,
@@ -1056,6 +1042,20 @@
      "gf": 4,
      "id": "21675505",
      "nombre": "Gredos San Diego las Suertes A",
+     "nuestro": false,
+     "p": 2,
+     "pj": 2,
+     "pos": 15,
+     "pts": 0
+    },
+    {
+     "dg": -11,
+     "e": 0,
+     "g": 0,
+     "gc": 15,
+     "gf": 4,
+     "id": "21492126",
+     "nombre": "Dosa",
      "nuestro": false,
      "p": 2,
      "pj": 2,
@@ -1663,7 +1663,10 @@
     "18694124",
     "FUTSALA VILLAVERDE"
    ],
-   "pos": null,
+   "pos": [
+    12,
+    5
+   ],
    "resultado": null,
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738218/grupo/26738219/jornadas",
    "visitante": [
