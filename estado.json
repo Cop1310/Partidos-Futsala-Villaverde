@@ -1658,7 +1658,10 @@
     10,
     4
    ],
-   "resultado": null,
+   "resultado": [
+    4,
+    5
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas",
    "visitante": [
     "18586496",
@@ -1702,7 +1705,10 @@
     12,
     5
    ],
-   "resultado": null,
+   "resultado": [
+    7,
+    0
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738218/grupo/26738219/jornadas",
    "visitante": [
     "21430669",
@@ -1923,10 +1929,10 @@
   },
   "5721153": {
    "acta": "https://www.elbalondemadrid.es/acta/5721153?temporada=22&competicion=26738228&grupo=28123215",
-   "campo": "ALCORCON - CLUB SOCIAL DEPORTIVO PARQUE DE LISBOA (futbol sala)",
+   "campo": "ALCORCON - P.M. SANTO DOMINGO pista 6 (futbol sala)",
    "fecha": "2026-10-03",
    "grupo": "Primera Juvenil FS Grupo 5",
-   "hora": null,
+   "hora": "19:45",
    "jornada": 1,
    "local": [
     "18627864",
