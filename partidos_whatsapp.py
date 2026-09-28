@@ -50,6 +50,10 @@ PAUSA = 0.8  # segundos entre peticiones (cortesía con la web)
 # del club, y aparecerán en cuanto la federación publique su calendario.
 CONOCIDOS = {
     "competicion/26738221/grupo/26771028": ("Tercera División FS Grupo 3", {"17149145"}),
+    "competicion/26749998/grupo/26814437": ("Primera División Autonómica Juvenil Sala", {"18586496"}),
+    "competicion/26738218/grupo/26738219": ("Primera División Autonómica Femenino Sala", {"18694124"}),
+    "competicion/26750017/grupo/28105968": ("Alevín Sala", {"25048394"}),
+    "competicion/26750019/grupo/28118560": ("Benjamín Sala", {"26731723"}),
 }
 
 TZ = ZoneInfo("Europe/Madrid")
