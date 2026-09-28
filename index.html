@@ -21,6 +21,7 @@
     --verde: #0f7a43;
     --verde-oscuro: #0b6236;
     --suave: #5b5b57;
+    --roja: #b3261e;
   }
   * { box-sizing: border-box; }
   html { -webkit-text-size-adjust: 100%; }
@@ -100,6 +101,16 @@
   .p .eq .fila { display: flex; align-items: baseline; flex-wrap: wrap; }
   .p .vs { font-size: 0.82rem; color: var(--suave); margin: 3px 0; }
   .p .us { background: #f7e9b0; border-radius: 4px; padding: 1px 6px; font-weight: 800; }
+
+  /* Goleadores y tarjetas bajo cada resultado */
+  .goles-caja { margin-top: 10px; padding-top: 8px; border-top: 1px dashed var(--linea); font-size: 0.86rem; }
+  .goles-lado { margin: 3px 0; }
+  .goles-lado b { font-weight: 800; }
+  .gol-linea, .tarjeta-linea { display: block; }
+  .tarjeta-icono { display: inline-block; width: 9px; height: 12px; border-radius: 1px; margin-right: 4px; vertical-align: -1px; }
+  .tarjeta-icono.amarilla { background: #f4c430; }
+  .tarjeta-icono.roja { background: var(--roja); }
+  .gol-linea.nuestro, .tarjeta-linea.nuestro { background: #f7e9b0; border-radius: 4px; padding: 1px 6px; font-weight: 800; }
   .p .pos { font-size: 0.72rem; font-weight: 800; color: var(--suave); margin-right: 4px; }
   .p .sc { display: inline-block; margin: 3px 0; font-size: 1.1rem; font-weight: 800; padding: 2px 10px; border-radius: 4px; white-space: nowrap; }
   .sc.gana { background: #eaf3de; color: #27500a; }
@@ -369,6 +380,52 @@
     return us ? pos + '<span class="us">' + escapar(us[1]) + "</span>" : pos + escapar(s);
   }
 
+  // Goleadores/tarjetas del partido de esta semana que le corresponde al bloque nº `indice`
+  // (mismo orden que el texto de "resultados": ver detalle_resultados en el backend).
+  function detalleDe(indice) {
+    var s = semanas();
+    if (!s.length) return null;
+    var w = s[Math.max(0, Math.min(sel.resultados, s.length - 1))];
+    var det = (datos.detalle_resultados || []).filter(function (d) { return d.sabado === w.sabado; })[0];
+    if (!det || !det.partidos || !det.partidos[indice]) return null;
+    return det.partidos[indice];
+  }
+
+  // Sin una plantilla propia que consultar (de momento no se lleva en esta app), el único
+  // dato disponible para saber de quién es un gol o una tarjeta es el nombre de equipo que da
+  // el acta: puede venir mal repartido entre los dos equipos en algún partido concreto (se ha
+  // visto en otras apps de este mismo proyecto), así que este resaltado es orientativo.
+  function esNuestro(nombre) {
+    return /futsala\s+villaverde/i.test(nombre || "");
+  }
+
+  function golesHtml(detalle) {
+    if (!detalle || (!detalle.goles.length && !detalle.tarjetas.length)) return "";
+    function porLado(lado) {
+      var g = detalle.goles.filter(function (x) { return x.lado === lado; })
+        .sort(function (a, b) { return a.minuto - b.minuto; });
+      if (!g.length) return "";
+      var nombre = lado === "local" ? detalle.local : detalle.visitante;
+      var lineas = g.map(function (x) {
+        var clase = "gol-linea" + (esNuestro(nombre) ? " nuestro" : "");
+        return '<span class="' + clase + '">⚽ ' + x.minuto + "' " + escapar(x.jugador) + (x.penalti ? " (penalti)" : "") + "</span>";
+      }).join("");
+      return '<div class="goles-lado"><b>' + escapar(nombre) + ":</b> " + lineas + "</div>";
+    }
+    function tarjetasHtml() {
+      if (!detalle.tarjetas.length) return "";
+      var lineas = detalle.tarjetas.sort(function (a, b) { return a.minuto - b.minuto; }).map(function (x) {
+        var equipoLimpio = x.equipo.replace(/^C\.D\.\s*/, "");
+        var clase = "tarjeta-linea" + (esNuestro(equipoLimpio) ? " nuestro" : "");
+        return '<span class="' + clase + '"><span class="tarjeta-icono ' + x.tipo + '"></span>' +
+          x.minuto + "' " + escapar(x.jugador) + " (" + escapar(equipoLimpio) + ")</span>";
+      }).join("");
+      return '<div class="goles-lado">' + lineas + "</div>";
+    }
+    var cont = porLado("local") + porLado("visitante") + tarjetasHtml();
+    return cont ? '<div class="goles-caja">' + cont + "</div>" : "";
+  }
+
   function partirEquipos(linea) {
     var m = /^(\S+)\s+(.*)$/.exec(linea);
     if (!m) return null;
@@ -383,7 +440,7 @@
     return { icono: icono, local: us[0], visitante: resto.slice(us[0].length).replace(/^\s*-\s*/, "").trim(), marcador: null };
   }
 
-  function partidoHtml(bloque) {
+  function partidoHtml(bloque, indice) {
     var l = bloque.split("\n"), hora = null, titulo, jor = null, campo = null, eq = null;
     var cab = /^⏰\s*\*(\d{2}:\d{2})h\*\s*-\s*(.+)$/.exec(l[0]);
     if (cab) { hora = cab[1]; titulo = cab[2]; }
@@ -406,15 +463,17 @@
       : '<div class="vs">vs</div>';
     var etiqueta = escapar(titulo.replace(/\s+Grupo\s+(\d+)/i, " · grupo $1"));
     var detalle = (jor ? "<em>Jornada " + jor + "</em>" : "") + (jor && campo ? " · " : "") + (campo ? ICONO_PIN + escapar(campo) : "");
+    var goles = activa === "resultados" && eq.marcador ? golesHtml(detalleDe(indice)) : "";
     return '<div class="p"><div class="f1">' +
       (hora ? '<span class="hora">' + ICONO_RELOJ + hora + "</span>" : "") +
       '<span class="pill cat-' + claseCategoria(titulo) + '">' + etiqueta + "</span></div>" +
       (detalle ? '<div class="v">' + detalle + "</div>" : "") +
       '<div class="eq"><div class="fila">' + equipoHtml(eq.local) + "</div>" + centro +
-      '<div class="fila">' + equipoHtml(eq.visitante) + "</div></div></div>";
+      '<div class="fila">' + equipoHtml(eq.visitante) + "</div></div>" + goles + "</div>";
   }
 
   function mensajeHtml(texto) {
+    var indicePartido = 0;
     return texto.split(/\n\s*\n/).map(function (bloque) {
       if (/^Información sacada de la web/.test(bloque)) {
         return '<div class="partido origen"><p>' + formato(bloque) + "</p></div>";
@@ -427,8 +486,8 @@
           return '<div class="banda ' + (pend ? "pend" : "dia-c") + '">' + ICONO_CAL + escapar(nombre) + "</div>";
         }
       }
-      var p = partidoHtml(bloque);
-      if (p) return p;
+      var p = partidoHtml(bloque, indicePartido);
+      if (p) { indicePartido++; return p; }
       return '<div class="partido"><p>' + formato(bloque).replace(/\n/g, "<br>") + "</p></div>";
     }).join("");
   }

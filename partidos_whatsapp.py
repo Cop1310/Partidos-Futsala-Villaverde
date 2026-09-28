@@ -48,10 +48,18 @@ PAUSA = 0.8  # segundos entre peticiones (cortesía con la web)
 # Así no hace falta abrir la ficha de cada equipo. Los demás equipos del club (Primera
 # Autonómica, Juveniles, Alevín, Benjamín, Femenino...) se buscan solos desde la ficha
 # del club, y aparecerán en cuanto la federación publique su calendario.
+# El orden de este diccionario es el orden en que se muestran las categorías en la pestaña
+# Clasificación de la web (de más a menos edad; Alevín y Benjamín, al final, a petición de
+# César). Se ha comprobado a mano cada equipo (nombre, competición y grupo) desde la ficha del
+# club, en vez de dejarlo a la búsqueda automática: la ficha del club es una app en React y esa
+# búsqueda automática no encontraba todos los equipos (el Juvenil y el Femenino se quedaban
+# fuera, aunque si se abre la ficha del club con un navegador de verdad, sí que están).
 CONOCIDOS = {
     "competicion/26738221/grupo/26771028": ("Tercera División FS Grupo 3", {"17149145"}),
-    "competicion/26749998/grupo/26814437": ("Primera División Autonómica Juvenil Sala", {"18586496"}),
+    "competicion/26738243/grupo/26738244": ("Primera División Autonómica Aficionado Sala", {"18456762"}),
     "competicion/26738218/grupo/26738219": ("Primera División Autonómica Femenino Sala", {"18694124"}),
+    "competicion/26749998/grupo/26814437": ("Primera División Autonómica Juvenil Sala", {"18586496"}),
+    "competicion/24038101/grupo/24400431": ("Primera Juvenil Sala", {"21727163"}),
     "competicion/26750017/grupo/28105968": ("Alevín Sala", {"25048394"}),
     "competicion/26750019/grupo/28118560": ("Benjamín Sala", {"26731723"}),
 }
@@ -295,6 +303,105 @@ def parsear_jornada(soup):
     return partidos
 
 
+# ---------------------------------------------------------------------------
+# Goleadores y tarjetas de un acta ya jugada. Igual que en la app de Infantil A (probado allí
+# contra partidos reales): busca patrones de texto ("N' Nombre del jugador" cerca de un rótulo
+# de gol o tarjeta) en vez de posiciones fijas. Si no encuentra nada reconocible, devuelve
+# listas vacías en vez de arriesgarse a publicar un dato equivocado.
+# ---------------------------------------------------------------------------
+_RE_MINUTO_SOLO = re.compile(r"^(\d{1,3})['’]$")
+_RE_MINUTO_CON_NOMBRE = re.compile(r"^(\d{1,3})['’]\s*(.+)$")
+_RE_PENALTI = re.compile(r"penalt", re.IGNORECASE)
+_RE_TARJETA_ROJA = re.compile(r"\broja\b", re.IGNORECASE)
+
+
+def goles_y_tarjetas_de_acta(soup, marcador=None):
+    """(goles, tarjetas) de un acta ya jugada. Cada gol: {minuto, jugador, equipo,
+    penalti}; cada tarjeta: {minuto, jugador, equipo, tipo}. `equipo` es el nombre
+    de equipo tal como aparece en el acta (sin limpiar todavía)."""
+    normalizar(soup)
+    nombres_equipo, vistos = [], set()
+    for a in soup.find_all("a", href=re.compile(r"/equipo/\d+")):
+        nombre = a.get_text(" ", strip=True)
+        if nombre and nombre not in vistos:
+            vistos.add(nombre)
+            nombres_equipo.append(nombre)
+    if len(nombres_equipo) < 2:
+        return [], []
+    nombres_equipo = nombres_equipo[:2]
+    # los nombres más largos primero, para no confundir un nombre corto que sea
+    # subcadena de otro más largo
+    por_longitud = sorted(nombres_equipo, key=len, reverse=True)
+
+    textos = [t.strip() for t in soup.find_all(string=True)
+              if t.parent is not None and t.parent.name not in ("script", "style") and t.strip()]
+
+    goles, tarjetas = [], []
+    equipo_actual, seccion = None, None
+    for i, t in enumerate(textos):
+        if t in por_longitud:
+            equipo_actual = t
+            continue
+        tl = t.lower()
+        if len(t) < 30 and re.search(r"\bgole?s?\b", tl):
+            seccion = "goles"
+            continue
+        if len(t) < 30 and re.search(r"tarjeta|amonesta", tl):
+            seccion = "tarjetas"
+            continue
+        if equipo_actual is None or seccion is None:
+            continue
+        m = _RE_MINUTO_CON_NOMBRE.match(t)
+        jugador = None
+        if m and m.group(2).strip():
+            minuto, jugador = int(m.group(1)), m.group(2).strip()
+        elif _RE_MINUTO_SOLO.match(t):
+            minuto = int(_RE_MINUTO_SOLO.match(t).group(1))
+            siguiente = textos[i + 1].strip() if i + 1 < len(textos) else ""
+            if siguiente and not _RE_MINUTO_SOLO.match(siguiente) and siguiente not in por_longitud:
+                jugador = siguiente
+        else:
+            continue
+        if not jugador:
+            continue
+        jugador = re.sub(r"\s*\([^)]*\)\s*", "", jugador).strip(" .")
+        # a veces el rótulo de penalti/tarjeta viene pegado al final del mismo texto
+        # ("Nombre penalti", "Nombre amarilla"): se recorta antes de guardar el nombre.
+        jugador = re.sub(r"\s*[-–(]?\s*(penalt[ií]?\w*|amonestaci[oó]n|tarjetas?|amarillas?|"
+                         r"rojas?|segunda\s+amarilla)\)?\s*$", "", jugador, flags=re.IGNORECASE).strip(" .")
+        if not jugador or len(jugador) > 60:
+            continue
+        if seccion == "goles":
+            goles.append({"minuto": minuto, "jugador": jugador, "equipo": equipo_actual,
+                          "penalti": bool(_RE_PENALTI.search(t))})
+        else:
+            tipo = "roja" if _RE_TARJETA_ROJA.search(tl) else "amarilla"
+            tarjetas.append({"minuto": minuto, "jugador": jugador, "equipo": equipo_actual, "tipo": tipo})
+
+    if marcador is not None:
+        esperados = sum(marcador)
+        if esperados and len(goles) != esperados:
+            print(f"Aviso: acta con marcador {marcador[0]}-{marcador[1]} pero se han "
+                  f"reconocido {len(goles)} goles en el texto — revisar el patrón de lectura.",
+                  file=sys.stderr)
+    return goles, tarjetas
+
+
+def _lado(nombre_acta, e):
+    """'local' o 'visitante' según a qué equipo del partido corresponde `nombre_acta` (tal
+    como viene escrito en el acta), comparando cuántas palabras tiene en común con el nombre
+    de cada equipo guardado en el estado (los nombres pueden venir escritos de forma algo
+    distinta entre el acta y el calendario)."""
+    def puntos(nombre_partido):
+        a, b = set(_sin_acentos(nombre_acta).split()), set(_sin_acentos(nombre_partido).split())
+        return len(a & b)
+    return "local" if puntos(e["local"][1]) >= puntos(e["visitante"][1]) else "visitante"
+
+
+def _con_lado(eventos, e):
+    return [{**ev, "lado": _lado(ev["equipo"], e)} for ev in eventos]
+
+
 def datos_de_acta(soup):
     """(marcador, hora) de un acta. El marcador se da en cuanto la web deja de marcar el
     partido como "POR JUGAR", aunque el acta todavía no tenga las alineaciones completas: el
@@ -515,8 +622,8 @@ def _ya_toca_mirar_acta(e, t):
 
 
 def completar_con_actas(estado, errores):
-    """Lee las actas para completar el marcador (partidos ya jugados) y la hora
-    (partidos de los que solo se conoce el marcador)."""
+    """Lee las actas para completar el marcador (partidos ya jugados), la hora (partidos de
+    los que solo se conoce el marcador) y, cuando ya hay marcador, los goleadores y tarjetas."""
     t = ahora()
     pendientes = []
     for e in estado.values():
@@ -525,11 +632,13 @@ def completar_con_actas(estado, errores):
         dias = (t.date() - date.fromisoformat(e["fecha"])).days
         sin_marcador = not e.get("resultado") and dias <= 10 and _ya_toca_mirar_acta(e, t)
         sin_hora = bool(e.get("resultado")) and not e.get("hora") and dias >= 0
-        if sin_marcador or sin_hora:
+        sin_goles = bool(e.get("resultado")) and not e.get("goles") and dias <= 10 and _ya_toca_mirar_acta(e, t)
+        if sin_marcador or sin_hora or sin_goles:
             pendientes.append(e)
     for e in pendientes[:25]:
         try:
-            marcador, hora = datos_de_acta(get(e["acta"]))
+            soup = get(e["acta"])
+            marcador, hora = datos_de_acta(soup)
         except Exception as ex:
             print(f"Aviso: no se pudo leer un acta: {ex}", file=sys.stderr)
             continue
@@ -537,6 +646,18 @@ def completar_con_actas(estado, errores):
             e["resultado"] = list(marcador)
         if hora and not e.get("hora"):
             e["hora"] = hora
+        if e.get("resultado") and not e.get("goles"):
+            try:
+                goles, tarjetas = goles_y_tarjetas_de_acta(soup, tuple(e["resultado"]))
+                # solo se guarda si de verdad se ha encontrado algo: el acta puede tener ya el
+                # marcador pero todavía no la sección de goles/tarjetas (el árbitro puede
+                # rellenar el acta por partes), así que si sale vacío se reintenta en la
+                # siguiente ejecución en vez de darlo por hecho para siempre
+                if goles or tarjetas:
+                    e["goles"] = _con_lado(goles, e)
+                    e["tarjetas"] = _con_lado(tarjetas, e)
+            except Exception as ex:
+                print(f"Aviso: no se pudieron leer goleadores/tarjetas de un acta: {ex}", file=sys.stderr)
 
 
 def completar_pendientes_con_navegador(estado, errores):
@@ -1308,6 +1429,20 @@ def main():
                     {"sabado": sab.isoformat(),
                      "partidos": componer(estado, sab, False),
                      "resultados": componer(estado, sab, True)}
+                    for sab in sorted({sabado_de(date.fromisoformat(e["fecha"])) for e in estado.values()})
+                ],
+                # Goleadores y tarjetas de cada partido ya jugado, en el mismo orden que el
+                # texto de "resultados" de cada semana (así la web puede emparejar cada
+                # partido del texto con sus goles/tarjetas por posición).
+                "detalle_resultados": [
+                    {"sabado": sab.isoformat(),
+                     "partidos": [
+                         {"fecha": e["fecha"], "grupo": e["grupo"], "jornada": e.get("jornada"),
+                          "local": limpiar_equipo(e["local"][1]), "visitante": limpiar_equipo(e["visitante"][1]),
+                          "resultado": e.get("resultado"),
+                          "goles": e.get("goles") or [], "tarjetas": e.get("tarjetas") or []}
+                         for e in seleccion(estado, sab, True)
+                     ]}
                     for sab in sorted({sabado_de(date.fromisoformat(e["fecha"])) for e in estado.values()})
                 ],
                 "clasificaciones": [
