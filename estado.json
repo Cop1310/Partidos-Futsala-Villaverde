@@ -1417,6 +1417,64 @@
    "acta": "https://www.elbalondemadrid.es/acta/5575515?temporada=22&competicion=26738243&grupo=26738244",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
    "fecha": "2026-09-27",
+   "goles": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "MARIO GARCIA FRANCHO",
+     "lado": "local",
+     "minuto": 8,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "GONZALO ORTIZ PEÑA",
+     "lado": "local",
+     "minuto": 10,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "DOMINIK FRACZYK",
+     "lado": "local",
+     "minuto": 39,
+     "penalti": false
+    },
+    {
+     "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+     "jugador": "PABLO SANCHEZ ALVAREZ",
+     "lado": "visitante",
+     "minuto": 23,
+     "penalti": false
+    },
+    {
+     "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+     "jugador": "ALEJANDRO VARO ESTEBAN",
+     "lado": "visitante",
+     "minuto": 23,
+     "penalti": false
+    },
+    {
+     "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+     "jugador": "ALEJANDRO VARO ESTEBAN",
+     "lado": "visitante",
+     "minuto": 24,
+     "penalti": false
+    },
+    {
+     "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+     "jugador": "ALBERTO MESSIA DE LA CERDA ALVAREZ",
+     "lado": "visitante",
+     "minuto": 38,
+     "penalti": false
+    },
+    {
+     "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+     "jugador": "ALEJANDRO VARO ESTEBAN",
+     "lado": "visitante",
+     "minuto": 39,
+     "penalti": false
+    }
+   ],
    "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
    "hora": "17:30",
    "jornada": 1,
@@ -1431,6 +1489,36 @@
    "resultado": [
     4,
     4
+   ],
+   "tarjetas": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "ALBERTO PALACIOS PEON",
+     "lado": "local",
+     "minuto": 14,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "OSCAR ADRIAN JIMENEZ RODRIGUEZ",
+     "lado": "local",
+     "minuto": 18,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+     "jugador": "PABLO SANCHEZ ALVAREZ",
+     "lado": "visitante",
+     "minuto": 9,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+     "jugador": "ALEJANDRO VARO ESTEBAN",
+     "lado": "visitante",
+     "minuto": 16,
+     "tipo": "amarilla"
+    }
    ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas",
    "visitante": [
@@ -1521,6 +1609,50 @@
    "acta": "https://www.elbalondemadrid.es/acta/5575884?temporada=22&competicion=26738221&grupo=26771028",
    "campo": "MOSTOLES - PAB. EVA MANGUAN (futbol sala)",
    "fecha": "2026-09-20",
+   "goles": [
+    {
+     "equipo": "C.D. LA VILLA MOSTOLES 'A'",
+     "jugador": "ANGEL MINGUEZ PEREZ",
+     "lado": "local",
+     "minuto": 19,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ALVARO LORENZO FERNANDEZ",
+     "lado": "visitante",
+     "minuto": 6,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "JAVIER MARAÑÓN FERNÁNDEZ",
+     "lado": "visitante",
+     "minuto": 19,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "JOSE CEBRIAN ROMERO",
+     "lado": "visitante",
+     "minuto": 31,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "JAVIER MARAÑÓN FERNÁNDEZ",
+     "lado": "visitante",
+     "minuto": 36,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ALVARO LORENZO FERNANDEZ",
+     "lado": "visitante",
+     "minuto": 38,
+     "penalti": false
+    }
+   ],
    "grupo": "Tercera División FS Grupo 3",
    "hora": "14:45",
    "jornada": 1,
@@ -1533,6 +1665,50 @@
     1,
     5
    ],
+   "tarjetas": [
+    {
+     "equipo": "C.D. LA VILLA MOSTOLES 'A'",
+     "jugador": "ANGEL MINGUEZ PEREZ",
+     "lado": "local",
+     "minuto": 2,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "C.D. LA VILLA MOSTOLES 'A'",
+     "jugador": "ALEJANDRO HERNANDEZ CARRERA",
+     "lado": "local",
+     "minuto": 12,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "C.D. LA VILLA MOSTOLES 'A'",
+     "jugador": "IKER MIRAVALLES FERNANDEZ",
+     "lado": "local",
+     "minuto": 16,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "C.D. LA VILLA MOSTOLES 'A'",
+     "jugador": "JESUS SANCHEZ VIVIANO",
+     "lado": "local",
+     "minuto": 29,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "JAVIER MARAÑÓN FERNÁNDEZ",
+     "lado": "visitante",
+     "minuto": 28,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "RUBEN DE SANTIAGO NIETO",
+     "lado": "visitante",
+     "minuto": 33,
+     "tipo": "amarilla"
+    }
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas",
    "visitante": [
     "17149145",
@@ -1543,6 +1719,64 @@
    "acta": "https://www.elbalondemadrid.es/acta/5575892?temporada=22&competicion=26738221&grupo=26771028",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
    "fecha": "2026-09-26",
+   "goles": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "RUBEN RODRIGUEZ ORTIZ",
+     "lado": "local",
+     "minuto": 12,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "YOUSSEF EL FTOUHI MUÑOZ",
+     "lado": "local",
+     "minuto": 34,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "KRYSTIAN fraczyk",
+     "lado": "local",
+     "minuto": 37,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ALVARO LORENZO FERNANDEZ",
+     "lado": "local",
+     "minuto": 38,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "MARIO GARCIA FRANCHO",
+     "lado": "local",
+     "minuto": 39,
+     "penalti": false
+    },
+    {
+     "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
+     "jugador": "JESUS ELIAS NICOLAS",
+     "lado": "visitante",
+     "minuto": 22,
+     "penalti": false
+    },
+    {
+     "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
+     "jugador": "SERGIO SANCHEZ AREVALO CALDERON",
+     "lado": "visitante",
+     "minuto": 28,
+     "penalti": false
+    },
+    {
+     "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
+     "jugador": "DAVID HERRERO TORRES",
+     "lado": "visitante",
+     "minuto": 39,
+     "penalti": false
+    }
+   ],
    "grupo": "Tercera División FS Grupo 3",
    "hora": "19:00",
    "jornada": 2,
@@ -1557,6 +1791,22 @@
    "resultado": [
     6,
     2
+   ],
+   "tarjetas": [
+    {
+     "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
+     "jugador": "ALEJANDRO JAVIER ALONSO LOPEZ-ADEVA",
+     "lado": "visitante",
+     "minuto": 22,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
+     "jugador": "JULIAN ULLOA ULLOA",
+     "lado": "visitante",
+     "minuto": 31,
+     "tipo": "amarilla"
+    }
    ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas",
    "visitante": [
@@ -1647,6 +1897,71 @@
    "acta": "https://www.elbalondemadrid.es/acta/5576981?temporada=22&competicion=26749998&grupo=26814437",
    "campo": "ARGANDA - P.M. LUIS AMADO (Fútbol Sala)",
    "fecha": "2026-09-27",
+   "goles": [
+    {
+     "equipo": "CLUB ARGANDA FUTSAL 'A'",
+     "jugador": "ALEJANDRO MANRIQUE DE LA CALLE",
+     "lado": "local",
+     "minuto": 15,
+     "penalti": false
+    },
+    {
+     "equipo": "CLUB ARGANDA FUTSAL 'A'",
+     "jugador": "ALEJANDRO MANRIQUE DE LA CALLE",
+     "lado": "local",
+     "minuto": 20,
+     "penalti": false
+    },
+    {
+     "equipo": "CLUB ARGANDA FUTSAL 'A'",
+     "jugador": "CARLOS MUÑOZ MARCOS-ALBERCA",
+     "lado": "local",
+     "minuto": 28,
+     "penalti": false
+    },
+    {
+     "equipo": "CLUB ARGANDA FUTSAL 'A'",
+     "jugador": "ALEJANDRO MANRIQUE DE LA CALLE",
+     "lado": "local",
+     "minuto": 39,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ANTONIO TOROVICH ESCOBAR",
+     "lado": "visitante",
+     "minuto": 2,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+     "lado": "visitante",
+     "minuto": 23,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "MIGUEL URREA JURADO",
+     "lado": "visitante",
+     "minuto": 34,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ALVARO SABROSO GOMEZ",
+     "lado": "visitante",
+     "minuto": 37,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "MIGUEL URREA JURADO",
+     "lado": "visitante",
+     "minuto": 39,
+     "penalti": false
+    }
+   ],
    "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
    "hora": "12:30",
    "jornada": 2,
@@ -1661,6 +1976,36 @@
    "resultado": [
     4,
     5
+   ],
+   "tarjetas": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ANTONIO TOROVICH ESCOBAR",
+     "lado": "visitante",
+     "minuto": 20,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+     "lado": "visitante",
+     "minuto": 33,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "DANIEL SANCHEZ MONGE",
+     "lado": "visitante",
+     "minuto": 37,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ANTONIO TOROVICH ESCOBAR",
+     "lado": "visitante",
+     "minuto": 37,
+     "tipo": "roja"
+    }
    ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas",
    "visitante": [
@@ -1694,6 +2039,57 @@
    "acta": "https://www.elbalondemadrid.es/acta/5578121?temporada=22&competicion=26738218&grupo=26738219",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
    "fecha": "2026-09-27",
+   "goles": [
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "RAQUEL FERNANDEZ CHILOECHES",
+     "lado": "local",
+     "minuto": 13,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "SOFIA FERNANDEZ NIETO",
+     "lado": "local",
+     "minuto": 24,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "RAQUEL FERNANDEZ CHILOECHES",
+     "lado": "local",
+     "minuto": 25,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "SOFIA FERNANDEZ NIETO",
+     "lado": "local",
+     "minuto": 30,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "RAQUEL FERNANDEZ CHILOECHES",
+     "lado": "local",
+     "minuto": 34,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "CLARA OLMO HERNANDEZ",
+     "lado": "local",
+     "minuto": 35,
+     "penalti": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "SOFIA FERNANDEZ NIETO",
+     "lado": "local",
+     "minuto": 39,
+     "penalti": false
+    }
+   ],
    "grupo": "Primera División Autonómica Femenino FS Grupo Único",
    "hora": "19:30",
    "jornada": 1,
@@ -1709,6 +2105,7 @@
     7,
     0
    ],
+   "tarjetas": [],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738218/grupo/26738219/jornadas",
    "visitante": [
     "21430669",
