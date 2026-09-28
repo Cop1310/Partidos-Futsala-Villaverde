@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-28 14:13",
+  "generado": "2026-09-28 14:25",
   "desde": "2026-10-03",
   "hasta": "2026-10-04",
   "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 03/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *19:00h* - Primera División Autonómica Femenino FS Grupo Único\n📌 _Jornada 2_\n📍 Pabellón: Polid. Colegio el Valle Sanchinarro\n⚽ *(11º)* El Valle A - *(1º)* *_Futsala Villaverde_*\n\n⏰ *19:45h* - Primera Juvenil FS Grupo 5\n📌 _Jornada 1_\n📍 Pabellón: Alcorcon - P.M. Santo Domingo Pista 6\n⚽ C.S.D. Parque de Lisboa Futsal - *_Futsala Villaverde B_*\n\n━━━━━━━━━━━━━━━━\n📅 *DOMINGO 04/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *15:30h* - Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 2_\n📍 Pabellón: Fuenlabrada - P.M. el Trigal\n⚽ *(13º)* Winter Squad - *(7º)* *_Futsala Villaverde B_*\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Tercera División FS Grupo 3\n📌 _Jornada 3_\n📍 Pabellón: Alcorcon - P.M. M-4 Mª Jose Calero\n⚽ *(7º)* Pinar de San Jose-Alcorcon A - *(2º)* *_Futsala Villaverde A_*\n\n🏆 Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(3º)* *_Futsala Villaverde A_* - *(1º)* Futsala Pinto-Escuela Patri Chamorro A\n\n🏆 Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 1_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde_* - Futsal Pinto-Grupo Egido\n\n🏆 Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 1_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde_* - Colegio Abaco (FS) A",
@@ -7,7 +7,9 @@
   "resultados_hasta": "2026-09-27",
   "resultados": "━━━━━━━━━━━━━━━━\n📅 *SÁBADO 26/09/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *19:00h* - Tercera División FS Grupo 3\n📌 _Jornada 2_\n📍 Pabellón: P.M. Plata y Castañar\n🟢 *(4º)* *_Futsala Villaverde A_* 6 - 2 *(6º)* Casco Antiguo Carabanchel A\n\n━━━━━━━━━━━━━━━━\n📅 *DOMINGO 27/09/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *12:30h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 2_\n📍 Pabellón: Arganda - P.M. Luis Amado\n🟢 *(10º)* Club Arganda Futsal A 4 - 5 *(4º)* *_Futsala Villaverde A_*\n\n⏰ *17:30h* - Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 1_\n📍 Pabellón: P.M. Plata y Castañar\n🟡 *(14º)* *_Futsala Villaverde B_* 4 - 4 *(6º)* Andel-Centro Educativo\n\n⏰ *19:30h* - Primera División Autonómica Femenino FS Grupo Único\n📌 _Jornada 1_\n📍 Pabellón: P.M. Plata y Castañar\n🟢 *(12º)* *_Futsala Villaverde_* 7 - 0 *(5º)* Moralzarzal Futsal-Toolydo",
   "sin_partido": [],
-  "sin_calendario": [],
+  "sin_calendario": [
+    "Primera Juvenil Sala (B)"
+  ],
   "errores": [],
   "semanas": [
     {
@@ -32,12 +34,12 @@
     },
     {
       "sabado": "2026-10-17",
-      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Tercera División FS Grupo 3\n📌 _Jornada 5_\n📍 Pabellón: Arganda - P.M. Luis Amado\n⚽ Club Arganda Futsal-Albero-Mudanzas Segoviana A - *_Futsala Villaverde A_*\n\n🏆 Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 2_\n📍 Pabellón: Parla - P.M. Supera Parla Este\n⚽ Sport Sala 12 - *_Futsala Villaverde_*\n\n🏆 Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 2_\n📍 Pabellón: Pinto - P.M. Patricia Chamorro\n⚽ Futsala Pinto-Escuela Patri Chamorro A - *_Futsala Villaverde_*\n\n🏆 Primera Juvenil FS Grupo 5\n📌 _Jornada 2_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde B_* - Andres Segovia-Mostoles\n\n🏆 Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 4_\n📍 Pabellón: Brunete - P.M. Jose Ramon de la Morena\n⚽ Escuela Deportiva Brunete - *_Futsala Villaverde B_*",
+      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Tercera División FS Grupo 3\n📌 _Jornada 5_\n📍 Pabellón: Arganda - P.M. Luis Amado\n⚽ Club Arganda Futsal-Albero-Mudanzas Segoviana A - *_Futsala Villaverde A_*\n\n🏆 Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 4_\n📍 Pabellón: Brunete - P.M. Jose Ramon de la Morena\n⚽ Escuela Deportiva Brunete - *_Futsala Villaverde B_*\n\n🏆 Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 2_\n📍 Pabellón: Parla - P.M. Supera Parla Este\n⚽ Sport Sala 12 - *_Futsala Villaverde_*\n\n🏆 Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 2_\n📍 Pabellón: Pinto - P.M. Patricia Chamorro\n⚽ Futsala Pinto-Escuela Patri Chamorro A - *_Futsala Villaverde_*\n\n🏆 Primera Juvenil FS Grupo 5\n📌 _Jornada 2_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde B_* - Andres Segovia-Mostoles",
       "resultados": ""
     },
     {
       "sabado": "2026-10-24",
-      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Tercera División FS Grupo 3\n📌 _Jornada 6_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde A_* - F.S. Diagonal A\n\n🏆 Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 3_\n📍 Pabellón: Leganes - P.M. la Fortuna\n⚽ Butarque Futsal-Hellotickets.Es - *_Futsala Villaverde_*\n\n🏆 Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde_* - Mrb F.S. Mostoles-Ciudad de Mostoles B\n\n🏆 Primera Juvenil FS Grupo 5\n📌 _Jornada 3_\n📍 Pabellón: Parla - P.M. el Nido\n⚽ F.S. Diagonal C - *_Futsala Villaverde B_*\n\n🏆 Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 5_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde B_* - Futsal Pinto-Grupo Egido",
+      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Tercera División FS Grupo 3\n📌 _Jornada 6_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde A_* - F.S. Diagonal A\n\n🏆 Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 5_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde B_* - Futsal Pinto-Grupo Egido\n\n🏆 Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 3_\n📍 Pabellón: Leganes - P.M. la Fortuna\n⚽ Butarque Futsal-Hellotickets.Es - *_Futsala Villaverde_*\n\n🏆 Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde_* - Mrb F.S. Mostoles-Ciudad de Mostoles B\n\n🏆 Primera Juvenil FS Grupo 5\n📌 _Jornada 3_\n📍 Pabellón: Parla - P.M. el Nido\n⚽ F.S. Diagonal C - *_Futsala Villaverde B_*",
       "resultados": ""
     },
     {
@@ -49,6 +51,507 @@
       "sabado": "2026-11-14",
       "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *DOMINGO 15/11/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *17:30h* - Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 5_\n📍 Pabellón: Getafe - Pabellon Deportivo Municipal M4\n⚽ Las Aves FS - *_Futsala Villaverde_*\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 5_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde_* - Club Arganda Futsal B\n\n🏆 Primera Juvenil FS Grupo 5\n📌 _Jornada 5_\n📍 Pabellón: Mostoles - P.M. Estoril 2\n⚽ La Villa Mostoles B - *_Futsala Villaverde B_*",
       "resultados": ""
+    }
+  ],
+  "detalle_resultados": [
+    {
+      "sabado": "2026-09-19",
+      "partidos": [
+        {
+          "fecha": "2026-09-19",
+          "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
+          "jornada": 1,
+          "local": "Futsala Villaverde",
+          "visitante": "Rivas Futsal-Youfirst Smart Finance A",
+          "resultado": [
+            5,
+            1
+          ],
+          "goles": [],
+          "tarjetas": []
+        },
+        {
+          "fecha": "2026-09-20",
+          "grupo": "Tercera División FS Grupo 3",
+          "jornada": 1,
+          "local": "La Villa Mostoles A",
+          "visitante": "Futsala Villaverde A",
+          "resultado": [
+            1,
+            5
+          ],
+          "goles": [
+            {
+              "minuto": 19,
+              "jugador": "ANGEL MINGUEZ PEREZ",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 6,
+              "jugador": "ALVARO LORENZO FERNANDEZ",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 19,
+              "jugador": "JAVIER MARAÑÓN FERNÁNDEZ",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 31,
+              "jugador": "JOSE CEBRIAN ROMERO",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 36,
+              "jugador": "JAVIER MARAÑÓN FERNÁNDEZ",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 38,
+              "jugador": "ALVARO LORENZO FERNANDEZ",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            }
+          ],
+          "tarjetas": [
+            {
+              "minuto": 2,
+              "jugador": "ANGEL MINGUEZ PEREZ",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            },
+            {
+              "minuto": 12,
+              "jugador": "ALEJANDRO HERNANDEZ CARRERA",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            },
+            {
+              "minuto": 16,
+              "jugador": "IKER MIRAVALLES FERNANDEZ",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            },
+            {
+              "minuto": 29,
+              "jugador": "JESUS SANCHEZ VIVIANO",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            },
+            {
+              "minuto": 28,
+              "jugador": "JAVIER MARAÑÓN FERNÁNDEZ",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            },
+            {
+              "minuto": 33,
+              "jugador": "RUBEN DE SANTIAGO NIETO",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sabado": "2026-09-26",
+      "partidos": [
+        {
+          "fecha": "2026-09-26",
+          "grupo": "Tercera División FS Grupo 3",
+          "jornada": 2,
+          "local": "Futsala Villaverde A",
+          "visitante": "Casco Antiguo Carabanchel A",
+          "resultado": [
+            6,
+            2
+          ],
+          "goles": [
+            {
+              "minuto": 12,
+              "jugador": "RUBEN RODRIGUEZ ORTIZ",
+              "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 34,
+              "jugador": "YOUSSEF EL FTOUHI MUÑOZ",
+              "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 37,
+              "jugador": "KRYSTIAN fraczyk",
+              "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 38,
+              "jugador": "ALVARO LORENZO FERNANDEZ",
+              "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 39,
+              "jugador": "MARIO GARCIA FRANCHO",
+              "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 22,
+              "jugador": "JESUS ELIAS NICOLAS",
+              "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 28,
+              "jugador": "SERGIO SANCHEZ AREVALO CALDERON",
+              "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 39,
+              "jugador": "DAVID HERRERO TORRES",
+              "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            }
+          ],
+          "tarjetas": [
+            {
+              "minuto": 22,
+              "jugador": "ALEJANDRO JAVIER ALONSO LOPEZ-ADEVA",
+              "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            },
+            {
+              "minuto": 31,
+              "jugador": "JULIAN ULLOA ULLOA",
+              "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-27",
+          "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
+          "jornada": 2,
+          "local": "Club Arganda Futsal A",
+          "visitante": "Futsala Villaverde A",
+          "resultado": [
+            4,
+            5
+          ],
+          "goles": [
+            {
+              "minuto": 15,
+              "jugador": "ALEJANDRO MANRIQUE DE LA CALLE",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 20,
+              "jugador": "ALEJANDRO MANRIQUE DE LA CALLE",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 28,
+              "jugador": "CARLOS MUÑOZ MARCOS-ALBERCA",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 39,
+              "jugador": "ALEJANDRO MANRIQUE DE LA CALLE",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 2,
+              "jugador": "ANTONIO TOROVICH ESCOBAR",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 23,
+              "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 34,
+              "jugador": "MIGUEL URREA JURADO",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 37,
+              "jugador": "ALVARO SABROSO GOMEZ",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 39,
+              "jugador": "MIGUEL URREA JURADO",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "penalti": false,
+              "lado": "visitante"
+            }
+          ],
+          "tarjetas": [
+            {
+              "minuto": 20,
+              "jugador": "ANTONIO TOROVICH ESCOBAR",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            },
+            {
+              "minuto": 33,
+              "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            },
+            {
+              "minuto": 37,
+              "jugador": "DANIEL SANCHEZ MONGE",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            },
+            {
+              "minuto": 37,
+              "jugador": "ANTONIO TOROVICH ESCOBAR",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-27",
+          "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
+          "jornada": 1,
+          "local": "Futsala Villaverde B",
+          "visitante": "Andel-Centro Educativo",
+          "resultado": [
+            4,
+            4
+          ],
+          "goles": [
+            {
+              "minuto": 8,
+              "jugador": "MARIO GARCIA FRANCHO",
+              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 10,
+              "jugador": "GONZALO ORTIZ PEÑA",
+              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 39,
+              "jugador": "DOMINIK FRACZYK",
+              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 23,
+              "jugador": "PABLO SANCHEZ ALVAREZ",
+              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 23,
+              "jugador": "ALEJANDRO VARO ESTEBAN",
+              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 24,
+              "jugador": "ALEJANDRO VARO ESTEBAN",
+              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 38,
+              "jugador": "ALBERTO MESSIA DE LA CERDA ALVAREZ",
+              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 39,
+              "jugador": "ALEJANDRO VARO ESTEBAN",
+              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+              "penalti": false,
+              "lado": "visitante"
+            }
+          ],
+          "tarjetas": [
+            {
+              "minuto": 14,
+              "jugador": "ALBERTO PALACIOS PEON",
+              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            },
+            {
+              "minuto": 18,
+              "jugador": "OSCAR ADRIAN JIMENEZ RODRIGUEZ",
+              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            },
+            {
+              "minuto": 9,
+              "jugador": "PABLO SANCHEZ ALVAREZ",
+              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            },
+            {
+              "minuto": 16,
+              "jugador": "ALEJANDRO VARO ESTEBAN",
+              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            }
+          ]
+        },
+        {
+          "fecha": "2026-09-27",
+          "grupo": "Primera División Autonómica Femenino FS Grupo Único",
+          "jornada": 1,
+          "local": "Futsala Villaverde",
+          "visitante": "Moralzarzal Futsal-Toolydo",
+          "resultado": [
+            7,
+            0
+          ],
+          "goles": [
+            {
+              "minuto": 13,
+              "jugador": "RAQUEL FERNANDEZ CHILOECHES",
+              "equipo": "C.D.B. MORALZARZAL FUTSAL - TOOLYDO",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 24,
+              "jugador": "SOFIA FERNANDEZ NIETO",
+              "equipo": "C.D.B. MORALZARZAL FUTSAL - TOOLYDO",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 25,
+              "jugador": "RAQUEL FERNANDEZ CHILOECHES",
+              "equipo": "C.D.B. MORALZARZAL FUTSAL - TOOLYDO",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 30,
+              "jugador": "SOFIA FERNANDEZ NIETO",
+              "equipo": "C.D.B. MORALZARZAL FUTSAL - TOOLYDO",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 34,
+              "jugador": "RAQUEL FERNANDEZ CHILOECHES",
+              "equipo": "C.D.B. MORALZARZAL FUTSAL - TOOLYDO",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 35,
+              "jugador": "CLARA OLMO HERNANDEZ",
+              "equipo": "C.D.B. MORALZARZAL FUTSAL - TOOLYDO",
+              "penalti": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 39,
+              "jugador": "SOFIA FERNANDEZ NIETO",
+              "equipo": "C.D.B. MORALZARZAL FUTSAL - TOOLYDO",
+              "penalti": false,
+              "lado": "visitante"
+            }
+          ],
+          "tarjetas": []
+        }
+      ]
+    },
+    {
+      "sabado": "2026-10-03",
+      "partidos": []
+    },
+    {
+      "sabado": "2026-10-10",
+      "partidos": []
+    },
+    {
+      "sabado": "2026-10-17",
+      "partidos": []
+    },
+    {
+      "sabado": "2026-10-24",
+      "partidos": []
+    },
+    {
+      "sabado": "2026-11-07",
+      "partidos": []
+    },
+    {
+      "sabado": "2026-11-14",
+      "partidos": []
     }
   ],
   "clasificaciones": [
@@ -284,6 +787,412 @@
       "equipo": "Futsala Villaverde A"
     },
     {
+      "titulo": "Primera División Autonómica Aficionado FS Grupo 1",
+      "jornada": 1,
+      "filas": [
+        {
+          "pos": 1,
+          "id": "21431859",
+          "nombre": "Athletic Mostoles B",
+          "nuestro": false,
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "gf": 4,
+          "gc": 0,
+          "dg": 4,
+          "pts": 3
+        },
+        {
+          "pos": 2,
+          "id": "18952209",
+          "nombre": "Colme Futsal",
+          "nuestro": false,
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "gf": 5,
+          "gc": 2,
+          "dg": 3,
+          "pts": 3
+        },
+        {
+          "pos": 3,
+          "id": "17210062",
+          "nombre": "Futsal Pinto-Grupo Egido",
+          "nuestro": false,
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "gf": 5,
+          "gc": 2,
+          "dg": 3,
+          "pts": 3
+        },
+        {
+          "pos": 4,
+          "id": "17151976",
+          "nombre": "Club C.F.S. el Alamo B",
+          "nuestro": false,
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "gf": 6,
+          "gc": 4,
+          "dg": 2,
+          "pts": 3
+        },
+        {
+          "pos": 5,
+          "id": "19361376",
+          "nombre": "San Jose de Valderas-Valderas F.S. A",
+          "nuestro": false,
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "gf": 5,
+          "gc": 4,
+          "dg": 1,
+          "pts": 3
+        },
+        {
+          "pos": 6,
+          "id": "21445298",
+          "nombre": "Andel-Centro Educativo",
+          "nuestro": false,
+          "pj": 1,
+          "g": 0,
+          "e": 1,
+          "p": 0,
+          "gf": 4,
+          "gc": 4,
+          "dg": 0,
+          "pts": 1
+        },
+        {
+          "pos": 7,
+          "id": "18456762",
+          "nombre": "Futsala Villaverde B",
+          "nuestro": true,
+          "pj": 1,
+          "g": 0,
+          "e": 1,
+          "p": 0,
+          "gf": 4,
+          "gc": 4,
+          "dg": 0,
+          "pts": 1
+        },
+        {
+          "pos": 8,
+          "id": "21476720",
+          "nombre": "Atletico Trabenco Zarzaquemada B",
+          "nuestro": false,
+          "pj": 1,
+          "g": 0,
+          "e": 1,
+          "p": 0,
+          "gf": 1,
+          "gc": 1,
+          "dg": 0,
+          "pts": 1
+        },
+        {
+          "pos": 9,
+          "id": "18728896",
+          "nombre": "Fuenlabrada Futbol Sala A",
+          "nuestro": false,
+          "pj": 1,
+          "g": 0,
+          "e": 1,
+          "p": 0,
+          "gf": 1,
+          "gc": 1,
+          "dg": 0,
+          "pts": 1
+        },
+        {
+          "pos": 10,
+          "id": "17145360",
+          "nombre": "Casco Antiguo Carabanchel B",
+          "nuestro": false,
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "gf": 4,
+          "gc": 5,
+          "dg": -1,
+          "pts": 0
+        },
+        {
+          "pos": 11,
+          "id": "21493878",
+          "nombre": "Club Escuela Deportiva Manila-Estrellas A",
+          "nuestro": false,
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "gf": 4,
+          "gc": 6,
+          "dg": -2,
+          "pts": 0
+        },
+        {
+          "pos": 12,
+          "id": "17156293",
+          "nombre": "Sporting las Aguilas de Madrid-Mercado las Aguilas B",
+          "nuestro": false,
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "gf": 2,
+          "gc": 5,
+          "dg": -3,
+          "pts": 0
+        },
+        {
+          "pos": 13,
+          "id": "21684391",
+          "nombre": "Winter Squad",
+          "nuestro": false,
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "gf": 2,
+          "gc": 5,
+          "dg": -3,
+          "pts": 0
+        },
+        {
+          "pos": 14,
+          "id": "18583719",
+          "nombre": "Escuela Deportiva Brunete",
+          "nuestro": false,
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "gf": 0,
+          "gc": 4,
+          "dg": -4,
+          "pts": 0
+        }
+      ],
+      "equipo": "Futsala Villaverde B"
+    },
+    {
+      "titulo": "Primera División Autonómica Femenino FS Grupo Único",
+      "jornada": 1,
+      "filas": [
+        {
+          "pos": 1,
+          "id": "18694124",
+          "nombre": "Futsala Villaverde",
+          "nuestro": true,
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "gf": 7,
+          "gc": 0,
+          "dg": 7,
+          "pts": 3
+        },
+        {
+          "pos": 2,
+          "id": "24236688",
+          "nombre": "F.S.F. Mostoles B",
+          "nuestro": false,
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "gf": 6,
+          "gc": 0,
+          "dg": 6,
+          "pts": 3
+        },
+        {
+          "pos": 3,
+          "id": "18378875",
+          "nombre": "F.S. Diagonal A",
+          "nuestro": false,
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "gf": 4,
+          "gc": 1,
+          "dg": 3,
+          "pts": 3
+        },
+        {
+          "pos": 4,
+          "id": "17148272",
+          "nombre": "Ad Collado-Villalba-Cobiosa A",
+          "nuestro": false,
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "gf": 3,
+          "gc": 0,
+          "dg": 3,
+          "pts": 3
+        },
+        {
+          "pos": 5,
+          "id": "17149226",
+          "nombre": "Alcorcon Fsf C",
+          "nuestro": false,
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "gf": 3,
+          "gc": 1,
+          "dg": 2,
+          "pts": 3
+        },
+        {
+          "pos": 6,
+          "id": "17148711",
+          "nombre": "Club Futbol Sala Femenino San Fernando B",
+          "nuestro": false,
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "gf": 2,
+          "gc": 0,
+          "dg": 2,
+          "pts": 3
+        },
+        {
+          "pos": 7,
+          "id": "17149523",
+          "nombre": "Futsi Atletico Navalcarnero-Frozen C",
+          "nuestro": false,
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "gf": 2,
+          "gc": 1,
+          "dg": 1,
+          "pts": 3
+        },
+        {
+          "pos": 8,
+          "id": "18405554",
+          "nombre": "Leganes F.S. Masdeporte B",
+          "nuestro": false,
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "gf": 1,
+          "gc": 2,
+          "dg": -1,
+          "pts": 0
+        },
+        {
+          "pos": 9,
+          "id": "21476536",
+          "nombre": "Agrupacion Auto-Escuela Simancas",
+          "nuestro": false,
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "gf": 1,
+          "gc": 3,
+          "dg": -2,
+          "pts": 0
+        },
+        {
+          "pos": 10,
+          "id": "18456455",
+          "nombre": "Cfs Artilleros Moratalaz",
+          "nuestro": false,
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "gf": 0,
+          "gc": 2,
+          "dg": -2,
+          "pts": 0
+        },
+        {
+          "pos": 11,
+          "id": "18406052",
+          "nombre": "El Valle A",
+          "nuestro": false,
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "gf": 1,
+          "gc": 4,
+          "dg": -3,
+          "pts": 0
+        },
+        {
+          "pos": 12,
+          "id": "17145541",
+          "nombre": "Torrejon Sala Five Play- Dominos Pizza",
+          "nuestro": false,
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "gf": 0,
+          "gc": 3,
+          "dg": -3,
+          "pts": 0
+        },
+        {
+          "pos": 13,
+          "id": "18730009",
+          "nombre": "Alaro Deportiva A",
+          "nuestro": false,
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "gf": 0,
+          "gc": 6,
+          "dg": -6,
+          "pts": 0
+        },
+        {
+          "pos": 14,
+          "id": "21430669",
+          "nombre": "Moralzarzal Futsal-Toolydo",
+          "nuestro": false,
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "gf": 0,
+          "gc": 7,
+          "dg": -7,
+          "pts": 0
+        }
+      ],
+      "equipo": "Futsala Villaverde"
+    },
+    {
       "titulo": "Primera División Autonómica Juvenil FS Grupo Único",
       "jornada": 2,
       "filas": [
@@ -513,209 +1422,6 @@
         }
       ],
       "equipo": "Futsala Villaverde A"
-    },
-    {
-      "titulo": "Primera División Autonómica Femenino FS Grupo Único",
-      "jornada": 1,
-      "filas": [
-        {
-          "pos": 1,
-          "id": "18694124",
-          "nombre": "Futsala Villaverde",
-          "nuestro": true,
-          "pj": 1,
-          "g": 1,
-          "e": 0,
-          "p": 0,
-          "gf": 7,
-          "gc": 0,
-          "dg": 7,
-          "pts": 3
-        },
-        {
-          "pos": 2,
-          "id": "24236688",
-          "nombre": "F.S.F. Mostoles B",
-          "nuestro": false,
-          "pj": 1,
-          "g": 1,
-          "e": 0,
-          "p": 0,
-          "gf": 6,
-          "gc": 0,
-          "dg": 6,
-          "pts": 3
-        },
-        {
-          "pos": 3,
-          "id": "18378875",
-          "nombre": "F.S. Diagonal A",
-          "nuestro": false,
-          "pj": 1,
-          "g": 1,
-          "e": 0,
-          "p": 0,
-          "gf": 4,
-          "gc": 1,
-          "dg": 3,
-          "pts": 3
-        },
-        {
-          "pos": 4,
-          "id": "17148272",
-          "nombre": "Ad Collado-Villalba-Cobiosa A",
-          "nuestro": false,
-          "pj": 1,
-          "g": 1,
-          "e": 0,
-          "p": 0,
-          "gf": 3,
-          "gc": 0,
-          "dg": 3,
-          "pts": 3
-        },
-        {
-          "pos": 5,
-          "id": "17149226",
-          "nombre": "Alcorcon Fsf C",
-          "nuestro": false,
-          "pj": 1,
-          "g": 1,
-          "e": 0,
-          "p": 0,
-          "gf": 3,
-          "gc": 1,
-          "dg": 2,
-          "pts": 3
-        },
-        {
-          "pos": 6,
-          "id": "17148711",
-          "nombre": "Club Futbol Sala Femenino San Fernando B",
-          "nuestro": false,
-          "pj": 1,
-          "g": 1,
-          "e": 0,
-          "p": 0,
-          "gf": 2,
-          "gc": 0,
-          "dg": 2,
-          "pts": 3
-        },
-        {
-          "pos": 7,
-          "id": "17149523",
-          "nombre": "Futsi Atletico Navalcarnero-Frozen C",
-          "nuestro": false,
-          "pj": 1,
-          "g": 1,
-          "e": 0,
-          "p": 0,
-          "gf": 2,
-          "gc": 1,
-          "dg": 1,
-          "pts": 3
-        },
-        {
-          "pos": 8,
-          "id": "18405554",
-          "nombre": "Leganes F.S. Masdeporte B",
-          "nuestro": false,
-          "pj": 1,
-          "g": 0,
-          "e": 0,
-          "p": 1,
-          "gf": 1,
-          "gc": 2,
-          "dg": -1,
-          "pts": 0
-        },
-        {
-          "pos": 9,
-          "id": "21476536",
-          "nombre": "Agrupacion Auto-Escuela Simancas",
-          "nuestro": false,
-          "pj": 1,
-          "g": 0,
-          "e": 0,
-          "p": 1,
-          "gf": 1,
-          "gc": 3,
-          "dg": -2,
-          "pts": 0
-        },
-        {
-          "pos": 10,
-          "id": "18456455",
-          "nombre": "Cfs Artilleros Moratalaz",
-          "nuestro": false,
-          "pj": 1,
-          "g": 0,
-          "e": 0,
-          "p": 1,
-          "gf": 0,
-          "gc": 2,
-          "dg": -2,
-          "pts": 0
-        },
-        {
-          "pos": 11,
-          "id": "18406052",
-          "nombre": "El Valle A",
-          "nuestro": false,
-          "pj": 1,
-          "g": 0,
-          "e": 0,
-          "p": 1,
-          "gf": 1,
-          "gc": 4,
-          "dg": -3,
-          "pts": 0
-        },
-        {
-          "pos": 12,
-          "id": "17145541",
-          "nombre": "Torrejon Sala Five Play- Dominos Pizza",
-          "nuestro": false,
-          "pj": 1,
-          "g": 0,
-          "e": 0,
-          "p": 1,
-          "gf": 0,
-          "gc": 3,
-          "dg": -3,
-          "pts": 0
-        },
-        {
-          "pos": 13,
-          "id": "18730009",
-          "nombre": "Alaro Deportiva A",
-          "nuestro": false,
-          "pj": 1,
-          "g": 0,
-          "e": 0,
-          "p": 1,
-          "gf": 0,
-          "gc": 6,
-          "dg": -6,
-          "pts": 0
-        },
-        {
-          "pos": 14,
-          "id": "21430669",
-          "nombre": "Moralzarzal Futsal-Toolydo",
-          "nuestro": false,
-          "pj": 1,
-          "g": 0,
-          "e": 0,
-          "p": 1,
-          "gf": 0,
-          "gc": 7,
-          "dg": -7,
-          "pts": 0
-        }
-      ],
-      "equipo": "Futsala Villaverde"
     },
     {
       "titulo": "Alevín 1ª Fase FS Grupo 4",
@@ -1012,410 +1718,11 @@
       "equipo": "Futsala Villaverde"
     },
     {
-      "titulo": "Primera División Autonómica Aficionado FS Grupo 1",
-      "jornada": 1,
-      "filas": [
-        {
-          "pos": 1,
-          "id": "21431859",
-          "nombre": "Athletic Mostoles B",
-          "nuestro": false,
-          "pj": 1,
-          "g": 1,
-          "e": 0,
-          "p": 0,
-          "gf": 4,
-          "gc": 0,
-          "dg": 4,
-          "pts": 3
-        },
-        {
-          "pos": 2,
-          "id": "18952209",
-          "nombre": "Colme Futsal",
-          "nuestro": false,
-          "pj": 1,
-          "g": 1,
-          "e": 0,
-          "p": 0,
-          "gf": 5,
-          "gc": 2,
-          "dg": 3,
-          "pts": 3
-        },
-        {
-          "pos": 3,
-          "id": "17210062",
-          "nombre": "Futsal Pinto-Grupo Egido",
-          "nuestro": false,
-          "pj": 1,
-          "g": 1,
-          "e": 0,
-          "p": 0,
-          "gf": 5,
-          "gc": 2,
-          "dg": 3,
-          "pts": 3
-        },
-        {
-          "pos": 4,
-          "id": "17151976",
-          "nombre": "Club C.F.S. el Alamo B",
-          "nuestro": false,
-          "pj": 1,
-          "g": 1,
-          "e": 0,
-          "p": 0,
-          "gf": 6,
-          "gc": 4,
-          "dg": 2,
-          "pts": 3
-        },
-        {
-          "pos": 5,
-          "id": "19361376",
-          "nombre": "San Jose de Valderas-Valderas F.S. A",
-          "nuestro": false,
-          "pj": 1,
-          "g": 1,
-          "e": 0,
-          "p": 0,
-          "gf": 5,
-          "gc": 4,
-          "dg": 1,
-          "pts": 3
-        },
-        {
-          "pos": 6,
-          "id": "21445298",
-          "nombre": "Andel-Centro Educativo",
-          "nuestro": false,
-          "pj": 1,
-          "g": 0,
-          "e": 1,
-          "p": 0,
-          "gf": 4,
-          "gc": 4,
-          "dg": 0,
-          "pts": 1
-        },
-        {
-          "pos": 7,
-          "id": "18456762",
-          "nombre": "Futsala Villaverde B",
-          "nuestro": true,
-          "pj": 1,
-          "g": 0,
-          "e": 1,
-          "p": 0,
-          "gf": 4,
-          "gc": 4,
-          "dg": 0,
-          "pts": 1
-        },
-        {
-          "pos": 8,
-          "id": "21476720",
-          "nombre": "Atletico Trabenco Zarzaquemada B",
-          "nuestro": false,
-          "pj": 1,
-          "g": 0,
-          "e": 1,
-          "p": 0,
-          "gf": 1,
-          "gc": 1,
-          "dg": 0,
-          "pts": 1
-        },
-        {
-          "pos": 9,
-          "id": "18728896",
-          "nombre": "Fuenlabrada Futbol Sala A",
-          "nuestro": false,
-          "pj": 1,
-          "g": 0,
-          "e": 1,
-          "p": 0,
-          "gf": 1,
-          "gc": 1,
-          "dg": 0,
-          "pts": 1
-        },
-        {
-          "pos": 10,
-          "id": "17145360",
-          "nombre": "Casco Antiguo Carabanchel B",
-          "nuestro": false,
-          "pj": 1,
-          "g": 0,
-          "e": 0,
-          "p": 1,
-          "gf": 4,
-          "gc": 5,
-          "dg": -1,
-          "pts": 0
-        },
-        {
-          "pos": 11,
-          "id": "21493878",
-          "nombre": "Club Escuela Deportiva Manila-Estrellas A",
-          "nuestro": false,
-          "pj": 1,
-          "g": 0,
-          "e": 0,
-          "p": 1,
-          "gf": 4,
-          "gc": 6,
-          "dg": -2,
-          "pts": 0
-        },
-        {
-          "pos": 12,
-          "id": "17156293",
-          "nombre": "Sporting las Aguilas de Madrid-Mercado las Aguilas B",
-          "nuestro": false,
-          "pj": 1,
-          "g": 0,
-          "e": 0,
-          "p": 1,
-          "gf": 2,
-          "gc": 5,
-          "dg": -3,
-          "pts": 0
-        },
-        {
-          "pos": 13,
-          "id": "21684391",
-          "nombre": "Winter Squad",
-          "nuestro": false,
-          "pj": 1,
-          "g": 0,
-          "e": 0,
-          "p": 1,
-          "gf": 2,
-          "gc": 5,
-          "dg": -3,
-          "pts": 0
-        },
-        {
-          "pos": 14,
-          "id": "18583719",
-          "nombre": "Escuela Deportiva Brunete",
-          "nuestro": false,
-          "pj": 1,
-          "g": 0,
-          "e": 0,
-          "p": 1,
-          "gf": 0,
-          "gc": 4,
-          "dg": -4,
-          "pts": 0
-        }
-      ],
-      "equipo": "Futsala Villaverde B"
-    },
-    {
-      "titulo": "Primera Juvenil FS Grupo 5",
-      "jornada": 1,
-      "filas": [
-        {
-          "pos": 1,
-          "id": "22510184",
-          "nombre": "La Villa Mostoles B",
-          "nuestro": false,
-          "pj": 0,
-          "g": 0,
-          "e": 0,
-          "p": 0,
-          "gf": 0,
-          "gc": 0,
-          "dg": 0,
-          "pts": 0
-        },
-        {
-          "pos": 2,
-          "id": "18949928",
-          "nombre": "Andres Segovia-Mostoles",
-          "nuestro": false,
-          "pj": 0,
-          "g": 0,
-          "e": 0,
-          "p": 0,
-          "gf": 0,
-          "gc": 0,
-          "dg": 0,
-          "pts": 0
-        },
-        {
-          "pos": 3,
-          "id": "26884014",
-          "nombre": "Fuenlabrada Futbol Sala (FS) B",
-          "nuestro": false,
-          "pj": 0,
-          "g": 0,
-          "e": 0,
-          "p": 0,
-          "gf": 0,
-          "gc": 0,
-          "dg": 0,
-          "pts": 0
-        },
-        {
-          "pos": 4,
-          "id": "22071510",
-          "nombre": "Intersala Mostoles",
-          "nuestro": false,
-          "pj": 0,
-          "g": 0,
-          "e": 0,
-          "p": 0,
-          "gf": 0,
-          "gc": 0,
-          "dg": 0,
-          "pts": 0
-        },
-        {
-          "pos": 5,
-          "id": "27296547",
-          "nombre": "Oroquieta-Espinillo B",
-          "nuestro": false,
-          "pj": 0,
-          "g": 0,
-          "e": 0,
-          "p": 0,
-          "gf": 0,
-          "gc": 0,
-          "dg": 0,
-          "pts": 0
-        },
-        {
-          "pos": 6,
-          "id": "18637528",
-          "nombre": "Pinar de San Jose-Alcorcon B",
-          "nuestro": false,
-          "pj": 0,
-          "g": 0,
-          "e": 0,
-          "p": 0,
-          "gf": 0,
-          "gc": 0,
-          "dg": 0,
-          "pts": 0
-        },
-        {
-          "pos": 7,
-          "id": "19361375",
-          "nombre": "San Jose de Valderas-Valderas F.S. B",
-          "nuestro": false,
-          "pj": 0,
-          "g": 0,
-          "e": 0,
-          "p": 0,
-          "gf": 0,
-          "gc": 0,
-          "dg": 0,
-          "pts": 0
-        },
-        {
-          "pos": 8,
-          "id": "18627864",
-          "nombre": "C.S.D. Parque de Lisboa Futsal",
-          "nuestro": false,
-          "pj": 0,
-          "g": 0,
-          "e": 0,
-          "p": 0,
-          "gf": 0,
-          "gc": 0,
-          "dg": 0,
-          "pts": 0
-        },
-        {
-          "pos": 9,
-          "id": "18921921",
-          "nombre": "E.F.S. Humanes B",
-          "nuestro": false,
-          "pj": 0,
-          "g": 0,
-          "e": 0,
-          "p": 0,
-          "gf": 0,
-          "gc": 0,
-          "dg": 0,
-          "pts": 0
-        },
-        {
-          "pos": 10,
-          "id": "26752417",
-          "nombre": "Mostoles Sur FS (FS)",
-          "nuestro": false,
-          "pj": 0,
-          "g": 0,
-          "e": 0,
-          "p": 0,
-          "gf": 0,
-          "gc": 0,
-          "dg": 0,
-          "pts": 0
-        },
-        {
-          "pos": 11,
-          "id": "27275488",
-          "nombre": "Sport Latina-Em Aluche FS",
-          "nuestro": false,
-          "pj": 0,
-          "g": 0,
-          "e": 0,
-          "p": 0,
-          "gf": 0,
-          "gc": 0,
-          "dg": 0,
-          "pts": 0
-        },
-        {
-          "pos": 12,
-          "id": "24772220",
-          "nombre": "F.S. Diagonal C",
-          "nuestro": false,
-          "pj": 0,
-          "g": 0,
-          "e": 0,
-          "p": 0,
-          "gf": 0,
-          "gc": 0,
-          "dg": 0,
-          "pts": 0
-        },
-        {
-          "pos": 13,
-          "id": "27561905",
-          "nombre": "Futsal Pinto (FS) B",
-          "nuestro": false,
-          "pj": 0,
-          "g": 0,
-          "e": 0,
-          "p": 0,
-          "gf": 0,
-          "gc": 0,
-          "dg": 0,
-          "pts": 0
-        },
-        {
-          "pos": 14,
-          "id": "21727163",
-          "nombre": "Futsala Villaverde B",
-          "nuestro": true,
-          "pj": 0,
-          "g": 0,
-          "e": 0,
-          "p": 0,
-          "gf": 0,
-          "gc": 0,
-          "dg": 0,
-          "pts": 0
-        }
-      ],
-      "equipo": "Futsala Villaverde B"
+      "titulo": "Primera Juvenil Sala",
+      "jornada": null,
+      "filas": [],
+      "equipo": "Futsala Villaverde B",
+      "pendiente": true
     }
   ]
 }
