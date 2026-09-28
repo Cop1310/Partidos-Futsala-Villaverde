@@ -20,6 +20,7 @@ Resultado: se imprime por pantalla y se guarda en partidos_whatsapp.txt
 (con --json también se guarda en JSON para la página web de GitHub Pages)
 """
 import argparse
+import copy
 import json
 import re
 import sys
@@ -304,22 +305,76 @@ def parsear_jornada(soup):
 
 
 # ---------------------------------------------------------------------------
-# Goleadores y tarjetas de un acta ya jugada. Igual que en la app de Infantil A (probado allí
-# contra partidos reales): busca patrones de texto ("N' Nombre del jugador" cerca de un rótulo
-# de gol o tarjeta) en vez de posiciones fijas. Si no encuentra nada reconocible, devuelve
-# listas vacías en vez de arriesgarse a publicar un dato equivocado.
+# Goleadores y tarjetas de un acta ya jugada.
+#
+# Esto ya NO se basa en adivinar patrones de texto: se ha inspeccionado el HTML real que
+# guarda el navegador de una acta ya jugada (partido Club Arganda Futsal A 4-5 Futsala
+# Villaverde A, Juvenil J2, comprobado a mano por César el 28/09/2026) y la estructura es
+# siempre esta:
+#
+#   - El nombre de cada equipo (enlace <a href="/equipo/ID">) NO se repite junto a cada gol
+#     o tarjeta: en toda la página solo aparece 2 veces, en la cabecera del marcador (el
+#     primer enlace es el equipo LOCAL, el segundo el VISITANTE).
+#   - Las secciones "Goles" y "Tarjetas" son, cada una, un <h2> seguido de un <div> de DOS
+#     columnas (una rejilla de 2 columnas): la primera es la del equipo local y la segunda
+#     la del visitante (mismo orden que la cabecera). Cada columna es un <ul> con un <li>
+#     por gol/tarjeta, o un simple "—" cuando ese equipo no tiene ninguno en esa sección.
+#   - Cada <li> de gol trae el minuto y, en un enlace, el nombre del jugador.
+#   - Cada <li> de tarjeta trae el minuto, uno o dos iconos (con aria-label indicando si es
+#     amarilla, roja o "segunda amarilla y expulsión") y el nombre del jugador.
+#
+# El método anterior (ir guardando el último nombre de equipo visto en el texto, según se
+# iba leyendo la página de arriba a abajo) es el que causaba que TODOS los goles y tarjetas
+# del partido salieran atribuidos a un único equipo: como el nombre de equipo solo aparece
+# una vez cada uno y muy lejos (al principio de la página) de las listas de goles/tarjetas,
+# ese "último equipo visto" se quedaba fijo en el segundo (visitante) durante toda la
+# lectura. Ahora se usa directamente la columna a la que pertenece cada <li>, así que no
+# hace falta adivinar nada.
+#
+# IMPORTANTE: `normalizar()` (más abajo) deshace los <span> de toda la página para poder
+# leerla como texto plano, y eso destruye justo la estructura que se necesita aquí (los
+# <span> del minuto y de los iconos de tarjeta). Por eso esta función NO debe recibir un
+# soup que ya haya pasado por `normalizar()` (por ejemplo, el que ya haya usado
+# `datos_de_acta`): quien la llame debe pasarle una copia del soup tal cual se descargó.
 # ---------------------------------------------------------------------------
-_RE_MINUTO_SOLO = re.compile(r"^(\d{1,3})['’]$")
-_RE_MINUTO_CON_NOMBRE = re.compile(r"^(\d{1,3})['’]\s*(.+)$")
 _RE_PENALTI = re.compile(r"penalt", re.IGNORECASE)
-_RE_TARJETA_ROJA = re.compile(r"\broja\b", re.IGNORECASE)
+# una tarjeta cuenta como "roja" tanto si es roja directa como si es una segunda amarilla con
+# expulsión (el icono de "segunda amarilla y expulsión" incluye un cuadro rojo y la palabra
+# "expulsión" en su título, aunque el texto visible del jugador solo diga "amarilla").
+_RE_TARJETA_ROJA = re.compile(r"roja|expulsi[oó]n", re.IGNORECASE)
+
+
+def _texto_o_vacio(nodo):
+    return nodo.get_text(" ", strip=True) if nodo is not None else ""
+
+
+def _columnas_de_seccion(soup, titulo):
+    """Busca la sección <h2>titulo</h2> (Goles o Tarjetas) y devuelve (columna_local,
+    columna_visitante), cada una la lista de <li> de esa columna. Si la página no tiene la
+    forma esperada (dos columnas justo después del título), devuelve ([], []) para no
+    arriesgarse a leer mal los datos."""
+    h2 = soup.find("h2", string=lambda s: bool(s) and s.strip().lower() == titulo)
+    if h2 is None:
+        return [], []
+    contenedor = h2.find_next_sibling()
+    if contenedor is None:
+        return [], []
+    columnas = contenedor.find_all(recursive=False)
+    if len(columnas) != 2:
+        return [], []
+
+    def items(col):
+        return col.find_all("li", recursive=False) if col.name == "ul" else []
+
+    return items(columnas[0]), items(columnas[1])
 
 
 def goles_y_tarjetas_de_acta(soup, marcador=None):
     """(goles, tarjetas) de un acta ya jugada. Cada gol: {minuto, jugador, equipo,
     penalti}; cada tarjeta: {minuto, jugador, equipo, tipo}. `equipo` es el nombre
-    de equipo tal como aparece en el acta (sin limpiar todavía)."""
-    normalizar(soup)
+    de equipo tal como aparece en el acta (sin limpiar todavía).
+
+    `soup` debe ser una copia del acta SIN pasar por `normalizar()` (ver aviso arriba)."""
     nombres_equipo, vistos = [], set()
     for a in soup.find_all("a", href=re.compile(r"/equipo/\d+")):
         nombre = a.get_text(" ", strip=True)
@@ -328,61 +383,47 @@ def goles_y_tarjetas_de_acta(soup, marcador=None):
             nombres_equipo.append(nombre)
     if len(nombres_equipo) < 2:
         return [], []
-    nombres_equipo = nombres_equipo[:2]
-    # los nombres más largos primero, para no confundir un nombre corto que sea
-    # subcadena de otro más largo
-    por_longitud = sorted(nombres_equipo, key=len, reverse=True)
-
-    textos = [t.strip() for t in soup.find_all(string=True)
-              if t.parent is not None and t.parent.name not in ("script", "style") and t.strip()]
+    equipo_local, equipo_visitante = nombres_equipo[0], nombres_equipo[1]
 
     goles, tarjetas = [], []
-    equipo_actual, seccion = None, None
-    for i, t in enumerate(textos):
-        if t in por_longitud:
-            equipo_actual = t
-            continue
-        tl = t.lower()
-        if len(t) < 30 and re.search(r"\bgole?s?\b", tl):
-            seccion = "goles"
-            continue
-        if len(t) < 30 and re.search(r"tarjeta|amonesta", tl):
-            seccion = "tarjetas"
-            continue
-        if equipo_actual is None or seccion is None:
-            continue
-        m = _RE_MINUTO_CON_NOMBRE.match(t)
-        jugador = None
-        if m and m.group(2).strip():
-            minuto, jugador = int(m.group(1)), m.group(2).strip()
-        elif _RE_MINUTO_SOLO.match(t):
-            minuto = int(_RE_MINUTO_SOLO.match(t).group(1))
-            siguiente = textos[i + 1].strip() if i + 1 < len(textos) else ""
-            if siguiente and not _RE_MINUTO_SOLO.match(siguiente) and siguiente not in por_longitud:
-                jugador = siguiente
-        else:
-            continue
-        if not jugador:
-            continue
-        jugador = re.sub(r"\s*\([^)]*\)\s*", "", jugador).strip(" .")
-        # a veces el rótulo de penalti/tarjeta viene pegado al final del mismo texto
-        # ("Nombre penalti", "Nombre amarilla"): se recorta antes de guardar el nombre.
-        jugador = re.sub(r"\s*[-–(]?\s*(penalt[ií]?\w*|amonestaci[oó]n|tarjetas?|amarillas?|"
-                         r"rojas?|segunda\s+amarilla)\)?\s*$", "", jugador, flags=re.IGNORECASE).strip(" .")
-        if not jugador or len(jugador) > 60:
-            continue
-        if seccion == "goles":
-            goles.append({"minuto": minuto, "jugador": jugador, "equipo": equipo_actual,
-                          "penalti": bool(_RE_PENALTI.search(t))})
-        else:
-            tipo = "roja" if _RE_TARJETA_ROJA.search(tl) else "amarilla"
-            tarjetas.append({"minuto": minuto, "jugador": jugador, "equipo": equipo_actual, "tipo": tipo})
+
+    col_local, col_visitante = _columnas_de_seccion(soup, "goles")
+    for equipo, columna in ((equipo_local, col_local), (equipo_visitante, col_visitante)):
+        for li in columna:
+            m = re.search(r"\d+", _texto_o_vacio(li.find("span")))
+            a = li.find("a")
+            jugador = _texto_o_vacio(a)
+            if not m or not jugador:
+                continue
+            goles.append({"minuto": int(m.group()), "jugador": jugador, "equipo": equipo,
+                          "penalti": bool(_RE_PENALTI.search(_texto_o_vacio(li)))})
+
+    col_local, col_visitante = _columnas_de_seccion(soup, "tarjetas")
+    for equipo, columna in ((equipo_local, col_local), (equipo_visitante, col_visitante)):
+        for li in columna:
+            m = re.search(r"\d+", _texto_o_vacio(li.find("span")))
+            a = li.find("a")
+            jugador = _texto_o_vacio(a)
+            if not m or not jugador:
+                continue
+            # el icono de "segunda amarilla y expulsión" pinta un cuadro amarillo y otro rojo,
+            # pero el rojo va sin aria-label (aria-hidden="true"); por eso se mira también la
+            # clase CSS (bg-tarjeta-roja) y el título ("expulsión"), no solo el aria-label.
+            pistas = []
+            for s in li.find_all("span"):
+                if s.get("title"):
+                    pistas.append(s.get("title"))
+                if s.get("aria-label"):
+                    pistas.append(s.get("aria-label"))
+                pistas.append(" ".join(s.get("class", [])))
+            tipo = "roja" if _RE_TARJETA_ROJA.search(" ".join(pistas)) else "amarilla"
+            tarjetas.append({"minuto": int(m.group()), "jugador": jugador, "equipo": equipo, "tipo": tipo})
 
     if marcador is not None:
         esperados = sum(marcador)
         if esperados and len(goles) != esperados:
             print(f"Aviso: acta con marcador {marcador[0]}-{marcador[1]} pero se han "
-                  f"reconocido {len(goles)} goles en el texto — revisar el patrón de lectura.",
+                  f"reconocido {len(goles)} goles en la web — revisar el patrón de lectura.",
                   file=sys.stderr)
     return goles, tarjetas
 
@@ -638,6 +679,10 @@ def completar_con_actas(estado, errores):
     for e in pendientes[:25]:
         try:
             soup = get(e["acta"])
+            # goles_y_tarjetas_de_acta necesita el soup tal cual, sin pasar por normalizar()
+            # (que deshace los <span> del minuto y de los iconos de tarjeta), así que se
+            # guarda una copia intacta ANTES de que datos_de_acta lo normalice.
+            soup_crudo = copy.deepcopy(soup)
             marcador, hora = datos_de_acta(soup)
         except Exception as ex:
             print(f"Aviso: no se pudo leer un acta: {ex}", file=sys.stderr)
@@ -648,7 +693,7 @@ def completar_con_actas(estado, errores):
             e["hora"] = hora
         if e.get("resultado") and not e.get("goles"):
             try:
-                goles, tarjetas = goles_y_tarjetas_de_acta(soup, tuple(e["resultado"]))
+                goles, tarjetas = goles_y_tarjetas_de_acta(soup_crudo, tuple(e["resultado"]))
                 # solo se guarda si de verdad se ha encontrado algo: el acta puede tener ya el
                 # marcador pero todavía no la sección de goles/tarjetas (el árbitro puede
                 # rellenar el acta por partes), así que si sale vacío se reintenta en la
