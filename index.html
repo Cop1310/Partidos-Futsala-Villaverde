@@ -401,20 +401,21 @@
 
   function golesHtml(detalle) {
     if (!detalle || (!detalle.goles.length && !detalle.tarjetas.length)) return "";
-    function porLado(lado) {
-      var g = detalle.goles.filter(function (x) { return x.lado === lado; })
-        .sort(function (a, b) { return a.minuto - b.minuto; });
-      if (!g.length) return "";
-      var nombre = lado === "local" ? detalle.local : detalle.visitante;
-      var lineas = g.map(function (x) {
-        var clase = "gol-linea" + (esNuestro(nombre) ? " nuestro" : "");
-        return '<span class="' + clase + '">⚽ ' + x.minuto + "' " + escapar(x.jugador) + (x.penalti ? " (penalti)" : "") + "</span>";
+    // Goles y tarjetas se muestran cada uno en su propio bloque, ordenados por minuto de
+    // partido (no agrupados primero-local-luego-visitante), con el nombre del equipo en cada
+    // línea para saber de quién es cada evento -igual que se ve en la app oficial (matchapp).
+    function golesOrdenados() {
+      if (!detalle.goles.length) return "";
+      var lineas = detalle.goles.slice().sort(function (a, b) { return a.minuto - b.minuto; }).map(function (x) {
+        var clase = "gol-linea" + (esNuestro(x.equipo) ? " nuestro" : "");
+        return '<span class="' + clase + '">⚽ ' + x.minuto + "' " + escapar(x.jugador) +
+          (x.penalti ? " (penalti)" : "") + " (" + escapar(x.equipo) + ")</span>";
       }).join("");
-      return '<div class="goles-lado"><b>' + escapar(nombre) + ":</b> " + lineas + "</div>";
+      return '<div class="goles-lado">' + lineas + "</div>";
     }
     function tarjetasHtml() {
       if (!detalle.tarjetas.length) return "";
-      var lineas = detalle.tarjetas.sort(function (a, b) { return a.minuto - b.minuto; }).map(function (x) {
+      var lineas = detalle.tarjetas.slice().sort(function (a, b) { return a.minuto - b.minuto; }).map(function (x) {
         var equipoLimpio = x.equipo.replace(/^C\.D\.\s*/, "");
         var clase = "tarjeta-linea" + (esNuestro(equipoLimpio) ? " nuestro" : "");
         return '<span class="' + clase + '"><span class="tarjeta-icono ' + x.tipo + '"></span>' +
@@ -422,7 +423,7 @@
       }).join("");
       return '<div class="goles-lado">' + lineas + "</div>";
     }
-    var cont = porLado("local") + porLado("visitante") + tarjetasHtml();
+    var cont = golesOrdenados() + tarjetasHtml();
     return cont ? '<div class="goles-caja">' + cont + "</div>" : "";
   }
 
