@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-29 06:54",
+  "generado": "2026-09-29 13:41",
   "desde": "2026-10-03",
   "hasta": "2026-10-04",
   "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 03/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *11:00h* - Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 1_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde_* - Colegio Abaco (FS) A\n\n⏰ *12:00h* - Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 1_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde_* - Futsal Pinto-Grupo Egido\n\n⏰ *19:00h* - Primera División Autonómica Femenino FS Grupo Único\n📌 _Jornada 2_\n📍 Pabellón: Polid. Colegio el Valle Sanchinarro\n⚽ *(11º)* El Valle A - *(1º)* *_Futsala Villaverde_*\n\n⏰ *19:45h* - Primera Juvenil FS Grupo 5\n📌 _Jornada 1_\n📍 Pabellón: Alcorcon - P.M. Santo Domingo Pista 6\n⚽ C.S.D. Parque de Lisboa Futsal - *_Futsala Villaverde B_*\n\n⏰ *20:00h* - Tercera División FS Grupo 3\n📌 _Jornada 3_\n📍 Pabellón: Alcorcon - P.M. M-4 Mª Jose Calero\n⚽ *(7º)* Pinar de San Jose-Alcorcon A - *(2º)* *_Futsala Villaverde A_*\n\n━━━━━━━━━━━━━━━━\n📅 *DOMINGO 04/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *15:30h* - Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 2_\n📍 Pabellón: Fuenlabrada - P.M. el Trigal\n⚽ *(13º)* Winter Squad - *(7º)* *_Futsala Villaverde B_*\n\n⏰ *18:30h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(3º)* *_Futsala Villaverde A_* - *(1º)* Futsala Pinto-Escuela Patri Chamorro A",
@@ -161,90 +161,90 @@
           ],
           "goles": [
             {
-              "minuto": 19,
-              "jugador": "ANGEL MINGUEZ PEREZ",
               "equipo": "C.D. LA VILLA MOSTOLES 'A'",
-              "penalti": false,
-              "lado": "local"
-            },
-            {
-              "minuto": 6,
-              "jugador": "ALVARO LORENZO FERNANDEZ",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
-              "penalti": false,
-              "lado": "visitante"
-            },
-            {
+              "jugador": "ANGEL MINGUEZ PEREZ",
+              "lado": "local",
               "minuto": 19,
-              "jugador": "JAVIER MARAÑÓN FERNÁNDEZ",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
-              "penalti": false,
-              "lado": "visitante"
+              "penalti": false
             },
             {
-              "minuto": 31,
-              "jugador": "JOSE CEBRIAN ROMERO",
               "equipo": "FUTSALA VILLAVERDE 'A'",
-              "penalti": false,
-              "lado": "visitante"
-            },
-            {
-              "minuto": 36,
-              "jugador": "JAVIER MARAÑÓN FERNÁNDEZ",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
-              "penalti": false,
-              "lado": "visitante"
-            },
-            {
-              "minuto": 38,
               "jugador": "ALVARO LORENZO FERNANDEZ",
+              "lado": "visitante",
+              "minuto": 6,
+              "penalti": false
+            },
+            {
               "equipo": "FUTSALA VILLAVERDE 'A'",
-              "penalti": false,
-              "lado": "visitante"
+              "jugador": "JAVIER MARAÑÓN FERNÁNDEZ",
+              "lado": "visitante",
+              "minuto": 19,
+              "penalti": false
+            },
+            {
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "jugador": "JOSE CEBRIAN ROMERO",
+              "lado": "visitante",
+              "minuto": 31,
+              "penalti": false
+            },
+            {
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "jugador": "JAVIER MARAÑÓN FERNÁNDEZ",
+              "lado": "visitante",
+              "minuto": 36,
+              "penalti": false
+            },
+            {
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "jugador": "ALVARO LORENZO FERNANDEZ",
+              "lado": "visitante",
+              "minuto": 38,
+              "penalti": false
             }
           ],
           "tarjetas": [
             {
-              "minuto": 2,
+              "equipo": "C.D. LA VILLA MOSTOLES 'A'",
               "jugador": "ANGEL MINGUEZ PEREZ",
-              "equipo": "C.D. LA VILLA MOSTOLES 'A'",
-              "tipo": "amarilla",
-              "lado": "local"
+              "lado": "local",
+              "minuto": 2,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 12,
+              "equipo": "C.D. LA VILLA MOSTOLES 'A'",
               "jugador": "ALEJANDRO HERNANDEZ CARRERA",
-              "equipo": "C.D. LA VILLA MOSTOLES 'A'",
-              "tipo": "amarilla",
-              "lado": "local"
+              "lado": "local",
+              "minuto": 12,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 16,
+              "equipo": "C.D. LA VILLA MOSTOLES 'A'",
               "jugador": "IKER MIRAVALLES FERNANDEZ",
-              "equipo": "C.D. LA VILLA MOSTOLES 'A'",
-              "tipo": "amarilla",
-              "lado": "local"
+              "lado": "local",
+              "minuto": 16,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 29,
+              "equipo": "C.D. LA VILLA MOSTOLES 'A'",
               "jugador": "JESUS SANCHEZ VIVIANO",
-              "equipo": "C.D. LA VILLA MOSTOLES 'A'",
-              "tipo": "amarilla",
-              "lado": "local"
+              "lado": "local",
+              "minuto": 29,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 28,
+              "equipo": "FUTSALA VILLAVERDE 'A'",
               "jugador": "JAVIER MARAÑÓN FERNÁNDEZ",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
-              "tipo": "amarilla",
-              "lado": "visitante"
+              "lado": "visitante",
+              "minuto": 28,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 33,
-              "jugador": "RUBEN DE SANTIAGO NIETO",
               "equipo": "FUTSALA VILLAVERDE 'A'",
-              "tipo": "amarilla",
-              "lado": "visitante"
+              "jugador": "RUBEN DE SANTIAGO NIETO",
+              "lado": "visitante",
+              "minuto": 33,
+              "tipo": "amarilla"
             }
           ]
         }
@@ -265,76 +265,76 @@
           ],
           "goles": [
             {
-              "minuto": 12,
+              "equipo": "FUTSALA VILLAVERDE 'A'",
               "jugador": "RUBEN RODRIGUEZ ORTIZ",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
-              "penalti": false,
-              "lado": "local"
+              "lado": "local",
+              "minuto": 12,
+              "penalti": false
             },
             {
-              "minuto": 34,
+              "equipo": "FUTSALA VILLAVERDE 'A'",
               "jugador": "YOUSSEF EL FTOUHI MUÑOZ",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
-              "penalti": false,
-              "lado": "local"
+              "lado": "local",
+              "minuto": 34,
+              "penalti": false
             },
             {
-              "minuto": 37,
+              "equipo": "FUTSALA VILLAVERDE 'A'",
               "jugador": "KRYSTIAN fraczyk",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
-              "penalti": false,
-              "lado": "local"
+              "lado": "local",
+              "minuto": 37,
+              "penalti": false
             },
             {
-              "minuto": 38,
+              "equipo": "FUTSALA VILLAVERDE 'A'",
               "jugador": "ALVARO LORENZO FERNANDEZ",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
-              "penalti": false,
-              "lado": "local"
+              "lado": "local",
+              "minuto": 38,
+              "penalti": false
             },
             {
-              "minuto": 39,
+              "equipo": "FUTSALA VILLAVERDE 'A'",
               "jugador": "MARIO GARCIA FRANCHO",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
-              "penalti": false,
-              "lado": "local"
-            },
-            {
-              "minuto": 22,
-              "jugador": "JESUS ELIAS NICOLAS",
-              "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
-              "penalti": false,
-              "lado": "visitante"
-            },
-            {
-              "minuto": 28,
-              "jugador": "SERGIO SANCHEZ AREVALO CALDERON",
-              "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
-              "penalti": false,
-              "lado": "visitante"
-            },
-            {
+              "lado": "local",
               "minuto": 39,
-              "jugador": "DAVID HERRERO TORRES",
+              "penalti": false
+            },
+            {
               "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
-              "penalti": false,
-              "lado": "visitante"
+              "jugador": "JESUS ELIAS NICOLAS",
+              "lado": "visitante",
+              "minuto": 22,
+              "penalti": false
+            },
+            {
+              "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
+              "jugador": "SERGIO SANCHEZ AREVALO CALDERON",
+              "lado": "visitante",
+              "minuto": 28,
+              "penalti": false
+            },
+            {
+              "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
+              "jugador": "DAVID HERRERO TORRES",
+              "lado": "visitante",
+              "minuto": 39,
+              "penalti": false
             }
           ],
           "tarjetas": [
             {
-              "minuto": 22,
-              "jugador": "ALEJANDRO JAVIER ALONSO LOPEZ-ADEVA",
               "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
-              "tipo": "amarilla",
-              "lado": "visitante"
+              "jugador": "ALEJANDRO JAVIER ALONSO LOPEZ-ADEVA",
+              "lado": "visitante",
+              "minuto": 22,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 31,
-              "jugador": "JULIAN ULLOA ULLOA",
               "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'A'",
-              "tipo": "amarilla",
-              "lado": "visitante"
+              "jugador": "JULIAN ULLOA ULLOA",
+              "lado": "visitante",
+              "minuto": 31,
+              "tipo": "amarilla"
             }
           ]
         },
@@ -350,97 +350,97 @@
           ],
           "goles": [
             {
+              "equipo": "CLUB ARGANDA FUTSAL 'A'",
+              "jugador": "ALEJANDRO MANRIQUE DE LA CALLE",
+              "lado": "local",
               "minuto": 15,
-              "jugador": "ALEJANDRO MANRIQUE DE LA CALLE",
-              "equipo": "CLUB ARGANDA FUTSAL 'A'",
-              "penalti": false,
-              "lado": "local"
+              "penalti": false
             },
             {
+              "equipo": "CLUB ARGANDA FUTSAL 'A'",
+              "jugador": "ALEJANDRO MANRIQUE DE LA CALLE",
+              "lado": "local",
               "minuto": 20,
-              "jugador": "ALEJANDRO MANRIQUE DE LA CALLE",
-              "equipo": "CLUB ARGANDA FUTSAL 'A'",
-              "penalti": false,
-              "lado": "local"
+              "penalti": false
             },
             {
-              "minuto": 28,
+              "equipo": "CLUB ARGANDA FUTSAL 'A'",
               "jugador": "CARLOS MUÑOZ MARCOS-ALBERCA",
-              "equipo": "CLUB ARGANDA FUTSAL 'A'",
-              "penalti": false,
-              "lado": "local"
+              "lado": "local",
+              "minuto": 28,
+              "penalti": false
             },
             {
-              "minuto": 39,
+              "equipo": "CLUB ARGANDA FUTSAL 'A'",
               "jugador": "ALEJANDRO MANRIQUE DE LA CALLE",
-              "equipo": "CLUB ARGANDA FUTSAL 'A'",
-              "penalti": false,
-              "lado": "local"
-            },
-            {
-              "minuto": 2,
-              "jugador": "ANTONIO TOROVICH ESCOBAR",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
-              "penalti": false,
-              "lado": "visitante"
-            },
-            {
-              "minuto": 23,
-              "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
-              "penalti": false,
-              "lado": "visitante"
-            },
-            {
-              "minuto": 34,
-              "jugador": "MIGUEL URREA JURADO",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
-              "penalti": false,
-              "lado": "visitante"
-            },
-            {
-              "minuto": 37,
-              "jugador": "ALVARO SABROSO GOMEZ",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
-              "penalti": false,
-              "lado": "visitante"
-            },
-            {
+              "lado": "local",
               "minuto": 39,
-              "jugador": "MIGUEL URREA JURADO",
+              "penalti": false
+            },
+            {
               "equipo": "FUTSALA VILLAVERDE 'A'",
-              "penalti": false,
-              "lado": "visitante"
+              "jugador": "ANTONIO TOROVICH ESCOBAR",
+              "lado": "visitante",
+              "minuto": 2,
+              "penalti": false
+            },
+            {
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+              "lado": "visitante",
+              "minuto": 23,
+              "penalti": false
+            },
+            {
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "jugador": "MIGUEL URREA JURADO",
+              "lado": "visitante",
+              "minuto": 34,
+              "penalti": false
+            },
+            {
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "jugador": "ALVARO SABROSO GOMEZ",
+              "lado": "visitante",
+              "minuto": 37,
+              "penalti": false
+            },
+            {
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "jugador": "MIGUEL URREA JURADO",
+              "lado": "visitante",
+              "minuto": 39,
+              "penalti": false
             }
           ],
           "tarjetas": [
             {
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "jugador": "ANTONIO TOROVICH ESCOBAR",
+              "lado": "visitante",
               "minuto": 20,
-              "jugador": "ANTONIO TOROVICH ESCOBAR",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
-              "tipo": "amarilla",
-              "lado": "visitante"
+              "tipo": "amarilla"
             },
             {
-              "minuto": 33,
+              "equipo": "FUTSALA VILLAVERDE 'A'",
               "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
-              "tipo": "amarilla",
-              "lado": "visitante"
+              "lado": "visitante",
+              "minuto": 33,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 37,
+              "equipo": "FUTSALA VILLAVERDE 'A'",
               "jugador": "DANIEL SANCHEZ MONGE",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
-              "tipo": "amarilla",
-              "lado": "visitante"
+              "lado": "visitante",
+              "minuto": 37,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 37,
-              "jugador": "ANTONIO TOROVICH ESCOBAR",
               "equipo": "FUTSALA VILLAVERDE 'A'",
-              "tipo": "roja",
-              "lado": "visitante"
+              "jugador": "ANTONIO TOROVICH ESCOBAR",
+              "lado": "visitante",
+              "minuto": 37,
+              "tipo": "roja"
             }
           ]
         },
@@ -456,90 +456,90 @@
           ],
           "goles": [
             {
-              "minuto": 8,
+              "equipo": "FUTSALA VILLAVERDE 'B'",
               "jugador": "MARIO GARCIA FRANCHO",
-              "equipo": "FUTSALA VILLAVERDE 'B'",
-              "penalti": false,
-              "lado": "local"
+              "lado": "local",
+              "minuto": 8,
+              "penalti": false
             },
             {
-              "minuto": 10,
+              "equipo": "FUTSALA VILLAVERDE 'B'",
               "jugador": "GONZALO ORTIZ PEÑA",
-              "equipo": "FUTSALA VILLAVERDE 'B'",
-              "penalti": false,
-              "lado": "local"
+              "lado": "local",
+              "minuto": 10,
+              "penalti": false
             },
             {
-              "minuto": 39,
+              "equipo": "FUTSALA VILLAVERDE 'B'",
               "jugador": "DOMINIK FRACZYK",
-              "equipo": "FUTSALA VILLAVERDE 'B'",
-              "penalti": false,
-              "lado": "local"
-            },
-            {
-              "minuto": 23,
-              "jugador": "PABLO SANCHEZ ALVAREZ",
-              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
-              "penalti": false,
-              "lado": "visitante"
-            },
-            {
-              "minuto": 23,
-              "jugador": "ALEJANDRO VARO ESTEBAN",
-              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
-              "penalti": false,
-              "lado": "visitante"
-            },
-            {
-              "minuto": 24,
-              "jugador": "ALEJANDRO VARO ESTEBAN",
-              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
-              "penalti": false,
-              "lado": "visitante"
-            },
-            {
-              "minuto": 38,
-              "jugador": "ALBERTO MESSIA DE LA CERDA ALVAREZ",
-              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
-              "penalti": false,
-              "lado": "visitante"
-            },
-            {
+              "lado": "local",
               "minuto": 39,
-              "jugador": "ALEJANDRO VARO ESTEBAN",
+              "penalti": false
+            },
+            {
               "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
-              "penalti": false,
-              "lado": "visitante"
+              "jugador": "PABLO SANCHEZ ALVAREZ",
+              "lado": "visitante",
+              "minuto": 23,
+              "penalti": false
+            },
+            {
+              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+              "jugador": "ALEJANDRO VARO ESTEBAN",
+              "lado": "visitante",
+              "minuto": 23,
+              "penalti": false
+            },
+            {
+              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+              "jugador": "ALEJANDRO VARO ESTEBAN",
+              "lado": "visitante",
+              "minuto": 24,
+              "penalti": false
+            },
+            {
+              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+              "jugador": "ALBERTO MESSIA DE LA CERDA ALVAREZ",
+              "lado": "visitante",
+              "minuto": 38,
+              "penalti": false
+            },
+            {
+              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
+              "jugador": "ALEJANDRO VARO ESTEBAN",
+              "lado": "visitante",
+              "minuto": 39,
+              "penalti": false
             }
           ],
           "tarjetas": [
             {
-              "minuto": 14,
+              "equipo": "FUTSALA VILLAVERDE 'B'",
               "jugador": "ALBERTO PALACIOS PEON",
-              "equipo": "FUTSALA VILLAVERDE 'B'",
-              "tipo": "amarilla",
-              "lado": "local"
+              "lado": "local",
+              "minuto": 14,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 18,
+              "equipo": "FUTSALA VILLAVERDE 'B'",
               "jugador": "OSCAR ADRIAN JIMENEZ RODRIGUEZ",
-              "equipo": "FUTSALA VILLAVERDE 'B'",
-              "tipo": "amarilla",
-              "lado": "local"
+              "lado": "local",
+              "minuto": 18,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 9,
+              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
               "jugador": "PABLO SANCHEZ ALVAREZ",
-              "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
-              "tipo": "amarilla",
-              "lado": "visitante"
+              "lado": "visitante",
+              "minuto": 9,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 16,
-              "jugador": "ALEJANDRO VARO ESTEBAN",
               "equipo": "CDE ANDEL - CENTRO EDUCATIVO",
-              "tipo": "amarilla",
-              "lado": "visitante"
+              "jugador": "ALEJANDRO VARO ESTEBAN",
+              "lado": "visitante",
+              "minuto": 16,
+              "tipo": "amarilla"
             }
           ]
         },
@@ -555,53 +555,53 @@
           ],
           "goles": [
             {
+              "equipo": "FUTSALA VILLAVERDE",
+              "jugador": "RAQUEL FERNANDEZ CHILOECHES",
+              "lado": "local",
               "minuto": 13,
-              "jugador": "RAQUEL FERNANDEZ CHILOECHES",
-              "equipo": "FUTSALA VILLAVERDE",
-              "penalti": false,
-              "lado": "local"
+              "penalti": false
             },
             {
+              "equipo": "FUTSALA VILLAVERDE",
+              "jugador": "SOFIA FERNANDEZ NIETO",
+              "lado": "local",
               "minuto": 24,
-              "jugador": "SOFIA FERNANDEZ NIETO",
-              "equipo": "FUTSALA VILLAVERDE",
-              "penalti": false,
-              "lado": "local"
+              "penalti": false
             },
             {
+              "equipo": "FUTSALA VILLAVERDE",
+              "jugador": "RAQUEL FERNANDEZ CHILOECHES",
+              "lado": "local",
               "minuto": 25,
-              "jugador": "RAQUEL FERNANDEZ CHILOECHES",
-              "equipo": "FUTSALA VILLAVERDE",
-              "penalti": false,
-              "lado": "local"
+              "penalti": false
             },
             {
+              "equipo": "FUTSALA VILLAVERDE",
+              "jugador": "SOFIA FERNANDEZ NIETO",
+              "lado": "local",
               "minuto": 30,
-              "jugador": "SOFIA FERNANDEZ NIETO",
-              "equipo": "FUTSALA VILLAVERDE",
-              "penalti": false,
-              "lado": "local"
+              "penalti": false
             },
             {
-              "minuto": 34,
+              "equipo": "FUTSALA VILLAVERDE",
               "jugador": "RAQUEL FERNANDEZ CHILOECHES",
-              "equipo": "FUTSALA VILLAVERDE",
-              "penalti": false,
-              "lado": "local"
+              "lado": "local",
+              "minuto": 34,
+              "penalti": false
             },
             {
-              "minuto": 35,
+              "equipo": "FUTSALA VILLAVERDE",
               "jugador": "CLARA OLMO HERNANDEZ",
-              "equipo": "FUTSALA VILLAVERDE",
-              "penalti": false,
-              "lado": "local"
+              "lado": "local",
+              "minuto": 35,
+              "penalti": false
             },
             {
-              "minuto": 39,
-              "jugador": "SOFIA FERNANDEZ NIETO",
               "equipo": "FUTSALA VILLAVERDE",
-              "penalti": false,
-              "lado": "local"
+              "jugador": "SOFIA FERNANDEZ NIETO",
+              "lado": "local",
+              "minuto": 39,
+              "penalti": false
             }
           ],
           "tarjetas": []
