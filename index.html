@@ -394,16 +394,19 @@
     return us ? pos + '<span class="us">' + escapar(us[1]) + "</span>" : pos + escapar(s);
   }
 
-  // Goleadores/tarjetas del partido de esta semana que le corresponde al bloque nº `indice`
-  // (mismo orden que el texto de "resultados": ver detalle_resultados en el backend).
-  function detalleDe(indice) {
+  // Datos extra (escudos y, en Resultados, goleadores/tarjetas) del partido de esta semana
+  // que le corresponde al bloque nº `indice` (mismo orden que el texto: ver detalle_resultados
+  // / detalle_partidos en el backend).
+  function detalleTipo(indice, campo, selKey) {
     var s = semanas();
     if (!s.length) return null;
-    var w = s[Math.max(0, Math.min(sel.resultados, s.length - 1))];
-    var det = (datos.detalle_resultados || []).filter(function (d) { return d.sabado === w.sabado; })[0];
+    var w = s[Math.max(0, Math.min(sel[selKey], s.length - 1))];
+    var det = (datos[campo] || []).filter(function (d) { return d.sabado === w.sabado; })[0];
     if (!det || !det.partidos || !det.partidos[indice]) return null;
     return det.partidos[indice];
   }
+  function detalleDe(indice) { return detalleTipo(indice, "detalle_resultados", "resultados"); }
+  function detallePartidoDe(indice) { return detalleTipo(indice, "detalle_partidos", "partidos"); }
 
   // Sin una plantilla propia que consultar (de momento no se lleva en esta app), el único
   // dato disponible para saber de quién es un gol o una tarjeta es el nombre de equipo que da
@@ -460,10 +463,12 @@
     return { icono: icono, local: us[0], visitante: resto.slice(us[0].length).replace(/^\s*-\s*/, "").trim(), marcador: null };
   }
 
-  // Una fila del marcador (pestaña Resultados): escudo real del equipo (sacado de la propia
-  // acta por el backend; si el acta todavía no lo trae, se deja el círculo vacío de fondo,
-  // sin imagen rota) + nombre (en negrita si es nuestro, igual que en equipoHtml) + el gol
-  // en grande a la derecha.
+  // Una fila del marcador: escudo real del equipo (sacado de la propia acta por el backend, ya
+  // esté jugado el partido o "POR JUGAR"; si el acta todavía no lo trae, o falla al cargar, se
+  // deja el círculo vacío de fondo, sin imagen rota), su posición en la clasificación (si se
+  // conoce), el nombre (en negrita si es nuestro, igual que en equipoHtml) y, cuando ya hay
+  // resultado, el gol en grande a la derecha. En Partidos (`gol` null: partido sin jugar
+  // todavía) no se muestra ninguna cifra a la derecha.
   function filaMarcadorHtml(s, escudoUrl, gol) {
     s = s.replace(/^[\p{Extended_Pictographic}️\s]+/u, "").trim();
     var pos = "", m = /^\*\((\d+)º\)\*\s*(.*)$/.exec(s);
@@ -473,9 +478,9 @@
     var esc = '<span class="escudo-eq" aria-hidden="true">' +
       (escudoUrl ? '<img src="' + escapar(escudoUrl) + '" alt="" loading="lazy" onerror="this.style.display=\'none\'">' : "") +
       "</span>";
+    var golNum = gol != null ? '<div class="gol-num">' + escapar(String(gol)) + "</div>" : "";
     return '<div class="fila-mc' + (us ? " nuestro" : "") + '">' + esc +
-      '<div class="nombre-mc">' + nombre + '</div>' +
-      '<div class="gol-num">' + escapar(String(gol)) + '</div></div>';
+      '<div class="nombre-mc">' + nombre + '</div>' + golNum + '</div>';
   }
 
   function partidoHtml(bloque, indice) {
@@ -499,14 +504,17 @@
     var etiqueta = escapar(titulo.replace(/\s+Grupo\s+(\d+)/i, " · grupo $1"));
     var detalle = (jor ? "<em>Jornada " + jor + "</em>" : "") + (jor && campo ? " · " : "") + (campo ? ICONO_PIN + escapar(campo) : "");
     // En Resultados, con marcador ya conocido, se usa la cabecera con escudos y el gol en
-    // grande (como el acta oficial); en Partidos (sin marcador todavía) se mantiene el "vs".
+    // grande (como el acta oficial); en Partidos (todavía sin jugar) la misma cabecera con
+    // escudos pero sin cifra de gol, sin "vs". Solo se cae al "vs" antiguo si, por lo que sea,
+    // se está en Resultados pero el bloque no trae marcador (no debería pasar).
     var enResultados = activa === "resultados" && !!eq.marcador;
-    var partidoDetalle = enResultados ? detalleDe(indice) : null;
-    var goles = partidoDetalle ? golesHtml(partidoDetalle) : "";
-    var cuerpoEquipos = enResultados
+    var enPartidos = activa === "partidos";
+    var partidoDetalle = enResultados ? detalleDe(indice) : (enPartidos ? detallePartidoDe(indice) : null);
+    var goles = enResultados && partidoDetalle ? golesHtml(partidoDetalle) : "";
+    var cuerpoEquipos = (enResultados || enPartidos)
       ? '<div class="marcador">' +
-          filaMarcadorHtml(eq.local, partidoDetalle && partidoDetalle.escudo_local, eq.marcador[0]) +
-          filaMarcadorHtml(eq.visitante, partidoDetalle && partidoDetalle.escudo_visitante, eq.marcador[1]) +
+          filaMarcadorHtml(eq.local, partidoDetalle && partidoDetalle.escudo_local, enResultados ? eq.marcador[0] : null) +
+          filaMarcadorHtml(eq.visitante, partidoDetalle && partidoDetalle.escudo_visitante, enResultados ? eq.marcador[1] : null) +
         "</div>"
       : '<div class="eq"><div class="fila">' + equipoHtml(eq.local) + "</div>" +
           (eq.marcador

@@ -709,8 +709,10 @@ def completar_con_actas(estado, errores):
         sin_marcador = not e.get("resultado") and dias <= 10 and _ya_toca_mirar_acta(e, t)
         sin_hora = bool(e.get("resultado")) and not e.get("hora") and dias >= 0
         sin_goles = bool(e.get("resultado")) and not e.get("goles") and dias <= 10 and _ya_toca_mirar_acta(e, t)
-        sin_escudo = not e.get("escudo_local") and not e.get("escudo_visitante") \
-            and dias <= 10 and _ya_toca_mirar_acta(e, t)
+        # el escudo va en la cabecera del marcador de cualquier acta, se haya jugado ya el
+        # partido o no ("POR JUGAR"), así que no hace falta esperar a que toque mirarla como
+        # con el marcador/goles: así ya sale en la pestaña "Partidos", antes de jugarse.
+        sin_escudo = not e.get("escudo_local") and not e.get("escudo_visitante") and dias <= 10
         if sin_marcador or sin_hora or sin_goles or sin_escudo:
             pendientes.append(e)
     for e in pendientes[:25]:
@@ -1346,25 +1348,41 @@ def _pendiente(e):
     return not e.get("hora") and not e.get("resultado")
 
 
+def orden_bloques(estado, sabado, con_resultado):
+    """Los partidos de la semana en el MISMO orden en que aparecen sus bloques en el texto que
+    genera componer(): primero los que ya tienen día asignado (orden de seleccion(), por fecha/
+    hora/grupo), luego los pendientes de confirmar día y hora, con su propio orden (por
+    categoría). Se usa tanto para el texto como para el detalle en JSON (escudos, goleadores,
+    tarjetas...), para que el partido nº `i` del texto sea siempre el partido nº `i` del
+    detalle -si cada uno se ordenara por su cuenta, en una semana con partidos pendientes de
+    hora los índices no coincidirían y la web mostraría el escudo o los goles de otro partido."""
+    lista = seleccion(estado, sabado, con_resultado)
+    no_pendientes = [e for e in lista if not _pendiente(e)]
+    pendientes = [e for e in lista if _pendiente(e)]
+    if pendientes:
+        orden = {f"{BASE}/{ruta}/jornadas": i for i, ruta in enumerate(CONOCIDOS)}
+        pendientes = sorted(pendientes, key=lambda e: (orden.get(e["url_grupo"], 99), e.get("jornada") or 0))
+    return no_pendientes + pendientes
+
+
 def componer(estado, sabado, con_resultado):
     lista = seleccion(estado, sabado, con_resultado)
     if not lista:
         return ""
     partes = [] if con_resultado else [AVISO]  # la coletilla no va en los resultados
     dia_actual = None
-    for e in [e for e in lista if not _pendiente(e)]:
+    no_pendientes = [e for e in lista if not _pendiente(e)]
+    pendientes = [e for e in lista if _pendiente(e)]
+    for e in no_pendientes:
         if e["fecha"] != dia_actual:  # el día aparece una sola vez, como titular
             dia_actual = e["fecha"]
             f = date.fromisoformat(dia_actual)
             titular = f"📅 *{DIAS[f.weekday()].upper()} {f:%d/%m/%Y}*"
             partes.append(f"{LINEA}\n{titular}\n{LINEA}")
         partes.append(bloque(e, con_resultado))
-    pendientes = [e for e in lista if _pendiente(e)]
     if pendientes:  # sin sábado ni domingo: aún no hay día y hora asignados
-        orden = {f"{BASE}/{ruta}/jornadas": i for i, ruta in enumerate(CONOCIDOS)}
-        pendientes.sort(key=lambda e: (orden.get(e["url_grupo"], 99), e.get("jornada") or 0))
         partes.append(f"{LINEA}\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n{LINEA}")
-        partes.extend(bloque(e, con_resultado) for e in pendientes)
+        partes.extend(bloque(e, con_resultado) for e in orden_bloques(estado, sabado, con_resultado) if _pendiente(e))
     return "\n\n".join(partes)
 
 
@@ -1531,7 +1549,21 @@ def main():
                           "escudo_local": e.get("escudo_local"), "escudo_visitante": e.get("escudo_visitante"),
                           "resultado": e.get("resultado"),
                           "goles": e.get("goles") or [], "tarjetas": e.get("tarjetas") or []}
-                         for e in seleccion(estado, sab, True)
+                         for e in orden_bloques(estado, sab, True)
+                     ]}
+                    for sab in sorted({sabado_de(date.fromisoformat(e["fecha"])) for e in estado.values()})
+                ],
+                # Lo mismo que "detalle_resultados" pero para los partidos TODAVÍA SIN JUGAR
+                # (pestaña "Partidos"): de momento solo lleva el escudo de cada equipo -el
+                # nombre y la posición en la clasificación ya van dentro del propio texto del
+                # bloque ("*(3º)* Equipo"), así que la web no necesita más que esto de aquí.
+                "detalle_partidos": [
+                    {"sabado": sab.isoformat(),
+                     "partidos": [
+                         {"fecha": e["fecha"], "grupo": e["grupo"], "jornada": e.get("jornada"),
+                          "local": limpiar_equipo(e["local"][1]), "visitante": limpiar_equipo(e["visitante"][1]),
+                          "escudo_local": e.get("escudo_local"), "escudo_visitante": e.get("escudo_visitante")}
+                         for e in orden_bloques(estado, sab, False)
                      ]}
                     for sab in sorted({sabado_de(date.fromisoformat(e["fecha"])) for e in estado.values()})
                 ],
