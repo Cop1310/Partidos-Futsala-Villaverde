@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-30 07:34",
+  "generado": "2026-09-30 07:58",
   "desde": "2026-10-03",
   "hasta": "2026-10-04",
   "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 03/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *11:00h* - Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 1_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde_* - Colegio Abaco (FS) A\n\n⏰ *12:00h* - Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 1_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde_* - Futsal Pinto-Grupo Egido\n\n⏰ *19:00h* - Primera División Autonómica Femenino FS Grupo Único\n📌 _Jornada 2_\n📍 Pabellón: Polid. Colegio el Valle Sanchinarro\n⚽ *(11º)* El Valle A - *(1º)* *_Futsala Villaverde_*\n\n⏰ *19:45h* - Primera Juvenil FS Grupo 5\n📌 _Jornada 1_\n📍 Pabellón: Alcorcon - P.M. Santo Domingo Pista 6\n⚽ C.S.D. Parque de Lisboa Futsal - *_Futsala Villaverde B_*\n\n⏰ *20:00h* - Tercera División FS Grupo 3\n📌 _Jornada 3_\n📍 Pabellón: Alcorcon - P.M. M-4 Mª Jose Calero\n⚽ *(7º)* Pinar de San Jose-Alcorcon A - *(2º)* *_Futsala Villaverde A_*\n\n━━━━━━━━━━━━━━━━\n📅 *DOMINGO 04/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *15:30h* - Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 2_\n📍 Pabellón: Fuenlabrada - P.M. el Trigal\n⚽ *(13º)* Winter Squad - *(7º)* *_Futsala Villaverde B_*\n\n⏰ *18:30h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(3º)* *_Futsala Villaverde A_* - *(1º)* Futsala Pinto-Escuela Patri Chamorro A",
@@ -63,6 +63,8 @@
           "jornada": 1,
           "local": "Futsala Villaverde A",
           "visitante": "Rivas Futsal-Youfirst Smart Finace A",
+          "escudo_local": null,
+          "escudo_visitante": null,
           "resultado": [
             5,
             1
@@ -161,6 +163,8 @@
           "jornada": 1,
           "local": "La Villa Mostoles A",
           "visitante": "Futsala Villaverde A",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155552_Escudo_Cde_La_Villa.png?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
           "resultado": [
             1,
             5
@@ -271,6 +275,8 @@
           "jornada": 2,
           "local": "Futsala Villaverde A",
           "visitante": "Casco Antiguo Carabanchel A",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156631_Escudo_sin_fondo_AMPLIADO.png",
           "resultado": [
             6,
             2
@@ -364,6 +370,8 @@
           "jornada": 2,
           "local": "Club Arganda Futsal A",
           "visitante": "Futsala Villaverde A",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
           "resultado": [
             4,
             5
@@ -479,6 +487,8 @@
           "jornada": 1,
           "local": "Futsala Villaverde B",
           "visitante": "Andel-Centro Educativo",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012153384_Escudo_Color__14_.png?nova=1",
           "resultado": [
             4,
             4
@@ -586,66 +596,68 @@
           "jornada": 1,
           "local": "Futsala Villaverde",
           "visitante": "Moralzarzal Futsal-Toolydo",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012158637_escudo_club_positivo.png?nova=1",
           "resultado": [
             7,
             0
           ],
           "goles": [
             {
+              "equipo": "FUTSALA VILLAVERDE",
+              "jugador": "RAQUEL FERNANDEZ CHILOECHES",
+              "lado": "local",
               "minuto": 13,
-              "jugador": "RAQUEL FERNANDEZ CHILOECHES",
-              "equipo": "FUTSALA VILLAVERDE",
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
+              "equipo": "FUTSALA VILLAVERDE",
+              "jugador": "SOFIA FERNANDEZ NIETO",
+              "lado": "local",
               "minuto": 24,
-              "jugador": "SOFIA FERNANDEZ NIETO",
-              "equipo": "FUTSALA VILLAVERDE",
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
+              "equipo": "FUTSALA VILLAVERDE",
+              "jugador": "RAQUEL FERNANDEZ CHILOECHES",
+              "lado": "local",
               "minuto": 25,
-              "jugador": "RAQUEL FERNANDEZ CHILOECHES",
-              "equipo": "FUTSALA VILLAVERDE",
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
+              "equipo": "FUTSALA VILLAVERDE",
+              "jugador": "SOFIA FERNANDEZ NIETO",
+              "lado": "local",
               "minuto": 30,
-              "jugador": "SOFIA FERNANDEZ NIETO",
-              "equipo": "FUTSALA VILLAVERDE",
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 34,
+              "equipo": "FUTSALA VILLAVERDE",
               "jugador": "RAQUEL FERNANDEZ CHILOECHES",
-              "equipo": "FUTSALA VILLAVERDE",
+              "lado": "local",
+              "minuto": 34,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 35,
+              "equipo": "FUTSALA VILLAVERDE",
               "jugador": "CLARA OLMO HERNANDEZ",
-              "equipo": "FUTSALA VILLAVERDE",
+              "lado": "local",
+              "minuto": 35,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 39,
-              "jugador": "SOFIA FERNANDEZ NIETO",
               "equipo": "FUTSALA VILLAVERDE",
+              "jugador": "SOFIA FERNANDEZ NIETO",
+              "lado": "local",
+              "minuto": 39,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             }
           ],
           "tarjetas": []
