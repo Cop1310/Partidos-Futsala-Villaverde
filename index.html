@@ -108,6 +108,7 @@
   .goles-lado b { font-weight: 800; }
   .gol-linea, .tarjeta-linea { display: block; color: var(--suave); font-weight: 400; }
   .gol-linea.nuestro, .tarjeta-linea.nuestro { color: var(--tinta); font-weight: 800; }
+  .gol-linea.propia { color: var(--roja); }
   .tarjeta-icono { display: inline-block; width: 9px; height: 12px; border-radius: 1px; margin-right: 4px; vertical-align: -1px; }
   .tarjeta-icono.amarilla { background: #f4c430; }
   .tarjeta-icono.roja { background: var(--roja); }
@@ -407,9 +408,14 @@
     function golesOrdenados() {
       if (!detalle.goles.length) return "";
       var lineas = detalle.goles.slice().sort(function (a, b) { return a.minuto - b.minuto; }).map(function (x) {
-        var clase = "gol-linea" + (esNuestro(x.equipo) ? " nuestro" : "");
+        // el gol en propia puerta ya viene acreditado al equipo que se beneficia (ver backend),
+        // así que "nuestro" sigue reflejando quién suma el gol; el rojo + "(p.p.)" es solo para
+        // que se note a simple vista que el marcador no es "3 goles + 1 en propia = 4", que si
+        // no parece un error de conteo.
+        var clase = "gol-linea" + (esNuestro(x.equipo) ? " nuestro" : "") + (x.propia ? " propia" : "");
+        var sufijo = x.penalti ? " (penalti)" : (x.propia ? " (p.p.)" : "");
         return '<span class="' + clase + '">⚽ ' + x.minuto + "' " + escapar(x.jugador) +
-          (x.penalti ? " (penalti)" : "") + " (" + escapar(x.equipo) + ")</span>";
+          sufijo + " (" + escapar(x.equipo) + ")</span>";
       }).join("");
       return '<div class="goles-lado">' + lineas + "</div>";
     }

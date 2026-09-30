@@ -338,6 +338,10 @@ def parsear_jornada(soup):
 # `datos_de_acta`): quien la llame debe pasarle una copia del soup tal cual se descargó.
 # ---------------------------------------------------------------------------
 _RE_PENALTI = re.compile(r"penalt", re.IGNORECASE)
+# gol en propia puerta: el acta lo apunta bajo el jugador que lo marca (columna de SU equipo),
+# pero el gol cuenta para el equipo CONTRARIO -si no se tiene esto en cuenta, el marcador que
+# sale de sumar los goles de cada columna no cuadra con el resultado real del partido.
+_RE_PROPIA = re.compile(r"en\s+propia", re.IGNORECASE)
 # una tarjeta cuenta como "roja" tanto si es roja directa como si es una segunda amarilla con
 # expulsión (el icono de "segunda amarilla y expulsión" incluye un cuadro rojo y la palabra
 # "expulsión" en su título, aunque el texto visible del jugador solo diga "amarilla").
@@ -371,8 +375,10 @@ def _columnas_de_seccion(soup, titulo):
 
 def goles_y_tarjetas_de_acta(soup, marcador=None):
     """(goles, tarjetas) de un acta ya jugada. Cada gol: {minuto, jugador, equipo,
-    penalti}; cada tarjeta: {minuto, jugador, equipo, tipo}. `equipo` es el nombre
-    de equipo tal como aparece en el acta (sin limpiar todavía).
+    penalti, propia}; cada tarjeta: {minuto, jugador, equipo, tipo}. `equipo` es el
+    nombre de equipo tal como aparece en el acta (sin limpiar todavía) AL QUE SE LE
+    CUENTA el gol -en uno en propia puerta, es el contrario del equipo de `jugador`,
+    para que sumar los goles por equipo cuadre con el resultado real.
 
     `soup` debe ser una copia del acta SIN pasar por `normalizar()` (ver aviso arriba)."""
     nombres_equipo, vistos = [], set()
@@ -388,15 +394,20 @@ def goles_y_tarjetas_de_acta(soup, marcador=None):
     goles, tarjetas = [], []
 
     col_local, col_visitante = _columnas_de_seccion(soup, "goles")
-    for equipo, columna in ((equipo_local, col_local), (equipo_visitante, col_visitante)):
+    for equipo_col, equipo_rival, columna in (
+            (equipo_local, equipo_visitante, col_local),
+            (equipo_visitante, equipo_local, col_visitante)):
         for li in columna:
             m = re.search(r"\d+", _texto_o_vacio(li.find("span")))
             a = li.find("a")
             jugador = _texto_o_vacio(a)
             if not m or not jugador:
                 continue
-            goles.append({"minuto": int(m.group()), "jugador": jugador, "equipo": equipo,
-                          "penalti": bool(_RE_PENALTI.search(_texto_o_vacio(li)))})
+            texto_li = _texto_o_vacio(li)
+            propia = bool(_RE_PROPIA.search(texto_li))
+            goles.append({"minuto": int(m.group()), "jugador": jugador,
+                          "equipo": equipo_rival if propia else equipo_col,
+                          "penalti": bool(_RE_PENALTI.search(texto_li)), "propia": propia})
 
     col_local, col_visitante = _columnas_de_seccion(soup, "tarjetas")
     for equipo, columna in ((equipo_local, col_local), (equipo_visitante, col_visitante)):
