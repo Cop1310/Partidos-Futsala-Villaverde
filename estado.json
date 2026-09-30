@@ -1539,6 +1539,8 @@
   "5575523": {
    "acta": "https://www.elbalondemadrid.es/acta/5575523?temporada=22&competicion=26738243&grupo=26738244",
    "campo": "FUENLABRADA - P.M. EL TRIGAL (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012056915_WS.png?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-10-04",
    "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
    "hora": "15:30",
@@ -1561,6 +1563,8 @@
   "5575530": {
    "acta": "https://www.elbalondemadrid.es/acta/5575530?temporada=22&competicion=26738243&grupo=26738244",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012173144_Screenshot_20260506_090154_WhatsApp.jpg?nova=1",
    "fecha": "2026-10-10",
    "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
    "hora": null,
@@ -1580,6 +1584,8 @@
   "5575538": {
    "acta": "https://www.elbalondemadrid.es/acta/5575538?temporada=22&competicion=26738243&grupo=26738244",
    "campo": "BRUNETE - P.M. JOSE RAMON DE LA MORENA (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011731505_Escudo_EDB_Original_copia.png?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-10-17",
    "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
    "hora": null,
@@ -1599,6 +1605,8 @@
   "5575545": {
    "acta": "https://www.elbalondemadrid.es/acta/5575545?temporada=22&competicion=26738243&grupo=26738244",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191624_Escudo_nuevo__1.png",
    "fecha": "2026-10-24",
    "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
    "hora": null,
@@ -1845,6 +1853,8 @@
   "5575899": {
    "acta": "https://www.elbalondemadrid.es/acta/5575899?temporada=22&competicion=26738221&grupo=26771028",
    "campo": "ALCORCON - P.M. M-4 Mª JOSE CALERO (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
    "fecha": "2026-10-03",
    "grupo": "Tercera División FS Grupo 3",
    "hora": "20:00",
@@ -1867,6 +1877,8 @@
   "5575907": {
    "acta": "https://www.elbalondemadrid.es/acta/5575907?temporada=22&competicion=26738221&grupo=26771028",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011972491_eurosiris.png?nova=1",
    "fecha": "2026-10-10",
    "grupo": "Tercera División FS Grupo 3",
    "hora": null,
@@ -1886,6 +1898,8 @@
   "5575914": {
    "acta": "https://www.elbalondemadrid.es/acta/5575914?temporada=22&competicion=26738221&grupo=26771028",
    "campo": "ARGANDA - P.M. LUIS AMADO (Fútbol Sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
    "fecha": "2026-10-17",
    "grupo": "Tercera División FS Grupo 3",
    "hora": null,
@@ -1905,6 +1919,8 @@
   "5575922": {
    "acta": "https://www.elbalondemadrid.es/acta/5575922?temporada=22",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png?nova=1",
    "fecha": "2026-10-24",
    "grupo": "Tercera División FS Grupo 3",
    "hora": null,
@@ -2166,6 +2182,8 @@
   "5576989": {
    "acta": "https://www.elbalondemadrid.es/acta/5576989?temporada=22&competicion=26749998&grupo=26814437",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000003683_futsala_pinto.jpg?nova=1",
    "fecha": "2026-10-04",
    "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
    "hora": "18:30",
@@ -2274,6 +2292,8 @@
   "5578129": {
    "acta": "https://www.elbalondemadrid.es/acta/5578129?temporada=22&competicion=26738218&grupo=26738219",
    "campo": "POLID. COLEGIO EL VALLE SANCHINARRO (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
    "fecha": "2026-10-03",
    "grupo": "Primera División Autonómica Femenino FS Grupo Único",
    "hora": "19:00",
@@ -2296,6 +2316,8 @@
   "5712402": {
    "acta": "https://www.elbalondemadrid.es/acta/5712402?temporada=22&competicion=26750017&grupo=28105968",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012194834_Captura_de_pantalla_2026_07_20_081959.png?nova=1",
    "fecha": "2026-10-03",
    "grupo": "Alevín 1ª Fase FS Grupo 4",
    "hora": "12:00",
@@ -2315,6 +2337,8 @@
   "5712408": {
    "acta": "https://www.elbalondemadrid.es/acta/5712408?temporada=22&competicion=26750017&grupo=28105968",
    "campo": "PARLA - P.M. SUPERA PARLA ESTE (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002481_escudo.jpg?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
    "fecha": "2026-10-17",
    "grupo": "Alevín 1ª Fase FS Grupo 4",
    "hora": null,
@@ -2334,6 +2358,8 @@
   "5712413": {
    "acta": "https://www.elbalondemadrid.es/acta/5712413?temporada=22&competicion=26750017&grupo=28105968",
    "campo": "LEGANES - P.M. LA FORTUNA (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014223772_escudo.png?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
    "fecha": "2026-10-24",
    "grupo": "Alevín 1ª Fase FS Grupo 4",
    "hora": null,
@@ -2353,6 +2379,8 @@
   "5712418": {
    "acta": "https://www.elbalondemadrid.es/acta/5712418?temporada=22&competicion=26750017&grupo=28105968",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011747038_Imagen_1.png?nova=1",
    "fecha": "2026-11-07",
    "grupo": "Alevín 1ª Fase FS Grupo 4",
    "hora": null,
@@ -2372,6 +2400,8 @@
   "5712422": {
    "acta": "https://www.elbalondemadrid.es/acta/5712422?temporada=22&competicion=26750017&grupo=28105968",
    "campo": "GETAFE - PABELLON DEPORTIVO MUNICIPAL M4 (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012201397_file_00000000a85c71f4839b575aeb6b1e33.png",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
    "fecha": "2026-11-15",
    "grupo": "Alevín 1ª Fase FS Grupo 4",
    "hora": "17:30",
@@ -2391,6 +2421,8 @@
   "5719182": {
    "acta": "https://www.elbalondemadrid.es/acta/5719182?temporada=22&competicion=26750019&grupo=28118560",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011743910_Escudo___baco_FS.jpg?nova=1",
    "fecha": "2026-10-03",
    "grupo": "Benjamín 1ª Fase FS Grupo 4",
    "hora": "11:00",
@@ -2410,6 +2442,8 @@
   "5719188": {
    "acta": "https://www.elbalondemadrid.es/acta/5719188?temporada=22&competicion=26750019&grupo=28118560",
    "campo": "PINTO - P.M. PATRICIA CHAMORRO (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000003683_futsala_pinto.jpg?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
    "fecha": "2026-10-17",
    "grupo": "Benjamín 1ª Fase FS Grupo 4",
    "hora": null,
@@ -2429,6 +2463,8 @@
   "5719193": {
    "acta": "https://www.elbalondemadrid.es/acta/5719193?temporada=22&competicion=26750019&grupo=28118560",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002635_gkCLGWT2_400x400.jpg?nova=1",
    "fecha": "2026-10-24",
    "grupo": "Benjamín 1ª Fase FS Grupo 4",
    "hora": null,
@@ -2448,6 +2484,8 @@
   "5719199": {
    "acta": "https://www.elbalondemadrid.es/acta/5719199?temporada=22&competicion=26750019&grupo=28118560",
    "campo": "COL. EL VALLE LAS TABLAS (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
    "fecha": "2026-11-07",
    "grupo": "Benjamín 1ª Fase FS Grupo 4",
    "hora": null,
@@ -2467,6 +2505,8 @@
   "5719204": {
    "acta": "https://www.elbalondemadrid.es/acta/5719204?temporada=22&competicion=26750019&grupo=28118560",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png?nova=1",
    "fecha": "2026-11-14",
    "grupo": "Benjamín 1ª Fase FS Grupo 4",
    "hora": null,
@@ -2486,6 +2526,8 @@
   "5721153": {
    "acta": "https://www.elbalondemadrid.es/acta/5721153?temporada=22&competicion=26738228&grupo=28123215",
    "campo": "ALCORCON - P.M. SANTO DOMINGO pista 6 (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011730788_escudo_futsal.jpeg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
    "fecha": "2026-10-03",
    "grupo": "Primera Juvenil FS Grupo 5",
    "hora": "19:45",
@@ -2505,6 +2547,8 @@
   "5721160": {
    "acta": "https://www.elbalondemadrid.es/acta/5721160?temporada=22&competicion=26738228&grupo=28123215",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png?nova=1",
    "fecha": "2026-10-17",
    "grupo": "Primera Juvenil FS Grupo 5",
    "hora": null,
@@ -2524,6 +2568,8 @@
   "5721166": {
    "acta": "https://www.elbalondemadrid.es/acta/5721166?temporada=22&competicion=26738228&grupo=28123215",
    "campo": "PARLA - P.M. EL NIDO (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
    "fecha": "2026-10-24",
    "grupo": "Primera Juvenil FS Grupo 5",
    "hora": null,
@@ -2543,6 +2589,8 @@
   "5721173": {
    "acta": "https://www.elbalondemadrid.es/acta/5721173?temporada=22&competicion=26738228&grupo=28123215",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012194834_Captura_de_pantalla_2026_07_20_081959.png?nova=1",
    "fecha": "2026-11-07",
    "grupo": "Primera Juvenil FS Grupo 5",
    "hora": null,
@@ -2562,6 +2610,8 @@
   "5721179": {
    "acta": "https://www.elbalondemadrid.es/acta/5721179?temporada=22&competicion=26738228&grupo=28123215",
    "campo": "MOSTOLES - P.M. ESTORIL 2 (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155552_Escudo_Cde_La_Villa.png?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
    "fecha": "2026-11-14",
    "grupo": "Primera Juvenil FS Grupo 5",
    "hora": null,

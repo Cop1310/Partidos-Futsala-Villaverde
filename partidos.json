@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-30 08:04",
+  "generado": "2026-09-30 08:17",
   "desde": "2026-10-03",
   "hasta": "2026-10-04",
   "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 03/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *11:00h* - Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 1_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde_* - Colegio Abaco (FS) A\n\n⏰ *12:00h* - Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 1_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde_* - Futsal Pinto-Grupo Egido\n\n⏰ *19:00h* - Primera División Autonómica Femenino FS Grupo Único\n📌 _Jornada 2_\n📍 Pabellón: Polid. Colegio el Valle Sanchinarro\n⚽ *(11º)* El Valle A - *(1º)* *_Futsala Villaverde_*\n\n⏰ *19:45h* - Primera Juvenil FS Grupo 5\n📌 _Jornada 1_\n📍 Pabellón: Alcorcon - P.M. Santo Domingo Pista 6\n⚽ C.S.D. Parque de Lisboa Futsal - *_Futsala Villaverde B_*\n\n⏰ *20:00h* - Tercera División FS Grupo 3\n📌 _Jornada 3_\n📍 Pabellón: Alcorcon - P.M. M-4 Mª Jose Calero\n⚽ *(7º)* Pinar de San Jose-Alcorcon A - *(2º)* *_Futsala Villaverde A_*\n\n━━━━━━━━━━━━━━━━\n📅 *DOMINGO 04/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *15:30h* - Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 2_\n📍 Pabellón: Fuenlabrada - P.M. el Trigal\n⚽ *(13º)* Winter Squad - *(7º)* *_Futsala Villaverde B_*\n\n⏰ *18:30h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(3º)* *_Futsala Villaverde A_* - *(1º)* Futsala Pinto-Escuela Patri Chamorro A",
@@ -63,8 +63,8 @@
           "jornada": 1,
           "local": "Futsala Villaverde A",
           "visitante": "Rivas Futsal-Youfirst Smart Finace A",
-          "escudo_local": null,
-          "escudo_visitante": null,
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002354_ESCUDO_Rivas_Futsal.jpg?nova=1",
           "resultado": [
             5,
             1
@@ -687,6 +687,327 @@
     {
       "sabado": "2026-11-14",
       "partidos": []
+    }
+  ],
+  "detalle_partidos": [
+    {
+      "sabado": "2026-09-19",
+      "partidos": [
+        {
+          "fecha": "2026-09-19",
+          "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
+          "jornada": 1,
+          "local": "Futsala Villaverde A",
+          "visitante": "Rivas Futsal-Youfirst Smart Finace A",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002354_ESCUDO_Rivas_Futsal.jpg?nova=1"
+        },
+        {
+          "fecha": "2026-09-20",
+          "grupo": "Tercera División FS Grupo 3",
+          "jornada": 1,
+          "local": "La Villa Mostoles A",
+          "visitante": "Futsala Villaverde A",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155552_Escudo_Cde_La_Villa.png?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1"
+        }
+      ]
+    },
+    {
+      "sabado": "2026-09-26",
+      "partidos": [
+        {
+          "fecha": "2026-09-26",
+          "grupo": "Tercera División FS Grupo 3",
+          "jornada": 2,
+          "local": "Futsala Villaverde A",
+          "visitante": "Casco Antiguo Carabanchel A",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156631_Escudo_sin_fondo_AMPLIADO.png"
+        },
+        {
+          "fecha": "2026-09-27",
+          "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
+          "jornada": 2,
+          "local": "Club Arganda Futsal A",
+          "visitante": "Futsala Villaverde A",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1"
+        },
+        {
+          "fecha": "2026-09-27",
+          "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
+          "jornada": 1,
+          "local": "Futsala Villaverde B",
+          "visitante": "Andel-Centro Educativo",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012153384_Escudo_Color__14_.png?nova=1"
+        },
+        {
+          "fecha": "2026-09-27",
+          "grupo": "Primera División Autonómica Femenino FS Grupo Único",
+          "jornada": 1,
+          "local": "Futsala Villaverde",
+          "visitante": "Moralzarzal Futsal-Toolydo",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012158637_escudo_club_positivo.png?nova=1"
+        }
+      ]
+    },
+    {
+      "sabado": "2026-10-03",
+      "partidos": [
+        {
+          "fecha": "2026-10-03",
+          "grupo": "Benjamín 1ª Fase FS Grupo 4",
+          "jornada": 1,
+          "local": "Futsala Villaverde",
+          "visitante": "Colegio Abaco (FS) A",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011743910_Escudo___baco_FS.jpg?nova=1"
+        },
+        {
+          "fecha": "2026-10-03",
+          "grupo": "Alevín 1ª Fase FS Grupo 4",
+          "jornada": 1,
+          "local": "Futsala Villaverde",
+          "visitante": "Futsal Pinto-Grupo Egido",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012194834_Captura_de_pantalla_2026_07_20_081959.png?nova=1"
+        },
+        {
+          "fecha": "2026-10-03",
+          "grupo": "Primera División Autonómica Femenino FS Grupo Único",
+          "jornada": 2,
+          "local": "El Valle A",
+          "visitante": "Futsala Villaverde",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1"
+        },
+        {
+          "fecha": "2026-10-03",
+          "grupo": "Primera Juvenil FS Grupo 5",
+          "jornada": 1,
+          "local": "C.S.D. Parque de Lisboa Futsal",
+          "visitante": "Futsala Villaverde B",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011730788_escudo_futsal.jpeg",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1"
+        },
+        {
+          "fecha": "2026-10-03",
+          "grupo": "Tercera División FS Grupo 3",
+          "jornada": 3,
+          "local": "Pinar de San Jose-Alcorcon A",
+          "visitante": "Futsala Villaverde A",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1"
+        },
+        {
+          "fecha": "2026-10-04",
+          "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
+          "jornada": 2,
+          "local": "Winter Squad",
+          "visitante": "Futsala Villaverde B",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012056915_WS.png?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+        },
+        {
+          "fecha": "2026-10-04",
+          "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
+          "jornada": 3,
+          "local": "Futsala Villaverde A",
+          "visitante": "Futsala Pinto-Escuela Patri Chamorro A",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000003683_futsala_pinto.jpg?nova=1"
+        }
+      ]
+    },
+    {
+      "sabado": "2026-10-10",
+      "partidos": [
+        {
+          "fecha": "2026-10-10",
+          "grupo": "Tercera División FS Grupo 3",
+          "jornada": 4,
+          "local": "Futsala Villaverde A",
+          "visitante": "C.F.S. Eurosiris-Bingo las Vegas A",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011972491_eurosiris.png?nova=1"
+        },
+        {
+          "fecha": "2026-10-10",
+          "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
+          "jornada": 3,
+          "local": "Futsala Villaverde B",
+          "visitante": "Club Escuela Deportiva Manila-Estrellas A",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012173144_Screenshot_20260506_090154_WhatsApp.jpg?nova=1"
+        }
+      ]
+    },
+    {
+      "sabado": "2026-10-17",
+      "partidos": [
+        {
+          "fecha": "2026-10-17",
+          "grupo": "Tercera División FS Grupo 3",
+          "jornada": 5,
+          "local": "Club Arganda Futsal-Albero-Mudanzas Segoviana A",
+          "visitante": "Futsala Villaverde A",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1"
+        },
+        {
+          "fecha": "2026-10-17",
+          "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
+          "jornada": 4,
+          "local": "Escuela Deportiva Brunete",
+          "visitante": "Futsala Villaverde B",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011731505_Escudo_EDB_Original_copia.png?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+        },
+        {
+          "fecha": "2026-10-17",
+          "grupo": "Alevín 1ª Fase FS Grupo 4",
+          "jornada": 2,
+          "local": "Sport Sala 12",
+          "visitante": "Futsala Villaverde",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002481_escudo.jpg?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1"
+        },
+        {
+          "fecha": "2026-10-17",
+          "grupo": "Benjamín 1ª Fase FS Grupo 4",
+          "jornada": 2,
+          "local": "Futsala Pinto-Escuela Patri Chamorro A",
+          "visitante": "Futsala Villaverde",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000003683_futsala_pinto.jpg?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1"
+        },
+        {
+          "fecha": "2026-10-17",
+          "grupo": "Primera Juvenil FS Grupo 5",
+          "jornada": 2,
+          "local": "Futsala Villaverde B",
+          "visitante": "Andres Segovia-Mostoles",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png?nova=1"
+        }
+      ]
+    },
+    {
+      "sabado": "2026-10-24",
+      "partidos": [
+        {
+          "fecha": "2026-10-24",
+          "grupo": "Tercera División FS Grupo 3",
+          "jornada": 6,
+          "local": "Futsala Villaverde A",
+          "visitante": "F.S. Diagonal A",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png?nova=1"
+        },
+        {
+          "fecha": "2026-10-24",
+          "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
+          "jornada": 5,
+          "local": "Futsala Villaverde B",
+          "visitante": "Futsal Pinto-Grupo Egido",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191624_Escudo_nuevo__1.png"
+        },
+        {
+          "fecha": "2026-10-24",
+          "grupo": "Alevín 1ª Fase FS Grupo 4",
+          "jornada": 3,
+          "local": "Butarque Futsal-Hellotickets.Es",
+          "visitante": "Futsala Villaverde",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014223772_escudo.png?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1"
+        },
+        {
+          "fecha": "2026-10-24",
+          "grupo": "Benjamín 1ª Fase FS Grupo 4",
+          "jornada": 3,
+          "local": "Futsala Villaverde",
+          "visitante": "Mrb F.S. Mostoles-Ciudad de Mostoles B",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002635_gkCLGWT2_400x400.jpg?nova=1"
+        },
+        {
+          "fecha": "2026-10-24",
+          "grupo": "Primera Juvenil FS Grupo 5",
+          "jornada": 3,
+          "local": "F.S. Diagonal C",
+          "visitante": "Futsala Villaverde B",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1"
+        }
+      ]
+    },
+    {
+      "sabado": "2026-11-07",
+      "partidos": [
+        {
+          "fecha": "2026-11-07",
+          "grupo": "Alevín 1ª Fase FS Grupo 4",
+          "jornada": 4,
+          "local": "Futsala Villaverde",
+          "visitante": "Aquila (FS)",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011747038_Imagen_1.png?nova=1"
+        },
+        {
+          "fecha": "2026-11-07",
+          "grupo": "Benjamín 1ª Fase FS Grupo 4",
+          "jornada": 4,
+          "local": "El Valle (FS) D",
+          "visitante": "Futsala Villaverde",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1"
+        },
+        {
+          "fecha": "2026-11-07",
+          "grupo": "Primera Juvenil FS Grupo 5",
+          "jornada": 4,
+          "local": "Futsala Villaverde B",
+          "visitante": "Futsal Pinto (FS) B",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012194834_Captura_de_pantalla_2026_07_20_081959.png?nova=1"
+        }
+      ]
+    },
+    {
+      "sabado": "2026-11-14",
+      "partidos": [
+        {
+          "fecha": "2026-11-15",
+          "grupo": "Alevín 1ª Fase FS Grupo 4",
+          "jornada": 5,
+          "local": "Las Aves FS",
+          "visitante": "Futsala Villaverde",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012201397_file_00000000a85c71f4839b575aeb6b1e33.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1"
+        },
+        {
+          "fecha": "2026-11-14",
+          "grupo": "Benjamín 1ª Fase FS Grupo 4",
+          "jornada": 5,
+          "local": "Futsala Villaverde",
+          "visitante": "Club Arganda Futsal B",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png?nova=1"
+        },
+        {
+          "fecha": "2026-11-14",
+          "grupo": "Primera Juvenil FS Grupo 5",
+          "jornada": 5,
+          "local": "La Villa Mostoles B",
+          "visitante": "Futsala Villaverde B",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155552_Escudo_Cde_La_Villa.png?nova=1",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1"
+        }
+      ]
     }
   ],
   "clasificaciones": [
