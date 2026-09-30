@@ -518,6 +518,14 @@ def _entero(texto):
 NUMERO = re.compile(r"^[+\-\u2212]?\d+$")
 
 
+def _escudo_de(enlace):
+    """URL del escudo dentro de un <a href="/equipo/ID"> (fila de la clasificación o del
+    marcador de un acta), o None si esa fila no trae imagen."""
+    img = enlace.find("img")
+    src = (img.get("src") or img.get("data-src")) if img else None
+    return urllib.parse.urljoin(BASE, src) if src else None
+
+
 def _fila_generica(enlace):
     """Lee una fila aunque no sea una <tr>: sube desde el enlace del equipo hasta el
     contenedor más grande que solo tenga ese equipo y lee sus textos en orden."""
@@ -544,7 +552,7 @@ def _fila_generica(enlace):
     ident = re.search(r"/equipo/(\d+)", enlace["href"]).group(1)
     v = [_entero(x) for x in nums[:8]]
     return {"pos": int(textos[0]), "id": ident, "nombre": limpiar_equipo(nombre),
-            "nuestro": _es_nuestro((ident, nombre)),
+            "nuestro": _es_nuestro((ident, nombre)), "escudo": _escudo_de(enlace),
             "pj": v[0], "g": v[1], "e": v[2], "p": v[3], "gf": v[4], "gc": v[5], "dg": v[6], "pts": v[7]}
 
 
@@ -570,6 +578,7 @@ def tabla_de(soup):
         filas.append({
             "pos": int(textos[0]), "id": ident,
             "nombre": limpiar_equipo(bruto), "nuestro": _es_nuestro((ident, bruto)),
+            "escudo": _escudo_de(enlace),
             "pj": _entero(textos[idx + 1]), "g": _entero(textos[idx + 2]),
             "e": _entero(textos[idx + 3]), "p": _entero(textos[idx + 4]),
             "gf": _entero(textos[idx + 5]), "gc": _entero(textos[idx + 6]),

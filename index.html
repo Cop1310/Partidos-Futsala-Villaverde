@@ -131,13 +131,14 @@
   .sc.empata { background: #faeeda; color: #633806; }
   .sc.pierde { background: #fcebeb; color: #791f1f; }
   .sc.neutro { background: #f1efe8; color: #444441; }
-  .semanas { display: flex; gap: 8px; margin: 0 0 12px; }
+  .semanas { display: flex; gap: 6px; margin: 0 0 12px; }
   .semanas[hidden] { display: none; }
-  .semanas button { flex: none; width: 48px; min-height: 46px; padding: 0; font-size: 1rem; background: var(--papel); color: var(--tinta); }
+  .semanas button { flex: none; width: 38px; min-height: 46px; padding: 0; font-size: 1rem; background: var(--papel); color: var(--tinta); }
   .semanas select option { text-align: center; }
   .semanas button:disabled { opacity: 0.35; cursor: default; }
   .semanas select {
-    flex: 1; min-width: 0; min-height: 46px; font: inherit; font-weight: 700; font-size: 1rem; padding: 0 30px;
+    flex: 1; min-width: 0; min-height: 46px; font: inherit; font-weight: 700;
+    font-size: clamp(0.66rem, 3.6vw, 0.9rem); padding: 0 6px;
     text-align: center; text-align-last: center; -moz-text-align-last: center;
     color: var(--tinta); background: var(--papel); border: 2px solid var(--tinta); border-radius: 4px;
   }
@@ -171,6 +172,12 @@
   table.clas th, table.clas td { padding: 5px 1px; text-align: center; line-height: 1.2; border-bottom: 1px solid var(--linea); background: var(--papel); }
   table.clas th { font-weight: 700; font-size: 0.95em; background: #f6f6f3; color: var(--suave); border-bottom: 1px solid var(--tinta); }
   table.clas th.e, table.clas td.e { text-align: left; padding-left: 6px; overflow-wrap: anywhere; }
+  .escudo-clas {
+    display: inline-flex; align-items: center; justify-content: center; vertical-align: -0.35em;
+    width: 1.5em; height: 1.5em; margin-right: 0.3em; border-radius: 50%; flex: none;
+    background: #f2f2ee; border: 1px solid var(--linea); overflow: hidden;
+  }
+  .escudo-clas img { width: 100%; height: 100%; object-fit: contain; }
   table.clas td.pts { font-weight: 800; }
   table.clas tr.nuestro td { font-weight: 800; background: #f7e9b0; }
   .estado { padding: 18px 16px; margin: 0; }
@@ -294,16 +301,6 @@
       .replace(/(^|[\s(])_([^_\n]+)_(?=$|[\s.,;:!?)])/g, "$1<em>$2</em>");
   }
 
-  function fecha(iso) {
-    var p = iso.split("-");
-    return p[2] + "/" + p[1];
-  }
-
-  function rango(desde, hasta) {
-    if (!desde || !hasta) return "Futsala Villaverde";
-    return "Sábado " + fecha(desde) + " y domingo " + fecha(hasta) + "/" + desde.split("-")[0];
-  }
-
   function semanas() {
     return (datos && datos.semanas) || [];
   }
@@ -319,8 +316,7 @@
   function etiquetaSemana(iso) {
     var dom = sumarDia(iso, 1);
     var a = iso.split("-"), b = dom.split("-");
-    return a[1] === b[1] ? a[2] + "-" + b[2] + "/" + b[1] + "/" + b[0]
-                         : a[2] + "/" + a[1] + " - " + b[2] + "/" + b[1] + "/" + b[0];
+    return "Sábado " + a[2] + "/" + a[1] + " y Domingo " + b[2] + "/" + b[1] + "/" + b[0];
   }
 
   function indiceSemana(iso) {
@@ -585,7 +581,12 @@
     var cols = anchos.map(function (a) { return a ? '<col style="width:' + a + '">' : "<col>"; }).join("");
     var filas = g.filas.map(function (f) {
       var dg = f.dg > 0 ? "+" + f.dg : f.dg;
-      return '<tr' + (f.nuestro ? ' class="nuestro"' : "") + "><td>" + f.pos + '</td><td class="e">' + escapar(f.nombre) + "</td><td>" + f.pj +
+      // el escudo se saca de la propia clasificación (misma fuente que ya se usa para el
+      // nombre); si el equipo no lo trae, o la imagen falla al cargar, se queda el hueco vacío.
+      var escudo = '<span class="escudo-clas" aria-hidden="true">' +
+        (f.escudo ? '<img src="' + escapar(f.escudo) + '" alt="" loading="lazy" onerror="this.style.display=\'none\'">' : "") +
+        "</span>";
+      return '<tr' + (f.nuestro ? ' class="nuestro"' : "") + "><td>" + f.pos + '</td><td class="e">' + escudo + escapar(f.nombre) + "</td><td>" + f.pj +
         "</td><td>" + f.g + "</td><td>" + f.e + "</td><td>" + f.p + "</td><td>" + f.gf + "</td><td>" + f.gc + "</td><td>" + dg +
         '</td><td class="pts">' + f.pts + "</td></tr>";
     }).join("");
@@ -601,16 +602,10 @@
     tabC.setAttribute("aria-selected", activa === "clasificacion");
     document.body.classList.toggle("sin-barra", activa !== "partidos");   // solo el partido en sí es lo que interesa enviar
     elChips.hidden = activa !== "clasificacion";
+    // El día concreto ya se ve en el selector de semana de abajo: aquí, debajo del título, va
+    // solo un rótulo fijo (antes salía la misma fecha dos veces).
     if (activa !== "clasificacion") {
-      var sm = semanas();
-      if (sm.length) {
-        var sab = sm[Math.max(0, Math.min(sel[activa], sm.length - 1))].sabado;
-        elCuando.textContent = rango(sab, sumarDia(sab, 1));
-      } else {
-        elCuando.textContent = activa === "partidos"
-          ? rango(datos.desde, datos.hasta)
-          : rango(datos.resultados_desde, datos.resultados_hasta);
-      }
+      elCuando.textContent = "Partidos Futsala Villaverde";
     }
     pintarSelectorSemanas();
 
