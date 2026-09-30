@@ -2179,6 +2179,64 @@
    "acta": "https://www.elbalondemadrid.es/acta/5578121?temporada=22&competicion=26738218&grupo=26738219",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
    "fecha": "2026-09-27",
+   "goles": [
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "RAQUEL FERNANDEZ CHILOECHES",
+     "lado": "local",
+     "minuto": 13,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "SOFIA FERNANDEZ NIETO",
+     "lado": "local",
+     "minuto": 24,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "RAQUEL FERNANDEZ CHILOECHES",
+     "lado": "local",
+     "minuto": 25,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "SOFIA FERNANDEZ NIETO",
+     "lado": "local",
+     "minuto": 30,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "RAQUEL FERNANDEZ CHILOECHES",
+     "lado": "local",
+     "minuto": 34,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "CLARA OLMO HERNANDEZ",
+     "lado": "local",
+     "minuto": 35,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "SOFIA FERNANDEZ NIETO",
+     "lado": "local",
+     "minuto": 39,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Primera División Autonómica Femenino FS Grupo Único",
    "hora": "19:30",
    "jornada": 1,
@@ -2194,6 +2252,7 @@
     7,
     0
    ],
+   "tarjetas": [],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738218/grupo/26738219/jornadas",
    "visitante": [
     "21430669",
