@@ -102,6 +102,19 @@
   .p .vs { font-size: 0.82rem; color: var(--suave); margin: 3px 0; }
   .p .us { background: #f7e9b0; border-radius: 4px; padding: 1px 6px; font-weight: 800; }
 
+  /* Cabecera de resultado: escudo + nombre + marcador grande a la derecha */
+  .marcador { display: flex; flex-direction: column; gap: 6px; margin-top: 10px; }
+  .marcador .fila-mc { display: flex; align-items: center; gap: 10px; }
+  .marcador .escudo-eq {
+    width: 32px; height: 32px; border-radius: 50%; flex: none; overflow: hidden;
+    background: #f2f2ee; border: 1px solid var(--linea);
+    display: flex; align-items: center; justify-content: center;
+  }
+  .marcador .escudo-eq img { width: 100%; height: 100%; object-fit: contain; }
+  .marcador .nombre-mc { flex: 1; min-width: 0; font-size: 1rem; overflow-wrap: anywhere; }
+  .marcador .fila-mc.nuestro .nombre-mc { font-weight: 800; }
+  .marcador .gol-num { font-size: 1.6rem; font-weight: 800; min-width: 32px; text-align: right; font-variant-numeric: tabular-nums; }
+
   /* Goleadores y tarjetas bajo cada resultado */
   .goles-caja { margin-top: 10px; padding-top: 8px; border-top: 1px dashed var(--linea); font-size: 0.86rem; }
   .goles-lado { margin: 3px 0; }

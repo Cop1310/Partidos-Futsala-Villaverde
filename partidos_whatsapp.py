@@ -439,6 +439,30 @@ def goles_y_tarjetas_de_acta(soup, marcador=None):
     return goles, tarjetas
 
 
+def escudos_de_acta(soup):
+    """(escudo_local, escudo_visitante): URL de la imagen del escudo de cada equipo, tal como
+    viene en la cabecera del marcador del acta: el mismo <a href="/equipo/ID"> que ya se usa
+    para leer el nombre de cada equipo trae también, dentro, su escudo en un <img> -no hace
+    falta ninguna petición extra. Se usa el mismo criterio que en goles_y_tarjetas_de_acta
+    (los dos primeros equipos distintos que aparecen en la página) para que el orden (local,
+    visitante) sea siempre el mismo que el de los goles/tarjetas. Si el acta no trae imagen
+    para alguno de los dos, se deja en None (la web ya cae entonces al círculo genérico)."""
+    urls, vistos = [], set()
+    for a in soup.find_all("a", href=re.compile(r"/equipo/\d+")):
+        nombre = a.get_text(" ", strip=True)
+        if not nombre or nombre in vistos:
+            continue
+        vistos.add(nombre)
+        img = a.find("img")
+        src = (img.get("src") or img.get("data-src")) if img else None
+        urls.append(urllib.parse.urljoin(BASE, src) if src else None)
+        if len(urls) == 2:
+            break
+    while len(urls) < 2:
+        urls.append(None)
+    return urls[0], urls[1]
+
+
 def _lado(nombre_acta, e):
     """'local' o 'visitante' según a qué equipo del partido corresponde `nombre_acta` (tal
     como viene escrito en el acta), comparando cuántas palabras tiene en común con el nombre
@@ -685,7 +709,9 @@ def completar_con_actas(estado, errores):
         sin_marcador = not e.get("resultado") and dias <= 10 and _ya_toca_mirar_acta(e, t)
         sin_hora = bool(e.get("resultado")) and not e.get("hora") and dias >= 0
         sin_goles = bool(e.get("resultado")) and not e.get("goles") and dias <= 10 and _ya_toca_mirar_acta(e, t)
-        if sin_marcador or sin_hora or sin_goles:
+        sin_escudo = not e.get("escudo_local") and not e.get("escudo_visitante") \
+            and dias <= 10 and _ya_toca_mirar_acta(e, t)
+        if sin_marcador or sin_hora or sin_goles or sin_escudo:
             pendientes.append(e)
     for e in pendientes[:25]:
         try:
@@ -702,6 +728,13 @@ def completar_con_actas(estado, errores):
             e["resultado"] = list(marcador)
         if hora and not e.get("hora"):
             e["hora"] = hora
+        if not e.get("escudo_local") and not e.get("escudo_visitante"):
+            try:
+                esc_local, esc_visitante = escudos_de_acta(soup_crudo)
+                if esc_local or esc_visitante:
+                    e["escudo_local"], e["escudo_visitante"] = esc_local, esc_visitante
+            except Exception as ex:
+                print(f"Aviso: no se pudieron leer los escudos de un acta: {ex}", file=sys.stderr)
         if e.get("resultado") and not e.get("goles"):
             try:
                 goles, tarjetas = goles_y_tarjetas_de_acta(soup_crudo, tuple(e["resultado"]))
@@ -1495,6 +1528,7 @@ def main():
                      "partidos": [
                          {"fecha": e["fecha"], "grupo": e["grupo"], "jornada": e.get("jornada"),
                           "local": limpiar_equipo(e["local"][1]), "visitante": limpiar_equipo(e["visitante"][1]),
+                          "escudo_local": e.get("escudo_local"), "escudo_visitante": e.get("escudo_visitante"),
                           "resultado": e.get("resultado"),
                           "goles": e.get("goles") or [], "tarjetas": e.get("tarjetas") or []}
                          for e in seleccion(estado, sab, True)
