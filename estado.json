@@ -234,6 +234,36 @@
      "pts": 9
     },
     {
+     "dg": 14,
+     "e": 1,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png?nova=1",
+     "g": 2,
+     "gc": 7,
+     "gf": 21,
+     "id": "18378416",
+     "nombre": "F.S. Diagonal A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 3,
+     "pos": 2,
+     "pts": 7
+    },
+    {
+     "dg": 6,
+     "e": 1,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012146202_logoadop.png?nova=1",
+     "g": 2,
+     "gc": 11,
+     "gf": 17,
+     "id": "17146989",
+     "nombre": "Obispo Perello A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 3,
+     "pos": 3,
+     "pts": 7
+    },
+    {
      "dg": 8,
      "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011972491_eurosiris.png?nova=1",
@@ -245,7 +275,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 2,
-     "pos": 2,
+     "pos": 4,
      "pts": 6
     },
     {
@@ -260,38 +290,8 @@
      "nuestro": true,
      "p": 0,
      "pj": 2,
-     "pos": 3,
-     "pts": 6
-    },
-    {
-     "dg": 5,
-     "e": 1,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012146202_logoadop.png?nova=1",
-     "g": 1,
-     "gc": 9,
-     "gf": 14,
-     "id": "17146989",
-     "nombre": "Obispo Perello A",
-     "nuestro": false,
-     "p": 0,
-     "pj": 2,
-     "pos": 4,
-     "pts": 4
-    },
-    {
-     "dg": 5,
-     "e": 1,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png?nova=1",
-     "g": 1,
-     "gc": 5,
-     "gf": 10,
-     "id": "18378416",
-     "nombre": "F.S. Diagonal A",
-     "nuestro": false,
-     "p": 0,
-     "pj": 2,
      "pos": 5,
-     "pts": 4
+     "pts": 6
     },
     {
      "dg": 3,
@@ -324,32 +324,32 @@
      "pts": 4
     },
     {
-     "dg": -1,
+     "dg": -2,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012167978_1988_JVK_AZUL__1_.png?nova=1",
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png?nova=1",
      "g": 1,
-     "gc": 6,
-     "gf": 5,
-     "id": "18734838",
-     "nombre": "Ciudad Villa de Vallecas F.S.",
+     "gc": 9,
+     "gf": 7,
+     "id": "18728976",
+     "nombre": "Andres Segovia-Mostoles A",
      "nuestro": false,
-     "p": 1,
-     "pj": 2,
+     "p": 2,
+     "pj": 3,
      "pos": 8,
      "pts": 3
     },
     {
-     "dg": -2,
+     "dg": -3,
      "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156631_Escudo_sin_fondo_AMPLIADO.png?nova=1",
      "g": 1,
-     "gc": 8,
-     "gf": 6,
+     "gc": 11,
+     "gf": 8,
      "id": "17146426",
      "nombre": "Casco Antiguo Carabanchel A",
      "nuestro": false,
-     "p": 1,
-     "pj": 2,
+     "p": 2,
+     "pj": 3,
      "pos": 9,
      "pts": 3
     },
@@ -369,6 +369,21 @@
      "pts": 3
     },
     {
+     "dg": -5,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012167978_1988_JVK_AZUL__1_.png?nova=1",
+     "g": 1,
+     "gc": 11,
+     "gf": 6,
+     "id": "18734838",
+     "nombre": "Ciudad Villa de Vallecas F.S.",
+     "nuestro": false,
+     "p": 2,
+     "pj": 3,
+     "pos": 11,
+     "pts": 3
+    },
+    {
      "dg": -1,
      "e": 1,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011611215_Logo.png?nova=1",
@@ -380,7 +395,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 2,
-     "pos": 11,
+     "pos": 12,
      "pts": 1
     },
     {
@@ -395,38 +410,8 @@
      "nuestro": false,
      "p": 1,
      "pj": 2,
-     "pos": 12,
-     "pts": 1
-    },
-    {
-     "dg": -5,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002354_ESCUDO_Rivas_Futsal.jpg?nova=1",
-     "g": 0,
-     "gc": 10,
-     "gf": 5,
-     "id": "17145583",
-     "nombre": "Rivas Futsal-Youfirst Smart Finace",
-     "nuestro": false,
-     "p": 2,
-     "pj": 2,
      "pos": 13,
-     "pts": 0
-    },
-    {
-     "dg": -6,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png?nova=1",
-     "g": 0,
-     "gc": 8,
-     "gf": 2,
-     "id": "18728976",
-     "nombre": "Andres Segovia-Mostoles A",
-     "nuestro": false,
-     "p": 2,
-     "pj": 2,
-     "pos": 14,
-     "pts": 0
+     "pts": 1
     },
     {
      "dg": -7,
@@ -440,7 +425,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 2,
-     "pos": 15,
+     "pos": 14,
      "pts": 0
     },
     {
@@ -455,11 +440,26 @@
      "nuestro": false,
      "p": 2,
      "pj": 2,
+     "pos": 15,
+     "pts": 0
+    },
+    {
+     "dg": -14,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002354_ESCUDO_Rivas_Futsal.jpg?nova=1",
+     "g": 0,
+     "gc": 21,
+     "gf": 7,
+     "id": "17145583",
+     "nombre": "Rivas Futsal-Youfirst Smart Finace",
+     "nuestro": false,
+     "p": 3,
+     "pj": 3,
      "pos": 16,
      "pts": 0
     }
    ],
-   "jornada": 2,
+   "jornada": 3,
    "titulo": "Tercera División FS Grupo 3"
   },
   "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas": {
@@ -667,6 +667,21 @@
   "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas": {
    "filas": [
     {
+     "dg": 6,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155576_ORIGINAL_VECTOR_1.png?nova=1",
+     "g": 2,
+     "gc": 5,
+     "gf": 11,
+     "id": "19361376",
+     "nombre": "San Jose de Valderas-Valderas F.S. A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 2,
+     "pos": 1,
+     "pts": 6
+    },
+    {
      "dg": 4,
      "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012219159_2026_Logo_Athletic_Mostoles.png?nova=1",
@@ -678,7 +693,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 1,
+     "pos": 2,
      "pts": 3
     },
     {
@@ -693,7 +708,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 2,
+     "pos": 3,
      "pts": 3
     },
     {
@@ -708,7 +723,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 3,
+     "pos": 4,
      "pts": 3
     },
     {
@@ -720,21 +735,6 @@
      "gf": 6,
      "id": "17151976",
      "nombre": "Club C.F.S. el Alamo B",
-     "nuestro": false,
-     "p": 0,
-     "pj": 1,
-     "pos": 4,
-     "pts": 3
-    },
-    {
-     "dg": 1,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155576_ORIGINAL_VECTOR_1.png?nova=1",
-     "g": 1,
-     "gc": 4,
-     "gf": 5,
-     "id": "19361376",
-     "nombre": "San Jose de Valderas-Valderas F.S. A",
      "nuestro": false,
      "p": 0,
      "pj": 1,
@@ -787,17 +787,17 @@
      "pts": 1
     },
     {
-     "dg": 0,
+     "dg": -5,
      "e": 1,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155770_3f6870fa_7e7b_452d_aad4_a8297489831d.png?nova=1",
      "g": 0,
-     "gc": 1,
-     "gf": 1,
+     "gc": 7,
+     "gf": 2,
      "id": "18728896",
      "nombre": "Fuenlabrada Futbol Sala A",
      "nuestro": false,
-     "p": 0,
-     "pj": 1,
+     "p": 1,
+     "pj": 2,
      "pos": 9,
      "pts": 1
     },
@@ -898,6 +898,21 @@
      "pts": 6
     },
     {
+     "dg": 7,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000013822_escudo_alcorcon.jpeg?nova=1",
+     "g": 2,
+     "gc": 8,
+     "gf": 15,
+     "id": "17146979",
+     "nombre": "Alcorcon F.S. B",
+     "nuestro": false,
+     "p": 1,
+     "pj": 3,
+     "pos": 2,
+     "pts": 6
+    },
+    {
      "dg": 6,
      "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002635_gkCLGWT2_400x400.jpg?nova=1",
@@ -909,7 +924,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 2,
-     "pos": 2,
+     "pos": 3,
      "pts": 6
     },
     {
@@ -924,7 +939,7 @@
      "nuestro": true,
      "p": 0,
      "pj": 2,
-     "pos": 3,
+     "pos": 4,
      "pts": 6
     },
     {
@@ -939,7 +954,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 2,
-     "pos": 4,
+     "pos": 5,
      "pts": 6
     },
     {
@@ -954,23 +969,8 @@
      "nuestro": false,
      "p": 0,
      "pj": 2,
-     "pos": 5,
-     "pts": 6
-    },
-    {
-     "dg": 6,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000013822_escudo_alcorcon.jpeg?nova=1",
-     "g": 1,
-     "gc": 6,
-     "gf": 12,
-     "id": "17146979",
-     "nombre": "Alcorcon F.S. B",
-     "nuestro": false,
-     "p": 1,
-     "pj": 2,
      "pos": 6,
-     "pts": 3
+     "pts": 6
     },
     {
      "dg": 5,
@@ -1005,21 +1005,6 @@
     {
      "dg": 1,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002987_escudo_udrb_definitivo_sin_linea_corte.jpg?nova=1",
-     "g": 1,
-     "gc": 8,
-     "gf": 9,
-     "id": "17145361",
-     "nombre": "Union Deportiva las Rozas Boadilla-Ast Tcnet",
-     "nuestro": false,
-     "p": 1,
-     "pj": 2,
-     "pos": 9,
-     "pts": 3
-    },
-    {
-     "dg": 1,
-     "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191063_Escudo_pinar_24_25.png?nova=1",
      "g": 1,
      "gc": 6,
@@ -1029,7 +1014,37 @@
      "nuestro": false,
      "p": 1,
      "pj": 2,
+     "pos": 9,
+     "pts": 3
+    },
+    {
+     "dg": -1,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002987_escudo_udrb_definitivo_sin_linea_corte.jpg?nova=1",
+     "g": 1,
+     "gc": 14,
+     "gf": 13,
+     "id": "17145361",
+     "nombre": "Union Deportiva las Rozas Boadilla-Ast Tcnet",
+     "nuestro": false,
+     "p": 2,
+     "pj": 3,
      "pos": 10,
+     "pts": 3
+    },
+    {
+     "dg": -2,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012168000_ESCUDO_LOPE.png?nova=1",
+     "g": 1,
+     "gc": 17,
+     "gf": 15,
+     "id": "22413229",
+     "nombre": "Lope de Vega A",
+     "nuestro": false,
+     "p": 2,
+     "pj": 3,
+     "pos": 11,
      "pts": 3
     },
     {
@@ -1044,7 +1059,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 2,
-     "pos": 11,
+     "pos": 12,
      "pts": 3
     },
     {
@@ -1056,21 +1071,6 @@
      "gf": 8,
      "id": "18378932",
      "nombre": "Club Arganda Futsal A",
-     "nuestro": false,
-     "p": 2,
-     "pj": 2,
-     "pos": 12,
-     "pts": 0
-    },
-    {
-     "dg": -4,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012168000_ESCUDO_LOPE.png?nova=1",
-     "g": 0,
-     "gc": 13,
-     "gf": 9,
-     "id": "22413229",
-     "nombre": "Lope de Vega A",
      "nuestro": false,
      "p": 2,
      "pj": 2,
@@ -1108,26 +1108,41 @@
      "pts": 0
     },
     {
-     "dg": -11,
+     "dg": -12,
      "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002354_ESCUDO_Rivas_Futsal.jpg?nova=1",
      "g": 0,
-     "gc": 14,
-     "gf": 3,
+     "gc": 17,
+     "gf": 5,
      "id": "18345002",
      "nombre": "Rivas Futsal-Youfirst Smart Finace A",
      "nuestro": false,
-     "p": 2,
-     "pj": 2,
+     "p": 3,
+     "pj": 3,
      "pos": 16,
      "pts": 0
     }
    ],
-   "jornada": 2,
+   "jornada": 3,
    "titulo": "Primera División Autonómica Juvenil FS Grupo Único"
   },
   "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas": {
    "filas": [
+    {
+     "dg": 9,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+     "g": 1,
+     "gc": 1,
+     "gf": 10,
+     "id": "25048394",
+     "nombre": "Futsala Villaverde",
+     "nuestro": true,
+     "p": 0,
+     "pj": 1,
+     "pos": 1,
+     "pts": 3
+    },
     {
      "dg": 2,
      "e": 0,
@@ -1140,7 +1155,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 1,
+     "pos": 2,
      "pts": 3
     },
     {
@@ -1155,7 +1170,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 2,
+     "pos": 3,
      "pts": 0
     },
     {
@@ -1170,7 +1185,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 3,
+     "pos": 4,
      "pts": 0
     },
     {
@@ -1185,7 +1200,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 4,
+     "pos": 5,
      "pts": 0
     },
     {
@@ -1200,7 +1215,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 5,
+     "pos": 6,
      "pts": 0
     },
     {
@@ -1215,37 +1230,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 6,
-     "pts": 0
-    },
-    {
-     "dg": 0,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012194834_Captura_de_pantalla_2026_07_20_081959.png?nova=1",
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
-     "id": "21999670",
-     "nombre": "Futsal Pinto-Grupo Egido",
-     "nuestro": false,
-     "p": 0,
-     "pj": 0,
      "pos": 7,
-     "pts": 0
-    },
-    {
-     "dg": 0,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
-     "id": "25048394",
-     "nombre": "Futsala Villaverde",
-     "nuestro": true,
-     "p": 0,
-     "pj": 0,
-     "pos": 8,
      "pts": 0
     },
     {
@@ -1260,7 +1245,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 9,
+     "pos": 8,
      "pts": 0
     },
     {
@@ -1275,6 +1260,21 @@
      "nuestro": false,
      "p": 1,
      "pj": 1,
+     "pos": 9,
+     "pts": 0
+    },
+    {
+     "dg": -9,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012194834_Captura_de_pantalla_2026_07_20_081959.png?nova=1",
+     "g": 0,
+     "gc": 10,
+     "gf": 1,
+     "id": "21999670",
+     "nombre": "Futsal Pinto-Grupo Egido",
+     "nuestro": false,
+     "p": 1,
+     "pj": 1,
      "pos": 10,
      "pts": 0
     }
@@ -1284,6 +1284,21 @@
   },
   "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas": {
    "filas": [
+    {
+     "dg": 8,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000003683_futsala_pinto.jpg?nova=1",
+     "g": 1,
+     "gc": 1,
+     "gf": 9,
+     "id": "18613589",
+     "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 1,
+     "pos": 1,
+     "pts": 3
+    },
     {
      "dg": 3,
      "e": 0,
@@ -1296,7 +1311,37 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 1,
+     "pos": 2,
+     "pts": 3
+    },
+    {
+     "dg": 2,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002635_gkCLGWT2_400x400.jpg?nova=1",
+     "g": 1,
+     "gc": 4,
+     "gf": 6,
+     "id": "17149558",
+     "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles B",
+     "nuestro": false,
+     "p": 0,
+     "pj": 1,
+     "pos": 3,
+     "pts": 3
+    },
+    {
+     "dg": 1,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+     "g": 1,
+     "gc": 4,
+     "gf": 5,
+     "id": "26731723",
+     "nombre": "Futsala Villaverde",
+     "nuestro": true,
+     "p": 0,
+     "pj": 1,
+     "pos": 4,
      "pts": 3
     },
     {
@@ -1311,97 +1356,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 2,
-     "pts": 0
-    },
-    {
-     "dg": 0,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png?nova=1",
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
-     "id": "24706419",
-     "nombre": "Club Arganda Futsal B",
-     "nuestro": false,
-     "p": 0,
-     "pj": 0,
-     "pos": 3,
-     "pts": 0
-    },
-    {
-     "dg": 0,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011743910_Escudo___baco_FS.jpg?nova=1",
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
-     "id": "27509809",
-     "nombre": "Colegio Abaco (FS) A",
-     "nuestro": false,
-     "p": 0,
-     "pj": 0,
-     "pos": 4,
-     "pts": 0
-    },
-    {
-     "dg": 0,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png?nova=1",
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
-     "id": "18377870",
-     "nombre": "F.S. Diagonal",
-     "nuestro": false,
-     "p": 0,
-     "pj": 0,
      "pos": 5,
-     "pts": 0
-    },
-    {
-     "dg": 0,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000003683_futsala_pinto.jpg?nova=1",
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
-     "id": "18613589",
-     "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
-     "nuestro": false,
-     "p": 0,
-     "pj": 0,
-     "pos": 6,
-     "pts": 0
-    },
-    {
-     "dg": 0,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
-     "id": "26731723",
-     "nombre": "Futsala Villaverde",
-     "nuestro": true,
-     "p": 0,
-     "pj": 0,
-     "pos": 7,
-     "pts": 0
-    },
-    {
-     "dg": 0,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002635_gkCLGWT2_400x400.jpg?nova=1",
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
-     "id": "17149558",
-     "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles B",
-     "nuestro": false,
-     "p": 0,
-     "pj": 0,
-     "pos": 8,
      "pts": 0
     },
     {
@@ -1416,7 +1371,37 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 9,
+     "pos": 6,
+     "pts": 0
+    },
+    {
+     "dg": -1,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011743910_Escudo___baco_FS.jpg?nova=1",
+     "g": 0,
+     "gc": 5,
+     "gf": 4,
+     "id": "27509809",
+     "nombre": "Colegio Abaco (FS) A",
+     "nuestro": false,
+     "p": 1,
+     "pj": 1,
+     "pos": 7,
+     "pts": 0
+    },
+    {
+     "dg": -2,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png?nova=1",
+     "g": 0,
+     "gc": 6,
+     "gf": 4,
+     "id": "24706419",
+     "nombre": "Club Arganda Futsal B",
+     "nuestro": false,
+     "p": 1,
+     "pj": 1,
+     "pos": 8,
      "pts": 0
     },
     {
@@ -1428,6 +1413,21 @@
      "gf": 2,
      "id": "24800380",
      "nombre": "Sport Latina-Em Aluche FS",
+     "nuestro": false,
+     "p": 1,
+     "pj": 1,
+     "pos": 9,
+     "pts": 0
+    },
+    {
+     "dg": -8,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png?nova=1",
+     "g": 0,
+     "gc": 9,
+     "gf": 1,
+     "id": "18377870",
+     "nombre": "F.S. Diagonal",
      "nuestro": false,
      "p": 1,
      "pj": 1,
@@ -2410,7 +2410,10 @@
     8,
     7
    ],
-   "resultado": null,
+   "resultado": [
+    10,
+    1
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas",
    "visitante": [
     "21999670",
@@ -2518,7 +2521,10 @@
     7,
     4
    ],
-   "resultado": null,
+   "resultado": [
+    5,
+    4
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas",
    "visitante": [
     "27509809",
