@@ -219,6 +219,21 @@
   "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas": {
    "filas": [
     {
+     "dg": 7,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011024048_escudo.jpg?nova=1",
+     "g": 3,
+     "gc": 5,
+     "gf": 12,
+     "id": "21476533",
+     "nombre": "Agrupacion Auto-Escuela Simancas-Dynavin A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 3,
+     "pos": 1,
+     "pts": 9
+    },
+    {
      "dg": 8,
      "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011972491_eurosiris.png?nova=1",
@@ -230,7 +245,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 2,
-     "pos": 1,
+     "pos": 2,
      "pts": 6
     },
     {
@@ -243,21 +258,6 @@
      "id": "17149145",
      "nombre": "Futsala Villaverde A",
      "nuestro": true,
-     "p": 0,
-     "pj": 2,
-     "pos": 2,
-     "pts": 6
-    },
-    {
-     "dg": 3,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011024048_escudo.jpg?nova=1",
-     "g": 2,
-     "gc": 2,
-     "gf": 5,
-     "id": "21476533",
-     "nombre": "Agrupacion Auto-Escuela Simancas-Dynavin A",
-     "nuestro": false,
      "p": 0,
      "pj": 2,
      "pos": 3,
@@ -294,21 +294,6 @@
      "pts": 4
     },
     {
-     "dg": 5,
-     "e": 1,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg?nova=1",
-     "g": 1,
-     "gc": 4,
-     "gf": 9,
-     "id": "21476719",
-     "nombre": "Atletico Trabenco Zarzaquemada A",
-     "nuestro": false,
-     "p": 0,
-     "pj": 2,
-     "pos": 6,
-     "pts": 4
-    },
-    {
      "dg": 3,
      "e": 1,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191063_Escudo_pinar_24_25.png?nova=1",
@@ -320,6 +305,21 @@
      "nuestro": false,
      "p": 0,
      "pj": 2,
+     "pos": 6,
+     "pts": 4
+    },
+    {
+     "dg": 1,
+     "e": 1,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg?nova=1",
+     "g": 1,
+     "gc": 11,
+     "gf": 12,
+     "id": "21476719",
+     "nombre": "Atletico Trabenco Zarzaquemada A",
+     "nuestro": false,
+     "p": 1,
+     "pj": 3,
      "pos": 7,
      "pts": 4
     },
@@ -1129,19 +1129,19 @@
   "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas": {
    "filas": [
     {
-     "dg": 0,
+     "dg": 2,
      "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002481_escudo.jpg?nova=1",
-     "g": 0,
+     "g": 1,
      "gc": 0,
-     "gf": 0,
+     "gf": 2,
      "id": "17155835",
      "nombre": "Sport Sala 12",
      "nuestro": false,
      "p": 0,
-     "pj": 0,
+     "pj": 1,
      "pos": 1,
-     "pts": 0
+     "pts": 3
     },
     {
      "dg": 0,
@@ -1161,21 +1161,6 @@
     {
      "dg": 0,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014223772_escudo.png?nova=1",
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
-     "id": "27737683",
-     "nombre": "Butarque Futsal-Hellotickets.Es",
-     "nuestro": false,
-     "p": 0,
-     "pj": 0,
-     "pos": 3,
-     "pts": 0
-    },
-    {
-     "dg": 0,
-     "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012201397_file_00000000a85c71f4839b575aeb6b1e33.png?nova=1",
      "g": 0,
      "gc": 0,
@@ -1185,7 +1170,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 4,
+     "pos": 3,
      "pts": 0
     },
     {
@@ -1200,7 +1185,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 5,
+     "pos": 4,
      "pts": 0
     },
     {
@@ -1215,7 +1200,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 6,
+     "pos": 5,
      "pts": 0
     },
     {
@@ -1230,7 +1215,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 7,
+     "pos": 6,
      "pts": 0
     },
     {
@@ -1245,7 +1230,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 8,
+     "pos": 7,
      "pts": 0
     },
     {
@@ -1260,7 +1245,7 @@
      "nuestro": true,
      "p": 0,
      "pj": 0,
-     "pos": 9,
+     "pos": 8,
      "pts": 0
     },
     {
@@ -1275,6 +1260,21 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
+     "pos": 9,
+     "pts": 0
+    },
+    {
+     "dg": -2,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014223772_escudo.png?nova=1",
+     "g": 0,
+     "gc": 2,
+     "gf": 0,
+     "id": "27737683",
+     "nombre": "Butarque Futsal-Hellotickets.Es",
+     "nuestro": false,
+     "p": 1,
+     "pj": 1,
      "pos": 10,
      "pts": 0
     }
@@ -1285,19 +1285,19 @@
   "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas": {
    "filas": [
     {
-     "dg": 0,
+     "dg": 3,
      "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000013822_escudo_alcorcon.jpeg?nova=1",
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
+     "g": 1,
+     "gc": 2,
+     "gf": 5,
      "id": "17145797",
      "nombre": "Alcorcon F.S. A",
      "nuestro": false,
      "p": 0,
-     "pj": 0,
+     "pj": 1,
      "pos": 1,
-     "pts": 0
+     "pts": 3
     },
     {
      "dg": 0,
@@ -1317,21 +1317,6 @@
     {
      "dg": 0,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011928988_Escudo_Nuevo_Aluche_FS___Azul_y_Coral.jpg?nova=1",
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
-     "id": "24800380",
-     "nombre": "Sport Latina-Em Aluche FS",
-     "nuestro": false,
-     "p": 0,
-     "pj": 0,
-     "pos": 3,
-     "pts": 0
-    },
-    {
-     "dg": 0,
-     "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png?nova=1",
      "g": 0,
      "gc": 0,
@@ -1341,7 +1326,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 4,
+     "pos": 3,
      "pts": 0
     },
     {
@@ -1356,7 +1341,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 5,
+     "pos": 4,
      "pts": 0
     },
     {
@@ -1371,7 +1356,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 6,
+     "pos": 5,
      "pts": 0
     },
     {
@@ -1386,7 +1371,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 7,
+     "pos": 6,
      "pts": 0
     },
     {
@@ -1401,7 +1386,7 @@
      "nuestro": true,
      "p": 0,
      "pj": 0,
-     "pos": 8,
+     "pos": 7,
      "pts": 0
     },
     {
@@ -1416,7 +1401,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
-     "pos": 9,
+     "pos": 8,
      "pts": 0
     },
     {
@@ -1431,6 +1416,21 @@
      "nuestro": false,
      "p": 0,
      "pj": 0,
+     "pos": 9,
+     "pts": 0
+    },
+    {
+     "dg": -3,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011928988_Escudo_Nuevo_Aluche_FS___Azul_y_Coral.jpg?nova=1",
+     "g": 0,
+     "gc": 5,
+     "gf": 2,
+     "id": "24800380",
+     "nombre": "Sport Latina-Em Aluche FS",
+     "nuestro": false,
+     "p": 1,
+     "pj": 1,
      "pos": 10,
      "pts": 0
     }
@@ -2406,7 +2406,10 @@
     "25048394",
     "FUTSALA VILLAVERDE"
    ],
-   "pos": null,
+   "pos": [
+    8,
+    7
+   ],
    "resultado": null,
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas",
    "visitante": [
@@ -2511,7 +2514,10 @@
     "26731723",
     "FUTSALA VILLAVERDE"
    ],
-   "pos": null,
+   "pos": [
+    7,
+    4
+   ],
    "resultado": null,
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas",
    "visitante": [
