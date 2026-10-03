@@ -3,19 +3,19 @@
   "https://www.elbalondemadrid.es/competicion/26738218/grupo/26738219/jornadas": {
    "filas": [
     {
-     "dg": 7,
+     "dg": 8,
      "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
-     "g": 1,
-     "gc": 0,
-     "gf": 7,
+     "g": 2,
+     "gc": 2,
+     "gf": 10,
      "id": "18694124",
      "nombre": "Futsala Villaverde",
      "nuestro": true,
      "p": 0,
-     "pj": 1,
+     "pj": 2,
      "pos": 1,
-     "pts": 3
+     "pts": 6
     },
     {
      "dg": 6,
@@ -155,21 +155,6 @@
     {
      "dg": -3,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png?nova=1",
-     "g": 0,
-     "gc": 4,
-     "gf": 1,
-     "id": "18406052",
-     "nombre": "El Valle A",
-     "nuestro": false,
-     "p": 1,
-     "pj": 1,
-     "pos": 11,
-     "pts": 0
-    },
-    {
-     "dg": -3,
-     "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155442_escudo_torrejon_FIVE_PLAY_sala.jpg?nova=1",
      "g": 0,
      "gc": 3,
@@ -179,6 +164,21 @@
      "nuestro": false,
      "p": 1,
      "pj": 1,
+     "pos": 11,
+     "pts": 0
+    },
+    {
+     "dg": -4,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png?nova=1",
+     "g": 0,
+     "gc": 7,
+     "gf": 3,
+     "id": "18406052",
+     "nombre": "El Valle A",
+     "nuestro": false,
+     "p": 2,
+     "pj": 2,
      "pos": 12,
      "pts": 0
     },
@@ -213,7 +213,7 @@
      "pts": 0
     }
    ],
-   "jornada": 1,
+   "jornada": 2,
    "titulo": "Primera División Autonómica Femenino FS Grupo Único"
   },
   "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas": {
@@ -264,6 +264,21 @@
      "pts": 7
     },
     {
+     "dg": 5,
+     "e": 1,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191063_Escudo_pinar_24_25.png?nova=1",
+     "g": 2,
+     "gc": 9,
+     "gf": 14,
+     "id": "19128829",
+     "nombre": "Pinar de San Jose-Alcorcon A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 3,
+     "pos": 4,
+     "pts": 7
+    },
+    {
      "dg": 8,
      "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011972491_eurosiris.png?nova=1",
@@ -275,38 +290,23 @@
      "nuestro": false,
      "p": 0,
      "pj": 2,
-     "pos": 4,
-     "pts": 6
-    },
-    {
-     "dg": 8,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
-     "g": 2,
-     "gc": 3,
-     "gf": 11,
-     "id": "17149145",
-     "nombre": "Futsala Villaverde A",
-     "nuestro": true,
-     "p": 0,
-     "pj": 2,
      "pos": 5,
      "pts": 6
     },
     {
-     "dg": 3,
-     "e": 1,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191063_Escudo_pinar_24_25.png?nova=1",
-     "g": 1,
+     "dg": 6,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+     "g": 2,
      "gc": 7,
-     "gf": 10,
-     "id": "19128829",
-     "nombre": "Pinar de San Jose-Alcorcon A",
-     "nuestro": false,
-     "p": 0,
-     "pj": 2,
+     "gf": 13,
+     "id": "17149145",
+     "nombre": "Futsala Villaverde A",
+     "nuestro": true,
+     "p": 1,
+     "pj": 3,
      "pos": 6,
-     "pts": 4
+     "pts": 6
     },
     {
      "dg": 1,
@@ -667,6 +667,21 @@
   "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas": {
    "filas": [
     {
+     "dg": 7,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011730007_ESCUDO_OFICIAL_ok.png?nova=1",
+     "g": 2,
+     "gc": 7,
+     "gf": 14,
+     "id": "17151976",
+     "nombre": "Club C.F.S. el Alamo B",
+     "nuestro": false,
+     "p": 0,
+     "pj": 2,
+     "pos": 1,
+     "pts": 6
+    },
+    {
      "dg": 6,
      "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155576_ORIGINAL_VECTOR_1.png?nova=1",
@@ -678,7 +693,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 2,
-     "pos": 1,
+     "pos": 2,
      "pts": 6
     },
     {
@@ -693,7 +708,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 2,
+     "pos": 3,
      "pts": 3
     },
     {
@@ -708,7 +723,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 3,
+     "pos": 4,
      "pts": 3
     },
     {
@@ -720,21 +735,6 @@
      "gf": 5,
      "id": "17210062",
      "nombre": "Futsal Pinto-Grupo Egido",
-     "nuestro": false,
-     "p": 0,
-     "pj": 1,
-     "pos": 4,
-     "pts": 3
-    },
-    {
-     "dg": 2,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011730007_ESCUDO_OFICIAL_ok.png?nova=1",
-     "g": 1,
-     "gc": 4,
-     "gf": 6,
-     "id": "17151976",
-     "nombre": "Club C.F.S. el Alamo B",
      "nuestro": false,
      "p": 0,
      "pj": 1,
@@ -787,6 +787,36 @@
      "pts": 1
     },
     {
+     "dg": -1,
+     "e": 1,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156631_Escudo_sin_fondo_AMPLIADO.png?nova=1",
+     "g": 0,
+     "gc": 8,
+     "gf": 7,
+     "id": "17145360",
+     "nombre": "Casco Antiguo Carabanchel B",
+     "nuestro": false,
+     "p": 1,
+     "pj": 2,
+     "pos": 9,
+     "pts": 1
+    },
+    {
+     "dg": -3,
+     "e": 1,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011611215_Logo.png?nova=1",
+     "g": 0,
+     "gc": 8,
+     "gf": 5,
+     "id": "17156293",
+     "nombre": "Sporting las Aguilas de Madrid-Mercado las Aguilas B",
+     "nuestro": false,
+     "p": 1,
+     "pj": 2,
+     "pos": 10,
+     "pts": 1
+    },
+    {
      "dg": -5,
      "e": 1,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155770_3f6870fa_7e7b_452d_aad4_a8297489831d.png?nova=1",
@@ -798,23 +828,8 @@
      "nuestro": false,
      "p": 1,
      "pj": 2,
-     "pos": 9,
+     "pos": 11,
      "pts": 1
-    },
-    {
-     "dg": -1,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156631_Escudo_sin_fondo_AMPLIADO.png?nova=1",
-     "g": 0,
-     "gc": 5,
-     "gf": 4,
-     "id": "17145360",
-     "nombre": "Casco Antiguo Carabanchel B",
-     "nuestro": false,
-     "p": 1,
-     "pj": 1,
-     "pos": 10,
-     "pts": 0
     },
     {
      "dg": -2,
@@ -825,21 +840,6 @@
      "gf": 4,
      "id": "21493878",
      "nombre": "Club Escuela Deportiva Manila-Estrellas A",
-     "nuestro": false,
-     "p": 1,
-     "pj": 1,
-     "pos": 11,
-     "pts": 0
-    },
-    {
-     "dg": -3,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011611215_Logo.png?nova=1",
-     "g": 0,
-     "gc": 5,
-     "gf": 2,
-     "id": "17156293",
-     "nombre": "Sporting las Aguilas de Madrid-Mercado las Aguilas B",
      "nuestro": false,
      "p": 1,
      "pj": 1,
@@ -862,22 +862,22 @@
      "pts": 0
     },
     {
-     "dg": -4,
+     "dg": -9,
      "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011731505_Escudo_EDB_Original_copia.png?nova=1",
      "g": 0,
-     "gc": 4,
-     "gf": 0,
+     "gc": 12,
+     "gf": 3,
      "id": "18583719",
      "nombre": "Escuela Deportiva Brunete",
      "nuestro": false,
-     "p": 1,
-     "pj": 1,
+     "p": 2,
+     "pj": 2,
      "pos": 14,
      "pts": 0
     }
    ],
-   "jornada": 1,
+   "jornada": 2,
    "titulo": "Primera División Autonómica Aficionado FS Grupo 1"
   },
   "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas": {
@@ -1947,7 +1947,10 @@
     7,
     2
    ],
-   "resultado": null,
+   "resultado": [
+    4,
+    2
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas",
    "visitante": [
     "17149145",
@@ -2386,7 +2389,10 @@
     11,
     1
    ],
-   "resultado": null,
+   "resultado": [
+    2,
+    3
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738218/grupo/26738219/jornadas",
    "visitante": [
     "18694124",
@@ -2510,6 +2516,80 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011743910_Escudo___baco_FS.jpg?nova=1",
    "fecha": "2026-10-03",
+   "goles": [
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "IKER PEREZ FERNÁNDEZ DE MERA",
+     "lado": "local",
+     "minuto": 6,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "DAKIR AKASBI TACHFIN",
+     "lado": "local",
+     "minuto": 19,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "IKER PEREZ FERNÁNDEZ DE MERA",
+     "lado": "local",
+     "minuto": 35,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "BRUNO ALVAREZ MACIEL",
+     "lado": "local",
+     "minuto": 37,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "DAVID MAGAN VICENTE",
+     "lado": "local",
+     "minuto": 38,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "COLEGIO ABACO (FS) 'A'",
+     "jugador": "DIEGO BERROCAL ROBLES",
+     "lado": "visitante",
+     "minuto": 12,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "COLEGIO ABACO (FS) 'A'",
+     "jugador": "MARTÍN PUENTE CUENCA",
+     "lado": "visitante",
+     "minuto": 21,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "COLEGIO ABACO (FS) 'A'",
+     "jugador": "JACOBO LASSO MONDRAGÓN",
+     "lado": "visitante",
+     "minuto": 43,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "COLEGIO ABACO (FS) 'A'",
+     "jugador": "ÓLIVER MARTÍN SÁNCHEZ",
+     "lado": "visitante",
+     "minuto": 44,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Benjamín 1ª Fase FS Grupo 4",
    "hora": "11:00",
    "jornada": 1,
@@ -2525,6 +2605,7 @@
     5,
     4
    ],
+   "tarjetas": [],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas",
    "visitante": [
     "27509809",
@@ -2621,6 +2702,40 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011730788_escudo_futsal.jpeg",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
    "fecha": "2026-10-03",
+   "goles": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "MIGUEL URREA JURADO",
+     "lado": "visitante",
+     "minuto": 1,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "MIGUEL GOMEZ RUIZ",
+     "lado": "visitante",
+     "minuto": 3,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "CARLOS BAUTISTA CODESO",
+     "lado": "visitante",
+     "minuto": 14,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "CARLOS BAUTISTA CODESO",
+     "lado": "visitante",
+     "minuto": 41,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Primera Juvenil FS Grupo 5",
    "hora": "19:45",
    "jornada": 1,
@@ -2629,7 +2744,11 @@
     "C.S.D. PARQUE DE LISBOA FUTSAL"
    ],
    "pos": null,
-   "resultado": null,
+   "resultado": [
+    0,
+    4
+   ],
+   "tarjetas": [],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
    "visitante": [
     "21727163",
