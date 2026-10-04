@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-03 23:58",
+  "generado": "2026-10-04 13:32",
   "desde": "2026-10-03",
   "hasta": "2026-10-04",
   "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 03/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *11:00h* - Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 1_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(7º)* *_Futsala Villaverde_* - *(4º)* Colegio Abaco (FS) A\n\n⏰ *12:00h* - Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 1_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(8º)* *_Futsala Villaverde_* - *(7º)* Futsal Pinto-Grupo Egido\n\n⏰ *19:00h* - Primera División Autonómica Femenino FS Grupo Único\n📌 _Jornada 2_\n📍 Pabellón: Polid. Colegio el Valle Sanchinarro\n⚽ *(11º)* El Valle A - *(1º)* *_Futsala Villaverde_*\n\n⏰ *19:45h* - Primera Juvenil FS Grupo 5\n📌 _Jornada 1_\n📍 Pabellón: Alcorcon - P.M. Santo Domingo Pista 6\n⚽ C.S.D. Parque de Lisboa Futsal - *_Futsala Villaverde B_*\n\n⏰ *20:00h* - Tercera División FS Grupo 3\n📌 _Jornada 3_\n📍 Pabellón: Alcorcon - P.M. M-4 Mª Jose Calero\n⚽ *(7º)* Pinar de San Jose-Alcorcon A - *(2º)* *_Futsala Villaverde A_*\n\n━━━━━━━━━━━━━━━━\n📅 *DOMINGO 04/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *15:30h* - Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 2_\n📍 Pabellón: Fuenlabrada - P.M. el Trigal\n⚽ *(13º)* Winter Squad - *(7º)* *_Futsala Villaverde B_*\n\n⏰ *18:30h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(3º)* *_Futsala Villaverde A_* - *(1º)* Futsala Pinto-Escuela Patri Chamorro A",
@@ -40,6 +40,11 @@
     {
       "sabado": "2026-10-24",
       "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Tercera División FS Grupo 3\n📌 _Jornada 6_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde A_* - F.S. Diagonal A\n\n🏆 Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 5_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde B_* - Futsal Pinto-Grupo Egido\n\n🏆 Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 3_\n📍 Pabellón: Leganes - P.M. la Fortuna\n⚽ Butarque Futsal-Hellotickets.Es - *_Futsala Villaverde_*\n\n🏆 Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde_* - Mrb F.S. Mostoles-Ciudad de Mostoles B\n\n🏆 Primera Juvenil FS Grupo 5\n📌 _Jornada 3_\n📍 Pabellón: Parla - P.M. el Nido\n⚽ F.S. Diagonal C - *_Futsala Villaverde B_*",
+      "resultados": ""
+    },
+    {
+      "sabado": "2026-10-31",
+      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 31/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *19:30h* - Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 6_\n📍 Pabellón: P.M. la Mina\n⚽ Casco Antiguo Carabanchel B - *_Futsala Villaverde B_*",
       "resultados": ""
     },
     {
@@ -761,8 +766,8 @@
           "jornada": 1,
           "local": "Futsala Villaverde",
           "visitante": "Futsal Pinto-Grupo Egido",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012194834_Captura_de_pantalla_2026_07_20_081959.png?nova=1",
+          "escudo_local": null,
+          "escudo_visitante": null,
           "resultado": [
             10,
             1
@@ -782,8 +787,71 @@
             2,
             3
           ],
-          "goles": [],
-          "tarjetas": []
+          "goles": [
+            {
+              "minuto": 34,
+              "jugador": "PATRICIA MARTINEZ QUINTERO",
+              "equipo": "C.D.E. EL VALLE 'A'",
+              "penalti": false,
+              "propia": false,
+              "lado": "local"
+            },
+            {
+              "minuto": 34,
+              "jugador": "LAURA PULIDO ALVAREZ",
+              "equipo": "C.D.E. EL VALLE 'A'",
+              "penalti": false,
+              "propia": false,
+              "lado": "local"
+            },
+            {
+              "minuto": 26,
+              "jugador": "MARIA DEL CARMEN DE INES CARAMAZANA",
+              "equipo": "FUTSALA VILLAVERDE",
+              "penalti": false,
+              "propia": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 29,
+              "jugador": "MARTA CASTAÑON TERAN",
+              "equipo": "FUTSALA VILLAVERDE",
+              "penalti": false,
+              "propia": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 39,
+              "jugador": "MARTA CASTAÑON TERAN",
+              "equipo": "FUTSALA VILLAVERDE",
+              "penalti": false,
+              "propia": false,
+              "lado": "visitante"
+            }
+          ],
+          "tarjetas": [
+            {
+              "minuto": 8,
+              "jugador": "ALICIA BREA GIL",
+              "equipo": "FUTSALA VILLAVERDE",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            },
+            {
+              "minuto": 19,
+              "jugador": "SOFIA FERNANDEZ NIETO",
+              "equipo": "FUTSALA VILLAVERDE",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            },
+            {
+              "minuto": 29,
+              "jugador": "MARTA CASTAÑON TERAN",
+              "equipo": "FUTSALA VILLAVERDE",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            }
+          ]
         },
         {
           "fecha": "2026-10-03",
@@ -799,36 +867,36 @@
           ],
           "goles": [
             {
-              "minuto": 1,
+              "equipo": "FUTSALA VILLAVERDE 'B'",
               "jugador": "MIGUEL URREA JURADO",
-              "equipo": "FUTSALA VILLAVERDE 'B'",
+              "lado": "visitante",
+              "minuto": 1,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 3,
+              "equipo": "FUTSALA VILLAVERDE 'B'",
               "jugador": "MIGUEL GOMEZ RUIZ",
-              "equipo": "FUTSALA VILLAVERDE 'B'",
+              "lado": "visitante",
+              "minuto": 3,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
+              "equipo": "FUTSALA VILLAVERDE 'B'",
+              "jugador": "CARLOS BAUTISTA CODESO",
+              "lado": "visitante",
               "minuto": 14,
-              "jugador": "CARLOS BAUTISTA CODESO",
-              "equipo": "FUTSALA VILLAVERDE 'B'",
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 41,
-              "jugador": "CARLOS BAUTISTA CODESO",
               "equipo": "FUTSALA VILLAVERDE 'B'",
+              "jugador": "CARLOS BAUTISTA CODESO",
+              "lado": "visitante",
+              "minuto": 41,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             }
           ],
           "tarjetas": []
@@ -845,8 +913,79 @@
             4,
             2
           ],
-          "goles": [],
-          "tarjetas": []
+          "goles": [
+            {
+              "minuto": 7,
+              "jugador": "ALBERTO JIMENO RODRÍGUEZ",
+              "equipo": "C.D.E. PINAR DE SAN JOSE - ALCORCON 'A'",
+              "penalti": false,
+              "propia": false,
+              "lado": "local"
+            },
+            {
+              "minuto": 17,
+              "jugador": "ALBERTO JIMENO RODRÍGUEZ",
+              "equipo": "C.D.E. PINAR DE SAN JOSE - ALCORCON 'A'",
+              "penalti": false,
+              "propia": false,
+              "lado": "local"
+            },
+            {
+              "minuto": 30,
+              "jugador": "SNUR HAWRE SOTO",
+              "equipo": "C.D.E. PINAR DE SAN JOSE - ALCORCON 'A'",
+              "penalti": false,
+              "propia": false,
+              "lado": "local"
+            },
+            {
+              "minuto": 38,
+              "jugador": "SNUR HAWRE SOTO",
+              "equipo": "C.D.E. PINAR DE SAN JOSE - ALCORCON 'A'",
+              "penalti": false,
+              "propia": false,
+              "lado": "local"
+            },
+            {
+              "minuto": 23,
+              "jugador": "KRYSTIAN fraczyk",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "penalti": false,
+              "propia": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 30,
+              "jugador": "ALVARO LORENZO FERNANDEZ",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "penalti": false,
+              "propia": false,
+              "lado": "visitante"
+            }
+          ],
+          "tarjetas": [
+            {
+              "minuto": 5,
+              "jugador": "KRYSTIAN fraczyk",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            },
+            {
+              "minuto": 23,
+              "jugador": "JOSE CEBRIAN ROMERO",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            },
+            {
+              "minuto": 39,
+              "jugador": "RUBEN RODRIGUEZ ORTIZ",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            }
+          ]
         }
       ]
     },
@@ -860,6 +999,10 @@
     },
     {
       "sabado": "2026-10-24",
+      "partidos": []
+    },
+    {
+      "sabado": "2026-10-31",
       "partidos": []
     },
     {
@@ -954,8 +1097,8 @@
           "jornada": 1,
           "local": "Futsala Villaverde",
           "visitante": "Futsal Pinto-Grupo Egido",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012194834_Captura_de_pantalla_2026_07_20_081959.png?nova=1"
+          "escudo_local": null,
+          "escudo_visitante": null
         },
         {
           "fecha": "2026-10-03",
@@ -990,8 +1133,8 @@
           "jornada": 2,
           "local": "Winter Squad",
           "visitante": "Futsala Villaverde B",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012056915_WS.png?nova=1",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_local": null,
+          "escudo_visitante": null
         },
         {
           "fecha": "2026-10-04",
@@ -1124,6 +1267,20 @@
           "visitante": "Futsala Villaverde B",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png?nova=1",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1"
+        }
+      ]
+    },
+    {
+      "sabado": "2026-10-31",
+      "partidos": [
+        {
+          "fecha": "2026-10-31",
+          "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
+          "jornada": 6,
+          "local": "Casco Antiguo Carabanchel B",
+          "visitante": "Futsala Villaverde B",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156631_Escudo_sin_fondo_AMPLIADO.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
         }
       ]
     },
@@ -1334,16 +1491,16 @@
         },
         {
           "pos": 10,
-          "id": "18439661",
-          "nombre": "Club Arganda Futsal-Albero-Mudanzas Segoviana A",
+          "id": "18310655",
+          "nombre": "Sporting Morata F.S. A",
           "nuestro": false,
-          "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png?nova=1",
-          "pj": 2,
+          "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012203154_ChatGPT_Image_17_jul_2026__01_40_48.png?nova=1",
+          "pj": 3,
           "g": 1,
           "e": 0,
-          "p": 1,
-          "gf": 4,
-          "gc": 8,
+          "p": 2,
+          "gf": 9,
+          "gc": 13,
           "dg": -4,
           "pts": 3
         },
@@ -1364,6 +1521,21 @@
         },
         {
           "pos": 12,
+          "id": "18439661",
+          "nombre": "Club Arganda Futsal-Albero-Mudanzas Segoviana A",
+          "nuestro": false,
+          "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png?nova=1",
+          "pj": 3,
+          "g": 1,
+          "e": 0,
+          "p": 2,
+          "gf": 5,
+          "gc": 12,
+          "dg": -7,
+          "pts": 3
+        },
+        {
+          "pos": 13,
           "id": "19115935",
           "nombre": "Sporting las Aguilas de Madrid-Parisat A",
           "nuestro": false,
@@ -1378,7 +1550,7 @@
           "pts": 1
         },
         {
-          "pos": 13,
+          "pos": 14,
           "id": "18788907",
           "nombre": "Don P'Alpie Aranjuez F.S.- Cafeteria la Tacita",
           "nuestro": false,
@@ -1391,21 +1563,6 @@
           "gc": 7,
           "dg": -2,
           "pts": 1
-        },
-        {
-          "pos": 14,
-          "id": "18310655",
-          "nombre": "Sporting Morata F.S. A",
-          "nuestro": false,
-          "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012203154_ChatGPT_Image_17_jul_2026__01_40_48.png?nova=1",
-          "pj": 2,
-          "g": 0,
-          "e": 0,
-          "p": 2,
-          "gf": 5,
-          "gc": 12,
-          "dg": -7,
-          "pts": 0
         },
         {
           "pos": 15,
@@ -1663,6 +1820,21 @@
       "filas": [
         {
           "pos": 1,
+          "id": "17148272",
+          "nombre": "Ad Collado-Villalba-Cobiosa A",
+          "nuestro": false,
+          "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011730757_escudo_club_sin_fondo.png?nova=1",
+          "pj": 2,
+          "g": 2,
+          "e": 0,
+          "p": 0,
+          "gf": 11,
+          "gc": 1,
+          "dg": 10,
+          "pts": 6
+        },
+        {
+          "pos": 2,
           "id": "18694124",
           "nombre": "Futsala Villaverde",
           "nuestro": true,
@@ -1677,7 +1849,22 @@
           "pts": 6
         },
         {
-          "pos": 2,
+          "pos": 3,
+          "id": "17149226",
+          "nombre": "Alcorcon Fsf C",
+          "nuestro": false,
+          "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000013822_escudo_alcorcon.jpeg?nova=1",
+          "pj": 2,
+          "g": 2,
+          "e": 0,
+          "p": 0,
+          "gf": 6,
+          "gc": 3,
+          "dg": 3,
+          "pts": 6
+        },
+        {
+          "pos": 4,
           "id": "24236688",
           "nombre": "F.S.F. Mostoles B",
           "nuestro": false,
@@ -1692,7 +1879,7 @@
           "pts": 3
         },
         {
-          "pos": 3,
+          "pos": 5,
           "id": "18378875",
           "nombre": "F.S. Diagonal A",
           "nuestro": false,
@@ -1704,36 +1891,6 @@
           "gf": 4,
           "gc": 1,
           "dg": 3,
-          "pts": 3
-        },
-        {
-          "pos": 4,
-          "id": "17148272",
-          "nombre": "Ad Collado-Villalba-Cobiosa A",
-          "nuestro": false,
-          "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011730757_escudo_club_sin_fondo.png?nova=1",
-          "pj": 1,
-          "g": 1,
-          "e": 0,
-          "p": 0,
-          "gf": 3,
-          "gc": 0,
-          "dg": 3,
-          "pts": 3
-        },
-        {
-          "pos": 5,
-          "id": "17149226",
-          "nombre": "Alcorcon Fsf C",
-          "nuestro": false,
-          "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000013822_escudo_alcorcon.jpeg?nova=1",
-          "pj": 1,
-          "g": 1,
-          "e": 0,
-          "p": 0,
-          "gf": 3,
-          "gc": 1,
-          "dg": 2,
           "pts": 3
         },
         {
@@ -1757,13 +1914,13 @@
           "nombre": "Futsi Atletico Navalcarnero-Frozen C",
           "nuestro": false,
           "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155555_Escudo_Futsi.png?nova=1",
-          "pj": 1,
+          "pj": 2,
           "g": 1,
           "e": 0,
-          "p": 0,
-          "gf": 2,
-          "gc": 1,
-          "dg": 1,
+          "p": 1,
+          "gf": 3,
+          "gc": 9,
+          "dg": -6,
           "pts": 3
         },
         {
@@ -1862,13 +2019,13 @@
           "nombre": "Moralzarzal Futsal-Toolydo",
           "nuestro": false,
           "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012158637_escudo_club_positivo.png?nova=1",
-          "pj": 1,
+          "pj": 2,
           "g": 0,
           "e": 0,
-          "p": 1,
-          "gf": 0,
-          "gc": 7,
-          "dg": -7,
+          "p": 2,
+          "gf": 2,
+          "gc": 10,
+          "dg": -8,
           "pts": 0
         }
       ],
@@ -1880,6 +2037,21 @@
       "filas": [
         {
           "pos": 1,
+          "id": "18346138",
+          "nombre": "El Valle A",
+          "nuestro": false,
+          "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png?nova=1",
+          "pj": 3,
+          "g": 3,
+          "e": 0,
+          "p": 0,
+          "gf": 18,
+          "gc": 7,
+          "dg": 11,
+          "pts": 9
+        },
+        {
+          "pos": 2,
           "id": "18613591",
           "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
           "nuestro": false,
@@ -1894,7 +2066,7 @@
           "pts": 6
         },
         {
-          "pos": 2,
+          "pos": 3,
           "id": "17146979",
           "nombre": "Alcorcon F.S. B",
           "nuestro": false,
@@ -1909,7 +2081,7 @@
           "pts": 6
         },
         {
-          "pos": 3,
+          "pos": 4,
           "id": "17149302",
           "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles B",
           "nuestro": false,
@@ -1924,7 +2096,7 @@
           "pts": 6
         },
         {
-          "pos": 4,
+          "pos": 5,
           "id": "18586496",
           "nombre": "Futsala Villaverde A",
           "nuestro": true,
@@ -1935,21 +2107,6 @@
           "p": 0,
           "gf": 10,
           "gc": 5,
-          "dg": 5,
-          "pts": 6
-        },
-        {
-          "pos": 5,
-          "id": "18346138",
-          "nombre": "El Valle A",
-          "nuestro": false,
-          "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png?nova=1",
-          "pj": 2,
-          "g": 2,
-          "e": 0,
-          "p": 0,
-          "gf": 9,
-          "gc": 4,
           "dg": 5,
           "pts": 6
         },
@@ -2090,21 +2247,6 @@
         },
         {
           "pos": 15,
-          "id": "21492126",
-          "nombre": "Dosa",
-          "nuestro": false,
-          "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000035320_DOSA.jpg?nova=1",
-          "pj": 2,
-          "g": 0,
-          "e": 0,
-          "p": 2,
-          "gf": 4,
-          "gc": 15,
-          "dg": -11,
-          "pts": 0
-        },
-        {
-          "pos": 16,
           "id": "18345002",
           "nombre": "Rivas Futsal-Youfirst Smart Finace A",
           "nuestro": false,
@@ -2116,6 +2258,21 @@
           "gf": 5,
           "gc": 17,
           "dg": -12,
+          "pts": 0
+        },
+        {
+          "pos": 16,
+          "id": "21492126",
+          "nombre": "Dosa",
+          "nuestro": false,
+          "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000035320_DOSA.jpg?nova=1",
+          "pj": 3,
+          "g": 0,
+          "e": 0,
+          "p": 3,
+          "gf": 7,
+          "gc": 24,
+          "dg": -17,
           "pts": 0
         }
       ],
@@ -2299,6 +2456,21 @@
         },
         {
           "pos": 2,
+          "id": "19200947",
+          "nombre": "Racing la Paloma",
+          "nuestro": false,
+          "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012159060_escudo_CDRPaloma.png?nova=1",
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "gf": 13,
+          "gc": 6,
+          "dg": 7,
+          "pts": 3
+        },
+        {
+          "pos": 3,
           "id": "17145797",
           "nombre": "Alcorcon F.S. A",
           "nuestro": false,
@@ -2313,7 +2485,7 @@
           "pts": 3
         },
         {
-          "pos": 3,
+          "pos": 4,
           "id": "17149558",
           "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles B",
           "nuestro": false,
@@ -2328,7 +2500,7 @@
           "pts": 3
         },
         {
-          "pos": 4,
+          "pos": 5,
           "id": "26731723",
           "nombre": "Futsala Villaverde",
           "nuestro": true,
@@ -2343,37 +2515,7 @@
           "pts": 3
         },
         {
-          "pos": 5,
-          "id": "26745921",
-          "nombre": "El Valle (FS) C",
-          "nuestro": false,
-          "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png?nova=1",
-          "pj": 0,
-          "g": 0,
-          "e": 0,
-          "p": 0,
-          "gf": 0,
-          "gc": 0,
-          "dg": 0,
-          "pts": 0
-        },
-        {
           "pos": 6,
-          "id": "19200947",
-          "nombre": "Racing la Paloma",
-          "nuestro": false,
-          "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012159060_escudo_CDRPaloma.png?nova=1",
-          "pj": 0,
-          "g": 0,
-          "e": 0,
-          "p": 0,
-          "gf": 0,
-          "gc": 0,
-          "dg": 0,
-          "pts": 0
-        },
-        {
-          "pos": 7,
           "id": "27509809",
           "nombre": "Colegio Abaco (FS) A",
           "nuestro": false,
@@ -2388,7 +2530,7 @@
           "pts": 0
         },
         {
-          "pos": 8,
+          "pos": 7,
           "id": "24706419",
           "nombre": "Club Arganda Futsal B",
           "nuestro": false,
@@ -2403,7 +2545,7 @@
           "pts": 0
         },
         {
-          "pos": 9,
+          "pos": 8,
           "id": "24800380",
           "nombre": "Sport Latina-Em Aluche FS",
           "nuestro": false,
@@ -2415,6 +2557,21 @@
           "gf": 2,
           "gc": 5,
           "dg": -3,
+          "pts": 0
+        },
+        {
+          "pos": 9,
+          "id": "26745921",
+          "nombre": "El Valle (FS) C",
+          "nuestro": false,
+          "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png?nova=1",
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "gf": 6,
+          "gc": 13,
+          "dg": -7,
           "pts": 0
         },
         {

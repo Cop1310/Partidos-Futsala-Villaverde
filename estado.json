@@ -3,6 +3,21 @@
   "https://www.elbalondemadrid.es/competicion/26738218/grupo/26738219/jornadas": {
    "filas": [
     {
+     "dg": 10,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011730757_escudo_club_sin_fondo.png?nova=1",
+     "g": 2,
+     "gc": 1,
+     "gf": 11,
+     "id": "17148272",
+     "nombre": "Ad Collado-Villalba-Cobiosa A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 2,
+     "pos": 1,
+     "pts": 6
+    },
+    {
      "dg": 8,
      "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
@@ -14,7 +29,22 @@
      "nuestro": true,
      "p": 0,
      "pj": 2,
-     "pos": 1,
+     "pos": 2,
+     "pts": 6
+    },
+    {
+     "dg": 3,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000013822_escudo_alcorcon.jpeg?nova=1",
+     "g": 2,
+     "gc": 3,
+     "gf": 6,
+     "id": "17149226",
+     "nombre": "Alcorcon Fsf C",
+     "nuestro": false,
+     "p": 0,
+     "pj": 2,
+     "pos": 3,
      "pts": 6
     },
     {
@@ -29,7 +59,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 2,
+     "pos": 4,
      "pts": 3
     },
     {
@@ -41,36 +71,6 @@
      "gf": 4,
      "id": "18378875",
      "nombre": "F.S. Diagonal A",
-     "nuestro": false,
-     "p": 0,
-     "pj": 1,
-     "pos": 3,
-     "pts": 3
-    },
-    {
-     "dg": 3,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011730757_escudo_club_sin_fondo.png?nova=1",
-     "g": 1,
-     "gc": 0,
-     "gf": 3,
-     "id": "17148272",
-     "nombre": "Ad Collado-Villalba-Cobiosa A",
-     "nuestro": false,
-     "p": 0,
-     "pj": 1,
-     "pos": 4,
-     "pts": 3
-    },
-    {
-     "dg": 2,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000013822_escudo_alcorcon.jpeg?nova=1",
-     "g": 1,
-     "gc": 1,
-     "gf": 3,
-     "id": "17149226",
-     "nombre": "Alcorcon Fsf C",
      "nuestro": false,
      "p": 0,
      "pj": 1,
@@ -93,17 +93,17 @@
      "pts": 3
     },
     {
-     "dg": 1,
+     "dg": -6,
      "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155555_Escudo_Futsi.png?nova=1",
      "g": 1,
-     "gc": 1,
-     "gf": 2,
+     "gc": 9,
+     "gf": 3,
      "id": "17149523",
      "nombre": "Futsi Atletico Navalcarnero-Frozen C",
      "nuestro": false,
-     "p": 0,
-     "pj": 1,
+     "p": 1,
+     "pj": 2,
      "pos": 7,
      "pts": 3
     },
@@ -198,17 +198,17 @@
      "pts": 0
     },
     {
-     "dg": -7,
+     "dg": -8,
      "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012158637_escudo_club_positivo.png?nova=1",
      "g": 0,
-     "gc": 7,
-     "gf": 0,
+     "gc": 10,
+     "gf": 2,
      "id": "21430669",
      "nombre": "Moralzarzal Futsal-Toolydo",
      "nuestro": false,
-     "p": 1,
-     "pj": 1,
+     "p": 2,
+     "pj": 2,
      "pos": 14,
      "pts": 0
     }
@@ -356,15 +356,15 @@
     {
      "dg": -4,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png?nova=1",
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012203154_ChatGPT_Image_17_jul_2026__01_40_48.png?nova=1",
      "g": 1,
-     "gc": 8,
-     "gf": 4,
-     "id": "18439661",
-     "nombre": "Club Arganda Futsal-Albero-Mudanzas Segoviana A",
+     "gc": 13,
+     "gf": 9,
+     "id": "18310655",
+     "nombre": "Sporting Morata F.S. A",
      "nuestro": false,
-     "p": 1,
-     "pj": 2,
+     "p": 2,
+     "pj": 3,
      "pos": 10,
      "pts": 3
     },
@@ -384,6 +384,21 @@
      "pts": 3
     },
     {
+     "dg": -7,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png?nova=1",
+     "g": 1,
+     "gc": 12,
+     "gf": 5,
+     "id": "18439661",
+     "nombre": "Club Arganda Futsal-Albero-Mudanzas Segoviana A",
+     "nuestro": false,
+     "p": 2,
+     "pj": 3,
+     "pos": 12,
+     "pts": 3
+    },
+    {
      "dg": -1,
      "e": 1,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011611215_Logo.png?nova=1",
@@ -395,7 +410,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 2,
-     "pos": 12,
+     "pos": 13,
      "pts": 1
     },
     {
@@ -410,23 +425,8 @@
      "nuestro": false,
      "p": 1,
      "pj": 2,
-     "pos": 13,
-     "pts": 1
-    },
-    {
-     "dg": -7,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012203154_ChatGPT_Image_17_jul_2026__01_40_48.png?nova=1",
-     "g": 0,
-     "gc": 12,
-     "gf": 5,
-     "id": "18310655",
-     "nombre": "Sporting Morata F.S. A",
-     "nuestro": false,
-     "p": 2,
-     "pj": 2,
      "pos": 14,
-     "pts": 0
+     "pts": 1
     },
     {
      "dg": -9,
@@ -883,6 +883,21 @@
   "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas": {
    "filas": [
     {
+     "dg": 11,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png?nova=1",
+     "g": 3,
+     "gc": 7,
+     "gf": 18,
+     "id": "18346138",
+     "nombre": "El Valle A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 3,
+     "pos": 1,
+     "pts": 9
+    },
+    {
      "dg": 7,
      "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000003683_futsala_pinto.jpg?nova=1",
@@ -894,7 +909,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 2,
-     "pos": 1,
+     "pos": 2,
      "pts": 6
     },
     {
@@ -909,7 +924,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 3,
-     "pos": 2,
+     "pos": 3,
      "pts": 6
     },
     {
@@ -924,7 +939,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 2,
-     "pos": 3,
+     "pos": 4,
      "pts": 6
     },
     {
@@ -937,21 +952,6 @@
      "id": "18586496",
      "nombre": "Futsala Villaverde A",
      "nuestro": true,
-     "p": 0,
-     "pj": 2,
-     "pos": 4,
-     "pts": 6
-    },
-    {
-     "dg": 5,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png?nova=1",
-     "g": 2,
-     "gc": 4,
-     "gf": 9,
-     "id": "18346138",
-     "nombre": "El Valle A",
-     "nuestro": false,
      "p": 0,
      "pj": 2,
      "pos": 5,
@@ -1093,21 +1093,6 @@
      "pts": 0
     },
     {
-     "dg": -11,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000035320_DOSA.jpg?nova=1",
-     "g": 0,
-     "gc": 15,
-     "gf": 4,
-     "id": "21492126",
-     "nombre": "Dosa",
-     "nuestro": false,
-     "p": 2,
-     "pj": 2,
-     "pos": 15,
-     "pts": 0
-    },
-    {
      "dg": -12,
      "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002354_ESCUDO_Rivas_Futsal.jpg?nova=1",
@@ -1116,6 +1101,21 @@
      "gf": 5,
      "id": "18345002",
      "nombre": "Rivas Futsal-Youfirst Smart Finace A",
+     "nuestro": false,
+     "p": 3,
+     "pj": 3,
+     "pos": 15,
+     "pts": 0
+    },
+    {
+     "dg": -17,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000035320_DOSA.jpg?nova=1",
+     "g": 0,
+     "gc": 24,
+     "gf": 7,
+     "id": "21492126",
+     "nombre": "Dosa",
      "nuestro": false,
      "p": 3,
      "pj": 3,
@@ -1300,6 +1300,21 @@
      "pts": 3
     },
     {
+     "dg": 7,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012159060_escudo_CDRPaloma.png?nova=1",
+     "g": 1,
+     "gc": 6,
+     "gf": 13,
+     "id": "19200947",
+     "nombre": "Racing la Paloma",
+     "nuestro": false,
+     "p": 0,
+     "pj": 1,
+     "pos": 2,
+     "pts": 3
+    },
+    {
      "dg": 3,
      "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000013822_escudo_alcorcon.jpeg?nova=1",
@@ -1311,7 +1326,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 2,
+     "pos": 3,
      "pts": 3
     },
     {
@@ -1326,7 +1341,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 3,
+     "pos": 4,
      "pts": 3
     },
     {
@@ -1341,38 +1356,8 @@
      "nuestro": true,
      "p": 0,
      "pj": 1,
-     "pos": 4,
-     "pts": 3
-    },
-    {
-     "dg": 0,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png?nova=1",
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
-     "id": "26745921",
-     "nombre": "El Valle (FS) C",
-     "nuestro": false,
-     "p": 0,
-     "pj": 0,
      "pos": 5,
-     "pts": 0
-    },
-    {
-     "dg": 0,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012159060_escudo_CDRPaloma.png?nova=1",
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
-     "id": "19200947",
-     "nombre": "Racing la Paloma",
-     "nuestro": false,
-     "p": 0,
-     "pj": 0,
-     "pos": 6,
-     "pts": 0
+     "pts": 3
     },
     {
      "dg": -1,
@@ -1386,7 +1371,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 1,
-     "pos": 7,
+     "pos": 6,
      "pts": 0
     },
     {
@@ -1401,7 +1386,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 1,
-     "pos": 8,
+     "pos": 7,
      "pts": 0
     },
     {
@@ -1413,6 +1398,21 @@
      "gf": 2,
      "id": "24800380",
      "nombre": "Sport Latina-Em Aluche FS",
+     "nuestro": false,
+     "p": 1,
+     "pj": 1,
+     "pos": 8,
+     "pts": 0
+    },
+    {
+     "dg": -7,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png?nova=1",
+     "g": 0,
+     "gc": 13,
+     "gf": 6,
+     "id": "26745921",
+     "nombre": "El Valle (FS) C",
      "nuestro": false,
      "p": 1,
      "pj": 1,
@@ -1451,12 +1451,12 @@
    "https://www.elbalondemadrid.es/competicion/26738218/grupo/26738219/jornadas": {
     "actual": 2,
     "cursor": null,
-    "fecha": "2026-09-28"
+    "fecha": "2026-10-04"
    },
    "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas": {
     "actual": 3,
     "cursor": null,
-    "fecha": "2026-09-28"
+    "fecha": "2026-10-04"
    },
    "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas": {
     "actual": 1,
@@ -1466,12 +1466,12 @@
    "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas": {
     "actual": 2,
     "cursor": null,
-    "fecha": "2026-09-28"
+    "fecha": "2026-10-04"
    },
    "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas": {
     "actual": 3,
     "cursor": null,
-    "fecha": "2026-09-28"
+    "fecha": "2026-10-04"
    },
    "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas": {
     "actual": 1,
@@ -1619,8 +1619,6 @@
   "5575523": {
    "acta": "https://www.elbalondemadrid.es/acta/5575523?temporada=22&competicion=26738243&grupo=26738244",
    "campo": "FUENLABRADA - P.M. EL TRIGAL (futbol sala)",
-   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012056915_WS.png?nova=1",
-   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-10-04",
    "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
    "hora": "15:30",
@@ -1701,6 +1699,27 @@
    "visitante": [
     "17210062",
     "FUTSAL PINTO - GRUPO EGIDO"
+   ]
+  },
+  "5575553": {
+   "acta": "https://www.elbalondemadrid.es/acta/5575553?temporada=22&competicion=26738243&grupo=26738244",
+   "campo": "P.M. LA MINA (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156631_Escudo_sin_fondo_AMPLIADO.png",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "fecha": "2026-10-31",
+   "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
+   "hora": "19:30",
+   "jornada": 6,
+   "local": [
+    "17145360",
+    "C.D.E. CASCO ANTIGUO CARABANCHEL 'B'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas",
+   "visitante": [
+    "18456762",
+    "FUTSALA VILLAVERDE 'B'"
    ]
   },
   "5575884": {
@@ -1936,6 +1955,56 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
    "fecha": "2026-10-03",
+   "goles": [
+    {
+     "equipo": "C.D.E. PINAR DE SAN JOSE - ALCORCON 'A'",
+     "jugador": "ALBERTO JIMENO RODRÍGUEZ",
+     "lado": "local",
+     "minuto": 7,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D.E. PINAR DE SAN JOSE - ALCORCON 'A'",
+     "jugador": "ALBERTO JIMENO RODRÍGUEZ",
+     "lado": "local",
+     "minuto": 17,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D.E. PINAR DE SAN JOSE - ALCORCON 'A'",
+     "jugador": "SNUR HAWRE SOTO",
+     "lado": "local",
+     "minuto": 30,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D.E. PINAR DE SAN JOSE - ALCORCON 'A'",
+     "jugador": "SNUR HAWRE SOTO",
+     "lado": "local",
+     "minuto": 38,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "KRYSTIAN fraczyk",
+     "lado": "visitante",
+     "minuto": 23,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ALVARO LORENZO FERNANDEZ",
+     "lado": "visitante",
+     "minuto": 30,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Tercera División FS Grupo 3",
    "hora": "20:00",
    "jornada": 3,
@@ -1950,6 +2019,29 @@
    "resultado": [
     4,
     2
+   ],
+   "tarjetas": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "KRYSTIAN fraczyk",
+     "lado": "visitante",
+     "minuto": 5,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "JOSE CEBRIAN ROMERO",
+     "lado": "visitante",
+     "minuto": 23,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "RUBEN RODRIGUEZ ORTIZ",
+     "lado": "visitante",
+     "minuto": 39,
+     "tipo": "amarilla"
+    }
    ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas",
    "visitante": [
@@ -2000,7 +2092,7 @@
    ]
   },
   "5575922": {
-   "acta": "https://www.elbalondemadrid.es/acta/5575922?temporada=22",
+   "acta": "https://www.elbalondemadrid.es/acta/5575922?temporada=22&competicion=26738221&grupo=26771028",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png?nova=1",
@@ -2378,6 +2470,48 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png?nova=1",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
    "fecha": "2026-10-03",
+   "goles": [
+    {
+     "equipo": "C.D.E. EL VALLE 'A'",
+     "jugador": "PATRICIA MARTINEZ QUINTERO",
+     "lado": "local",
+     "minuto": 34,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D.E. EL VALLE 'A'",
+     "jugador": "LAURA PULIDO ALVAREZ",
+     "lado": "local",
+     "minuto": 34,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "MARIA DEL CARMEN DE INES CARAMAZANA",
+     "lado": "visitante",
+     "minuto": 26,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "MARTA CASTAÑON TERAN",
+     "lado": "visitante",
+     "minuto": 29,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "MARTA CASTAÑON TERAN",
+     "lado": "visitante",
+     "minuto": 39,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Primera División Autonómica Femenino FS Grupo Único",
    "hora": "19:00",
    "jornada": 2,
@@ -2393,6 +2527,29 @@
     2,
     3
    ],
+   "tarjetas": [
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "ALICIA BREA GIL",
+     "lado": "visitante",
+     "minuto": 8,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "SOFIA FERNANDEZ NIETO",
+     "lado": "visitante",
+     "minuto": 19,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "MARTA CASTAÑON TERAN",
+     "lado": "visitante",
+     "minuto": 29,
+     "tipo": "amarilla"
+    }
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738218/grupo/26738219/jornadas",
    "visitante": [
     "18694124",
@@ -2402,8 +2559,6 @@
   "5712402": {
    "acta": "https://www.elbalondemadrid.es/acta/5712402?temporada=22&competicion=26750017&grupo=28105968",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
-   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
-   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012194834_Captura_de_pantalla_2026_07_20_081959.png?nova=1",
    "fecha": "2026-10-03",
    "grupo": "Alevín 1ª Fase FS Grupo 4",
    "hora": "12:00",
