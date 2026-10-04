@@ -3,9 +3,24 @@
   "https://www.elbalondemadrid.es/competicion/26738218/grupo/26738219/jornadas": {
    "filas": [
     {
+     "dg": 11,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011900787_Aguila_Alcalde_FSF_trazo_negro.jpg",
+     "g": 2,
+     "gc": 0,
+     "gf": 11,
+     "id": "24236688",
+     "nombre": "F.S.F. Mostoles B",
+     "nuestro": false,
+     "p": 0,
+     "pj": 2,
+     "pos": 1,
+     "pts": 6
+    },
+    {
      "dg": 10,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011730757_escudo_club_sin_fondo.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011730757_escudo_club_sin_fondo.png",
      "g": 2,
      "gc": 1,
      "gf": 11,
@@ -14,13 +29,13 @@
      "nuestro": false,
      "p": 0,
      "pj": 2,
-     "pos": 1,
+     "pos": 2,
      "pts": 6
     },
     {
      "dg": 8,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
      "g": 2,
      "gc": 2,
      "gf": 10,
@@ -29,13 +44,13 @@
      "nuestro": true,
      "p": 0,
      "pj": 2,
-     "pos": 2,
+     "pos": 3,
      "pts": 6
     },
     {
      "dg": 3,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000013822_escudo_alcorcon.jpeg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
      "g": 2,
      "gc": 3,
      "gf": 6,
@@ -44,28 +59,13 @@
      "nuestro": false,
      "p": 0,
      "pj": 2,
-     "pos": 3,
-     "pts": 6
-    },
-    {
-     "dg": 6,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011900787_Aguila_Alcalde_FSF_trazo_negro.jpg?nova=1",
-     "g": 1,
-     "gc": 0,
-     "gf": 6,
-     "id": "24236688",
-     "nombre": "F.S.F. Mostoles B",
-     "nuestro": false,
-     "p": 0,
-     "pj": 1,
      "pos": 4,
-     "pts": 3
+     "pts": 6
     },
     {
      "dg": 3,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
      "g": 1,
      "gc": 1,
      "gf": 4,
@@ -80,7 +80,7 @@
     {
      "dg": 2,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000003259_escudo_sanfer_web.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003259_escudo_sanfer_web.jpg",
      "g": 1,
      "gc": 0,
      "gf": 2,
@@ -93,9 +93,24 @@
      "pts": 3
     },
     {
+     "dg": 1,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155551_Captura_de_pantalla_2026_06_01_113319.png",
+     "g": 1,
+     "gc": 4,
+     "gf": 5,
+     "id": "18405554",
+     "nombre": "Leganes F.S. Masdeporte B",
+     "nuestro": false,
+     "p": 1,
+     "pj": 2,
+     "pos": 7,
+     "pts": 3
+    },
+    {
      "dg": -6,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155555_Escudo_Futsi.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155555_Escudo_Futsi.png",
      "g": 1,
      "gc": 9,
      "gf": 3,
@@ -104,28 +119,13 @@
      "nuestro": false,
      "p": 1,
      "pj": 2,
-     "pos": 7,
-     "pts": 3
-    },
-    {
-     "dg": -1,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155551_Captura_de_pantalla_2026_06_01_113319.png?nova=1",
-     "g": 0,
-     "gc": 2,
-     "gf": 1,
-     "id": "18405554",
-     "nombre": "Leganes F.S. Masdeporte B",
-     "nuestro": false,
-     "p": 1,
-     "pj": 1,
      "pos": 8,
-     "pts": 0
+     "pts": 3
     },
     {
      "dg": -2,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011024048_escudo.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011024048_escudo.jpg",
      "g": 0,
      "gc": 3,
      "gf": 1,
@@ -138,24 +138,9 @@
      "pts": 0
     },
     {
-     "dg": -2,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012160800_Escudo_bueno.png?nova=1",
-     "g": 0,
-     "gc": 2,
-     "gf": 0,
-     "id": "18456455",
-     "nombre": "Cfs Artilleros Moratalaz",
-     "nuestro": false,
-     "p": 1,
-     "pj": 1,
-     "pos": 10,
-     "pts": 0
-    },
-    {
      "dg": -3,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155442_escudo_torrejon_FIVE_PLAY_sala.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155442_escudo_torrejon_FIVE_PLAY_sala.jpg",
      "g": 0,
      "gc": 3,
      "gf": 0,
@@ -164,13 +149,13 @@
      "nuestro": false,
      "p": 1,
      "pj": 1,
-     "pos": 11,
+     "pos": 10,
      "pts": 0
     },
     {
      "dg": -4,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png",
      "g": 0,
      "gc": 7,
      "gf": 3,
@@ -179,28 +164,43 @@
      "nuestro": false,
      "p": 2,
      "pj": 2,
+     "pos": 11,
+     "pts": 0
+    },
+    {
+     "dg": -7,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012160800_Escudo_bueno.png",
+     "g": 0,
+     "gc": 7,
+     "gf": 0,
+     "id": "18456455",
+     "nombre": "Cfs Artilleros Moratalaz",
+     "nuestro": false,
+     "p": 2,
+     "pj": 2,
      "pos": 12,
      "pts": 0
     },
     {
-     "dg": -6,
+     "dg": -8,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155441_ALARO_FC.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155441_ALARO_FC.png",
      "g": 0,
-     "gc": 6,
-     "gf": 0,
+     "gc": 10,
+     "gf": 2,
      "id": "18730009",
      "nombre": "Alaro Deportiva A",
      "nuestro": false,
-     "p": 1,
-     "pj": 1,
+     "p": 2,
+     "pj": 2,
      "pos": 13,
      "pts": 0
     },
     {
      "dg": -8,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012158637_escudo_club_positivo.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012158637_escudo_club_positivo.png",
      "g": 0,
      "gc": 10,
      "gf": 2,
@@ -221,7 +221,7 @@
     {
      "dg": 7,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011024048_escudo.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011024048_escudo.jpg",
      "g": 3,
      "gc": 5,
      "gf": 12,
@@ -236,7 +236,7 @@
     {
      "dg": 14,
      "e": 1,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
      "g": 2,
      "gc": 7,
      "gf": 21,
@@ -251,7 +251,7 @@
     {
      "dg": 6,
      "e": 1,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012146202_logoadop.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012146202_logoadop.png",
      "g": 2,
      "gc": 11,
      "gf": 17,
@@ -266,7 +266,7 @@
     {
      "dg": 5,
      "e": 1,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191063_Escudo_pinar_24_25.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
      "g": 2,
      "gc": 9,
      "gf": 14,
@@ -281,7 +281,7 @@
     {
      "dg": 8,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011972491_eurosiris.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011972491_eurosiris.png",
      "g": 2,
      "gc": 3,
      "gf": 11,
@@ -296,7 +296,7 @@
     {
      "dg": 6,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
      "g": 2,
      "gc": 7,
      "gf": 13,
@@ -311,7 +311,7 @@
     {
      "dg": 1,
      "e": 1,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg",
      "g": 1,
      "gc": 11,
      "gf": 12,
@@ -326,7 +326,7 @@
     {
      "dg": -2,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png",
      "g": 1,
      "gc": 9,
      "gf": 7,
@@ -341,7 +341,7 @@
     {
      "dg": -3,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156631_Escudo_sin_fondo_AMPLIADO.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156631_Escudo_sin_fondo_AMPLIADO.png",
      "g": 1,
      "gc": 11,
      "gf": 8,
@@ -356,7 +356,7 @@
     {
      "dg": -4,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012203154_ChatGPT_Image_17_jul_2026__01_40_48.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012203154_ChatGPT_Image_17_jul_2026__01_40_48.png",
      "g": 1,
      "gc": 13,
      "gf": 9,
@@ -371,7 +371,7 @@
     {
      "dg": -5,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012167978_1988_JVK_AZUL__1_.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012167978_1988_JVK_AZUL__1_.png",
      "g": 1,
      "gc": 11,
      "gf": 6,
@@ -386,7 +386,7 @@
     {
      "dg": -7,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
      "g": 1,
      "gc": 12,
      "gf": 5,
@@ -401,7 +401,7 @@
     {
      "dg": -1,
      "e": 1,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011611215_Logo.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011611215_Logo.png",
      "g": 0,
      "gc": 8,
      "gf": 7,
@@ -416,7 +416,7 @@
     {
      "dg": -2,
      "e": 1,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000013482_Escudo_Don_Palpie.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013482_Escudo_Don_Palpie.jpg",
      "g": 0,
      "gc": 7,
      "gf": 5,
@@ -431,7 +431,7 @@
     {
      "dg": -9,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155552_Escudo_Cde_La_Villa.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155552_Escudo_Cde_La_Villa.png",
      "g": 0,
      "gc": 15,
      "gf": 6,
@@ -446,7 +446,7 @@
     {
      "dg": -14,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002354_ESCUDO_Rivas_Futsal.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002354_ESCUDO_Rivas_Futsal.jpg",
      "g": 0,
      "gc": 21,
      "gf": 7,
@@ -669,7 +669,7 @@
     {
      "dg": 7,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011730007_ESCUDO_OFICIAL_ok.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011730007_ESCUDO_OFICIAL_ok.png",
      "g": 2,
      "gc": 7,
      "gf": 14,
@@ -684,7 +684,7 @@
     {
      "dg": 6,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155576_ORIGINAL_VECTOR_1.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155576_ORIGINAL_VECTOR_1.png",
      "g": 2,
      "gc": 5,
      "gf": 11,
@@ -699,7 +699,7 @@
     {
      "dg": 5,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191624_Escudo_nuevo__1.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191624_Escudo_nuevo__1.png",
      "g": 2,
      "gc": 6,
      "gf": 11,
@@ -714,7 +714,7 @@
     {
      "dg": 3,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012177687_colme_ok.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012177687_colme_ok.png",
      "g": 1,
      "gc": 2,
      "gf": 5,
@@ -729,7 +729,7 @@
     {
      "dg": 2,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012219159_2026_Logo_Athletic_Mostoles.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012219159_2026_Logo_Athletic_Mostoles.png",
      "g": 1,
      "gc": 6,
      "gf": 8,
@@ -743,8 +743,23 @@
     },
     {
      "dg": 0,
+     "e": 2,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+     "g": 0,
+     "gc": 8,
+     "gf": 8,
+     "id": "18456762",
+     "nombre": "Futsala Villaverde B",
+     "nuestro": true,
+     "p": 0,
+     "pj": 2,
+     "pos": 6,
+     "pts": 2
+    },
+    {
+     "dg": 0,
      "e": 1,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012153384_Escudo_Color__14_.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012153384_Escudo_Color__14_.png",
      "g": 0,
      "gc": 4,
      "gf": 4,
@@ -753,28 +768,13 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 6,
-     "pts": 1
-    },
-    {
-     "dg": 0,
-     "e": 1,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
-     "g": 0,
-     "gc": 4,
-     "gf": 4,
-     "id": "18456762",
-     "nombre": "Futsala Villaverde B",
-     "nuestro": true,
-     "p": 0,
-     "pj": 1,
      "pos": 7,
      "pts": 1
     },
     {
      "dg": 0,
      "e": 1,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg",
      "g": 0,
      "gc": 1,
      "gf": 1,
@@ -789,7 +789,7 @@
     {
      "dg": -1,
      "e": 1,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156631_Escudo_sin_fondo_AMPLIADO.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156631_Escudo_sin_fondo_AMPLIADO.png",
      "g": 0,
      "gc": 8,
      "gf": 7,
@@ -804,7 +804,22 @@
     {
      "dg": -3,
      "e": 1,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011611215_Logo.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012056915_WS.png",
+     "g": 0,
+     "gc": 9,
+     "gf": 6,
+     "id": "21684391",
+     "nombre": "Winter Squad",
+     "nuestro": false,
+     "p": 1,
+     "pj": 2,
+     "pos": 10,
+     "pts": 1
+    },
+    {
+     "dg": -3,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011611215_Logo.png",
      "g": 0,
      "gc": 8,
      "gf": 5,
@@ -813,13 +828,13 @@
      "nuestro": false,
      "p": 1,
      "pj": 2,
-     "pos": 10,
+     "pos": 11,
      "pts": 1
     },
     {
      "dg": -5,
      "e": 1,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155770_3f6870fa_7e7b_452d_aad4_a8297489831d.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155770_3f6870fa_7e7b_452d_aad4_a8297489831d.png",
      "g": 0,
      "gc": 7,
      "gf": 2,
@@ -828,33 +843,18 @@
      "nuestro": false,
      "p": 1,
      "pj": 2,
-     "pos": 11,
+     "pos": 12,
      "pts": 1
     },
     {
      "dg": -2,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012173144_Screenshot_20260506_090154_WhatsApp.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012173144_Screenshot_20260506_090154_WhatsApp.jpg",
      "g": 0,
      "gc": 6,
      "gf": 4,
      "id": "21493878",
      "nombre": "Club Escuela Deportiva Manila-Estrellas A",
-     "nuestro": false,
-     "p": 1,
-     "pj": 1,
-     "pos": 12,
-     "pts": 0
-    },
-    {
-     "dg": -3,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012056915_WS.png?nova=1",
-     "g": 0,
-     "gc": 5,
-     "gf": 2,
-     "id": "21684391",
-     "nombre": "Winter Squad",
      "nuestro": false,
      "p": 1,
      "pj": 1,
@@ -864,7 +864,7 @@
     {
      "dg": -9,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011731505_Escudo_EDB_Original_copia.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011731505_Escudo_EDB_Original_copia.png",
      "g": 0,
      "gc": 12,
      "gf": 3,
@@ -885,7 +885,7 @@
     {
      "dg": 11,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png",
      "g": 3,
      "gc": 7,
      "gf": 18,
@@ -900,7 +900,7 @@
     {
      "dg": 8,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002635_gkCLGWT2_400x400.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002635_gkCLGWT2_400x400.jpg",
      "g": 3,
      "gc": 9,
      "gf": 17,
@@ -915,7 +915,7 @@
     {
      "dg": 7,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002986_Logo.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002986_Logo.jpg",
      "g": 2,
      "gc": 10,
      "gf": 17,
@@ -930,7 +930,7 @@
     {
      "dg": 7,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000003683_futsala_pinto.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
      "g": 2,
      "gc": 9,
      "gf": 16,
@@ -945,7 +945,7 @@
     {
      "dg": 7,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000013822_escudo_alcorcon.jpeg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
      "g": 2,
      "gc": 8,
      "gf": 15,
@@ -960,7 +960,7 @@
     {
      "dg": 5,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
      "g": 2,
      "gc": 5,
      "gf": 10,
@@ -975,7 +975,7 @@
     {
      "dg": 4,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012159118_EscudoVectorizado_PNG.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012159118_EscudoVectorizado_PNG.png",
      "g": 2,
      "gc": 8,
      "gf": 12,
@@ -988,9 +988,24 @@
      "pts": 6
     },
     {
+     "dg": -4,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003686_ciudad_de_torrejon.jpg",
+     "g": 2,
+     "gc": 13,
+     "gf": 9,
+     "id": "17210272",
+     "nombre": "E.F.S. Ciudad de Torrejon-Redpiso Torrejon A",
+     "nuestro": false,
+     "p": 1,
+     "pj": 3,
+     "pos": 8,
+     "pts": 6
+    },
+    {
      "dg": 3,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000011115_Para_so_66_pisels.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000011115_Para_so_66_pisels.jpg",
      "g": 1,
      "gc": 16,
      "gf": 19,
@@ -999,13 +1014,13 @@
      "nuestro": false,
      "p": 2,
      "pj": 3,
-     "pos": 8,
+     "pos": 9,
      "pts": 3
     },
     {
      "dg": 1,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191063_Escudo_pinar_24_25.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
      "g": 1,
      "gc": 6,
      "gf": 7,
@@ -1014,13 +1029,13 @@
      "nuestro": false,
      "p": 1,
      "pj": 2,
-     "pos": 9,
+     "pos": 10,
      "pts": 3
     },
     {
      "dg": -1,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002987_escudo_udrb_definitivo_sin_linea_corte.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002987_escudo_udrb_definitivo_sin_linea_corte.jpg",
      "g": 1,
      "gc": 14,
      "gf": 13,
@@ -1029,13 +1044,13 @@
      "nuestro": false,
      "p": 2,
      "pj": 3,
-     "pos": 10,
+     "pos": 11,
      "pts": 3
     },
     {
      "dg": -2,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012168000_ESCUDO_LOPE.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012168000_ESCUDO_LOPE.png",
      "g": 1,
      "gc": 17,
      "gf": 15,
@@ -1044,28 +1059,13 @@
      "nuestro": false,
      "p": 2,
      "pj": 3,
-     "pos": 11,
-     "pts": 3
-    },
-    {
-     "dg": -5,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000003686_ciudad_de_torrejon.jpg?nova=1",
-     "g": 1,
-     "gc": 12,
-     "gf": 7,
-     "id": "17210272",
-     "nombre": "E.F.S. Ciudad de Torrejon-Redpiso Torrejon A",
-     "nuestro": false,
-     "p": 1,
-     "pj": 2,
      "pos": 12,
      "pts": 3
     },
     {
      "dg": -6,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
      "g": 0,
      "gc": 17,
      "gf": 11,
@@ -1078,24 +1078,24 @@
      "pts": 0
     },
     {
-     "dg": -10,
+     "dg": -11,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012174389_gsd_deportes_color_v.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012174389_gsd_deportes_color_v.png",
      "g": 0,
-     "gc": 14,
-     "gf": 4,
+     "gc": 16,
+     "gf": 5,
      "id": "21675505",
      "nombre": "Gredos San Diego las Suertes A",
      "nuestro": false,
-     "p": 2,
-     "pj": 2,
+     "p": 3,
+     "pj": 3,
      "pos": 14,
      "pts": 0
     },
     {
      "dg": -12,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002354_ESCUDO_Rivas_Futsal.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002354_ESCUDO_Rivas_Futsal.jpg",
      "g": 0,
      "gc": 17,
      "gf": 5,
@@ -1110,7 +1110,7 @@
     {
      "dg": -17,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000035320_DOSA.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000035320_DOSA.jpg",
      "g": 0,
      "gc": 24,
      "gf": 7,
@@ -1131,7 +1131,7 @@
     {
      "dg": 9,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
      "g": 1,
      "gc": 1,
      "gf": 10,
@@ -1144,9 +1144,24 @@
      "pts": 3
     },
     {
+     "dg": 8,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002635_gkCLGWT2_400x400.jpg",
+     "g": 1,
+     "gc": 0,
+     "gf": 8,
+     "id": "17149214",
+     "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 1,
+     "pos": 2,
+     "pts": 3
+    },
+    {
      "dg": 2,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002481_escudo.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002481_escudo.jpg",
      "g": 1,
      "gc": 0,
      "gf": 2,
@@ -1155,33 +1170,18 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 2,
+     "pos": 3,
      "pts": 3
     },
     {
      "dg": 0,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011747038_Imagen_1.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011747038_Imagen_1.png",
      "g": 0,
      "gc": 0,
      "gf": 0,
      "id": "26735448",
      "nombre": "Aquila (FS)",
-     "nuestro": false,
-     "p": 0,
-     "pj": 0,
-     "pos": 3,
-     "pts": 0
-    },
-    {
-     "dg": 0,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012201397_file_00000000a85c71f4839b575aeb6b1e33.png?nova=1",
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
-     "id": "26746888",
-     "nombre": "Las Aves FS",
      "nuestro": false,
      "p": 0,
      "pj": 0,
@@ -1191,12 +1191,12 @@
     {
      "dg": 0,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011743910_Escudo___baco_FS.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012201397_file_00000000a85c71f4839b575aeb6b1e33.png",
      "g": 0,
      "gc": 0,
      "gf": 0,
-     "id": "27509906",
-     "nombre": "Colegio Abaco (FS) B",
+     "id": "26746888",
+     "nombre": "Las Aves FS",
      "nuestro": false,
      "p": 0,
      "pj": 0,
@@ -1206,7 +1206,7 @@
     {
      "dg": 0,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
      "g": 0,
      "gc": 0,
      "gf": 0,
@@ -1221,7 +1221,7 @@
     {
      "dg": 0,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000004293_PARLA.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000004293_PARLA.jpg",
      "g": 0,
      "gc": 0,
      "gf": 0,
@@ -1234,29 +1234,29 @@
      "pts": 0
     },
     {
-     "dg": 0,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002635_gkCLGWT2_400x400.jpg?nova=1",
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
-     "id": "17149214",
-     "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles A",
-     "nuestro": false,
-     "p": 0,
-     "pj": 0,
-     "pos": 8,
-     "pts": 0
-    },
-    {
      "dg": -2,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014223772_escudo.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014223772_escudo.png",
      "g": 0,
      "gc": 2,
      "gf": 0,
      "id": "27737683",
      "nombre": "Butarque Futsal-Hellotickets.Es",
+     "nuestro": false,
+     "p": 1,
+     "pj": 1,
+     "pos": 8,
+     "pts": 0
+    },
+    {
+     "dg": -8,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011743910_Escudo___baco_FS.jpg",
+     "g": 0,
+     "gc": 8,
+     "gf": 0,
+     "id": "27509906",
+     "nombre": "Colegio Abaco (FS) B",
      "nuestro": false,
      "p": 1,
      "pj": 1,
@@ -1266,7 +1266,7 @@
     {
      "dg": -9,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012194834_Captura_de_pantalla_2026_07_20_081959.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012194834_Captura_de_pantalla_2026_07_20_081959.png",
      "g": 0,
      "gc": 10,
      "gf": 1,
@@ -1287,7 +1287,7 @@
     {
      "dg": 8,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000003683_futsala_pinto.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
      "g": 1,
      "gc": 1,
      "gf": 9,
@@ -1302,7 +1302,7 @@
     {
      "dg": 7,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012159060_escudo_CDRPaloma.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012159060_escudo_CDRPaloma.png",
      "g": 1,
      "gc": 6,
      "gf": 13,
@@ -1317,7 +1317,7 @@
     {
      "dg": 3,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000013822_escudo_alcorcon.jpeg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
      "g": 1,
      "gc": 2,
      "gf": 5,
@@ -1332,7 +1332,7 @@
     {
      "dg": 2,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002635_gkCLGWT2_400x400.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002635_gkCLGWT2_400x400.jpg",
      "g": 1,
      "gc": 4,
      "gf": 6,
@@ -1347,7 +1347,7 @@
     {
      "dg": 1,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
      "g": 1,
      "gc": 4,
      "gf": 5,
@@ -1362,7 +1362,7 @@
     {
      "dg": -1,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011743910_Escudo___baco_FS.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011743910_Escudo___baco_FS.jpg",
      "g": 0,
      "gc": 5,
      "gf": 4,
@@ -1377,7 +1377,7 @@
     {
      "dg": -2,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
      "g": 0,
      "gc": 6,
      "gf": 4,
@@ -1392,7 +1392,7 @@
     {
      "dg": -3,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011928988_Escudo_Nuevo_Aluche_FS___Azul_y_Coral.jpg?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011928988_Escudo_Nuevo_Aluche_FS___Azul_y_Coral.jpg",
      "g": 0,
      "gc": 5,
      "gf": 2,
@@ -1407,7 +1407,7 @@
     {
      "dg": -7,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png",
      "g": 0,
      "gc": 13,
      "gf": 6,
@@ -1422,7 +1422,7 @@
     {
      "dg": -8,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png?nova=1",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
      "g": 0,
      "gc": 9,
      "gf": 1,
@@ -1619,8 +1619,8 @@
   "5575523": {
    "acta": "https://www.elbalondemadrid.es/acta/5575523?temporada=22&competicion=26738243&grupo=26738244",
    "campo": "FUENLABRADA - P.M. EL TRIGAL (futbol sala)",
-   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012056915_WS.png?nova=1",
-   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012056915_WS.png",
+   "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-10-04",
    "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
    "hora": "15:30",
@@ -1633,7 +1633,10 @@
     13,
     7
    ],
-   "resultado": null,
+   "resultado": [
+    4,
+    4
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas",
    "visitante": [
     "18456762",
@@ -1954,8 +1957,8 @@
   "5575899": {
    "acta": "https://www.elbalondemadrid.es/acta/5575899?temporada=22&competicion=26738221&grupo=26771028",
    "campo": "ALCORCON - P.M. M-4 Mª JOSE CALERO (futbol sala)",
-   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
-   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+   "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
+   "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-10-03",
    "goles": [
     {
@@ -2359,8 +2362,8 @@
   "5576989": {
    "acta": "https://www.elbalondemadrid.es/acta/5576989?temporada=22&competicion=26749998&grupo=26814437",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
-   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
-   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000003683_futsala_pinto.jpg?nova=1",
+   "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
    "fecha": "2026-10-04",
    "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
    "hora": "18:30",
@@ -2469,8 +2472,8 @@
   "5578129": {
    "acta": "https://www.elbalondemadrid.es/acta/5578129?temporada=22&competicion=26738218&grupo=26738219",
    "campo": "POLID. COLEGIO EL VALLE SANCHINARRO (futbol sala)",
-   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png?nova=1",
-   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+   "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png",
+   "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-10-03",
    "goles": [
     {
@@ -2561,8 +2564,8 @@
   "5712402": {
    "acta": "https://www.elbalondemadrid.es/acta/5712402?temporada=22&competicion=26750017&grupo=28105968",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
-   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
-   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012194834_Captura_de_pantalla_2026_07_20_081959.png?nova=1",
+   "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012194834_Captura_de_pantalla_2026_07_20_081959.png",
    "fecha": "2026-10-03",
    "goles": [
     {
@@ -2763,8 +2766,8 @@
   "5719182": {
    "acta": "https://www.elbalondemadrid.es/acta/5719182?temporada=22&competicion=26750019&grupo=28118560",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
-   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
-   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011743910_Escudo___baco_FS.jpg?nova=1",
+   "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011743910_Escudo___baco_FS.jpg",
    "fecha": "2026-10-03",
    "goles": [
     {
