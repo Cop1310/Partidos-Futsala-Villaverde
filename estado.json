@@ -697,19 +697,19 @@
      "pts": 6
     },
     {
-     "dg": 4,
+     "dg": 5,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012219159_2026_Logo_Athletic_Mostoles.png?nova=1",
-     "g": 1,
-     "gc": 0,
-     "gf": 4,
-     "id": "21431859",
-     "nombre": "Athletic Mostoles B",
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191624_Escudo_nuevo__1.png?nova=1",
+     "g": 2,
+     "gc": 6,
+     "gf": 11,
+     "id": "17210062",
+     "nombre": "Futsal Pinto-Grupo Egido",
      "nuestro": false,
      "p": 0,
-     "pj": 1,
+     "pj": 2,
      "pos": 3,
-     "pts": 3
+     "pts": 6
     },
     {
      "dg": 3,
@@ -727,17 +727,17 @@
      "pts": 3
     },
     {
-     "dg": 3,
+     "dg": 2,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191624_Escudo_nuevo__1.png?nova=1",
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012219159_2026_Logo_Athletic_Mostoles.png?nova=1",
      "g": 1,
-     "gc": 2,
-     "gf": 5,
-     "id": "17210062",
-     "nombre": "Futsal Pinto-Grupo Egido",
+     "gc": 6,
+     "gf": 8,
+     "id": "21431859",
+     "nombre": "Athletic Mostoles B",
      "nuestro": false,
-     "p": 0,
-     "pj": 1,
+     "p": 1,
+     "pj": 2,
      "pos": 5,
      "pts": 3
     },
@@ -898,6 +898,36 @@
      "pts": 9
     },
     {
+     "dg": 8,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002635_gkCLGWT2_400x400.jpg?nova=1",
+     "g": 3,
+     "gc": 9,
+     "gf": 17,
+     "id": "17149302",
+     "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles B",
+     "nuestro": false,
+     "p": 0,
+     "pj": 3,
+     "pos": 2,
+     "pts": 9
+    },
+    {
+     "dg": 7,
+     "e": 0,
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002986_Logo.jpg?nova=1",
+     "g": 2,
+     "gc": 10,
+     "gf": 17,
+     "id": "17148793",
+     "nombre": "Inter Futbol Sala-Jp Financial B",
+     "nuestro": false,
+     "p": 1,
+     "pj": 3,
+     "pos": 3,
+     "pts": 6
+    },
+    {
      "dg": 7,
      "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000003683_futsala_pinto.jpg?nova=1",
@@ -909,7 +939,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 2,
-     "pos": 2,
+     "pos": 4,
      "pts": 6
     },
     {
@@ -924,22 +954,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 3,
-     "pos": 3,
-     "pts": 6
-    },
-    {
-     "dg": 6,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002635_gkCLGWT2_400x400.jpg?nova=1",
-     "g": 2,
-     "gc": 4,
-     "gf": 10,
-     "id": "17149302",
-     "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles B",
-     "nuestro": false,
-     "p": 0,
-     "pj": 2,
-     "pos": 4,
+     "pos": 5,
      "pts": 6
     },
     {
@@ -954,7 +969,7 @@
      "nuestro": true,
      "p": 0,
      "pj": 2,
-     "pos": 5,
+     "pos": 6,
      "pts": 6
     },
     {
@@ -969,36 +984,21 @@
      "nuestro": false,
      "p": 0,
      "pj": 2,
-     "pos": 6,
-     "pts": 6
-    },
-    {
-     "dg": 5,
-     "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000011115_Para_so_66_pisels.jpg?nova=1",
-     "g": 1,
-     "gc": 9,
-     "gf": 14,
-     "id": "19068045",
-     "nombre": "Paraiso Sagrados Corazones A",
-     "nuestro": false,
-     "p": 1,
-     "pj": 2,
      "pos": 7,
-     "pts": 3
+     "pts": 6
     },
     {
      "dg": 3,
      "e": 0,
-     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002986_Logo.jpg?nova=1",
+     "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000011115_Para_so_66_pisels.jpg?nova=1",
      "g": 1,
-     "gc": 7,
-     "gf": 10,
-     "id": "17148793",
-     "nombre": "Inter Futbol Sala-Jp Financial B",
+     "gc": 16,
+     "gf": 19,
+     "id": "19068045",
+     "nombre": "Paraiso Sagrados Corazones A",
      "nuestro": false,
-     "p": 1,
-     "pj": 2,
+     "p": 2,
+     "pj": 3,
      "pos": 8,
      "pts": 3
     },
@@ -1063,17 +1063,17 @@
      "pts": 3
     },
     {
-     "dg": -2,
+     "dg": -6,
      "e": 0,
      "escudo": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png?nova=1",
      "g": 0,
-     "gc": 10,
-     "gf": 8,
+     "gc": 17,
+     "gf": 11,
      "id": "18378932",
      "nombre": "Club Arganda Futsal A",
      "nuestro": false,
-     "p": 2,
-     "pj": 2,
+     "p": 3,
+     "pj": 3,
      "pos": 13,
      "pts": 0
     },
@@ -1619,6 +1619,8 @@
   "5575523": {
    "acta": "https://www.elbalondemadrid.es/acta/5575523?temporada=22&competicion=26738243&grupo=26738244",
    "campo": "FUENLABRADA - P.M. EL TRIGAL (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012056915_WS.png?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-10-04",
    "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
    "hora": "15:30",
@@ -2559,7 +2561,99 @@
   "5712402": {
    "acta": "https://www.elbalondemadrid.es/acta/5712402?temporada=22&competicion=26750017&grupo=28105968",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012194834_Captura_de_pantalla_2026_07_20_081959.png?nova=1",
    "fecha": "2026-10-03",
+   "goles": [
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "ANTONIO LUQUE CABEZAS",
+     "lado": "local",
+     "minuto": 2,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "ANTONIO LUQUE CABEZAS",
+     "lado": "local",
+     "minuto": 2,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "ANTONIO LUQUE CABEZAS",
+     "lado": "local",
+     "minuto": 4,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "LEONIDAS PIZARRO SANCHO",
+     "lado": "local",
+     "minuto": 6,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "CARLOS LORENZO CARRERO",
+     "lado": "local",
+     "minuto": 24,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "LEONIDAS PIZARRO SANCHO",
+     "lado": "local",
+     "minuto": 26,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "LEONIDAS PIZARRO SANCHO",
+     "lado": "local",
+     "minuto": 27,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "ABRAHAM GONZALEZ SANJULIAN",
+     "lado": "local",
+     "minuto": 29,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "DANIEL PLA RUIZ",
+     "lado": "local",
+     "minuto": 40,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "MARIO FERNANDEZ LUENGO",
+     "lado": "local",
+     "minuto": 10,
+     "penalti": false,
+     "propia": true
+    },
+    {
+     "equipo": "FUTSAL PINTO - GRUPO EGIDO",
+     "jugador": "LIAM GAEL ROMERO TERRAZAS",
+     "lado": "visitante",
+     "minuto": 42,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Alevín 1ª Fase FS Grupo 4",
    "hora": "12:00",
    "jornada": 1,
@@ -2575,6 +2669,7 @@
     10,
     1
    ],
+   "tarjetas": [],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas",
    "visitante": [
     "21999670",
