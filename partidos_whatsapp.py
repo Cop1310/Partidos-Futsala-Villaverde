@@ -60,7 +60,7 @@ CONOCIDOS = {
     "competicion/26738243/grupo/26738244": ("Primera División Autonómica Aficionado Sala", {"18456762"}),
     "competicion/26738218/grupo/26738219": ("Primera División Autonómica Femenino Sala", {"18694124"}),
     "competicion/26749998/grupo/26814437": ("Primera División Autonómica Juvenil Sala", {"18586496"}),
-    "competicion/24038101/grupo/24400431": ("Primera Juvenil Sala", {"21727163"}),
+    "competicion/26738228/grupo/28123215": ("Primera Juvenil FS Grupo 5", {"21727163"}),
     "competicion/26750017/grupo/28105968": ("Alevín Sala", {"25048394"}),
     "competicion/26750019/grupo/28118560": ("Benjamín Sala", {"26731723"}),
 }
