@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-05 09:24",
+  "generado": "2026-10-05 09:41",
   "desde": "2026-10-10",
   "hasta": "2026-10-11",
   "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Tercera División FS Grupo 3\n📌 _Jornada 4_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(6º)* *_Futsala Villaverde A_* - *(3º)* C.F.S. Eurosiris-Bingo las Vegas A\n\n🏆 Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(8º)* *_Futsala Villaverde B_* - *(4º)* Club Escuela Deportiva Manila-Estrellas A\n\n🏆 Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 4_\n📍 Pabellón: Col. Gredos San Diego las Suertes\n⚽ *(14º)* Gredos San Diego las Suertes A - *(7º)* *_Futsala Villaverde A_*",
@@ -9,11 +9,10 @@
   "sin_partido": [
     "Alevín 1ª Fase FS Grupo 4",
     "Benjamín 1ª Fase FS Grupo 4",
-    "Primera División Autonómica Femenino FS Grupo Único"
+    "Primera División Autonómica Femenino FS Grupo Único",
+    "Primera Juvenil FS Grupo 5"
   ],
-  "sin_calendario": [
-    "Primera Juvenil Sala (B)"
-  ],
+  "sin_calendario": [],
   "errores": [],
   "semanas": [
     {
@@ -38,12 +37,12 @@
     },
     {
       "sabado": "2026-10-17",
-      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Tercera División FS Grupo 3\n📌 _Jornada 5_\n📍 Pabellón: Arganda - P.M. Luis Amado\n⚽ Club Arganda Futsal-Albero-Mudanzas Segoviana A - *_Futsala Villaverde A_*\n\n🏆 Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 4_\n📍 Pabellón: Brunete - P.M. Jose Ramon de la Morena\n⚽ Escuela Deportiva Brunete - *_Futsala Villaverde B_*\n\n🏆 Primera División Autonómica Femenino FS Grupo Único\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(3º)* *_Futsala Villaverde_* - *(4º)* Club Futbol Sala Femenino San Fernando B\n\n🏆 Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 2_\n📍 Pabellón: Parla - P.M. Supera Parla Este\n⚽ *(4º)* Sport Sala 12 - *(2º)* *_Futsala Villaverde_*\n\n🏆 Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 2_\n📍 Pabellón: Pinto - P.M. Patricia Chamorro\n⚽ *(1º)* Futsala Pinto-Escuela Patri Chamorro A - *(5º)* *_Futsala Villaverde_*\n\n🏆 Primera Juvenil FS Grupo 5\n📌 _Jornada 2_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde B_* - Andres Segovia-Mostoles",
+      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Tercera División FS Grupo 3\n📌 _Jornada 5_\n📍 Pabellón: Arganda - P.M. Luis Amado\n⚽ Club Arganda Futsal-Albero-Mudanzas Segoviana A - *_Futsala Villaverde A_*\n\n🏆 Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 4_\n📍 Pabellón: Brunete - P.M. Jose Ramon de la Morena\n⚽ Escuela Deportiva Brunete - *_Futsala Villaverde B_*\n\n🏆 Primera División Autonómica Femenino FS Grupo Único\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(3º)* *_Futsala Villaverde_* - *(4º)* Club Futbol Sala Femenino San Fernando B\n\n🏆 Primera Juvenil FS Grupo 5\n📌 _Jornada 2_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(3º)* *_Futsala Villaverde B_* - *(7º)* Andres Segovia-Mostoles\n\n🏆 Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 2_\n📍 Pabellón: Parla - P.M. Supera Parla Este\n⚽ *(4º)* Sport Sala 12 - *(2º)* *_Futsala Villaverde_*\n\n🏆 Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 2_\n📍 Pabellón: Pinto - P.M. Patricia Chamorro\n⚽ *(1º)* Futsala Pinto-Escuela Patri Chamorro A - *(5º)* *_Futsala Villaverde_*",
       "resultados": ""
     },
     {
       "sabado": "2026-10-24",
-      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Tercera División FS Grupo 3\n📌 _Jornada 6_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde A_* - F.S. Diagonal A\n\n🏆 Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 5_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde B_* - Futsal Pinto-Grupo Egido\n\n🏆 Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 3_\n📍 Pabellón: Leganes - P.M. la Fortuna\n⚽ Butarque Futsal-Hellotickets.Es - *_Futsala Villaverde_*\n\n🏆 Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde_* - Mrb F.S. Mostoles-Ciudad de Mostoles B\n\n🏆 Primera Juvenil FS Grupo 5\n📌 _Jornada 3_\n📍 Pabellón: Parla - P.M. el Nido\n⚽ F.S. Diagonal C - *_Futsala Villaverde B_*",
+      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Tercera División FS Grupo 3\n📌 _Jornada 6_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde A_* - F.S. Diagonal A\n\n🏆 Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 5_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde B_* - Futsal Pinto-Grupo Egido\n\n🏆 Primera Juvenil FS Grupo 5\n📌 _Jornada 3_\n📍 Pabellón: Parla - P.M. el Nido\n⚽ F.S. Diagonal C - *_Futsala Villaverde B_*\n\n🏆 Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 3_\n📍 Pabellón: Leganes - P.M. la Fortuna\n⚽ Butarque Futsal-Hellotickets.Es - *_Futsala Villaverde_*\n\n🏆 Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde_* - Mrb F.S. Mostoles-Ciudad de Mostoles B",
       "resultados": ""
     },
     {
@@ -53,12 +52,17 @@
     },
     {
       "sabado": "2026-11-07",
-      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Tercera División FS Grupo 3\n📌 _Jornada 8_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde A_* - Ciudad Villa de Vallecas F.S.\n\n🏆 Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 4_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde_* - Aquila (FS)\n\n🏆 Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 4_\n📍 Pabellón: Col. el Valle las Tablas\n⚽ El Valle (FS) D - *_Futsala Villaverde_*\n\n🏆 Primera Juvenil FS Grupo 5\n📌 _Jornada 4_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde B_* - Futsal Pinto (FS) B",
+      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Tercera División FS Grupo 3\n📌 _Jornada 8_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde A_* - Ciudad Villa de Vallecas F.S.\n\n🏆 Primera Juvenil FS Grupo 5\n📌 _Jornada 4_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde B_* - Futsal Pinto (FS) B\n\n🏆 Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 4_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde_* - Aquila (FS)\n\n🏆 Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 4_\n📍 Pabellón: Col. el Valle las Tablas\n⚽ El Valle (FS) C - *_Futsala Villaverde_*",
       "resultados": ""
     },
     {
       "sabado": "2026-11-14",
-      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *DOMINGO 15/11/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *17:30h* - Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 5_\n📍 Pabellón: Getafe - Pabellon Deportivo Municipal M4\n⚽ Las Aves FS - *_Futsala Villaverde_*\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 5_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde_* - Club Arganda Futsal B\n\n🏆 Primera Juvenil FS Grupo 5\n📌 _Jornada 5_\n📍 Pabellón: Mostoles - P.M. Estoril 2\n⚽ La Villa Mostoles B - *_Futsala Villaverde B_*",
+      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *DOMINGO 15/11/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *17:30h* - Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 5_\n📍 Pabellón: Getafe - Pabellon Deportivo Municipal M4\n⚽ Las Aves FS - *_Futsala Villaverde_*\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Primera Juvenil FS Grupo 5\n📌 _Jornada 5_\n📍 Pabellón: Mostoles - P.M. Estoril 2\n⚽ La Villa Mostoles B - *_Futsala Villaverde B_*\n\n🏆 Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 5_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde_* - Club Arganda Futsal B",
+      "resultados": ""
+    },
+    {
+      "sabado": "2026-11-21",
+      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Primera Juvenil FS Grupo 5\n📌 _Jornada 6_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde B_* - Oroquieta-Espinillo B\n\n🏆 Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 6_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde_* - Colegio Abaco (FS) B\n\n🏆 Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 6_\n📍 Pabellón: Parla - P.M. el Nido\n⚽ F.S. Diagonal - *_Futsala Villaverde_*",
       "resultados": ""
     }
   ],
@@ -690,76 +694,76 @@
           ],
           "goles": [
             {
+              "equipo": "FUTSALA VILLAVERDE",
+              "jugador": "IKER PEREZ FERNÁNDEZ DE MERA",
+              "lado": "local",
               "minuto": 6,
-              "jugador": "IKER PEREZ FERNÁNDEZ DE MERA",
-              "equipo": "FUTSALA VILLAVERDE",
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 19,
+              "equipo": "FUTSALA VILLAVERDE",
               "jugador": "DAKIR AKASBI TACHFIN",
-              "equipo": "FUTSALA VILLAVERDE",
+              "lado": "local",
+              "minuto": 19,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 35,
+              "equipo": "FUTSALA VILLAVERDE",
               "jugador": "IKER PEREZ FERNÁNDEZ DE MERA",
-              "equipo": "FUTSALA VILLAVERDE",
+              "lado": "local",
+              "minuto": 35,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 37,
+              "equipo": "FUTSALA VILLAVERDE",
               "jugador": "BRUNO ALVAREZ MACIEL",
-              "equipo": "FUTSALA VILLAVERDE",
+              "lado": "local",
+              "minuto": 37,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 38,
+              "equipo": "FUTSALA VILLAVERDE",
               "jugador": "DAVID MAGAN VICENTE",
-              "equipo": "FUTSALA VILLAVERDE",
+              "lado": "local",
+              "minuto": 38,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 12,
+              "equipo": "COLEGIO ABACO (FS) 'A'",
               "jugador": "DIEGO BERROCAL ROBLES",
-              "equipo": "COLEGIO ABACO (FS) 'A'",
+              "lado": "visitante",
+              "minuto": 12,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 21,
+              "equipo": "COLEGIO ABACO (FS) 'A'",
               "jugador": "MARTÍN PUENTE CUENCA",
-              "equipo": "COLEGIO ABACO (FS) 'A'",
+              "lado": "visitante",
+              "minuto": 21,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 43,
+              "equipo": "COLEGIO ABACO (FS) 'A'",
               "jugador": "JACOBO LASSO MONDRAGÓN",
-              "equipo": "COLEGIO ABACO (FS) 'A'",
+              "lado": "visitante",
+              "minuto": 43,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 44,
-              "jugador": "ÓLIVER MARTÍN SÁNCHEZ",
               "equipo": "COLEGIO ABACO (FS) 'A'",
+              "jugador": "ÓLIVER MARTÍN SÁNCHEZ",
+              "lado": "visitante",
+              "minuto": 44,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             }
           ],
           "tarjetas": []
@@ -778,92 +782,92 @@
           ],
           "goles": [
             {
-              "minuto": 2,
-              "jugador": "ANTONIO LUQUE CABEZAS",
               "equipo": "FUTSALA VILLAVERDE",
+              "jugador": "ANTONIO LUQUE CABEZAS",
+              "lado": "local",
+              "minuto": 2,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 2,
-              "jugador": "ANTONIO LUQUE CABEZAS",
               "equipo": "FUTSALA VILLAVERDE",
+              "jugador": "ANTONIO LUQUE CABEZAS",
+              "lado": "local",
+              "minuto": 2,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
+              "equipo": "FUTSALA VILLAVERDE",
+              "jugador": "ANTONIO LUQUE CABEZAS",
+              "lado": "local",
               "minuto": 4,
-              "jugador": "ANTONIO LUQUE CABEZAS",
-              "equipo": "FUTSALA VILLAVERDE",
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
+              "equipo": "FUTSALA VILLAVERDE",
+              "jugador": "LEONIDAS PIZARRO SANCHO",
+              "lado": "local",
               "minuto": 6,
-              "jugador": "LEONIDAS PIZARRO SANCHO",
-              "equipo": "FUTSALA VILLAVERDE",
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 24,
+              "equipo": "FUTSALA VILLAVERDE",
               "jugador": "CARLOS LORENZO CARRERO",
-              "equipo": "FUTSALA VILLAVERDE",
+              "lado": "local",
+              "minuto": 24,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
+              "equipo": "FUTSALA VILLAVERDE",
+              "jugador": "LEONIDAS PIZARRO SANCHO",
+              "lado": "local",
               "minuto": 26,
-              "jugador": "LEONIDAS PIZARRO SANCHO",
-              "equipo": "FUTSALA VILLAVERDE",
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
+              "equipo": "FUTSALA VILLAVERDE",
+              "jugador": "LEONIDAS PIZARRO SANCHO",
+              "lado": "local",
               "minuto": 27,
-              "jugador": "LEONIDAS PIZARRO SANCHO",
-              "equipo": "FUTSALA VILLAVERDE",
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 29,
+              "equipo": "FUTSALA VILLAVERDE",
               "jugador": "ABRAHAM GONZALEZ SANJULIAN",
-              "equipo": "FUTSALA VILLAVERDE",
+              "lado": "local",
+              "minuto": 29,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 40,
+              "equipo": "FUTSALA VILLAVERDE",
               "jugador": "DANIEL PLA RUIZ",
-              "equipo": "FUTSALA VILLAVERDE",
+              "lado": "local",
+              "minuto": 40,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 10,
+              "equipo": "FUTSALA VILLAVERDE",
               "jugador": "MARIO FERNANDEZ LUENGO",
-              "equipo": "FUTSALA VILLAVERDE",
+              "lado": "local",
+              "minuto": 10,
               "penalti": false,
-              "propia": true,
-              "lado": "local"
+              "propia": true
             },
             {
-              "minuto": 42,
-              "jugador": "LIAM GAEL ROMERO TERRAZAS",
               "equipo": "FUTSAL PINTO - GRUPO EGIDO",
+              "jugador": "LIAM GAEL ROMERO TERRAZAS",
+              "lado": "visitante",
+              "minuto": 42,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             }
           ],
           "tarjetas": []
@@ -952,44 +956,44 @@
           "jornada": 1,
           "local": "C.S.D. Parque de Lisboa Futsal",
           "visitante": "Futsala Villaverde B",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011730788_escudo_futsal.jpeg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
+          "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011730788_escudo_futsal.jpeg",
+          "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
           "resultado": [
             0,
             4
           ],
           "goles": [
             {
-              "equipo": "FUTSALA VILLAVERDE 'B'",
-              "jugador": "MIGUEL URREA JURADO",
-              "lado": "visitante",
               "minuto": 1,
+              "jugador": "MIGUEL URREA JURADO",
+              "equipo": "FUTSALA VILLAVERDE 'B'",
               "penalti": false,
-              "propia": false
+              "propia": false,
+              "lado": "visitante"
             },
             {
-              "equipo": "FUTSALA VILLAVERDE 'B'",
-              "jugador": "MIGUEL GOMEZ RUIZ",
-              "lado": "visitante",
               "minuto": 3,
+              "jugador": "MIGUEL GOMEZ RUIZ",
+              "equipo": "FUTSALA VILLAVERDE 'B'",
               "penalti": false,
-              "propia": false
+              "propia": false,
+              "lado": "visitante"
             },
             {
-              "equipo": "FUTSALA VILLAVERDE 'B'",
-              "jugador": "CARLOS BAUTISTA CODESO",
-              "lado": "visitante",
               "minuto": 14,
+              "jugador": "CARLOS BAUTISTA CODESO",
+              "equipo": "FUTSALA VILLAVERDE 'B'",
               "penalti": false,
-              "propia": false
+              "propia": false,
+              "lado": "visitante"
             },
             {
-              "equipo": "FUTSALA VILLAVERDE 'B'",
-              "jugador": "CARLOS BAUTISTA CODESO",
-              "lado": "visitante",
               "minuto": 41,
+              "jugador": "CARLOS BAUTISTA CODESO",
+              "equipo": "FUTSALA VILLAVERDE 'B'",
               "penalti": false,
-              "propia": false
+              "propia": false,
+              "lado": "visitante"
             }
           ],
           "tarjetas": []
@@ -1109,75 +1113,75 @@
           ],
           "goles": [
             {
-              "minuto": 29,
+              "equipo": "FUTSALA VILLAVERDE 'A'",
               "jugador": "GONZALO ORTIZ PEÑA",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "lado": "local",
+              "minuto": 29,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 33,
+              "equipo": "FUTSALA VILLAVERDE 'A'",
               "jugador": "ANTONIO TOROVICH ESCOBAR",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "lado": "local",
+              "minuto": 33,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
+              "equipo": "FUTSALA PINTO - ESCUELA PATRI CHAMORRO 'A'",
+              "jugador": "DAVID JIMÉNEZ PÉREZ",
+              "lado": "visitante",
               "minuto": 19,
-              "jugador": "DAVID JIMÉNEZ PÉREZ",
-              "equipo": "FUTSALA PINTO - ESCUELA PATRI CHAMORRO 'A'",
               "penalti": true,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 30,
+              "equipo": "FUTSALA PINTO - ESCUELA PATRI CHAMORRO 'A'",
               "jugador": "ADRIAN VILLA RAMOS",
-              "equipo": "FUTSALA PINTO - ESCUELA PATRI CHAMORRO 'A'",
+              "lado": "visitante",
+              "minuto": 30,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 35,
+              "equipo": "FUTSALA PINTO - ESCUELA PATRI CHAMORRO 'A'",
               "jugador": "DAVID JIMÉNEZ PÉREZ",
-              "equipo": "FUTSALA PINTO - ESCUELA PATRI CHAMORRO 'A'",
+              "lado": "visitante",
+              "minuto": 35,
               "penalti": true,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 39,
-              "jugador": "AARON FERNANDEZ CERRO",
               "equipo": "FUTSALA PINTO - ESCUELA PATRI CHAMORRO 'A'",
+              "jugador": "AARON FERNANDEZ CERRO",
+              "lado": "visitante",
+              "minuto": 39,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             }
           ],
           "tarjetas": [
             {
-              "minuto": 29,
+              "equipo": "FUTSALA VILLAVERDE 'A'",
               "jugador": "JAVIER MARAÑÓN FERNÁNDEZ",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
-              "tipo": "amarilla",
-              "lado": "local"
+              "lado": "local",
+              "minuto": 29,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 31,
+              "equipo": "FUTSALA VILLAVERDE 'A'",
               "jugador": "ANTONIO TOROVICH ESCOBAR",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
-              "tipo": "amarilla",
-              "lado": "local"
+              "lado": "local",
+              "minuto": 31,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 32,
-              "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
               "equipo": "FUTSALA VILLAVERDE 'A'",
-              "tipo": "amarilla",
-              "lado": "local"
+              "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+              "lado": "local",
+              "minuto": 32,
+              "tipo": "amarilla"
             }
           ]
         }
@@ -1205,6 +1209,10 @@
     },
     {
       "sabado": "2026-11-14",
+      "partidos": []
+    },
+    {
+      "sabado": "2026-11-21",
       "partidos": []
     }
   ],
@@ -1309,8 +1317,8 @@
           "jornada": 1,
           "local": "C.S.D. Parque de Lisboa Futsal",
           "visitante": "Futsala Villaverde B",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011730788_escudo_futsal.jpeg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1"
+          "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011730788_escudo_futsal.jpeg",
+          "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
         },
         {
           "fecha": "2026-10-03",
@@ -1405,6 +1413,15 @@
         },
         {
           "fecha": "2026-10-17",
+          "grupo": "Primera Juvenil FS Grupo 5",
+          "jornada": 2,
+          "local": "Futsala Villaverde B",
+          "visitante": "Andres Segovia-Mostoles",
+          "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png"
+        },
+        {
+          "fecha": "2026-10-17",
           "grupo": "Alevín 1ª Fase FS Grupo 4",
           "jornada": 2,
           "local": "Sport Sala 12",
@@ -1420,15 +1437,6 @@
           "visitante": "Futsala Villaverde",
           "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
           "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
-        },
-        {
-          "fecha": "2026-10-17",
-          "grupo": "Primera Juvenil FS Grupo 5",
-          "jornada": 2,
-          "local": "Futsala Villaverde B",
-          "visitante": "Andres Segovia-Mostoles",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png?nova=1"
         }
       ]
     },
@@ -1455,12 +1463,21 @@
         },
         {
           "fecha": "2026-10-24",
+          "grupo": "Primera Juvenil FS Grupo 5",
+          "jornada": 3,
+          "local": "F.S. Diagonal C",
+          "visitante": "Futsala Villaverde B",
+          "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
+          "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+        },
+        {
+          "fecha": "2026-10-24",
           "grupo": "Alevín 1ª Fase FS Grupo 4",
           "jornada": 3,
           "local": "Butarque Futsal-Hellotickets.Es",
           "visitante": "Futsala Villaverde",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014223772_escudo.png?nova=1",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1"
+          "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014223772_escudo.png",
+          "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
         },
         {
           "fecha": "2026-10-24",
@@ -1468,17 +1485,8 @@
           "jornada": 3,
           "local": "Futsala Villaverde",
           "visitante": "Mrb F.S. Mostoles-Ciudad de Mostoles B",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002635_gkCLGWT2_400x400.jpg?nova=1"
-        },
-        {
-          "fecha": "2026-10-24",
-          "grupo": "Primera Juvenil FS Grupo 5",
-          "jornada": 3,
-          "local": "F.S. Diagonal C",
-          "visitante": "Futsala Villaverde B",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png?nova=1",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1"
+          "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002635_gkCLGWT2_400x400.jpg"
         }
       ]
     },
@@ -1510,30 +1518,30 @@
         },
         {
           "fecha": "2026-11-07",
+          "grupo": "Primera Juvenil FS Grupo 5",
+          "jornada": 4,
+          "local": "Futsala Villaverde B",
+          "visitante": "Futsal Pinto (FS) B",
+          "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012194834_Captura_de_pantalla_2026_07_20_081959.png"
+        },
+        {
+          "fecha": "2026-11-07",
           "grupo": "Alevín 1ª Fase FS Grupo 4",
           "jornada": 4,
           "local": "Futsala Villaverde",
           "visitante": "Aquila (FS)",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011747038_Imagen_1.png?nova=1"
+          "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011747038_Imagen_1.png"
         },
         {
           "fecha": "2026-11-07",
           "grupo": "Benjamín 1ª Fase FS Grupo 4",
           "jornada": 4,
-          "local": "El Valle (FS) D",
+          "local": "El Valle (FS) C",
           "visitante": "Futsala Villaverde",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png?nova=1",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1"
-        },
-        {
-          "fecha": "2026-11-07",
-          "grupo": "Primera Juvenil FS Grupo 5",
-          "jornada": 4,
-          "local": "Futsala Villaverde B",
-          "visitante": "Futsal Pinto (FS) B",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012194834_Captura_de_pantalla_2026_07_20_081959.png?nova=1"
+          "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png",
+          "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
         }
       ]
     },
@@ -1546,17 +1554,8 @@
           "jornada": 5,
           "local": "Las Aves FS",
           "visitante": "Futsala Villaverde",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012201397_file_00000000a85c71f4839b575aeb6b1e33.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1"
-        },
-        {
-          "fecha": "2026-11-14",
-          "grupo": "Benjamín 1ª Fase FS Grupo 4",
-          "jornada": 5,
-          "local": "Futsala Villaverde",
-          "visitante": "Club Arganda Futsal B",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png?nova=1"
+          "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012201397_file_00000000a85c71f4839b575aeb6b1e33.png",
+          "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
         },
         {
           "fecha": "2026-11-14",
@@ -1564,8 +1563,49 @@
           "jornada": 5,
           "local": "La Villa Mostoles B",
           "visitante": "Futsala Villaverde B",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155552_Escudo_Cde_La_Villa.png?nova=1",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg?nova=1"
+          "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155552_Escudo_Cde_La_Villa.png",
+          "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+        },
+        {
+          "fecha": "2026-11-14",
+          "grupo": "Benjamín 1ª Fase FS Grupo 4",
+          "jornada": 5,
+          "local": "Futsala Villaverde",
+          "visitante": "Club Arganda Futsal B",
+          "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png"
+        }
+      ]
+    },
+    {
+      "sabado": "2026-11-21",
+      "partidos": [
+        {
+          "fecha": "2026-11-21",
+          "grupo": "Primera Juvenil FS Grupo 5",
+          "jornada": 6,
+          "local": "Futsala Villaverde B",
+          "visitante": "Oroquieta-Espinillo B",
+          "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002362_escudo2_3.jpg"
+        },
+        {
+          "fecha": "2026-11-21",
+          "grupo": "Alevín 1ª Fase FS Grupo 4",
+          "jornada": 6,
+          "local": "Futsala Villaverde",
+          "visitante": "Colegio Abaco (FS) B",
+          "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011743910_Escudo___baco_FS.jpg"
+        },
+        {
+          "fecha": "2026-11-21",
+          "grupo": "Benjamín 1ª Fase FS Grupo 4",
+          "jornada": 6,
+          "local": "F.S. Diagonal",
+          "visitante": "Futsala Villaverde",
+          "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
+          "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
         }
       ]
     }
@@ -2500,6 +2540,223 @@
       "equipo": "Futsala Villaverde A"
     },
     {
+      "titulo": "Primera Juvenil FS Grupo 5",
+      "jornada": 1,
+      "filas": [
+        {
+          "pos": 1,
+          "id": "22510184",
+          "nombre": "La Villa Mostoles B",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155552_Escudo_Cde_La_Villa.png",
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "gf": 5,
+          "gc": 0,
+          "dg": 5,
+          "pts": 3
+        },
+        {
+          "pos": 2,
+          "id": "26752417",
+          "nombre": "Mostoles Sur FS (FS)",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012082129_Escudo_mostoles_sur_FS.jpg",
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "gf": 4,
+          "gc": 0,
+          "dg": 4,
+          "pts": 3
+        },
+        {
+          "pos": 3,
+          "id": "21727163",
+          "nombre": "Futsala Villaverde B",
+          "nuestro": true,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "gf": 4,
+          "gc": 0,
+          "dg": 4,
+          "pts": 3
+        },
+        {
+          "pos": 4,
+          "id": "27275488",
+          "nombre": "Sport Latina-Em Aluche FS",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011928988_Escudo_Nuevo_Aluche_FS___Azul_y_Coral.jpg",
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "gf": 5,
+          "gc": 2,
+          "dg": 3,
+          "pts": 3
+        },
+        {
+          "pos": 5,
+          "id": "24772220",
+          "nombre": "F.S. Diagonal C",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "gf": 4,
+          "gc": 2,
+          "dg": 2,
+          "pts": 3
+        },
+        {
+          "pos": 6,
+          "id": "26884014",
+          "nombre": "Fuenlabrada Futbol Sala (FS) B",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155770_3f6870fa_7e7b_452d_aad4_a8297489831d.png",
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "gf": 2,
+          "gc": 1,
+          "dg": 1,
+          "pts": 3
+        },
+        {
+          "pos": 7,
+          "id": "18949928",
+          "nombre": "Andres Segovia-Mostoles",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png",
+          "pj": 1,
+          "g": 0,
+          "e": 1,
+          "p": 0,
+          "gf": 2,
+          "gc": 2,
+          "dg": 0,
+          "pts": 1
+        },
+        {
+          "pos": 8,
+          "id": "19361375",
+          "nombre": "San Jose de Valderas-Valderas F.S. B",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155576_ORIGINAL_VECTOR_1.png",
+          "pj": 1,
+          "g": 0,
+          "e": 1,
+          "p": 0,
+          "gf": 2,
+          "gc": 2,
+          "dg": 0,
+          "pts": 1
+        },
+        {
+          "pos": 9,
+          "id": "18637528",
+          "nombre": "Pinar de San Jose-Alcorcon B",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "gf": 1,
+          "gc": 2,
+          "dg": -1,
+          "pts": 0
+        },
+        {
+          "pos": 10,
+          "id": "22071510",
+          "nombre": "Intersala Mostoles",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155588_ESCUDO_INTERSALA_NEW.png",
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "gf": 2,
+          "gc": 4,
+          "dg": -2,
+          "pts": 0
+        },
+        {
+          "pos": 11,
+          "id": "18921921",
+          "nombre": "E.F.S. Humanes B",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156624_CDE_EFS_HUMANES_DEFINITIV.png",
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "gf": 2,
+          "gc": 5,
+          "dg": -3,
+          "pts": 0
+        },
+        {
+          "pos": 12,
+          "id": "18627864",
+          "nombre": "C.S.D. Parque de Lisboa Futsal",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011730788_escudo_futsal.jpeg",
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "gf": 0,
+          "gc": 4,
+          "dg": -4,
+          "pts": 0
+        },
+        {
+          "pos": 13,
+          "id": "27561905",
+          "nombre": "Futsal Pinto (FS) B",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012194834_Captura_de_pantalla_2026_07_20_081959.png",
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "gf": 0,
+          "gc": 4,
+          "dg": -4,
+          "pts": 0
+        },
+        {
+          "pos": 14,
+          "id": "27296547",
+          "nombre": "Oroquieta-Espinillo B",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002362_escudo2_3.jpg",
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "gf": 0,
+          "gc": 5,
+          "dg": -5,
+          "pts": 0
+        }
+      ],
+      "equipo": "Futsala Villaverde B"
+    },
+    {
       "titulo": "Alevín 1ª Fase FS Grupo 4",
       "jornada": 1,
       "filas": [
@@ -2812,13 +3069,6 @@
         }
       ],
       "equipo": "Futsala Villaverde"
-    },
-    {
-      "titulo": "Primera Juvenil Sala",
-      "jornada": null,
-      "filas": [],
-      "equipo": "Futsala Villaverde B",
-      "pendiente": true
     }
   ]
 }
