@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-05 09:41",
+  "generado": "2026-10-05 14:50",
   "desde": "2026-10-10",
   "hasta": "2026-10-11",
   "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Tercera División FS Grupo 3\n📌 _Jornada 4_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(6º)* *_Futsala Villaverde A_* - *(3º)* C.F.S. Eurosiris-Bingo las Vegas A\n\n🏆 Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(8º)* *_Futsala Villaverde B_* - *(4º)* Club Escuela Deportiva Manila-Estrellas A\n\n🏆 Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 4_\n📍 Pabellón: Col. Gredos San Diego las Suertes\n⚽ *(14º)* Gredos San Diego las Suertes A - *(7º)* *_Futsala Villaverde A_*",
@@ -964,36 +964,36 @@
           ],
           "goles": [
             {
-              "minuto": 1,
+              "equipo": "FUTSALA VILLAVERDE 'B'",
               "jugador": "MIGUEL URREA JURADO",
-              "equipo": "FUTSALA VILLAVERDE 'B'",
+              "lado": "visitante",
+              "minuto": 1,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 3,
+              "equipo": "FUTSALA VILLAVERDE 'B'",
               "jugador": "MIGUEL GOMEZ RUIZ",
-              "equipo": "FUTSALA VILLAVERDE 'B'",
+              "lado": "visitante",
+              "minuto": 3,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
+              "equipo": "FUTSALA VILLAVERDE 'B'",
+              "jugador": "CARLOS BAUTISTA CODESO",
+              "lado": "visitante",
               "minuto": 14,
-              "jugador": "CARLOS BAUTISTA CODESO",
-              "equipo": "FUTSALA VILLAVERDE 'B'",
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 41,
-              "jugador": "CARLOS BAUTISTA CODESO",
               "equipo": "FUTSALA VILLAVERDE 'B'",
+              "jugador": "CARLOS BAUTISTA CODESO",
+              "lado": "visitante",
+              "minuto": 41,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             }
           ],
           "tarjetas": []
