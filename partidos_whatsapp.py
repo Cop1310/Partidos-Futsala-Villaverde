@@ -706,6 +706,21 @@ def _ya_toca_mirar_acta(e, t):
     return t.hour >= 21
 
 
+CUPO_ACTAS = 40  # actas que se leen como máximo por ejecución
+LIMITE_DIAS_GOLES = 30  # días que se reintentan marcador/goles antes de darlos por perdidos
+
+
+def _acta_de_repuesto(url_acta):
+    """Algunas actas solo se encuentran sin indicar competición y grupo en la URL (se ha visto
+    con _leer(), en el relleno de histórico): si la URL guardada da 404, este es el único
+    reintento barato que merece la pena antes de rendirse -- no hace falta abrir un navegador
+    ni volver a recorrer la jornada para esto."""
+    sin_parametros = re.sub(r"\?.*$", "?temporada=22", url_acta)
+    if sin_parametros == url_acta:
+        return None
+    return get(sin_parametros)
+
+
 def completar_con_actas(estado, errores):
     """Lee las actas para completar el marcador (partidos ya jugados), la hora (partidos de
     los que solo se conoce el marcador) y, cuando ya hay marcador, los goleadores y tarjetas."""
@@ -715,16 +730,25 @@ def completar_con_actas(estado, errores):
         if not e.get("acta"):
             continue
         dias = (t.date() - date.fromisoformat(e["fecha"])).days
-        sin_marcador = not e.get("resultado") and dias <= 10 and _ya_toca_mirar_acta(e, t)
+        sin_marcador = not e.get("resultado") and dias <= LIMITE_DIAS_GOLES and _ya_toca_mirar_acta(e, t)
         sin_hora = bool(e.get("resultado")) and not e.get("hora") and dias >= 0
-        sin_goles = bool(e.get("resultado")) and not e.get("goles") and dias <= 10 and _ya_toca_mirar_acta(e, t)
+        sin_goles = bool(e.get("resultado")) and not e.get("goles") and dias <= LIMITE_DIAS_GOLES and _ya_toca_mirar_acta(e, t)
         # el escudo va en la cabecera del marcador de cualquier acta, se haya jugado ya el
         # partido o no ("POR JUGAR"), así que no hace falta esperar a que toque mirarla como
         # con el marcador/goles: así ya sale en la pestaña "Partidos", antes de jugarse.
         sin_escudo = not e.get("escudo_local") and not e.get("escudo_visitante") and dias <= 10
         if sin_marcador or sin_hora or sin_goles or sin_escudo:
-            pendientes.append(e)
-    for e in pendientes[:25]:
+            # Prioridad: lo que de verdad caduca (marcador/hora/goles de un partido ya jugado)
+            # va antes que un simple escudo, que puede esperar sin problema a la próxima
+            # ejecución. Dentro de lo que caduca, se mira antes lo más próximo a quedarse sin
+            # reintentos (más días ya esperando); dentro de los escudos, antes el partido más
+            # cercano en el tiempo. Este club tiene pocos partidos en seguimiento y hoy no le
+            # hace falta para no atascarse, pero deja la función a salvo de lo mismo si el
+            # número de partidos crece.
+            urge = sin_marcador or sin_hora or sin_goles
+            pendientes.append((0 if urge else 1, -dias if urge else abs(dias), e))
+    pendientes.sort(key=lambda p: (p[0], p[1]))
+    for _, _, e in pendientes[:CUPO_ACTAS]:
         try:
             soup = get(e["acta"])
             # goles_y_tarjetas_de_acta necesita el soup tal cual, sin pasar por normalizar()
@@ -733,8 +757,28 @@ def completar_con_actas(estado, errores):
             soup_crudo = copy.deepcopy(soup)
             marcador, hora = datos_de_acta(soup)
         except Exception as ex:
-            print(f"Aviso: no se pudo leer un acta: {ex}", file=sys.stderr)
-            continue
+            # El acta guardada puede haber dejado de existir en la web de origen (se ha visto
+            # con un 404 real en otra app del mismo proyecto): como único reintento barato se
+            # prueba la forma alternativa de la URL (sin competición/grupo). Si tampoco cuela,
+            # se avisa y se sigue -- no hay forma barata de volver a localizar el acta correcta
+            # sin recorrer la jornada entera con el navegador.
+            if "404" in str(ex):
+                try:
+                    soup = _acta_de_repuesto(e["acta"])
+                    if soup is not None:
+                        soup_crudo = copy.deepcopy(soup)
+                        marcador, hora = datos_de_acta(soup)
+                    else:
+                        raise ex
+                except Exception as ex2:
+                    print(f"Aviso: el acta de {e.get('local', ['', '?'])[1]} - "
+                          f"{e.get('visitante', ['', '?'])[1]} ({e['fecha']}) ya no existe en la "
+                          f"web de origen y no se ha podido localizar de otra forma: {ex2}",
+                          file=sys.stderr)
+                    continue
+            else:
+                print(f"Aviso: no se pudo leer un acta: {ex}", file=sys.stderr)
+                continue
         if marcador and not e.get("resultado"):
             e["resultado"] = list(marcador)
         if hora and not e.get("hora"):
