@@ -1642,6 +1642,72 @@
    "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012056915_WS.png",
    "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-10-04",
+   "goles": [
+    {
+     "equipo": "CDE WINTER SQUAD",
+     "jugador": "FRANCISCO CRUZ ROMERO",
+     "lado": "local",
+     "minuto": 17,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CDE WINTER SQUAD",
+     "jugador": "FRANCISCO CRUZ ROMERO",
+     "lado": "local",
+     "minuto": 18,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CDE WINTER SQUAD",
+     "jugador": "MARCOS SANTOS FERNANDEZ",
+     "lado": "local",
+     "minuto": 33,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CDE WINTER SQUAD",
+     "jugador": "FRANCISCO CRUZ ROMERO",
+     "lado": "local",
+     "minuto": 36,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "OSCAR ADRIAN JIMENEZ RODRIGUEZ",
+     "lado": "visitante",
+     "minuto": 15,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "RAFAEL ALGABA DOMINGUEZ",
+     "lado": "visitante",
+     "minuto": 19,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "MARIO GARCIA FRANCHO",
+     "lado": "visitante",
+     "minuto": 24,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "JAIRO JOSE PORTAS RUBIO",
+     "lado": "visitante",
+     "minuto": 31,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
    "hora": "15:30",
    "jornada": 2,
@@ -1657,6 +1723,64 @@
     4,
     4
    ],
+   "tarjetas": [
+    {
+     "equipo": "CDE WINTER SQUAD",
+     "jugador": "IVAN MERINO ARROGANTE",
+     "lado": "local",
+     "minuto": 11,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "CDE WINTER SQUAD",
+     "jugador": "DIEGO RODRIGUEZ SANTOS",
+     "lado": "local",
+     "minuto": 14,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "CDE WINTER SQUAD",
+     "jugador": "DANIEL CATEDRA PEREIRA",
+     "lado": "local",
+     "minuto": 24,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "CDE WINTER SQUAD",
+     "jugador": "DANIEL GALIANO BLAZQUEZ",
+     "lado": "local",
+     "minuto": 25,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "CDE WINTER SQUAD",
+     "jugador": "VICTOR MAESO RESA",
+     "lado": "local",
+     "minuto": 34,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "STEFANO ANTOVELY CORDOVA URQUIAGA",
+     "lado": "visitante",
+     "minuto": 27,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "MARIO GARCIA FRANCHO",
+     "lado": "visitante",
+     "minuto": 37,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "STEFANO ANTOVELY CORDOVA URQUIAGA",
+     "lado": "visitante",
+     "minuto": 40,
+     "tipo": "roja"
+    }
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas",
    "visitante": [
     "18456762",
@@ -1668,9 +1792,9 @@
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
    "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012173144_Screenshot_20260506_090154_WhatsApp.jpg",
-   "fecha": "2026-10-10",
+   "fecha": "2026-10-27",
    "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
-   "hora": null,
+   "hora": "21:10",
    "jornada": 3,
    "local": [
     "18456762",
@@ -2082,9 +2206,9 @@
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
    "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011972491_eurosiris.png",
-   "fecha": "2026-10-10",
+   "fecha": "2026-11-17",
    "grupo": "Tercera División FS Grupo 3",
-   "hora": null,
+   "hora": "20:20",
    "jornada": 4,
    "local": [
     "17149145",
@@ -2513,7 +2637,7 @@
    "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-10-10",
    "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
-   "hora": null,
+   "hora": "20:30",
    "jornada": 4,
    "local": [
     "21675505",

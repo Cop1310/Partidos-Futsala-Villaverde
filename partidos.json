@@ -1,16 +1,18 @@
 {
-  "generado": "2026-10-05 14:50",
+  "generado": "2026-10-06 14:18",
   "desde": "2026-10-10",
   "hasta": "2026-10-11",
-  "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Tercera División FS Grupo 3\n📌 _Jornada 4_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(6º)* *_Futsala Villaverde A_* - *(3º)* C.F.S. Eurosiris-Bingo las Vegas A\n\n🏆 Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(8º)* *_Futsala Villaverde B_* - *(4º)* Club Escuela Deportiva Manila-Estrellas A\n\n🏆 Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 4_\n📍 Pabellón: Col. Gredos San Diego las Suertes\n⚽ *(14º)* Gredos San Diego las Suertes A - *(7º)* *_Futsala Villaverde A_*",
+  "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 10/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *20:30h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 4_\n📍 Pabellón: Col. Gredos San Diego las Suertes\n⚽ *(14º)* Gredos San Diego las Suertes A - *(7º)* *_Futsala Villaverde A_*",
   "resultados_desde": "2026-10-03",
   "resultados_hasta": "2026-10-04",
   "resultados": "━━━━━━━━━━━━━━━━\n📅 *SÁBADO 03/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *11:00h* - Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 1_\n📍 Pabellón: P.M. Plata y Castañar\n🟢 *(7º)* *_Futsala Villaverde_* 5 - 4 *(4º)* Colegio Abaco (FS) A\n\n⏰ *12:00h* - Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 1_\n📍 Pabellón: P.M. Plata y Castañar\n🟢 *(8º)* *_Futsala Villaverde_* 10 - 1 *(7º)* Futsal Pinto-Grupo Egido\n\n⏰ *19:00h* - Primera División Autonómica Femenino FS Grupo Único\n📌 _Jornada 2_\n📍 Pabellón: Polid. Colegio el Valle Sanchinarro\n🟢 *(11º)* El Valle A 2 - 3 *(1º)* *_Futsala Villaverde_*\n\n⏰ *19:45h* - Primera Juvenil FS Grupo 5\n📌 _Jornada 1_\n📍 Pabellón: Alcorcon - P.M. Santo Domingo Pista 6\n🟢 C.S.D. Parque de Lisboa Futsal 0 - 4 *_Futsala Villaverde B_*\n\n⏰ *20:00h* - Tercera División FS Grupo 3\n📌 _Jornada 3_\n📍 Pabellón: Alcorcon - P.M. M-4 Mª Jose Calero\n🔴 *(7º)* Pinar de San Jose-Alcorcon A 4 - 2 *(2º)* *_Futsala Villaverde A_*\n\n━━━━━━━━━━━━━━━━\n📅 *DOMINGO 04/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *15:30h* - Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 2_\n📍 Pabellón: Fuenlabrada - P.M. el Trigal\n🟡 *(13º)* Winter Squad 4 - 4 *(7º)* *_Futsala Villaverde B_*\n\n⏰ *18:30h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n🔴 *(3º)* *_Futsala Villaverde A_* 2 - 4 *(1º)* Futsala Pinto-Escuela Patri Chamorro A",
   "sin_partido": [
     "Alevín 1ª Fase FS Grupo 4",
     "Benjamín 1ª Fase FS Grupo 4",
+    "Primera División Autonómica Aficionado FS Grupo 1",
     "Primera División Autonómica Femenino FS Grupo Único",
-    "Primera Juvenil FS Grupo 5"
+    "Primera Juvenil FS Grupo 5",
+    "Tercera División FS Grupo 3"
   ],
   "sin_calendario": [],
   "errores": [],
@@ -32,7 +34,7 @@
     },
     {
       "sabado": "2026-10-10",
-      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Tercera División FS Grupo 3\n📌 _Jornada 4_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(6º)* *_Futsala Villaverde A_* - *(3º)* C.F.S. Eurosiris-Bingo las Vegas A\n\n🏆 Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(8º)* *_Futsala Villaverde B_* - *(4º)* Club Escuela Deportiva Manila-Estrellas A\n\n🏆 Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 4_\n📍 Pabellón: Col. Gredos San Diego las Suertes\n⚽ *(14º)* Gredos San Diego las Suertes A - *(7º)* *_Futsala Villaverde A_*",
+      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 10/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *20:30h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 4_\n📍 Pabellón: Col. Gredos San Diego las Suertes\n⚽ *(14º)* Gredos San Diego las Suertes A - *(7º)* *_Futsala Villaverde A_*",
       "resultados": ""
     },
     {
@@ -47,7 +49,7 @@
     },
     {
       "sabado": "2026-10-31",
-      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 31/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *19:30h* - Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 6_\n📍 Pabellón: P.M. la Mina\n⚽ Casco Antiguo Carabanchel B - *_Futsala Villaverde B_*",
+      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *MARTES 27/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *21:10h* - Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(8º)* *_Futsala Villaverde B_* - *(4º)* Club Escuela Deportiva Manila-Estrellas A\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 31/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *19:30h* - Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 6_\n📍 Pabellón: P.M. la Mina\n⚽ Casco Antiguo Carabanchel B - *_Futsala Villaverde B_*",
       "resultados": ""
     },
     {
@@ -62,7 +64,7 @@
     },
     {
       "sabado": "2026-11-21",
-      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Primera Juvenil FS Grupo 5\n📌 _Jornada 6_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde B_* - Oroquieta-Espinillo B\n\n🏆 Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 6_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde_* - Colegio Abaco (FS) B\n\n🏆 Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 6_\n📍 Pabellón: Parla - P.M. el Nido\n⚽ F.S. Diagonal - *_Futsala Villaverde_*",
+      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *MARTES 17/11/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *20:20h* - Tercera División FS Grupo 3\n📌 _Jornada 4_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(6º)* *_Futsala Villaverde A_* - *(3º)* C.F.S. Eurosiris-Bingo las Vegas A\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Primera Juvenil FS Grupo 5\n📌 _Jornada 6_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde B_* - Oroquieta-Espinillo B\n\n🏆 Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 6_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde_* - Colegio Abaco (FS) B\n\n🏆 Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 6_\n📍 Pabellón: Parla - P.M. el Nido\n⚽ F.S. Diagonal - *_Futsala Villaverde_*",
       "resultados": ""
     }
   ],
@@ -1096,8 +1098,130 @@
             4,
             4
           ],
-          "goles": [],
-          "tarjetas": []
+          "goles": [
+            {
+              "minuto": 17,
+              "jugador": "FRANCISCO CRUZ ROMERO",
+              "equipo": "CDE WINTER SQUAD",
+              "penalti": false,
+              "propia": false,
+              "lado": "local"
+            },
+            {
+              "minuto": 18,
+              "jugador": "FRANCISCO CRUZ ROMERO",
+              "equipo": "CDE WINTER SQUAD",
+              "penalti": false,
+              "propia": false,
+              "lado": "local"
+            },
+            {
+              "minuto": 33,
+              "jugador": "MARCOS SANTOS FERNANDEZ",
+              "equipo": "CDE WINTER SQUAD",
+              "penalti": false,
+              "propia": false,
+              "lado": "local"
+            },
+            {
+              "minuto": 36,
+              "jugador": "FRANCISCO CRUZ ROMERO",
+              "equipo": "CDE WINTER SQUAD",
+              "penalti": false,
+              "propia": false,
+              "lado": "local"
+            },
+            {
+              "minuto": 15,
+              "jugador": "OSCAR ADRIAN JIMENEZ RODRIGUEZ",
+              "equipo": "FUTSALA VILLAVERDE 'B'",
+              "penalti": false,
+              "propia": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 19,
+              "jugador": "RAFAEL ALGABA DOMINGUEZ",
+              "equipo": "FUTSALA VILLAVERDE 'B'",
+              "penalti": false,
+              "propia": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 24,
+              "jugador": "MARIO GARCIA FRANCHO",
+              "equipo": "FUTSALA VILLAVERDE 'B'",
+              "penalti": false,
+              "propia": false,
+              "lado": "visitante"
+            },
+            {
+              "minuto": 31,
+              "jugador": "JAIRO JOSE PORTAS RUBIO",
+              "equipo": "FUTSALA VILLAVERDE 'B'",
+              "penalti": false,
+              "propia": false,
+              "lado": "visitante"
+            }
+          ],
+          "tarjetas": [
+            {
+              "minuto": 11,
+              "jugador": "IVAN MERINO ARROGANTE",
+              "equipo": "CDE WINTER SQUAD",
+              "tipo": "amarilla",
+              "lado": "local"
+            },
+            {
+              "minuto": 14,
+              "jugador": "DIEGO RODRIGUEZ SANTOS",
+              "equipo": "CDE WINTER SQUAD",
+              "tipo": "amarilla",
+              "lado": "local"
+            },
+            {
+              "minuto": 24,
+              "jugador": "DANIEL CATEDRA PEREIRA",
+              "equipo": "CDE WINTER SQUAD",
+              "tipo": "amarilla",
+              "lado": "local"
+            },
+            {
+              "minuto": 25,
+              "jugador": "DANIEL GALIANO BLAZQUEZ",
+              "equipo": "CDE WINTER SQUAD",
+              "tipo": "amarilla",
+              "lado": "local"
+            },
+            {
+              "minuto": 34,
+              "jugador": "VICTOR MAESO RESA",
+              "equipo": "CDE WINTER SQUAD",
+              "tipo": "amarilla",
+              "lado": "local"
+            },
+            {
+              "minuto": 27,
+              "jugador": "STEFANO ANTOVELY CORDOVA URQUIAGA",
+              "equipo": "FUTSALA VILLAVERDE 'B'",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            },
+            {
+              "minuto": 37,
+              "jugador": "MARIO GARCIA FRANCHO",
+              "equipo": "FUTSALA VILLAVERDE 'B'",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            },
+            {
+              "minuto": 40,
+              "jugador": "STEFANO ANTOVELY CORDOVA URQUIAGA",
+              "equipo": "FUTSALA VILLAVERDE 'B'",
+              "tipo": "roja",
+              "lado": "visitante"
+            }
+          ]
         },
         {
           "fecha": "2026-10-04",
@@ -1354,24 +1478,6 @@
       "partidos": [
         {
           "fecha": "2026-10-10",
-          "grupo": "Tercera División FS Grupo 3",
-          "jornada": 4,
-          "local": "Futsala Villaverde A",
-          "visitante": "C.F.S. Eurosiris-Bingo las Vegas A",
-          "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
-          "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011972491_eurosiris.png"
-        },
-        {
-          "fecha": "2026-10-10",
-          "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
-          "jornada": 3,
-          "local": "Futsala Villaverde B",
-          "visitante": "Club Escuela Deportiva Manila-Estrellas A",
-          "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
-          "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012173144_Screenshot_20260506_090154_WhatsApp.jpg"
-        },
-        {
-          "fecha": "2026-10-10",
           "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
           "jornada": 4,
           "local": "Gredos San Diego las Suertes A",
@@ -1494,6 +1600,15 @@
       "sabado": "2026-10-31",
       "partidos": [
         {
+          "fecha": "2026-10-27",
+          "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
+          "jornada": 3,
+          "local": "Futsala Villaverde B",
+          "visitante": "Club Escuela Deportiva Manila-Estrellas A",
+          "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012173144_Screenshot_20260506_090154_WhatsApp.jpg"
+        },
+        {
           "fecha": "2026-10-31",
           "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
           "jornada": 6,
@@ -1580,6 +1695,15 @@
     {
       "sabado": "2026-11-21",
       "partidos": [
+        {
+          "fecha": "2026-11-17",
+          "grupo": "Tercera División FS Grupo 3",
+          "jornada": 4,
+          "local": "Futsala Villaverde A",
+          "visitante": "C.F.S. Eurosiris-Bingo las Vegas A",
+          "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011972491_eurosiris.png"
+        },
         {
           "fecha": "2026-11-21",
           "grupo": "Primera Juvenil FS Grupo 5",
