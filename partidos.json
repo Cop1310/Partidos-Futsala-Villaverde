@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-06 14:18",
+  "generado": "2026-10-07 14:10",
   "desde": "2026-10-10",
   "hasta": "2026-10-11",
   "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 10/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *20:30h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 4_\n📍 Pabellón: Col. Gredos San Diego las Suertes\n⚽ *(14º)* Gredos San Diego las Suertes A - *(7º)* *_Futsala Villaverde A_*",
@@ -1100,126 +1100,126 @@
           ],
           "goles": [
             {
+              "equipo": "CDE WINTER SQUAD",
+              "jugador": "FRANCISCO CRUZ ROMERO",
+              "lado": "local",
               "minuto": 17,
-              "jugador": "FRANCISCO CRUZ ROMERO",
-              "equipo": "CDE WINTER SQUAD",
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
+              "equipo": "CDE WINTER SQUAD",
+              "jugador": "FRANCISCO CRUZ ROMERO",
+              "lado": "local",
               "minuto": 18,
-              "jugador": "FRANCISCO CRUZ ROMERO",
-              "equipo": "CDE WINTER SQUAD",
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 33,
+              "equipo": "CDE WINTER SQUAD",
               "jugador": "MARCOS SANTOS FERNANDEZ",
-              "equipo": "CDE WINTER SQUAD",
+              "lado": "local",
+              "minuto": 33,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 36,
+              "equipo": "CDE WINTER SQUAD",
               "jugador": "FRANCISCO CRUZ ROMERO",
-              "equipo": "CDE WINTER SQUAD",
+              "lado": "local",
+              "minuto": 36,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 15,
+              "equipo": "FUTSALA VILLAVERDE 'B'",
               "jugador": "OSCAR ADRIAN JIMENEZ RODRIGUEZ",
-              "equipo": "FUTSALA VILLAVERDE 'B'",
+              "lado": "visitante",
+              "minuto": 15,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 19,
+              "equipo": "FUTSALA VILLAVERDE 'B'",
               "jugador": "RAFAEL ALGABA DOMINGUEZ",
-              "equipo": "FUTSALA VILLAVERDE 'B'",
+              "lado": "visitante",
+              "minuto": 19,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 24,
+              "equipo": "FUTSALA VILLAVERDE 'B'",
               "jugador": "MARIO GARCIA FRANCHO",
-              "equipo": "FUTSALA VILLAVERDE 'B'",
+              "lado": "visitante",
+              "minuto": 24,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 31,
-              "jugador": "JAIRO JOSE PORTAS RUBIO",
               "equipo": "FUTSALA VILLAVERDE 'B'",
+              "jugador": "JAIRO JOSE PORTAS RUBIO",
+              "lado": "visitante",
+              "minuto": 31,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             }
           ],
           "tarjetas": [
             {
-              "minuto": 11,
+              "equipo": "CDE WINTER SQUAD",
               "jugador": "IVAN MERINO ARROGANTE",
-              "equipo": "CDE WINTER SQUAD",
-              "tipo": "amarilla",
-              "lado": "local"
+              "lado": "local",
+              "minuto": 11,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 14,
+              "equipo": "CDE WINTER SQUAD",
               "jugador": "DIEGO RODRIGUEZ SANTOS",
-              "equipo": "CDE WINTER SQUAD",
-              "tipo": "amarilla",
-              "lado": "local"
+              "lado": "local",
+              "minuto": 14,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 24,
+              "equipo": "CDE WINTER SQUAD",
               "jugador": "DANIEL CATEDRA PEREIRA",
-              "equipo": "CDE WINTER SQUAD",
-              "tipo": "amarilla",
-              "lado": "local"
+              "lado": "local",
+              "minuto": 24,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 25,
+              "equipo": "CDE WINTER SQUAD",
               "jugador": "DANIEL GALIANO BLAZQUEZ",
-              "equipo": "CDE WINTER SQUAD",
-              "tipo": "amarilla",
-              "lado": "local"
+              "lado": "local",
+              "minuto": 25,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 34,
+              "equipo": "CDE WINTER SQUAD",
               "jugador": "VICTOR MAESO RESA",
-              "equipo": "CDE WINTER SQUAD",
-              "tipo": "amarilla",
-              "lado": "local"
+              "lado": "local",
+              "minuto": 34,
+              "tipo": "amarilla"
             },
             {
+              "equipo": "FUTSALA VILLAVERDE 'B'",
+              "jugador": "STEFANO ANTOVELY CORDOVA URQUIAGA",
+              "lado": "visitante",
               "minuto": 27,
-              "jugador": "STEFANO ANTOVELY CORDOVA URQUIAGA",
-              "equipo": "FUTSALA VILLAVERDE 'B'",
-              "tipo": "amarilla",
-              "lado": "visitante"
+              "tipo": "amarilla"
             },
             {
-              "minuto": 37,
+              "equipo": "FUTSALA VILLAVERDE 'B'",
               "jugador": "MARIO GARCIA FRANCHO",
-              "equipo": "FUTSALA VILLAVERDE 'B'",
-              "tipo": "amarilla",
-              "lado": "visitante"
+              "lado": "visitante",
+              "minuto": 37,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 40,
-              "jugador": "STEFANO ANTOVELY CORDOVA URQUIAGA",
               "equipo": "FUTSALA VILLAVERDE 'B'",
-              "tipo": "roja",
-              "lado": "visitante"
+              "jugador": "STEFANO ANTOVELY CORDOVA URQUIAGA",
+              "lado": "visitante",
+              "minuto": 40,
+              "tipo": "roja"
             }
           ]
         },
@@ -2650,7 +2650,7 @@
           "id": "21492126",
           "nombre": "Dosa",
           "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000035320_DOSA.jpg",
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014258150_ESC_C.D._DOSA__1_.png",
           "pj": 3,
           "g": 0,
           "e": 0,
