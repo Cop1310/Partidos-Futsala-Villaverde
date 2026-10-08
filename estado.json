@@ -1479,7 +1479,7 @@
    },
    "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas": {
     "actual": 2,
-    "cursor": 5,
+    "cursor": null,
     "fecha": "2026-10-08",
     "total": 26
    },
@@ -1498,12 +1498,14 @@
    "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas": {
     "actual": 2,
     "cursor": null,
-    "fecha": "2026-10-05"
+    "fecha": "2026-10-08",
+    "total": 9
    },
    "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas": {
     "actual": 2,
     "cursor": null,
-    "fecha": "2026-10-05"
+    "fecha": "2026-10-08",
+    "total": 9
    }
   },
   "terminado": {
@@ -4938,8 +4940,8 @@
   "5712413": {
    "acta": "https://www.elbalondemadrid.es/acta/5712413?temporada=22&competicion=26750017&grupo=28105968",
    "campo": "LEGANES - P.M. LA FORTUNA (futbol sala)",
-   "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014223772_escudo.png",
-   "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014223772_escudo.png",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-10-24",
    "grupo": "Alevín 1ª Fase FS Grupo 4",
    "hora": null,
@@ -4959,8 +4961,8 @@
   "5712418": {
    "acta": "https://www.elbalondemadrid.es/acta/5712418?temporada=22&competicion=26750017&grupo=28105968",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
-   "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
-   "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011747038_Imagen_1.png",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011747038_Imagen_1.png",
    "fecha": "2026-11-07",
    "grupo": "Alevín 1ª Fase FS Grupo 4",
    "hora": null,
@@ -4980,8 +4982,8 @@
   "5712422": {
    "acta": "https://www.elbalondemadrid.es/acta/5712422?temporada=22&competicion=26750017&grupo=28105968",
    "campo": "GETAFE - PABELLON DEPORTIVO MUNICIPAL M4 (futbol sala)",
-   "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012201397_file_00000000a85c71f4839b575aeb6b1e33.png",
-   "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012201397_file_00000000a85c71f4839b575aeb6b1e33.png",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-11-15",
    "grupo": "Alevín 1ª Fase FS Grupo 4",
    "hora": "17:30",
@@ -5001,8 +5003,8 @@
   "5712427": {
    "acta": "https://www.elbalondemadrid.es/acta/5712427?temporada=22&competicion=26750017&grupo=28105968",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
-   "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
-   "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011743910_Escudo___baco_FS.jpg",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011743910_Escudo___baco_FS.jpg",
    "fecha": "2026-11-21",
    "grupo": "Alevín 1ª Fase FS Grupo 4",
    "hora": null,
@@ -5017,6 +5019,69 @@
    "visitante": [
     "27509906",
     "COLEGIO ABACO (FS) 'B'"
+   ]
+  },
+  "5712431": {
+   "acta": "https://www.elbalondemadrid.es/acta/5712431?temporada=22&competicion=26750017&grupo=28105968",
+   "campo": "MOSTOLES - PAB. EVA MANGUAN (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002635_gkCLGWT2_400x400.jpg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "fecha": "2026-11-28",
+   "grupo": "Alevín 1ª Fase FS Grupo 4",
+   "hora": null,
+   "jornada": 7,
+   "local": [
+    "17149214",
+    "MRB F.S. MOSTOLES - CIUDAD DE MOSTOLES 'A'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas",
+   "visitante": [
+    "25048394",
+    "FUTSALA VILLAVERDE"
+   ]
+  },
+  "5712436": {
+   "acta": "https://www.elbalondemadrid.es/acta/5712436?temporada=22&competicion=26750017&grupo=28105968",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
+   "fecha": "2026-12-12",
+   "grupo": "Alevín 1ª Fase FS Grupo 4",
+   "hora": null,
+   "jornada": 8,
+   "local": [
+    "25048394",
+    "FUTSALA VILLAVERDE"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas",
+   "visitante": [
+    "17271080",
+    "F.S. DIAGONAL 'A'"
+   ]
+  },
+  "5712440": {
+   "acta": "https://www.elbalondemadrid.es/acta/5712440?temporada=22&competicion=26750017&grupo=28105968",
+   "campo": "PARLA - P.M. SUPERA PARLA ESTE (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000004293_PARLA.jpg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "fecha": "2026-12-19",
+   "grupo": "Alevín 1ª Fase FS Grupo 4",
+   "hora": null,
+   "jornada": 9,
+   "local": [
+    "26750663",
+    "FUTBOL SALA PARLA (FS)"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas",
+   "visitante": [
+    "25048394",
+    "FUTSALA VILLAVERDE"
    ]
   },
   "5719182": {
@@ -5148,8 +5213,8 @@
   "5719193": {
    "acta": "https://www.elbalondemadrid.es/acta/5719193?temporada=22&competicion=26750019&grupo=28118560",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
-   "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
-   "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002635_gkCLGWT2_400x400.jpg",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002635_gkCLGWT2_400x400.jpg",
    "fecha": "2026-10-24",
    "grupo": "Benjamín 1ª Fase FS Grupo 4",
    "hora": null,
@@ -5169,8 +5234,8 @@
   "5719199": {
    "acta": "https://www.elbalondemadrid.es/acta/5719199?temporada=22&competicion=26750019&grupo=28118560",
    "campo": "COL. EL VALLE LAS TABLAS (futbol sala)",
-   "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png",
-   "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-11-07",
    "grupo": "Benjamín 1ª Fase FS Grupo 4",
    "hora": null,
@@ -5190,8 +5255,8 @@
   "5719204": {
    "acta": "https://www.elbalondemadrid.es/acta/5719204?temporada=22&competicion=26750019&grupo=28118560",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
-   "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
-   "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png",
    "fecha": "2026-11-14",
    "grupo": "Benjamín 1ª Fase FS Grupo 4",
    "hora": null,
@@ -5211,8 +5276,8 @@
   "5719210": {
    "acta": "https://www.elbalondemadrid.es/acta/5719210?temporada=22&competicion=26750019&grupo=28118560",
    "campo": "PARLA - P.M. EL NIDO (futbol sala)",
-   "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
-   "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-11-21",
    "grupo": "Benjamín 1ª Fase FS Grupo 4",
    "hora": null,
@@ -5220,6 +5285,69 @@
    "local": [
     "18377870",
     "F.S. DIAGONAL"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas",
+   "visitante": [
+    "26731723",
+    "FUTSALA VILLAVERDE"
+   ]
+  },
+  "5719215": {
+   "acta": "https://www.elbalondemadrid.es/acta/5719215?temporada=22&competicion=26750019&grupo=28118560",
+   "campo": "P.M. ARGANZUELA LA FUNDI (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012159060_escudo_CDRPaloma.png",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "fecha": "2026-11-28",
+   "grupo": "Benjamín 1ª Fase FS Grupo 4",
+   "hora": null,
+   "jornada": 7,
+   "local": [
+    "19200947",
+    "RACING LA PALOMA"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas",
+   "visitante": [
+    "26731723",
+    "FUTSALA VILLAVERDE"
+   ]
+  },
+  "5719220": {
+   "acta": "https://www.elbalondemadrid.es/acta/5719220?temporada=22&competicion=26750019&grupo=28118560",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
+   "fecha": "2026-12-12",
+   "grupo": "Benjamín 1ª Fase FS Grupo 4",
+   "hora": null,
+   "jornada": 8,
+   "local": [
+    "26731723",
+    "FUTSALA VILLAVERDE"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas",
+   "visitante": [
+    "17145797",
+    "A.D. ALCORCON F.S. 'A'"
+   ]
+  },
+  "5719224": {
+   "acta": "https://www.elbalondemadrid.es/acta/5719224?temporada=22&competicion=26750019&grupo=28118560",
+   "campo": "COL. ESCUELAS PIAS CARABANCHEL(futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011928988_Escudo_Nuevo_Aluche_FS___Azul_y_Coral.jpg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "fecha": "2026-12-19",
+   "grupo": "Benjamín 1ª Fase FS Grupo 4",
+   "hora": null,
+   "jornada": 9,
+   "local": [
+    "24800380",
+    "CDE SPORT LATINA - EM ALUCHE FS"
    ],
    "pos": null,
    "resultado": null,
@@ -5357,8 +5485,8 @@
   "5721179": {
    "acta": "https://www.elbalondemadrid.es/acta/5721179?temporada=22&competicion=26738228&grupo=28123215",
    "campo": "MOSTOLES - P.M. ESTORIL 2 (futbol sala)",
-   "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155552_Escudo_Cde_La_Villa.png",
-   "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155552_Escudo_Cde_La_Villa.png",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-11-14",
    "grupo": "Primera Juvenil FS Grupo 5",
    "hora": null,
@@ -5378,8 +5506,8 @@
   "5721186": {
    "acta": "https://www.elbalondemadrid.es/acta/5721186?temporada=22&competicion=26738228&grupo=28123215",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
-   "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
-   "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002362_escudo2_3.jpg",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002362_escudo2_3.jpg",
    "fecha": "2026-11-21",
    "grupo": "Primera Juvenil FS Grupo 5",
    "hora": null,
@@ -5394,6 +5522,426 @@
    "visitante": [
     "27296547",
     "C.D.E. OROQUIETA-ESPINILLO 'B'"
+   ]
+  },
+  "5721192": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721192?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "MOSTOLES - COLEGIO VILLA DE MOSTOLES (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014263030_Escudo_mostoles_sur_FS__1_.png",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "fecha": "2026-11-28",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 7,
+   "local": [
+    "26752417",
+    "CDE MOSTOLES SUR FS (FS)"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ]
+  },
+  "5721199": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721199?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155588_ESCUDO_INTERSALA_NEW.png",
+   "fecha": "2026-12-12",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 8,
+   "local": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "22071510",
+    "C.D.E. INTERSALA MOSTOLES"
+   ]
+  },
+  "5721205": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721205?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "ALCORCON - P.M. M-4 Mª JOSE CALERO (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155576_ORIGINAL_VECTOR_1.png",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "fecha": "2026-12-19",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 9,
+   "local": [
+    "19361375",
+    "C.D.E. SAN JOSE DE VALDERAS - VALDERAS F.S. 'B'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ]
+  },
+  "5721212": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721212?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011928988_Escudo_Nuevo_Aluche_FS___Azul_y_Coral.jpg",
+   "fecha": "2027-01-09",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 10,
+   "local": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "27275488",
+    "CDE SPORT LATINA - EM ALUCHE FS"
+   ]
+  },
+  "5721219": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721219?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155770_3f6870fa_7e7b_452d_aad4_a8297489831d.png",
+   "fecha": "2027-01-23",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 11,
+   "local": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "26884014",
+    "C.D.E. FUENLABRADA FUTBOL SALA (FS) 'B'"
+   ]
+  },
+  "5721227": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721227?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "HUMANES - P.M. CAMPOHERMOSO (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156624_CDE_EFS_HUMANES_DEFINITIV.png",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "fecha": "2027-01-30",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 12,
+   "local": [
+    "18921921",
+    "CDE E.F.S. HUMANES 'B'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ]
+  },
+  "5721234": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721234?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
+   "fecha": "2027-02-06",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 13,
+   "local": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "18637528",
+    "C.D.E. PINAR DE SAN JOSE - ALCORCON 'B'"
+   ]
+  },
+  "5721244": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721244?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011730788_escudo_futsal.jpeg",
+   "fecha": "2027-02-13",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 14,
+   "local": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "18627864",
+    "C.S.D. PARQUE DE LISBOA FUTSAL"
+   ]
+  },
+  "5721251": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721251?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "MOSTOLES - COL. ANDRES SEGOVIA (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "fecha": "2027-02-20",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 15,
+   "local": [
+    "18949928",
+    "C.D.E. ANDRES SEGOVIA-MOSTOLES"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ]
+  },
+  "5721257": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721257?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
+   "fecha": "2027-02-27",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 16,
+   "local": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "24772220",
+    "F.S. DIAGONAL 'C'"
+   ]
+  },
+  "5721264": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721264?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "PINTO - P.M. PATRICIA CHAMORRO (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014265540_futsal_pinto.png",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "fecha": "2027-03-06",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 17,
+   "local": [
+    "27561905",
+    "FUTSAL PINTO (FS) 'B'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ]
+  },
+  "5721270": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721270?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155552_Escudo_Cde_La_Villa.png",
+   "fecha": "2027-03-13",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 18,
+   "local": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "22510184",
+    "C.D. LA VILLA MOSTOLES 'B'"
+   ]
+  },
+  "5721277": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721277?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "IDM VICTORIA HERNANDEZ (futbol sala) ",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002362_escudo2_3.jpg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "fecha": "2027-03-20",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 19,
+   "local": [
+    "27296547",
+    "C.D.E. OROQUIETA-ESPINILLO 'B'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ]
+  },
+  "5721283": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721283?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014263030_Escudo_mostoles_sur_FS__1_.png",
+   "fecha": "2027-04-03",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 20,
+   "local": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "26752417",
+    "CDE MOSTOLES SUR FS (FS)"
+   ]
+  },
+  "5721290": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721290?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "MOSTOLES - COL. JULIAN BESTEIRO (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155588_ESCUDO_INTERSALA_NEW.png",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "fecha": "2027-04-10",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 21,
+   "local": [
+    "22071510",
+    "C.D.E. INTERSALA MOSTOLES"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ]
+  },
+  "5721296": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721296?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155576_ORIGINAL_VECTOR_1.png",
+   "fecha": "2027-04-17",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 22,
+   "local": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "19361375",
+    "C.D.E. SAN JOSE DE VALDERAS - VALDERAS F.S. 'B'"
+   ]
+  },
+  "5721303": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721303?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "COL. ESCUELAS PIAS CARABANCHEL(futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011928988_Escudo_Nuevo_Aluche_FS___Azul_y_Coral.jpg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "fecha": "2027-04-24",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 23,
+   "local": [
+    "27275488",
+    "CDE SPORT LATINA - EM ALUCHE FS"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ]
+  },
+  "5721310": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721310?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "FUENLABRADA - P.M. EL TRIGAL (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155770_3f6870fa_7e7b_452d_aad4_a8297489831d.png",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "fecha": "2027-05-08",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 24,
+   "local": [
+    "26884014",
+    "C.D.E. FUENLABRADA FUTBOL SALA (FS) 'B'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ]
+  },
+  "5721318": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721318?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156624_CDE_EFS_HUMANES_DEFINITIV.png",
+   "fecha": "2027-05-22",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 25,
+   "local": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "18921921",
+    "CDE E.F.S. HUMANES 'B'"
+   ]
+  },
+  "5721325": {
+   "acta": "https://www.elbalondemadrid.es/acta/5721325?temporada=22&competicion=26738228&grupo=28123215",
+   "campo": "ALCORCON - P.M. M-4 Mª JOSE CALERO (futbol sala)",
+   "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+   "fecha": "2027-06-05",
+   "grupo": "Primera Juvenil FS Grupo 5",
+   "hora": null,
+   "jornada": 26,
+   "local": [
+    "18637528",
+    "C.D.E. PINAR DE SAN JOSE - ALCORCON 'B'"
+   ],
+   "pos": null,
+   "resultado": null,
+   "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
+   "visitante": [
+    "21727163",
+    "FUTSALA VILLAVERDE 'B'"
    ]
   }
  }
