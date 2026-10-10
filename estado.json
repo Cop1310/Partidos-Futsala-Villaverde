@@ -356,7 +356,7 @@
     {
      "dg": -3,
      "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156631_Escudo_sin_fondo_AMPLIADO.png",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014271119_casco_antiguo.png",
      "g": 1,
      "gc": 11,
      "gf": 8,
@@ -497,7 +497,7 @@
     {
      "dg": 4,
      "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
      "g": 1,
      "gc": 0,
      "gf": 4,
@@ -726,6 +726,21 @@
      "pts": 6
     },
     {
+     "dg": 3,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265535_Athletic_Mostoles.png",
+     "g": 2,
+     "gc": 8,
+     "gf": 11,
+     "id": "21431859",
+     "nombre": "Athletic Mostoles B",
+     "nuestro": false,
+     "p": 1,
+     "pj": 3,
+     "pos": 4,
+     "pts": 6
+    },
+    {
      "dg": 4,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014267688_MANILA.png",
@@ -734,21 +749,6 @@
      "gf": 11,
      "id": "21493878",
      "nombre": "Club Escuela Deportiva Manila-Estrellas A",
-     "nuestro": false,
-     "p": 1,
-     "pj": 2,
-     "pos": 4,
-     "pts": 3
-    },
-    {
-     "dg": 2,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265535_Athletic_Mostoles.png",
-     "g": 1,
-     "gc": 6,
-     "gf": 8,
-     "id": "21431859",
-     "nombre": "Athletic Mostoles B",
      "nuestro": false,
      "p": 1,
      "pj": 2,
@@ -788,7 +788,7 @@
     {
      "dg": 0,
      "e": 2,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
      "g": 0,
      "gc": 8,
      "gf": 8,
@@ -816,17 +816,17 @@
      "pts": 2
     },
     {
-     "dg": -1,
+     "dg": -2,
      "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156631_Escudo_sin_fondo_AMPLIADO.png",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014271119_casco_antiguo.png",
      "g": 0,
-     "gc": 8,
-     "gf": 7,
+     "gc": 11,
+     "gf": 9,
      "id": "17145360",
      "nombre": "Casco Antiguo Carabanchel B",
      "nuestro": false,
-     "p": 1,
-     "pj": 2,
+     "p": 2,
+     "pj": 3,
      "pos": 10,
      "pts": 1
     },
@@ -1160,7 +1160,22 @@
     {
      "dg": 9,
      "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000004293_PARLA.jpg",
+     "g": 1,
+     "gc": 1,
+     "gf": 10,
+     "id": "26750663",
+     "nombre": "Futbol Sala Parla (FS)",
+     "nuestro": false,
+     "p": 0,
+     "pj": 1,
+     "pos": 2,
+     "pts": 3
+    },
+    {
+     "dg": 9,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
      "g": 1,
      "gc": 1,
      "gf": 10,
@@ -1169,7 +1184,7 @@
      "nuestro": true,
      "p": 0,
      "pj": 1,
-     "pos": 2,
+     "pos": 3,
      "pts": 3
     },
     {
@@ -1184,7 +1199,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 3,
+     "pos": 4,
      "pts": 3
     },
     {
@@ -1199,38 +1214,8 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 4,
-     "pts": 3
-    },
-    {
-     "dg": 0,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011747038_Imagen_1.png",
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
-     "id": "26735448",
-     "nombre": "Aquila (FS)",
-     "nuestro": false,
-     "p": 0,
-     "pj": 0,
      "pos": 5,
-     "pts": 0
-    },
-    {
-     "dg": 0,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000004293_PARLA.jpg",
-     "g": 0,
-     "gc": 0,
-     "gf": 0,
-     "id": "26750663",
-     "nombre": "Futbol Sala Parla (FS)",
-     "nuestro": false,
-     "p": 0,
-     "pj": 0,
-     "pos": 6,
-     "pts": 0
+     "pts": 3
     },
     {
      "dg": -2,
@@ -1244,18 +1229,33 @@
      "nuestro": false,
      "p": 1,
      "pj": 1,
-     "pos": 7,
+     "pos": 6,
      "pts": 0
     },
     {
      "dg": -8,
      "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011743910_Escudo___baco_FS.jpg",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270033_abaco.png",
      "g": 0,
      "gc": 8,
      "gf": 0,
      "id": "27509906",
      "nombre": "Colegio Abaco (FS) B",
+     "nuestro": false,
+     "p": 1,
+     "pj": 1,
+     "pos": 7,
+     "pts": 0
+    },
+    {
+     "dg": -9,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011747038_Imagen_1.png",
+     "g": 0,
+     "gc": 10,
+     "gf": 1,
+     "id": "26735448",
+     "nombre": "Aquila (FS)",
      "nuestro": false,
      "p": 1,
      "pj": 1,
@@ -1809,7 +1809,7 @@
    ],
    "pos": [
     8,
-    4
+    5
    ],
    "resultado": null,
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas",
@@ -4927,8 +4927,8 @@
     "C.D.E. SPORT SALA 12"
    ],
    "pos": [
-    4,
-    2
+    5,
+    3
    ],
    "resultado": null,
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas",
