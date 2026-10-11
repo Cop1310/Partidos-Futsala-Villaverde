@@ -912,6 +912,21 @@
      "pts": 12
     },
     {
+     "dg": 11,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014269425_FS_M_STOLES_ESCUDOS_1.png",
+     "g": 4,
+     "gc": 9,
+     "gf": 20,
+     "id": "17149302",
+     "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles B",
+     "nuestro": false,
+     "p": 0,
+     "pj": 4,
+     "pos": 2,
+     "pts": 12
+    },
+    {
      "dg": 9,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
@@ -923,7 +938,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 4,
-     "pos": 2,
+     "pos": 3,
      "pts": 10
     },
     {
@@ -938,21 +953,6 @@
      "nuestro": false,
      "p": 1,
      "pj": 4,
-     "pos": 3,
-     "pts": 9
-    },
-    {
-     "dg": 8,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014269425_FS_M_STOLES_ESCUDOS_1.png",
-     "g": 3,
-     "gc": 9,
-     "gf": 17,
-     "id": "17149302",
-     "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles B",
-     "nuestro": false,
-     "p": 0,
-     "pj": 3,
      "pos": 4,
      "pts": 9
     },
@@ -1017,17 +1017,17 @@
      "pts": 6
     },
     {
-     "dg": -4,
+     "dg": -7,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003686_ciudad_de_torrejon.jpg",
      "g": 2,
-     "gc": 13,
+     "gc": 16,
      "gf": 9,
      "id": "17210272",
      "nombre": "E.F.S. Ciudad de Torrejon-Redpiso Torrejon A",
      "nuestro": false,
-     "p": 1,
-     "pj": 3,
+     "p": 2,
+     "pj": 4,
      "pos": 9,
      "pts": 6
     },
