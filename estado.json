@@ -235,6 +235,21 @@
     },
     {
      "dg": 7,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012146202_logoadop.png",
+     "g": 3,
+     "gc": 15,
+     "gf": 22,
+     "id": "17146989",
+     "nombre": "Obispo Perello A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 4,
+     "pos": 2,
+     "pts": 10
+    },
+    {
+     "dg": 7,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011024048_escudo.jpg",
      "g": 3,
@@ -245,8 +260,23 @@
      "nuestro": false,
      "p": 0,
      "pj": 3,
-     "pos": 2,
+     "pos": 3,
      "pts": 9
+    },
+    {
+     "dg": 16,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg",
+     "g": 2,
+     "gc": 11,
+     "gf": 27,
+     "id": "21476719",
+     "nombre": "Atletico Trabenco Zarzaquemada A",
+     "nuestro": false,
+     "p": 1,
+     "pj": 4,
+     "pos": 4,
+     "pts": 7
     },
     {
      "dg": 8,
@@ -260,37 +290,22 @@
      "nuestro": false,
      "p": 0,
      "pj": 3,
-     "pos": 3,
+     "pos": 5,
      "pts": 7
     },
     {
-     "dg": 6,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012146202_logoadop.png",
-     "g": 2,
-     "gc": 11,
-     "gf": 17,
-     "id": "17146989",
-     "nombre": "Obispo Perello A",
-     "nuestro": false,
-     "p": 0,
-     "pj": 3,
-     "pos": 4,
-     "pts": 7
-    },
-    {
-     "dg": 5,
+     "dg": 4,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
      "g": 2,
-     "gc": 9,
-     "gf": 14,
+     "gc": 14,
+     "gf": 18,
      "id": "19128829",
      "nombre": "Pinar de San Jose-Alcorcon A",
      "nuestro": false,
-     "p": 0,
-     "pj": 3,
-     "pos": 5,
+     "p": 1,
+     "pj": 4,
+     "pos": 6,
      "pts": 7
     },
     {
@@ -305,7 +320,7 @@
      "nuestro": true,
      "p": 1,
      "pj": 3,
-     "pos": 6,
+     "pos": 7,
      "pts": 6
     },
     {
@@ -320,7 +335,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 4,
-     "pos": 7,
+     "pos": 8,
      "pts": 6
     },
     {
@@ -335,7 +350,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 4,
-     "pos": 8,
+     "pos": 9,
      "pts": 6
     },
     {
@@ -350,7 +365,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 4,
-     "pos": 9,
+     "pos": 10,
      "pts": 5
     },
     {
@@ -365,38 +380,8 @@
      "nuestro": false,
      "p": 2,
      "pj": 4,
-     "pos": 10,
-     "pts": 4
-    },
-    {
-     "dg": 1,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg",
-     "g": 1,
-     "gc": 11,
-     "gf": 12,
-     "id": "21476719",
-     "nombre": "Atletico Trabenco Zarzaquemada A",
-     "nuestro": false,
-     "p": 1,
-     "pj": 3,
      "pos": 11,
      "pts": 4
-    },
-    {
-     "dg": -5,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012167978_1988_JVK_AZUL__1_.png",
-     "g": 1,
-     "gc": 11,
-     "gf": 6,
-     "id": "18734838",
-     "nombre": "Ciudad Villa de Vallecas F.S.",
-     "nuestro": false,
-     "p": 2,
-     "pj": 3,
-     "pos": 12,
-     "pts": 3
     },
     {
      "dg": -7,
@@ -410,7 +395,7 @@
      "nuestro": false,
      "p": 3,
      "pj": 4,
-     "pos": 13,
+     "pos": 12,
      "pts": 3
     },
     {
@@ -422,6 +407,21 @@
      "gf": 7,
      "id": "18439661",
      "nombre": "Club Arganda Futsal-Albero-Mudanzas Segoviana A",
+     "nuestro": false,
+     "p": 3,
+     "pj": 4,
+     "pos": 13,
+     "pts": 3
+    },
+    {
+     "dg": -20,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012167978_1988_JVK_AZUL__1_.png",
+     "g": 1,
+     "gc": 26,
+     "gf": 6,
+     "id": "18734838",
+     "nombre": "Ciudad Villa de Vallecas F.S.",
      "nuestro": false,
      "p": 3,
      "pj": 4,
@@ -2642,8 +2642,8 @@
     "FUTSALA VILLAVERDE 'A'"
    ],
    "pos": [
-    6,
-    3
+    7,
+    5
    ],
    "resultado": null,
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas",
