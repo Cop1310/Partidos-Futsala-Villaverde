@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-10 22:28",
+  "generado": "2026-10-11 02:05",
   "desde": "2026-10-10",
   "hasta": "2026-10-11",
   "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 10/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *20:30h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 4_\n📍 Pabellón: Col. Gredos San Diego las Suertes\n⚽ *(14º)* Gredos San Diego las Suertes A - *(7º)* *_Futsala Villaverde A_*",
@@ -1436,8 +1436,77 @@
             3,
             1
           ],
-          "goles": [],
-          "tarjetas": []
+          "goles": [
+            {
+              "minuto": 3,
+              "jugador": "MARIO MORAL TORIBIO",
+              "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
+              "penalti": false,
+              "propia": false,
+              "lado": "local"
+            },
+            {
+              "minuto": 13,
+              "jugador": "MARIO MORAL TORIBIO",
+              "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
+              "penalti": false,
+              "propia": false,
+              "lado": "local"
+            },
+            {
+              "minuto": 27,
+              "jugador": "IVAN GUTIERREZ TEJERO",
+              "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
+              "penalti": false,
+              "propia": false,
+              "lado": "local"
+            },
+            {
+              "minuto": 25,
+              "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "penalti": false,
+              "propia": false,
+              "lado": "visitante"
+            }
+          ],
+          "tarjetas": [
+            {
+              "minuto": 18,
+              "jugador": "ADRIAN JALON ROMERO",
+              "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
+              "tipo": "amarilla",
+              "lado": "local"
+            },
+            {
+              "minuto": 19,
+              "jugador": "DARIO SALÁN SÁNCHEZ",
+              "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
+              "tipo": "amarilla",
+              "lado": "local"
+            },
+            {
+              "minuto": 19,
+              "jugador": "HUGO RODRIGUEZ SANCHEZ",
+              "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
+              "tipo": "amarilla",
+              "lado": "local"
+            },
+            {
+              "minuto": 27,
+              "jugador": "RODRIGO BUITRAGO GONZALEZ",
+              "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
+              "tipo": "amarilla",
+              "lado": "local"
+            },
+            {
+              "minuto": 38,
+              "jugador": "ANTONIO TOROVICH ESCOBAR",
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "tipo": "amarilla",
+              "lado": "visitante"
+            }
+          ]
         }
       ]
     },

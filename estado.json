@@ -3546,6 +3546,40 @@
    "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012174389_gsd_deportes_color_v.png",
    "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-10-10",
+   "goles": [
+    {
+     "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
+     "jugador": "MARIO MORAL TORIBIO",
+     "lado": "local",
+     "minuto": 3,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
+     "jugador": "MARIO MORAL TORIBIO",
+     "lado": "local",
+     "minuto": 13,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
+     "jugador": "IVAN GUTIERREZ TEJERO",
+     "lado": "local",
+     "minuto": 27,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+     "lado": "visitante",
+     "minuto": 25,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
    "hora": "20:30",
    "jornada": 4,
@@ -3560,6 +3594,43 @@
    "resultado": [
     3,
     1
+   ],
+   "tarjetas": [
+    {
+     "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
+     "jugador": "ADRIAN JALON ROMERO",
+     "lado": "local",
+     "minuto": 18,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
+     "jugador": "DARIO SALÁN SÁNCHEZ",
+     "lado": "local",
+     "minuto": 19,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
+     "jugador": "HUGO RODRIGUEZ SANCHEZ",
+     "lado": "local",
+     "minuto": 19,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
+     "jugador": "RODRIGO BUITRAGO GONZALEZ",
+     "lado": "local",
+     "minuto": 27,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ANTONIO TOROVICH ESCOBAR",
+     "lado": "visitante",
+     "minuto": 38,
+     "tipo": "amarilla"
+    }
    ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas",
    "visitante": [
