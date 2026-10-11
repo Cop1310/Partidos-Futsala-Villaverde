@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-11 02:05",
+  "generado": "2026-10-11 13:42",
   "desde": "2026-10-10",
   "hasta": "2026-10-11",
   "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 10/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *20:30h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 4_\n📍 Pabellón: Col. Gredos San Diego las Suertes\n⚽ *(14º)* Gredos San Diego las Suertes A - *(7º)* *_Futsala Villaverde A_*",
@@ -3907,6 +3907,21 @@
         },
         {
           "pos": 3,
+          "id": "17146979",
+          "nombre": "Alcorcon F.S. B",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
+          "pj": 4,
+          "g": 3,
+          "e": 0,
+          "p": 1,
+          "gf": 19,
+          "gc": 11,
+          "dg": 8,
+          "pts": 9
+        },
+        {
+          "pos": 4,
           "id": "17149302",
           "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles B",
           "nuestro": false,
@@ -3921,7 +3936,7 @@
           "pts": 9
         },
         {
-          "pos": 4,
+          "pos": 5,
           "id": "17148793",
           "nombre": "Inter Futbol Sala-Jp Financial B",
           "nuestro": false,
@@ -3936,7 +3951,7 @@
           "pts": 7
         },
         {
-          "pos": 5,
+          "pos": 6,
           "id": "17145520",
           "nombre": "A.D.Escurialense",
           "nuestro": false,
@@ -3949,21 +3964,6 @@
           "gc": 20,
           "dg": 1,
           "pts": 7
-        },
-        {
-          "pos": 6,
-          "id": "17146979",
-          "nombre": "Alcorcon F.S. B",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
-          "pj": 3,
-          "g": 2,
-          "e": 0,
-          "p": 1,
-          "gf": 15,
-          "gc": 8,
-          "dg": 7,
-          "pts": 6
         },
         {
           "pos": 7,
@@ -4072,32 +4072,32 @@
         },
         {
           "pos": 14,
-          "id": "18378932",
-          "nombre": "Club Arganda Futsal A",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
-          "pj": 3,
-          "g": 0,
-          "e": 0,
-          "p": 3,
-          "gf": 11,
-          "gc": 17,
-          "dg": -6,
-          "pts": 0
-        },
-        {
-          "pos": 15,
           "id": "18345002",
           "nombre": "Rivas Futsal-Youfirst Smart Finace A",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265533_rivas_futsal.png",
-          "pj": 3,
-          "g": 0,
+          "pj": 4,
+          "g": 1,
           "e": 0,
           "p": 3,
-          "gf": 5,
-          "gc": 17,
-          "dg": -12,
+          "gf": 13,
+          "gc": 24,
+          "dg": -11,
+          "pts": 3
+        },
+        {
+          "pos": 15,
+          "id": "18378932",
+          "nombre": "Club Arganda Futsal A",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
+          "pj": 4,
+          "g": 0,
+          "e": 0,
+          "p": 4,
+          "gf": 14,
+          "gc": 21,
+          "dg": -7,
           "pts": 0
         },
         {
@@ -4106,13 +4106,13 @@
           "nombre": "Dosa",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014258150_ESC_C.D._DOSA__1_.png",
-          "pj": 3,
+          "pj": 4,
           "g": 0,
           "e": 0,
-          "p": 3,
-          "gf": 7,
-          "gc": 24,
-          "dg": -17,
+          "p": 4,
+          "gf": 14,
+          "gc": 32,
+          "dg": -18,
           "pts": 0
         }
       ],

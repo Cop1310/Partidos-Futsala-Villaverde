@@ -929,6 +929,21 @@
     {
      "dg": 8,
      "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
+     "g": 3,
+     "gc": 11,
+     "gf": 19,
+     "id": "17146979",
+     "nombre": "Alcorcon F.S. B",
+     "nuestro": false,
+     "p": 1,
+     "pj": 4,
+     "pos": 3,
+     "pts": 9
+    },
+    {
+     "dg": 8,
+     "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014269425_FS_M_STOLES_ESCUDOS_1.png",
      "g": 3,
      "gc": 9,
@@ -938,7 +953,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 3,
-     "pos": 3,
+     "pos": 4,
      "pts": 9
     },
     {
@@ -953,7 +968,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 4,
-     "pos": 4,
+     "pos": 5,
      "pts": 7
     },
     {
@@ -968,23 +983,8 @@
      "nuestro": false,
      "p": 1,
      "pj": 4,
-     "pos": 5,
-     "pts": 7
-    },
-    {
-     "dg": 7,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
-     "g": 2,
-     "gc": 8,
-     "gf": 15,
-     "id": "17146979",
-     "nombre": "Alcorcon F.S. B",
-     "nuestro": false,
-     "p": 1,
-     "pj": 3,
      "pos": 6,
-     "pts": 6
+     "pts": 7
     },
     {
      "dg": 4,
@@ -1092,47 +1092,47 @@
      "pts": 3
     },
     {
-     "dg": -6,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
-     "g": 0,
-     "gc": 17,
-     "gf": 11,
-     "id": "18378932",
-     "nombre": "Club Arganda Futsal A",
-     "nuestro": false,
-     "p": 3,
-     "pj": 3,
-     "pos": 14,
-     "pts": 0
-    },
-    {
-     "dg": -12,
+     "dg": -11,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265533_rivas_futsal.png",
-     "g": 0,
-     "gc": 17,
-     "gf": 5,
+     "g": 1,
+     "gc": 24,
+     "gf": 13,
      "id": "18345002",
      "nombre": "Rivas Futsal-Youfirst Smart Finace A",
      "nuestro": false,
      "p": 3,
-     "pj": 3,
+     "pj": 4,
+     "pos": 14,
+     "pts": 3
+    },
+    {
+     "dg": -7,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
+     "g": 0,
+     "gc": 21,
+     "gf": 14,
+     "id": "18378932",
+     "nombre": "Club Arganda Futsal A",
+     "nuestro": false,
+     "p": 4,
+     "pj": 4,
      "pos": 15,
      "pts": 0
     },
     {
-     "dg": -17,
+     "dg": -18,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014258150_ESC_C.D._DOSA__1_.png",
      "g": 0,
-     "gc": 24,
-     "gf": 7,
+     "gc": 32,
+     "gf": 14,
      "id": "21492126",
      "nombre": "Dosa",
      "nuestro": false,
-     "p": 3,
-     "pj": 3,
+     "p": 4,
+     "pj": 4,
      "pos": 16,
      "pts": 0
     }
