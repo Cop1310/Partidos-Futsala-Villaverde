@@ -1,19 +1,12 @@
 {
-  "generado": "2026-10-11 22:48",
-  "desde": "2026-10-10",
-  "hasta": "2026-10-11",
-  "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 10/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *20:30h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 4_\n📍 Pabellón: Col. Gredos San Diego las Suertes\n⚽ *(14º)* Gredos San Diego las Suertes A - *(7º)* *_Futsala Villaverde A_*",
+  "generado": "2026-10-12 02:15",
+  "desde": "2026-10-17",
+  "hasta": "2026-10-18",
+  "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Tercera División FS Grupo 3\n📌 _Jornada 5_\n📍 Pabellón: Arganda - P.M. Luis Amado\n⚽ *(13º)* Club Arganda Futsal-Albero-Mudanzas Segoviana A - *(7º)* *_Futsala Villaverde A_*\n\n🏆 Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 4_\n📍 Pabellón: Brunete - P.M. Jose Ramon de la Morena\n⚽ *(9º)* Escuela Deportiva Brunete - *(10º)* *_Futsala Villaverde B_*\n\n🏆 Primera División Autonómica Femenino FS Grupo Único\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(2º)* *_Futsala Villaverde_* - *(3º)* Club Futbol Sala Femenino San Fernando B\n\n🏆 Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 5_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(8º)* *_Futsala Villaverde A_* - *(2º)* Mrb F.S. Mostoles-Ciudad de Mostoles B\n\n🏆 Primera Juvenil FS Grupo 5\n📌 _Jornada 2_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(3º)* *_Futsala Villaverde B_* - *(7º)* Andres Segovia-Mostoles\n\n🏆 Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 2_\n📍 Pabellón: Parla - P.M. Supera Parla Este\n⚽ *(5º)* Sport Sala 12 - *(3º)* *_Futsala Villaverde_*\n\n🏆 Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 2_\n📍 Pabellón: Pinto - P.M. Patricia Chamorro\n⚽ *(1º)* Futsala Pinto-Escuela Patri Chamorro A - *(5º)* *_Futsala Villaverde_*",
   "resultados_desde": "2026-10-10",
   "resultados_hasta": "2026-10-11",
   "resultados": "━━━━━━━━━━━━━━━━\n📅 *SÁBADO 10/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *20:30h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 4_\n📍 Pabellón: Col. Gredos San Diego las Suertes\n🔴 *(14º)* Gredos San Diego las Suertes A 3 - 1 *(7º)* *_Futsala Villaverde A_*",
-  "sin_partido": [
-    "Alevín 1ª Fase FS Grupo 4",
-    "Benjamín 1ª Fase FS Grupo 4",
-    "Primera División Autonómica Aficionado FS Grupo 1",
-    "Primera División Autonómica Femenino FS Grupo Único",
-    "Primera Juvenil FS Grupo 5",
-    "Tercera División FS Grupo 3"
-  ],
+  "sin_partido": [],
   "sin_calendario": [],
   "errores": [],
   "semanas": [
@@ -39,7 +32,7 @@
     },
     {
       "sabado": "2026-10-17",
-      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Tercera División FS Grupo 3\n📌 _Jornada 5_\n📍 Pabellón: Arganda - P.M. Luis Amado\n⚽ Club Arganda Futsal-Albero-Mudanzas Segoviana A - *_Futsala Villaverde A_*\n\n🏆 Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 4_\n📍 Pabellón: Brunete - P.M. Jose Ramon de la Morena\n⚽ Escuela Deportiva Brunete - *_Futsala Villaverde B_*\n\n🏆 Primera División Autonómica Femenino FS Grupo Único\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(2º)* *_Futsala Villaverde_* - *(3º)* Club Futbol Sala Femenino San Fernando B\n\n🏆 Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 5_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *_Futsala Villaverde A_* - Mrb F.S. Mostoles-Ciudad de Mostoles B\n\n🏆 Primera Juvenil FS Grupo 5\n📌 _Jornada 2_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(3º)* *_Futsala Villaverde B_* - *(7º)* Andres Segovia-Mostoles\n\n🏆 Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 2_\n📍 Pabellón: Parla - P.M. Supera Parla Este\n⚽ *(5º)* Sport Sala 12 - *(3º)* *_Futsala Villaverde_*\n\n🏆 Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 2_\n📍 Pabellón: Pinto - P.M. Patricia Chamorro\n⚽ *(1º)* Futsala Pinto-Escuela Patri Chamorro A - *(5º)* *_Futsala Villaverde_*",
+      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *PENDIENTE DE CONFIRMAR DÍA Y HORA*\n━━━━━━━━━━━━━━━━\n\n🏆 Tercera División FS Grupo 3\n📌 _Jornada 5_\n📍 Pabellón: Arganda - P.M. Luis Amado\n⚽ *(13º)* Club Arganda Futsal-Albero-Mudanzas Segoviana A - *(7º)* *_Futsala Villaverde A_*\n\n🏆 Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 4_\n📍 Pabellón: Brunete - P.M. Jose Ramon de la Morena\n⚽ *(9º)* Escuela Deportiva Brunete - *(10º)* *_Futsala Villaverde B_*\n\n🏆 Primera División Autonómica Femenino FS Grupo Único\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(2º)* *_Futsala Villaverde_* - *(3º)* Club Futbol Sala Femenino San Fernando B\n\n🏆 Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 5_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(8º)* *_Futsala Villaverde A_* - *(2º)* Mrb F.S. Mostoles-Ciudad de Mostoles B\n\n🏆 Primera Juvenil FS Grupo 5\n📌 _Jornada 2_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(3º)* *_Futsala Villaverde B_* - *(7º)* Andres Segovia-Mostoles\n\n🏆 Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 2_\n📍 Pabellón: Parla - P.M. Supera Parla Este\n⚽ *(5º)* Sport Sala 12 - *(3º)* *_Futsala Villaverde_*\n\n🏆 Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 2_\n📍 Pabellón: Pinto - P.M. Patricia Chamorro\n⚽ *(1º)* Futsala Pinto-Escuela Patri Chamorro A - *(5º)* *_Futsala Villaverde_*",
       "resultados": ""
     },
     {
@@ -1438,73 +1431,73 @@
           ],
           "goles": [
             {
+              "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
+              "jugador": "MARIO MORAL TORIBIO",
+              "lado": "local",
               "minuto": 3,
-              "jugador": "MARIO MORAL TORIBIO",
-              "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
+              "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
+              "jugador": "MARIO MORAL TORIBIO",
+              "lado": "local",
               "minuto": 13,
-              "jugador": "MARIO MORAL TORIBIO",
-              "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 27,
+              "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
               "jugador": "IVAN GUTIERREZ TEJERO",
-              "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
+              "lado": "local",
+              "minuto": 27,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 25,
-              "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
               "equipo": "FUTSALA VILLAVERDE 'A'",
+              "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+              "lado": "visitante",
+              "minuto": 25,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             }
           ],
           "tarjetas": [
             {
-              "minuto": 18,
+              "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
               "jugador": "ADRIAN JALON ROMERO",
-              "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
-              "tipo": "amarilla",
-              "lado": "local"
+              "lado": "local",
+              "minuto": 18,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 19,
+              "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
               "jugador": "DARIO SALÁN SÁNCHEZ",
-              "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
-              "tipo": "amarilla",
-              "lado": "local"
-            },
-            {
+              "lado": "local",
               "minuto": 19,
+              "tipo": "amarilla"
+            },
+            {
+              "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
               "jugador": "HUGO RODRIGUEZ SANCHEZ",
-              "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
-              "tipo": "amarilla",
-              "lado": "local"
+              "lado": "local",
+              "minuto": 19,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 27,
+              "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
               "jugador": "RODRIGO BUITRAGO GONZALEZ",
-              "equipo": "GREDOS SAN DIEGO LAS SUERTES 'A'",
-              "tipo": "amarilla",
-              "lado": "local"
+              "lado": "local",
+              "minuto": 27,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 38,
-              "jugador": "ANTONIO TOROVICH ESCOBAR",
               "equipo": "FUTSALA VILLAVERDE 'A'",
-              "tipo": "amarilla",
-              "lado": "visitante"
+              "jugador": "ANTONIO TOROVICH ESCOBAR",
+              "lado": "visitante",
+              "minuto": 38,
+              "tipo": "amarilla"
             }
           ]
         }
@@ -1848,7 +1841,7 @@
           "local": "A.D.Escurialense",
           "visitante": "Futsala Villaverde A",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012159118_EscudoVectorizado_PNG.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2026-10-24",
@@ -1856,7 +1849,7 @@
           "jornada": 6,
           "local": "Futsala Villaverde A",
           "visitante": "F.S. Diagonal A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png"
         },
         {
@@ -1865,8 +1858,8 @@
           "jornada": 5,
           "local": "Futsala Villaverde B",
           "visitante": "Futsal Pinto-Grupo Egido",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191624_Escudo_nuevo__1.png"
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014265540_futsal_pinto.png"
         },
         {
           "fecha": "2026-10-24",
@@ -1924,8 +1917,8 @@
           "jornada": 6,
           "local": "Casco Antiguo Carabanchel B",
           "visitante": "Futsala Villaverde B",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156631_Escudo_sin_fondo_AMPLIADO.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014271119_casco_antiguo.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2026-11-01",
@@ -1934,7 +1927,7 @@
           "local": "Agrupacion Auto-Escuela Simancas-Dynavin A",
           "visitante": "Futsala Villaverde A",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011024048_escudo.jpg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2026-10-31",
@@ -1942,8 +1935,8 @@
           "jornada": 7,
           "local": "Futsala Villaverde A",
           "visitante": "Lope de Vega A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012168000_ESCUDO_LOPE.png"
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014267064_LOPE_DE_VEGA.png"
         }
       ]
     },
@@ -1956,7 +1949,7 @@
           "jornada": 8,
           "local": "Futsala Villaverde A",
           "visitante": "Ciudad Villa de Vallecas F.S.",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012167978_1988_JVK_AZUL__1_.png"
         },
         {
@@ -1965,7 +1958,7 @@
           "jornada": 7,
           "local": "Futsala Villaverde B",
           "visitante": "Sporting las Aguilas de Madrid-Mercado las Aguilas B",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014263027_8370_sporting_las_aguilas.png"
         },
         {
@@ -1984,7 +1977,7 @@
           "local": "Pinar de San Jose-Alcorcon A",
           "visitante": "Futsala Villaverde A",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2026-11-07",
@@ -2034,7 +2027,7 @@
           "local": "Andres Segovia-Mostoles A",
           "visitante": "Futsala Villaverde A",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2026-11-14",
@@ -2042,8 +2035,8 @@
           "jornada": 8,
           "local": "Athletic Mostoles B",
           "visitante": "Futsala Villaverde B",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012219159_2026_Logo_Athletic_Mostoles.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014265535_Athletic_Mostoles.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2026-11-14",
@@ -2060,8 +2053,8 @@
           "jornada": 9,
           "local": "Futsala Villaverde A",
           "visitante": "Paraiso Sagrados Corazones A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000011115_Para_so_66_pisels.jpg"
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014265598_paraiso.png"
         },
         {
           "fecha": "2026-11-14",
@@ -2101,7 +2094,7 @@
           "jornada": 10,
           "local": "Futsala Villaverde A",
           "visitante": "Atletico Trabenco Zarzaquemada A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg"
         },
         {
@@ -2110,7 +2103,7 @@
           "jornada": 9,
           "local": "Futsala Villaverde B",
           "visitante": "Club C.F.S. el Alamo B",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011730007_ESCUDO_OFICIAL_ok.png"
         },
         {
@@ -2129,7 +2122,7 @@
           "local": "E.F.S. Ciudad de Torrejon-Redpiso Torrejon A",
           "visitante": "Futsala Villaverde A",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000003686_ciudad_de_torrejon.jpg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2026-11-21",
@@ -2169,8 +2162,8 @@
           "jornada": 11,
           "local": "Rivas Futsal-Youfirst Smart Finace",
           "visitante": "Futsala Villaverde A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002354_ESCUDO_Rivas_Futsal.jpg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014265533_rivas_futsal.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2026-11-28",
@@ -2179,7 +2172,7 @@
           "local": "Colme Futsal",
           "visitante": "Futsala Villaverde B",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012177687_colme_ok.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2026-11-28",
@@ -2196,8 +2189,8 @@
           "jornada": 11,
           "local": "Union Deportiva las Rozas Boadilla-Ast Tcnet",
           "visitante": "Futsala Villaverde A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002987_escudo_udrb_definitivo_sin_linea_corte.jpg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014265563_escudo_udrb_nuevo_dtf.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2026-11-28",
@@ -2237,8 +2230,8 @@
           "jornada": 12,
           "local": "Futsala Villaverde A",
           "visitante": "Sporting Morata F.S. A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012203154_ChatGPT_Image_17_jul_2026__01_40_48.png"
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014265560_morata.png"
         },
         {
           "fecha": "2026-12-12",
@@ -2247,7 +2240,7 @@
           "local": "San Jose de Valderas-Valderas F.S. A",
           "visitante": "Futsala Villaverde B",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155576_ORIGINAL_VECTOR_1.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2026-12-12",
@@ -2264,7 +2257,7 @@
           "jornada": 12,
           "local": "Futsala Villaverde A",
           "visitante": "Inter Futbol Sala-Jp Financial B",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002986_Logo.jpg"
         },
         {
@@ -2306,7 +2299,7 @@
           "local": "Don P'Alpie Aranjuez F.S.- Cafeteria la Tacita",
           "visitante": "Futsala Villaverde A",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000013482_Escudo_Don_Palpie.jpg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2026-12-19",
@@ -2314,7 +2307,7 @@
           "jornada": 12,
           "local": "Futsala Villaverde B",
           "visitante": "Atletico Trabenco Zarzaquemada B",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg"
         },
         {
@@ -2333,7 +2326,7 @@
           "local": "Alcorcon F.S. B",
           "visitante": "Futsala Villaverde A",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2026-12-19",
@@ -2374,7 +2367,7 @@
           "local": "Sporting las Aguilas de Madrid-Parisat A",
           "visitante": "Futsala Villaverde A",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014263027_8370_sporting_las_aguilas.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-01-09",
@@ -2383,7 +2376,7 @@
           "local": "Fuenlabrada Futbol Sala A",
           "visitante": "Futsala Villaverde B",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155770_3f6870fa_7e7b_452d_aad4_a8297489831d.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-01-09",
@@ -2400,7 +2393,7 @@
           "jornada": 14,
           "local": "Futsala Villaverde A",
           "visitante": "Dosa",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014258150_ESC_C.D._DOSA__1_.png"
         },
         {
@@ -2423,7 +2416,7 @@
           "jornada": 15,
           "local": "Futsala Villaverde A",
           "visitante": "Obispo Perello A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012146202_logoadop.png"
         },
         {
@@ -2433,7 +2426,7 @@
           "local": "Andel-Centro Educativo",
           "visitante": "Futsala Villaverde B",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012153384_Escudo_Color__14_.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-01-16",
@@ -2455,7 +2448,7 @@
           "jornada": 16,
           "local": "Futsala Villaverde A",
           "visitante": "La Villa Mostoles A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155552_Escudo_Cde_La_Villa.png"
         },
         {
@@ -2464,7 +2457,7 @@
           "jornada": 15,
           "local": "Futsala Villaverde B",
           "visitante": "Winter Squad",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012056915_WS.png"
         },
         {
@@ -2483,7 +2476,7 @@
           "local": "El Valle A",
           "visitante": "Futsala Villaverde A",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-01-23",
@@ -2505,8 +2498,8 @@
           "jornada": 17,
           "local": "Casco Antiguo Carabanchel A",
           "visitante": "Futsala Villaverde A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156631_Escudo_sin_fondo_AMPLIADO.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014271119_casco_antiguo.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-01-30",
@@ -2514,8 +2507,8 @@
           "jornada": 16,
           "local": "Club Escuela Deportiva Manila-Estrellas A",
           "visitante": "Futsala Villaverde B",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012173144_Screenshot_20260506_090154_WhatsApp.jpg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014267688_MANILA.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-01-30",
@@ -2532,8 +2525,8 @@
           "jornada": 16,
           "local": "Rivas Futsal-Youfirst Smart Finace A",
           "visitante": "Futsala Villaverde A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002354_ESCUDO_Rivas_Futsal.jpg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014265533_rivas_futsal.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-01-30",
@@ -2555,7 +2548,7 @@
           "jornada": 18,
           "local": "Futsala Villaverde A",
           "visitante": "Pinar de San Jose-Alcorcon A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191063_Escudo_pinar_24_25.png"
         },
         {
@@ -2564,8 +2557,8 @@
           "jornada": 17,
           "local": "Futsala Villaverde B",
           "visitante": "Escuela Deportiva Brunete",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011731505_Escudo_EDB_Original_copia.png"
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014265590_brunete.png"
         },
         {
           "fecha": "2027-02-06",
@@ -2582,7 +2575,7 @@
           "jornada": 17,
           "local": "Futsala Villaverde A",
           "visitante": "Club Arganda Futsal A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png"
         },
         {
@@ -2606,7 +2599,7 @@
           "local": "C.F.S. Eurosiris-Bingo las Vegas A",
           "visitante": "Futsala Villaverde A",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011972491_eurosiris.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-02-13",
@@ -2614,8 +2607,8 @@
           "jornada": 18,
           "local": "Futsal Pinto-Grupo Egido",
           "visitante": "Futsala Villaverde B",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191624_Escudo_nuevo__1.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014265540_futsal_pinto.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-02-13",
@@ -2633,7 +2626,7 @@
           "local": "Futsala Pinto-Escuela Patri Chamorro A",
           "visitante": "Futsala Villaverde A",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000003683_futsala_pinto.jpg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-02-13",
@@ -2655,7 +2648,7 @@
           "jornada": 20,
           "local": "Futsala Villaverde A",
           "visitante": "Club Arganda Futsal-Albero-Mudanzas Segoviana A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png"
         },
         {
@@ -2664,8 +2657,8 @@
           "jornada": 19,
           "local": "Futsala Villaverde B",
           "visitante": "Casco Antiguo Carabanchel B",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156631_Escudo_sin_fondo_AMPLIADO.png"
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014271119_casco_antiguo.png"
         },
         {
           "fecha": "2027-02-20",
@@ -2682,7 +2675,7 @@
           "jornada": 19,
           "local": "Futsala Villaverde A",
           "visitante": "Gredos San Diego las Suertes A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012174389_gsd_deportes_color_v.png"
         },
         {
@@ -2706,7 +2699,7 @@
           "local": "F.S. Diagonal A",
           "visitante": "Futsala Villaverde A",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-02-27",
@@ -2715,7 +2708,7 @@
           "local": "Sporting las Aguilas de Madrid-Mercado las Aguilas B",
           "visitante": "Futsala Villaverde B",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014263027_8370_sporting_las_aguilas.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-02-27",
@@ -2732,8 +2725,8 @@
           "jornada": 20,
           "local": "Mrb F.S. Mostoles-Ciudad de Mostoles B",
           "visitante": "Futsala Villaverde A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002635_gkCLGWT2_400x400.jpg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014269425_FS_M_STOLES_ESCUDOS_1.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-02-27",
@@ -2755,7 +2748,7 @@
           "jornada": 22,
           "local": "Futsala Villaverde A",
           "visitante": "Agrupacion Auto-Escuela Simancas-Dynavin A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011024048_escudo.jpg"
         },
         {
@@ -2764,8 +2757,8 @@
           "jornada": 21,
           "local": "Futsala Villaverde B",
           "visitante": "Athletic Mostoles B",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012219159_2026_Logo_Athletic_Mostoles.png"
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014265535_Athletic_Mostoles.png"
         },
         {
           "fecha": "2027-03-06",
@@ -2782,7 +2775,7 @@
           "jornada": 21,
           "local": "Futsala Villaverde A",
           "visitante": "A.D.Escurialense",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012159118_EscudoVectorizado_PNG.png"
         },
         {
@@ -2814,8 +2807,8 @@
           "jornada": 22,
           "local": "Lope de Vega A",
           "visitante": "Futsala Villaverde A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012168000_ESCUDO_LOPE.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014267064_LOPE_DE_VEGA.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-03-13",
@@ -2838,7 +2831,7 @@
           "local": "Ciudad Villa de Vallecas F.S.",
           "visitante": "Futsala Villaverde A",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012167978_1988_JVK_AZUL__1_.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-03-20",
@@ -2855,7 +2848,7 @@
           "jornada": 23,
           "local": "Futsala Villaverde A",
           "visitante": "Pinar de San Jose-Alcorcon A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191063_Escudo_pinar_24_25.png"
         },
         {
@@ -2878,7 +2871,7 @@
           "jornada": 24,
           "local": "Futsala Villaverde A",
           "visitante": "Andres Segovia-Mostoles A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png"
         },
         {
@@ -2888,7 +2881,7 @@
           "local": "Club C.F.S. el Alamo B",
           "visitante": "Futsala Villaverde B",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011730007_ESCUDO_OFICIAL_ok.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-04-03",
@@ -2905,8 +2898,8 @@
           "jornada": 24,
           "local": "Paraiso Sagrados Corazones A",
           "visitante": "Futsala Villaverde A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000011115_Para_so_66_pisels.jpg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014265598_paraiso.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-04-03",
@@ -2929,7 +2922,7 @@
           "local": "Atletico Trabenco Zarzaquemada A",
           "visitante": "Futsala Villaverde A",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-04-10",
@@ -2937,7 +2930,7 @@
           "jornada": 23,
           "local": "Futsala Villaverde B",
           "visitante": "Colme Futsal",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012177687_colme_ok.png"
         },
         {
@@ -2955,7 +2948,7 @@
           "jornada": 25,
           "local": "Futsala Villaverde A",
           "visitante": "E.F.S. Ciudad de Torrejon-Redpiso Torrejon A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000003686_ciudad_de_torrejon.jpg"
         },
         {
@@ -2978,8 +2971,8 @@
           "jornada": 26,
           "local": "Futsala Villaverde A",
           "visitante": "Rivas Futsal-Youfirst Smart Finace",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002354_ESCUDO_Rivas_Futsal.jpg"
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014265533_rivas_futsal.png"
         },
         {
           "fecha": "2027-04-17",
@@ -2987,7 +2980,7 @@
           "jornada": 24,
           "local": "Futsala Villaverde B",
           "visitante": "San Jose de Valderas-Valderas F.S. A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155576_ORIGINAL_VECTOR_1.png"
         },
         {
@@ -2996,8 +2989,8 @@
           "jornada": 26,
           "local": "Futsala Villaverde A",
           "visitante": "Union Deportiva las Rozas Boadilla-Ast Tcnet",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002987_escudo_udrb_definitivo_sin_linea_corte.jpg"
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014265563_escudo_udrb_nuevo_dtf.png"
         },
         {
           "fecha": "2027-04-17",
@@ -3019,8 +3012,8 @@
           "jornada": 27,
           "local": "Sporting Morata F.S. A",
           "visitante": "Futsala Villaverde A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012203154_ChatGPT_Image_17_jul_2026__01_40_48.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014265560_morata.png",
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-04-24",
@@ -3029,7 +3022,7 @@
           "local": "Atletico Trabenco Zarzaquemada B",
           "visitante": "Futsala Villaverde B",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-04-24",
@@ -3047,7 +3040,7 @@
           "local": "Inter Futbol Sala-Jp Financial B",
           "visitante": "Futsala Villaverde A",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002986_Logo.jpg",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-04-24",
@@ -3069,7 +3062,7 @@
           "jornada": 28,
           "local": "Futsala Villaverde A",
           "visitante": "Don P'Alpie Aranjuez F.S.- Cafeteria la Tacita",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000013482_Escudo_Don_Palpie.jpg"
         },
         {
@@ -3087,7 +3080,7 @@
           "jornada": 28,
           "local": "Futsala Villaverde A",
           "visitante": "Alcorcon F.S. B",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000013822_escudo_alcorcon.jpeg"
         },
         {
@@ -3110,7 +3103,7 @@
           "jornada": 29,
           "local": "Futsala Villaverde A",
           "visitante": "Sporting las Aguilas de Madrid-Parisat A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014263027_8370_sporting_las_aguilas.png"
         },
         {
@@ -3119,7 +3112,7 @@
           "jornada": 26,
           "local": "Futsala Villaverde B",
           "visitante": "Fuenlabrada Futbol Sala A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155770_3f6870fa_7e7b_452d_aad4_a8297489831d.png"
         }
       ]
@@ -3134,7 +3127,7 @@
           "local": "Obispo Perello A",
           "visitante": "Futsala Villaverde A",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012146202_logoadop.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-05-22",
@@ -3152,7 +3145,7 @@
           "local": "Dosa",
           "visitante": "Futsala Villaverde A",
           "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014258150_ESC_C.D._DOSA__1_.png",
-          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg"
+          "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png"
         },
         {
           "fecha": "2027-05-22",
@@ -3174,7 +3167,7 @@
           "jornada": 30,
           "local": "Futsala Villaverde A",
           "visitante": "El Valle A",
-          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
+          "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
           "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png"
         },
         {
