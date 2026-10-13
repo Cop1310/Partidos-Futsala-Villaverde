@@ -878,7 +878,7 @@
     {
      "dg": -6,
      "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012056915_WS.png",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014276174_C.D.E._WINTER_SQUAD.png",
      "g": 0,
      "gc": 16,
      "gf": 10,
@@ -1825,7 +1825,7 @@
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-10-17",
    "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
-   "hora": null,
+   "hora": "19:30",
    "jornada": 4,
    "local": [
     "18583719",
@@ -2662,7 +2662,7 @@
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-10-17",
    "grupo": "Tercera División FS Grupo 3",
-   "hora": null,
+   "hora": "18:00",
    "jornada": 5,
    "local": [
     "18439661",
@@ -3649,9 +3649,9 @@
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002635_gkCLGWT2_400x400.jpg",
-   "fecha": "2026-10-17",
+   "fecha": "2026-10-18",
    "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
-   "hora": null,
+   "hora": "12:30",
    "jornada": 5,
    "local": [
     "18586496",
@@ -4376,9 +4376,9 @@
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
    "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003259_escudo_sanfer_web.jpg",
-   "fecha": "2026-10-17",
+   "fecha": "2026-10-18",
    "grupo": "Primera División Autonómica Femenino FS Grupo Único",
-   "hora": null,
+   "hora": "19:30",
    "jornada": 3,
    "local": [
     "18694124",
@@ -5003,7 +5003,7 @@
    "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-10-17",
    "grupo": "Alevín 1ª Fase FS Grupo 4",
-   "hora": null,
+   "hora": "16:00",
    "jornada": 2,
    "local": [
     "17155835",
@@ -5276,7 +5276,7 @@
    "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-10-17",
    "grupo": "Benjamín 1ª Fase FS Grupo 4",
-   "hora": null,
+   "hora": "11:10",
    "jornada": 2,
    "local": [
     "18613589",
@@ -5506,7 +5506,7 @@
    "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png",
    "fecha": "2026-10-17",
    "grupo": "Primera Juvenil FS Grupo 5",
-   "hora": null,
+   "hora": "16:30",
    "jornada": 2,
    "local": [
     "21727163",
