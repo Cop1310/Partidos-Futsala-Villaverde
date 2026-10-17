@@ -1299,19 +1299,19 @@
   "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas": {
    "filas": [
     {
-     "dg": 8,
+     "dg": 18,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
-     "g": 1,
+     "g": 2,
      "gc": 1,
-     "gf": 9,
+     "gf": 19,
      "id": "18613589",
      "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
      "nuestro": false,
      "p": 0,
-     "pj": 1,
+     "pj": 2,
      "pos": 1,
-     "pts": 3
+     "pts": 6
     },
     {
      "dg": 7,
@@ -1359,18 +1359,33 @@
      "pts": 3
     },
     {
-     "dg": 1,
+     "dg": -5,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png",
+     "g": 1,
+     "gc": 17,
+     "gf": 12,
+     "id": "26745921",
+     "nombre": "El Valle (FS) C",
+     "nuestro": false,
+     "p": 1,
+     "pj": 2,
+     "pos": 5,
+     "pts": 3
+    },
+    {
+     "dg": -9,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
      "g": 1,
-     "gc": 4,
+     "gc": 14,
      "gf": 5,
      "id": "26731723",
      "nombre": "Futsala Villaverde",
      "nuestro": true,
-     "p": 0,
-     "pj": 1,
-     "pos": 5,
+     "p": 1,
+     "pj": 2,
+     "pos": 6,
      "pts": 3
     },
     {
@@ -1382,21 +1397,6 @@
      "gf": 4,
      "id": "27509809",
      "nombre": "Colegio Abaco (FS) A",
-     "nuestro": false,
-     "p": 1,
-     "pj": 1,
-     "pos": 6,
-     "pts": 0
-    },
-    {
-     "dg": -2,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
-     "g": 0,
-     "gc": 6,
-     "gf": 4,
-     "id": "24706419",
-     "nombre": "Club Arganda Futsal B",
      "nuestro": false,
      "p": 1,
      "pj": 1,
@@ -1419,17 +1419,17 @@
      "pts": 0
     },
     {
-     "dg": -7,
+     "dg": -4,
      "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
      "g": 0,
-     "gc": 13,
-     "gf": 6,
-     "id": "26745921",
-     "nombre": "El Valle (FS) C",
+     "gc": 12,
+     "gf": 8,
+     "id": "24706419",
+     "nombre": "Club Arganda Futsal B",
      "nuestro": false,
-     "p": 1,
-     "pj": 1,
+     "p": 2,
+     "pj": 2,
      "pos": 9,
      "pts": 0
     },
@@ -1449,7 +1449,7 @@
      "pts": 0
     }
    ],
-   "jornada": 1,
+   "jornada": 2,
    "titulo": "Benjamín 1ª Fase FS Grupo 4"
   }
  },
