@@ -3,19 +3,19 @@
   "https://www.elbalondemadrid.es/competicion/26738218/grupo/26738219/jornadas": {
    "filas": [
     {
-     "dg": 11,
+     "dg": 16,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011900787_Aguila_Alcalde_FSF_trazo_negro.jpg",
-     "g": 2,
+     "g": 3,
      "gc": 0,
-     "gf": 11,
+     "gf": 16,
      "id": "24236688",
      "nombre": "F.S.F. Mostoles B",
      "nuestro": false,
      "p": 0,
-     "pj": 2,
+     "pj": 3,
      "pos": 1,
-     "pts": 6
+     "pts": 9
     },
     {
      "dg": 8,
@@ -48,6 +48,21 @@
      "pts": 6
     },
     {
+     "dg": 4,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155442_escudo_torrejon_FIVE_PLAY_sala.jpg",
+     "g": 2,
+     "gc": 10,
+     "gf": 14,
+     "id": "17145541",
+     "nombre": "Torrejon Sala Five Play- Dominos Pizza",
+     "nuestro": false,
+     "p": 1,
+     "pj": 3,
+     "pos": 4,
+     "pts": 6
+    },
+    {
      "dg": 3,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
@@ -59,7 +74,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 2,
-     "pos": 4,
+     "pos": 5,
      "pts": 6
     },
     {
@@ -74,7 +89,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 2,
-     "pos": 5,
+     "pos": 6,
      "pts": 3
     },
     {
@@ -89,7 +104,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 2,
-     "pos": 6,
+     "pos": 7,
      "pts": 3
     },
     {
@@ -104,51 +119,36 @@
      "nuestro": false,
      "p": 1,
      "pj": 2,
-     "pos": 7,
-     "pts": 3
-    },
-    {
-     "dg": 0,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155442_escudo_torrejon_FIVE_PLAY_sala.jpg",
-     "g": 1,
-     "gc": 9,
-     "gf": 9,
-     "id": "17145541",
-     "nombre": "Torrejon Sala Five Play- Dominos Pizza",
-     "nuestro": false,
-     "p": 1,
-     "pj": 2,
      "pos": 8,
-     "pts": 3
-    },
-    {
-     "dg": -1,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
-     "g": 1,
-     "gc": 8,
-     "gf": 7,
-     "id": "18378875",
-     "nombre": "F.S. Diagonal A",
-     "nuestro": false,
-     "p": 1,
-     "pj": 2,
-     "pos": 9,
      "pts": 3
     },
     {
      "dg": -6,
      "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
+     "g": 1,
+     "gc": 13,
+     "gf": 7,
+     "id": "18378875",
+     "nombre": "F.S. Diagonal A",
+     "nuestro": false,
+     "p": 2,
+     "pj": 3,
+     "pos": 9,
+     "pts": 3
+    },
+    {
+     "dg": -10,
+     "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155555_Escudo_Futsi.png",
      "g": 1,
-     "gc": 9,
-     "gf": 3,
+     "gc": 14,
+     "gf": 4,
      "id": "17149523",
      "nombre": "Futsi Atletico Navalcarnero-Frozen C",
      "nuestro": false,
-     "p": 1,
-     "pj": 2,
+     "p": 2,
+     "pj": 3,
      "pos": 10,
      "pts": 3
     },
@@ -213,25 +213,25 @@
      "pts": 0
     }
    ],
-   "jornada": 2,
+   "jornada": 3,
    "titulo": "Primera División Autonómica Femenino FS Grupo Único"
   },
   "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas": {
    "filas": [
     {
-     "dg": 17,
+     "dg": 20,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
-     "g": 3,
-     "gc": 8,
-     "gf": 25,
+     "g": 4,
+     "gc": 15,
+     "gf": 35,
      "id": "18378416",
      "nombre": "F.S. Diagonal A",
      "nuestro": false,
      "p": 0,
-     "pj": 4,
+     "pj": 5,
      "pos": 1,
-     "pts": 10
+     "pts": 13
     },
     {
      "dg": 7,
@@ -251,6 +251,21 @@
     {
      "dg": 7,
      "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
+     "g": 3,
+     "gc": 9,
+     "gf": 16,
+     "id": "17149145",
+     "nombre": "Futsala Villaverde A",
+     "nuestro": true,
+     "p": 1,
+     "pj": 4,
+     "pos": 3,
+     "pts": 9
+    },
+    {
+     "dg": 7,
+     "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011024048_escudo.jpg",
      "g": 3,
      "gc": 5,
@@ -260,8 +275,23 @@
      "nuestro": false,
      "p": 0,
      "pj": 3,
-     "pos": 3,
+     "pos": 4,
      "pts": 9
+    },
+    {
+     "dg": 4,
+     "e": 2,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
+     "g": 2,
+     "gc": 17,
+     "gf": 21,
+     "id": "19128829",
+     "nombre": "Pinar de San Jose-Alcorcon A",
+     "nuestro": false,
+     "p": 1,
+     "pj": 5,
+     "pos": 5,
+     "pts": 8
     },
     {
      "dg": 16,
@@ -275,7 +305,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 4,
-     "pos": 4,
+     "pos": 6,
      "pts": 7
     },
     {
@@ -290,38 +320,23 @@
      "nuestro": false,
      "p": 0,
      "pj": 3,
-     "pos": 5,
-     "pts": 7
-    },
-    {
-     "dg": 4,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
-     "g": 2,
-     "gc": 14,
-     "gf": 18,
-     "id": "19128829",
-     "nombre": "Pinar de San Jose-Alcorcon A",
-     "nuestro": false,
-     "p": 1,
-     "pj": 4,
-     "pos": 6,
-     "pts": 7
-    },
-    {
-     "dg": 6,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
-     "g": 2,
-     "gc": 7,
-     "gf": 13,
-     "id": "17149145",
-     "nombre": "Futsala Villaverde A",
-     "nuestro": true,
-     "p": 1,
-     "pj": 3,
      "pos": 7,
-     "pts": 6
+     "pts": 7
+    },
+    {
+     "dg": -2,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014271119_casco_antiguo.png",
+     "g": 2,
+     "gc": 17,
+     "gf": 15,
+     "id": "17146426",
+     "nombre": "Casco Antiguo Carabanchel A",
+     "nuestro": false,
+     "p": 2,
+     "pj": 5,
+     "pos": 8,
+     "pts": 7
     },
     {
      "dg": -1,
@@ -335,53 +350,38 @@
      "nuestro": false,
      "p": 2,
      "pj": 4,
-     "pos": 8,
-     "pts": 6
-    },
-    {
-     "dg": -2,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014271119_casco_antiguo.png",
-     "g": 2,
-     "gc": 14,
-     "gf": 12,
-     "id": "17146426",
-     "nombre": "Casco Antiguo Carabanchel A",
-     "nuestro": false,
-     "p": 2,
-     "pj": 4,
      "pos": 9,
      "pts": 6
     },
     {
-     "dg": 0,
-     "e": 2,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013482_Escudo_Don_Palpie.jpg",
-     "g": 1,
-     "gc": 13,
-     "gf": 13,
-     "id": "18788907",
-     "nombre": "Don P'Alpie Aranjuez F.S.- Cafeteria la Tacita",
-     "nuestro": false,
-     "p": 1,
-     "pj": 4,
-     "pos": 10,
-     "pts": 5
-    },
-    {
      "dg": 5,
-     "e": 1,
+     "e": 2,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014263027_8370_sporting_las_aguilas.png",
      "g": 1,
-     "gc": 13,
-     "gf": 18,
+     "gc": 16,
+     "gf": 21,
      "id": "19115935",
      "nombre": "Sporting las Aguilas de Madrid-Parisat A",
      "nuestro": false,
      "p": 2,
-     "pj": 4,
+     "pj": 5,
+     "pos": 10,
+     "pts": 5
+    },
+    {
+     "dg": -3,
+     "e": 2,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013482_Escudo_Don_Palpie.jpg",
+     "g": 1,
+     "gc": 23,
+     "gf": 20,
+     "id": "18788907",
+     "nombre": "Don P'Alpie Aranjuez F.S.- Cafeteria la Tacita",
+     "nuestro": false,
+     "p": 2,
+     "pj": 5,
      "pos": 11,
-     "pts": 4
+     "pts": 5
     },
     {
      "dg": -7,
@@ -399,17 +399,17 @@
      "pts": 3
     },
     {
-     "dg": -9,
+     "dg": -10,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
      "g": 1,
-     "gc": 16,
-     "gf": 7,
+     "gc": 19,
+     "gf": 9,
      "id": "18439661",
      "nombre": "Club Arganda Futsal-Albero-Mudanzas Segoviana A",
      "nuestro": false,
-     "p": 3,
-     "pj": 4,
+     "p": 4,
+     "pj": 5,
      "pos": 13,
      "pts": 3
     },
@@ -429,6 +429,21 @@
      "pts": 3
     },
     {
+     "dg": -17,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155552_Escudo_Cde_La_Villa.png",
+     "g": 0,
+     "gc": 30,
+     "gf": 13,
+     "id": "19131991",
+     "nombre": "La Villa Mostoles A",
+     "nuestro": false,
+     "p": 4,
+     "pj": 5,
+     "pos": 15,
+     "pts": 1
+    },
+    {
      "dg": -14,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265533_rivas_futsal.png",
@@ -440,74 +455,29 @@
      "nuestro": false,
      "p": 3,
      "pj": 3,
-     "pos": 15,
-     "pts": 0
-    },
-    {
-     "dg": -17,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155552_Escudo_Cde_La_Villa.png",
-     "g": 0,
-     "gc": 27,
-     "gf": 10,
-     "id": "19131991",
-     "nombre": "La Villa Mostoles A",
-     "nuestro": false,
-     "p": 4,
-     "pj": 4,
      "pos": 16,
      "pts": 0
     }
    ],
-   "jornada": 4,
+   "jornada": 5,
    "titulo": "Tercera División FS Grupo 3"
   },
   "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas": {
    "filas": [
     {
-     "dg": 5,
+     "dg": 10,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155552_Escudo_Cde_La_Villa.png",
-     "g": 1,
-     "gc": 0,
-     "gf": 5,
+     "g": 2,
+     "gc": 2,
+     "gf": 12,
      "id": "22510184",
      "nombre": "La Villa Mostoles B",
      "nuestro": false,
      "p": 0,
-     "pj": 1,
+     "pj": 2,
      "pos": 1,
-     "pts": 3
-    },
-    {
-     "dg": 4,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014263030_Escudo_mostoles_sur_FS__1_.png",
-     "g": 1,
-     "gc": 0,
-     "gf": 4,
-     "id": "26752417",
-     "nombre": "Mostoles Sur FS (FS)",
-     "nuestro": false,
-     "p": 0,
-     "pj": 1,
-     "pos": 2,
-     "pts": 3
-    },
-    {
-     "dg": 4,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
-     "g": 1,
-     "gc": 0,
-     "gf": 4,
-     "id": "21727163",
-     "nombre": "Futsala Villaverde B",
-     "nuestro": true,
-     "p": 0,
-     "pj": 1,
-     "pos": 3,
-     "pts": 3
+     "pts": 6
     },
     {
      "dg": 3,
@@ -521,7 +491,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 4,
+     "pos": 2,
      "pts": 3
     },
     {
@@ -536,7 +506,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 5,
+     "pos": 3,
      "pts": 3
     },
     {
@@ -551,23 +521,68 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
+     "pos": 4,
+     "pts": 3
+    },
+    {
+     "dg": 4,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
+     "g": 1,
+     "gc": 5,
+     "gf": 9,
+     "id": "21727163",
+     "nombre": "Futsala Villaverde B",
+     "nuestro": true,
+     "p": 0,
+     "pj": 2,
+     "pos": 5,
+     "pts": 4
+    },
+    {
+     "dg": 3,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
+     "g": 1,
+     "gc": 3,
+     "gf": 6,
+     "id": "18637528",
+     "nombre": "Pinar de San Jose-Alcorcon B",
+     "nuestro": false,
+     "p": 1,
+     "pj": 2,
      "pos": 6,
      "pts": 3
     },
     {
+     "dg": -1,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014263030_Escudo_mostoles_sur_FS__1_.png",
+     "g": 1,
+     "gc": 7,
+     "gf": 6,
+     "id": "26752417",
+     "nombre": "Mostoles Sur FS (FS)",
+     "nuestro": false,
+     "p": 1,
+     "pj": 2,
+     "pos": 7,
+     "pts": 3
+    },
+    {
      "dg": 0,
-     "e": 1,
+     "e": 2,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png",
      "g": 0,
-     "gc": 2,
-     "gf": 2,
+     "gc": 7,
+     "gf": 7,
      "id": "18949928",
      "nombre": "Andres Segovia-Mostoles",
      "nuestro": false,
      "p": 0,
-     "pj": 1,
-     "pos": 7,
-     "pts": 1
+     "pj": 2,
+     "pos": 8,
+     "pts": 2
     },
     {
      "dg": 0,
@@ -581,23 +596,8 @@
      "nuestro": false,
      "p": 0,
      "pj": 1,
-     "pos": 8,
-     "pts": 1
-    },
-    {
-     "dg": -1,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
-     "g": 0,
-     "gc": 2,
-     "gf": 1,
-     "id": "18637528",
-     "nombre": "Pinar de San Jose-Alcorcon B",
-     "nuestro": false,
-     "p": 1,
-     "pj": 1,
      "pos": 9,
-     "pts": 0
+     "pts": 1
     },
     {
      "dg": -2,
@@ -615,21 +615,6 @@
      "pts": 0
     },
     {
-     "dg": -3,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156624_CDE_EFS_HUMANES_DEFINITIV.png",
-     "g": 0,
-     "gc": 5,
-     "gf": 2,
-     "id": "18921921",
-     "nombre": "E.F.S. Humanes B",
-     "nuestro": false,
-     "p": 1,
-     "pj": 1,
-     "pos": 11,
-     "pts": 0
-    },
-    {
      "dg": -4,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011730788_escudo_futsal.jpeg",
@@ -641,7 +626,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 1,
-     "pos": 12,
+     "pos": 11,
      "pts": 0
     },
     {
@@ -656,7 +641,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 1,
-     "pos": 13,
+     "pos": 12,
      "pts": 0
     },
     {
@@ -671,11 +656,26 @@
      "nuestro": false,
      "p": 1,
      "pj": 1,
+     "pos": 13,
+     "pts": 0
+    },
+    {
+     "dg": -7,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156624_CDE_EFS_HUMANES_DEFINITIV.png",
+     "g": 0,
+     "gc": 10,
+     "gf": 3,
+     "id": "18921921",
+     "nombre": "E.F.S. Humanes B",
+     "nuestro": false,
+     "p": 2,
+     "pj": 2,
      "pos": 14,
      "pts": 0
     }
    ],
-   "jornada": 1,
+   "jornada": 2,
    "titulo": "Primera Juvenil FS Grupo 5"
   },
   "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas": {
@@ -912,6 +912,21 @@
      "pts": 12
     },
     {
+     "dg": 15,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
+     "g": 4,
+     "gc": 11,
+     "gf": 26,
+     "id": "17146979",
+     "nombre": "Alcorcon F.S. B",
+     "nuestro": false,
+     "p": 1,
+     "pj": 5,
+     "pos": 2,
+     "pts": 12
+    },
+    {
      "dg": 11,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014269425_FS_M_STOLES_ESCUDOS_1.png",
@@ -923,38 +938,23 @@
      "nuestro": false,
      "p": 0,
      "pj": 4,
-     "pos": 2,
+     "pos": 3,
      "pts": 12
     },
     {
-     "dg": 9,
+     "dg": 2,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
      "g": 3,
-     "gc": 14,
+     "gc": 21,
      "gf": 23,
      "id": "18613591",
      "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
      "nuestro": false,
-     "p": 0,
-     "pj": 4,
-     "pos": 3,
-     "pts": 10
-    },
-    {
-     "dg": 8,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
-     "g": 3,
-     "gc": 11,
-     "gf": 19,
-     "id": "17146979",
-     "nombre": "Alcorcon F.S. B",
-     "nuestro": false,
      "p": 1,
-     "pj": 4,
+     "pj": 5,
      "pos": 4,
-     "pts": 9
+     "pts": 10
     },
     {
      "dg": 7,
@@ -987,17 +987,17 @@
      "pts": 7
     },
     {
-     "dg": 4,
+     "dg": 3,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
      "g": 2,
-     "gc": 9,
-     "gf": 13,
+     "gc": 13,
+     "gf": 16,
      "id": "18455408",
      "nombre": "Pinar de San Jose-Alcorcon A",
      "nuestro": false,
-     "p": 1,
-     "pj": 3,
+     "p": 2,
+     "pj": 4,
      "pos": 7,
      "pts": 6
     },
@@ -1032,6 +1032,21 @@
      "pts": 6
     },
     {
+     "dg": -8,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265563_escudo_udrb_nuevo_dtf.png",
+     "g": 2,
+     "gc": 26,
+     "gf": 18,
+     "id": "17145361",
+     "nombre": "Union Deportiva las Rozas Boadilla-Ast Tcnet",
+     "nuestro": false,
+     "p": 3,
+     "pj": 5,
+     "pos": 10,
+     "pts": 6
+    },
+    {
      "dg": 3,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265598_paraiso.png",
@@ -1043,7 +1058,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 4,
-     "pos": 10,
+     "pos": 11,
      "pts": 4
     },
     {
@@ -1058,21 +1073,6 @@
      "nuestro": false,
      "p": 2,
      "pj": 3,
-     "pos": 11,
-     "pts": 3
-    },
-    {
-     "dg": -9,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265563_escudo_udrb_nuevo_dtf.png",
-     "g": 1,
-     "gc": 23,
-     "gf": 14,
-     "id": "17145361",
-     "nombre": "Union Deportiva las Rozas Boadilla-Ast Tcnet",
-     "nuestro": false,
-     "p": 3,
-     "pj": 4,
      "pos": 12,
      "pts": 3
     },
@@ -1158,6 +1158,21 @@
      "pts": 6
     },
     {
+     "dg": 16,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
+     "g": 2,
+     "gc": 1,
+     "gf": 17,
+     "id": "17271080",
+     "nombre": "F.S. Diagonal A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 2,
+     "pos": 2,
+     "pts": 6
+    },
+    {
      "dg": 13,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
@@ -1169,23 +1184,8 @@
      "nuestro": true,
      "p": 0,
      "pj": 2,
-     "pos": 2,
-     "pts": 6
-    },
-    {
-     "dg": 11,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
-     "g": 1,
-     "gc": 1,
-     "gf": 12,
-     "id": "17271080",
-     "nombre": "F.S. Diagonal A",
-     "nuestro": false,
-     "p": 0,
-     "pj": 1,
      "pos": 3,
-     "pts": 3
+     "pts": 6
     },
     {
      "dg": 9,
@@ -1233,21 +1233,6 @@
      "pts": 3
     },
     {
-     "dg": -8,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270033_abaco.png",
-     "g": 0,
-     "gc": 8,
-     "gf": 0,
-     "id": "27509906",
-     "nombre": "Colegio Abaco (FS) B",
-     "nuestro": false,
-     "p": 1,
-     "pj": 1,
-     "pos": 7,
-     "pts": 0
-    },
-    {
      "dg": -11,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014269119_las_aves.jpg",
@@ -1259,6 +1244,21 @@
      "nuestro": false,
      "p": 1,
      "pj": 1,
+     "pos": 7,
+     "pts": 0
+    },
+    {
+     "dg": -13,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270033_abaco.png",
+     "g": 0,
+     "gc": 13,
+     "gf": 0,
+     "id": "27509906",
+     "nombre": "Colegio Abaco (FS) B",
+     "nuestro": false,
+     "p": 2,
+     "pj": 2,
      "pos": 8,
      "pts": 0
     },
@@ -1474,7 +1474,7 @@
    "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas": {
     "actual": 5,
     "cursor": null,
-    "fecha": "2026-10-12",
+    "fecha": "2026-10-18",
     "total": 30
    },
    "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas": {
@@ -1486,13 +1486,13 @@
    "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas": {
     "actual": 4,
     "cursor": null,
-    "fecha": "2026-10-12",
+    "fecha": "2026-10-18",
     "total": 26
    },
    "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas": {
     "actual": 5,
     "cursor": null,
-    "fecha": "2026-10-12",
+    "fecha": "2026-10-18",
     "total": 30
    },
    "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas": {
@@ -1824,6 +1824,88 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011731505_Escudo_EDB_Original_copia.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-10-17",
+   "goles": [
+    {
+     "equipo": "ESCUELA DEPORTIVA BRUNETE",
+     "jugador": "MARIO GARCIA GONZALEZ",
+     "lado": "local",
+     "minuto": 9,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "HUGO PRIETO PIZARRO",
+     "lado": "visitante",
+     "minuto": 10,
+     "penalti": false,
+     "propia": true
+    },
+    {
+     "equipo": "ESCUELA DEPORTIVA BRUNETE",
+     "jugador": "HUGO PRIETO PIZARRO",
+     "lado": "local",
+     "minuto": 40,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "IZAN GONZALEZ BLAZQUEZ",
+     "lado": "visitante",
+     "minuto": 16,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "RAFAEL ALGABA DOMINGUEZ",
+     "lado": "visitante",
+     "minuto": 24,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "SERGIO MARTINEZ CAMPOS",
+     "lado": "visitante",
+     "minuto": 30,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "SERGIO MARTINEZ CAMPOS",
+     "lado": "visitante",
+     "minuto": 31,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "ALBERTO PALACIOS PEON",
+     "lado": "visitante",
+     "minuto": 33,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "SERGIO MARTINEZ CAMPOS",
+     "lado": "visitante",
+     "minuto": 37,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "RAFAEL ALGABA DOMINGUEZ",
+     "lado": "visitante",
+     "minuto": 40,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
    "hora": "19:30",
    "jornada": 4,
@@ -1835,7 +1917,47 @@
     9,
     10
    ],
-   "resultado": null,
+   "resultado": [
+    2,
+    8
+   ],
+   "tarjetas": [
+    {
+     "equipo": "ESCUELA DEPORTIVA BRUNETE",
+     "jugador": "DAVID LOPEZ PIÑEIRO",
+     "lado": "local",
+     "minuto": 20,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "ESCUELA DEPORTIVA BRUNETE",
+     "jugador": "DAVID LOPEZ PIÑEIRO",
+     "lado": "local",
+     "minuto": 23,
+     "tipo": "roja"
+    },
+    {
+     "equipo": "ESCUELA DEPORTIVA BRUNETE",
+     "jugador": "VICTOR RIOS LOPEZ",
+     "lado": "local",
+     "minuto": 37,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "ALBERTO PALACIOS PEON",
+     "lado": "visitante",
+     "minuto": 25,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "RAFAEL ALGABA DOMINGUEZ",
+     "lado": "visitante",
+     "minuto": 30,
+     "tipo": "amarilla"
+    }
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas",
    "visitante": [
     "18456762",
@@ -2056,7 +2178,7 @@
    "acta": "https://www.elbalondemadrid.es/acta/5575614?temporada=22&competicion=26738243&grupo=26738244",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
-   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012056915_WS.png",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014276174_C.D.E._WINTER_SQUAD.png",
    "fecha": "2027-01-23",
    "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
    "hora": null,
@@ -2661,6 +2783,48 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-10-17",
+   "goles": [
+    {
+     "equipo": "CLUB ARGANDA FUTSAL - ALBERO-MUDANZAS SEGOVIANA 'A'",
+     "jugador": "ALVARO FERNANDEZ GARCIA",
+     "lado": "local",
+     "minuto": 10,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CLUB ARGANDA FUTSAL - ALBERO-MUDANZAS SEGOVIANA 'A'",
+     "jugador": "WALID MOUKRIM CAIDRHA",
+     "lado": "local",
+     "minuto": 20,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "DIEGO GARCIA FRANCHO",
+     "lado": "visitante",
+     "minuto": 1,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "JOSE CEBRIAN ROMERO",
+     "lado": "visitante",
+     "minuto": 29,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "JAVIER MARAÑÓN FERNÁNDEZ",
+     "lado": "visitante",
+     "minuto": 38,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Tercera División FS Grupo 3",
    "hora": "18:00",
    "jornada": 5,
@@ -2672,7 +2836,61 @@
     13,
     7
    ],
-   "resultado": null,
+   "resultado": [
+    2,
+    3
+   ],
+   "tarjetas": [
+    {
+     "equipo": "CLUB ARGANDA FUTSAL - ALBERO-MUDANZAS SEGOVIANA 'A'",
+     "jugador": "LEONEL DANIEL ESPINOZA GOMEZ",
+     "lado": "local",
+     "minuto": 3,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "CLUB ARGANDA FUTSAL - ALBERO-MUDANZAS SEGOVIANA 'A'",
+     "jugador": "DAVID JIMENEZ ANES",
+     "lado": "local",
+     "minuto": 29,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "CLUB ARGANDA FUTSAL - ALBERO-MUDANZAS SEGOVIANA 'A'",
+     "jugador": "ADRIAN SANCHEZ GREGORIO",
+     "lado": "local",
+     "minuto": 29,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "CLUB ARGANDA FUTSAL - ALBERO-MUDANZAS SEGOVIANA 'A'",
+     "jugador": "MAYKOL GIRON ROSABAL",
+     "lado": "local",
+     "minuto": 36,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ALVARO LORENZO FERNANDEZ",
+     "lado": "visitante",
+     "minuto": 17,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "JOSE CEBRIAN ROMERO",
+     "lado": "visitante",
+     "minuto": 37,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "GUILLERMO CHIMENO OTERO",
+     "lado": "visitante",
+     "minuto": 37,
+     "tipo": "amarilla"
+    }
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas",
    "visitante": [
     "17149145",
@@ -5278,6 +5496,88 @@
    "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
    "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-10-17",
+   "goles": [
+    {
+     "equipo": "FUTSALA PINTO - ESCUELA PATRI CHAMORRO 'A'",
+     "jugador": "PABLO GONZALEZ LARGO",
+     "lado": "local",
+     "minuto": 1,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA PINTO - ESCUELA PATRI CHAMORRO 'A'",
+     "jugador": "PABLO GONZALEZ LARGO",
+     "lado": "local",
+     "minuto": 10,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA PINTO - ESCUELA PATRI CHAMORRO 'A'",
+     "jugador": "DAVID L LOPEZ ISIDORO",
+     "lado": "local",
+     "minuto": 12,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA PINTO - ESCUELA PATRI CHAMORRO 'A'",
+     "jugador": "IVAN GARAVITO GALLEGO",
+     "lado": "local",
+     "minuto": 20,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA PINTO - ESCUELA PATRI CHAMORRO 'A'",
+     "jugador": "MANUEL PEÑA PASCASIO",
+     "lado": "local",
+     "minuto": 25,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA PINTO - ESCUELA PATRI CHAMORRO 'A'",
+     "jugador": "AARON JEREZ CUERVO",
+     "lado": "local",
+     "minuto": 26,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA PINTO - ESCUELA PATRI CHAMORRO 'A'",
+     "jugador": "HUGO FERNANDEZ MARQUEZ",
+     "lado": "local",
+     "minuto": 28,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA PINTO - ESCUELA PATRI CHAMORRO 'A'",
+     "jugador": "IVAN GARAVITO GALLEGO",
+     "lado": "local",
+     "minuto": 29,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA PINTO - ESCUELA PATRI CHAMORRO 'A'",
+     "jugador": "MARTIN DIAZ MARBAN",
+     "lado": "local",
+     "minuto": 36,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA PINTO - ESCUELA PATRI CHAMORRO 'A'",
+     "jugador": "NOAH MERINO MARTINEZ",
+     "lado": "local",
+     "minuto": 38,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Benjamín 1ª Fase FS Grupo 4",
    "hora": "11:10",
    "jornada": 2,
@@ -5293,6 +5593,7 @@
     10,
     0
    ],
+   "tarjetas": [],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas",
    "visitante": [
     "26731723",
@@ -5522,7 +5823,10 @@
     3,
     7
    ],
-   "resultado": null,
+   "resultado": [
+    5,
+    5
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
    "visitante": [
     "18949928",
