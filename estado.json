@@ -1314,19 +1314,19 @@
      "pts": 6
     },
     {
-     "dg": 7,
+     "dg": 9,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012159060_escudo_CDRPaloma.png",
-     "g": 1,
-     "gc": 6,
-     "gf": 13,
+     "g": 2,
+     "gc": 9,
+     "gf": 18,
      "id": "19200947",
      "nombre": "Racing la Paloma",
      "nuestro": false,
      "p": 0,
-     "pj": 1,
+     "pj": 2,
      "pos": 2,
-     "pts": 3
+     "pts": 6
     },
     {
      "dg": 3,
@@ -1404,21 +1404,6 @@
      "pts": 0
     },
     {
-     "dg": -3,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011928988_Escudo_Nuevo_Aluche_FS___Azul_y_Coral.jpg",
-     "g": 0,
-     "gc": 5,
-     "gf": 2,
-     "id": "24800380",
-     "nombre": "Sport Latina-Em Aluche FS",
-     "nuestro": false,
-     "p": 1,
-     "pj": 1,
-     "pos": 8,
-     "pts": 0
-    },
-    {
      "dg": -4,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
@@ -1427,6 +1412,21 @@
      "gf": 8,
      "id": "24706419",
      "nombre": "Club Arganda Futsal B",
+     "nuestro": false,
+     "p": 2,
+     "pj": 2,
+     "pos": 8,
+     "pts": 0
+    },
+    {
+     "dg": -5,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011928988_Escudo_Nuevo_Aluche_FS___Azul_y_Coral.jpg",
+     "g": 0,
+     "gc": 10,
+     "gf": 5,
+     "id": "24800380",
+     "nombre": "Sport Latina-Em Aluche FS",
      "nuestro": false,
      "p": 2,
      "pj": 2,
@@ -5286,7 +5286,10 @@
     1,
     5
    ],
-   "resultado": null,
+   "resultado": [
+    10,
+    0
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas",
    "visitante": [
     "26731723",
