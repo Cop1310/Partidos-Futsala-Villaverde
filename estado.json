@@ -771,6 +771,21 @@
      "pts": 6
     },
     {
+     "dg": 6,
+     "e": 2,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
+     "g": 1,
+     "gc": 10,
+     "gf": 16,
+     "id": "18456762",
+     "nombre": "Futsala Villaverde B",
+     "nuestro": true,
+     "p": 0,
+     "pj": 3,
+     "pos": 7,
+     "pts": 5
+    },
+    {
      "dg": 3,
      "e": 2,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg",
@@ -782,7 +797,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 3,
-     "pos": 7,
+     "pos": 8,
      "pts": 5
     },
     {
@@ -797,38 +812,23 @@
      "nuestro": false,
      "p": 1,
      "pj": 2,
-     "pos": 8,
-     "pts": 3
-    },
-    {
-     "dg": -6,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265590_brunete.png",
-     "g": 1,
-     "gc": 15,
-     "gf": 9,
-     "id": "18583719",
-     "nombre": "Escuela Deportiva Brunete",
-     "nuestro": false,
-     "p": 2,
-     "pj": 3,
      "pos": 9,
      "pts": 3
     },
     {
-     "dg": 0,
-     "e": 2,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
-     "g": 0,
-     "gc": 8,
-     "gf": 8,
-     "id": "18456762",
-     "nombre": "Futsala Villaverde B",
-     "nuestro": true,
-     "p": 0,
-     "pj": 2,
+     "dg": -12,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265590_brunete.png",
+     "g": 1,
+     "gc": 23,
+     "gf": 11,
+     "id": "18583719",
+     "nombre": "Escuela Deportiva Brunete",
+     "nuestro": false,
+     "p": 3,
+     "pj": 4,
      "pos": 10,
-     "pts": 2
+     "pts": 3
     },
     {
      "dg": -2,
@@ -1137,7 +1137,7 @@
      "pts": 0
     }
    ],
-   "jornada": 4,
+   "jornada": 5,
    "titulo": "Primera División Autonómica Juvenil FS Grupo Único"
   },
   "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas": {
@@ -5220,6 +5220,40 @@
    "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002481_escudo.jpg",
    "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "fecha": "2026-10-17",
+   "goles": [
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "ABRAHAM GONZALEZ SANJULIAN",
+     "lado": "visitante",
+     "minuto": 32,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "MARIO PARRA MOYA",
+     "lado": "visitante",
+     "minuto": 40,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "LEONIDAS PIZARRO SANCHO",
+     "lado": "visitante",
+     "minuto": 42,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "ANTONIO LUQUE CABEZAS",
+     "lado": "visitante",
+     "minuto": 49,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Alevín 1ª Fase FS Grupo 4",
    "hora": "16:00",
    "jornada": 2,
@@ -5235,6 +5269,7 @@
     0,
     4
    ],
+   "tarjetas": [],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas",
    "visitante": [
     "25048394",
