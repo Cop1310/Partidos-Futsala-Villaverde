@@ -18,6 +18,21 @@
      "pts": 9
     },
     {
+     "dg": 11,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011730757_escudo_club_sin_fondo.png",
+     "g": 2,
+     "gc": 4,
+     "gf": 15,
+     "id": "17148272",
+     "nombre": "Ad Collado-Villalba-Cobiosa A",
+     "nuestro": false,
+     "p": 1,
+     "pj": 3,
+     "pos": 2,
+     "pts": 6
+    },
+    {
      "dg": 8,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
@@ -29,7 +44,7 @@
      "nuestro": true,
      "p": 0,
      "pj": 2,
-     "pos": 2,
+     "pos": 3,
      "pts": 6
     },
     {
@@ -44,7 +59,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 2,
-     "pos": 3,
+     "pos": 4,
      "pts": 6
     },
     {
@@ -59,7 +74,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 3,
-     "pos": 4,
+     "pos": 5,
      "pts": 6
     },
     {
@@ -74,23 +89,8 @@
      "nuestro": false,
      "p": 0,
      "pj": 2,
-     "pos": 5,
-     "pts": 6
-    },
-    {
-     "dg": 4,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011730757_escudo_club_sin_fondo.png",
-     "g": 1,
-     "gc": 4,
-     "gf": 8,
-     "id": "17148272",
-     "nombre": "Ad Collado-Villalba-Cobiosa A",
-     "nuestro": false,
-     "p": 1,
-     "pj": 2,
      "pos": 6,
-     "pts": 3
+     "pts": 6
     },
     {
      "dg": 1,
@@ -198,17 +198,17 @@
      "pts": 0
     },
     {
-     "dg": -8,
+     "dg": -15,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155441_ALARO_FC.png",
      "g": 0,
-     "gc": 10,
+     "gc": 17,
      "gf": 2,
      "id": "18730009",
      "nombre": "Alaro Deportiva A",
      "nuestro": false,
-     "p": 2,
-     "pj": 2,
+     "p": 3,
+     "pj": 3,
      "pos": 14,
      "pts": 0
     }
@@ -234,6 +234,21 @@
      "pts": 13
     },
     {
+     "dg": 9,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011024048_escudo.jpg",
+     "g": 4,
+     "gc": 7,
+     "gf": 16,
+     "id": "21476533",
+     "nombre": "Agrupacion Auto-Escuela Simancas-Dynavin A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 4,
+     "pos": 2,
+     "pts": 12
+    },
+    {
      "dg": 7,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012146202_logoadop.png",
@@ -245,7 +260,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 4,
-     "pos": 2,
+     "pos": 3,
      "pts": 10
     },
     {
@@ -260,21 +275,6 @@
      "nuestro": true,
      "p": 1,
      "pj": 4,
-     "pos": 3,
-     "pts": 9
-    },
-    {
-     "dg": 7,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011024048_escudo.jpg",
-     "g": 3,
-     "gc": 5,
-     "gf": 12,
-     "id": "21476533",
-     "nombre": "Agrupacion Auto-Escuela Simancas-Dynavin A",
-     "nuestro": false,
-     "p": 0,
-     "pj": 3,
      "pos": 4,
      "pts": 9
     },
@@ -384,17 +384,17 @@
      "pts": 5
     },
     {
-     "dg": -7,
+     "dg": -9,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265560_morata.png",
      "g": 1,
-     "gc": 17,
-     "gf": 10,
+     "gc": 21,
+     "gf": 12,
      "id": "18310655",
      "nombre": "Sporting Morata F.S. A",
      "nuestro": false,
-     "p": 3,
-     "pj": 4,
+     "p": 4,
+     "pj": 5,
      "pos": 12,
      "pts": 3
     },
@@ -3879,7 +3879,10 @@
     8,
     2
    ],
-   "resultado": null,
+   "resultado": [
+    8,
+    4
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas",
    "visitante": [
     "17149302",
