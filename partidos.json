@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-18 18:26",
+  "generado": "2026-10-18 21:14",
   "desde": "2026-10-17",
   "hasta": "2026-10-18",
   "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 17/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *11:10h* - Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 2_\n📍 Pabellón: Pinto - P.M. Patricia Chamorro\n⚽ *(1º)* Futsala Pinto-Escuela Patri Chamorro A - *(5º)* *_Futsala Villaverde_*\n\n⏰ *16:00h* - Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 2_\n📍 Pabellón: Parla - P.M. Supera Parla Este\n⚽ *(5º)* Sport Sala 12 - *(3º)* *_Futsala Villaverde_*\n\n⏰ *16:30h* - Primera Juvenil FS Grupo 5\n📌 _Jornada 2_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(3º)* *_Futsala Villaverde B_* - *(7º)* Andres Segovia-Mostoles\n\n⏰ *18:00h* - Tercera División FS Grupo 3\n📌 _Jornada 5_\n📍 Pabellón: Arganda - P.M. Luis Amado\n⚽ *(13º)* Club Arganda Futsal-Albero-Mudanzas Segoviana A - *(7º)* *_Futsala Villaverde A_*\n\n⏰ *19:30h* - Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 4_\n📍 Pabellón: Brunete - P.M. Jose Ramon de la Morena\n⚽ *(9º)* Escuela Deportiva Brunete - *(10º)* *_Futsala Villaverde B_*\n\n━━━━━━━━━━━━━━━━\n📅 *DOMINGO 18/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *12:30h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 5_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(8º)* *_Futsala Villaverde A_* - *(2º)* Mrb F.S. Mostoles-Ciudad de Mostoles B\n\n⏰ *19:30h* - Primera División Autonómica Femenino FS Grupo Único\n📌 _Jornada 3_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(2º)* *_Futsala Villaverde_* - *(3º)* Club Futbol Sala Femenino San Fernando B",
@@ -3636,14 +3636,14 @@
           "nombre": "Obispo Perello A",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012146202_logoadop.png",
-          "pj": 4,
+          "pj": 5,
           "g": 3,
-          "e": 1,
+          "e": 2,
           "p": 0,
-          "gf": 22,
-          "gc": 15,
+          "gf": 25,
+          "gc": 18,
           "dg": 7,
-          "pts": 10
+          "pts": 11
         },
         {
           "pos": 4,
@@ -3662,6 +3662,36 @@
         },
         {
           "pos": 5,
+          "id": "18728976",
+          "nombre": "Andres Segovia-Mostoles A",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png",
+          "pj": 5,
+          "g": 3,
+          "e": 0,
+          "p": 2,
+          "gf": 15,
+          "gc": 15,
+          "dg": 0,
+          "pts": 9
+        },
+        {
+          "pos": 6,
+          "id": "17210303",
+          "nombre": "C.F.S. Eurosiris-Bingo las Vegas A",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011972491_eurosiris.png",
+          "pj": 4,
+          "g": 2,
+          "e": 2,
+          "p": 0,
+          "gf": 18,
+          "gc": 10,
+          "dg": 8,
+          "pts": 8
+        },
+        {
+          "pos": 7,
           "id": "19128829",
           "nombre": "Pinar de San Jose-Alcorcon A",
           "nuestro": false,
@@ -3676,37 +3706,22 @@
           "pts": 8
         },
         {
-          "pos": 6,
+          "pos": 8,
           "id": "21476719",
           "nombre": "Atletico Trabenco Zarzaquemada A",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg",
-          "pj": 4,
+          "pj": 5,
           "g": 2,
           "e": 1,
-          "p": 1,
-          "gf": 27,
-          "gc": 11,
-          "dg": 16,
+          "p": 2,
+          "gf": 30,
+          "gc": 15,
+          "dg": 15,
           "pts": 7
         },
         {
-          "pos": 7,
-          "id": "17210303",
-          "nombre": "C.F.S. Eurosiris-Bingo las Vegas A",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011972491_eurosiris.png",
-          "pj": 3,
-          "g": 2,
-          "e": 1,
-          "p": 0,
-          "gf": 15,
-          "gc": 7,
-          "dg": 8,
-          "pts": 7
-        },
-        {
-          "pos": 8,
+          "pos": 9,
           "id": "17146426",
           "nombre": "Casco Antiguo Carabanchel A",
           "nuestro": false,
@@ -3719,21 +3734,6 @@
           "gc": 17,
           "dg": -2,
           "pts": 7
-        },
-        {
-          "pos": 9,
-          "id": "18728976",
-          "nombre": "Andres Segovia-Mostoles A",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png",
-          "pj": 4,
-          "g": 2,
-          "e": 0,
-          "p": 2,
-          "gf": 11,
-          "gc": 12,
-          "dg": -1,
-          "pts": 6
         },
         {
           "pos": 10,
@@ -3782,6 +3782,21 @@
         },
         {
           "pos": 13,
+          "id": "17145583",
+          "nombre": "Rivas Futsal-Youfirst Smart Finace",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265533_rivas_futsal.png",
+          "pj": 4,
+          "g": 1,
+          "e": 0,
+          "p": 3,
+          "gf": 13,
+          "gc": 23,
+          "dg": -10,
+          "pts": 3
+        },
+        {
+          "pos": 14,
           "id": "18439661",
           "nombre": "Club Arganda Futsal-Albero-Mudanzas Segoviana A",
           "nuestro": false,
@@ -3796,22 +3811,22 @@
           "pts": 3
         },
         {
-          "pos": 14,
+          "pos": 15,
           "id": "18734838",
           "nombre": "Ciudad Villa de Vallecas F.S.",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012167978_1988_JVK_AZUL__1_.png",
-          "pj": 4,
+          "pj": 5,
           "g": 1,
           "e": 0,
-          "p": 3,
-          "gf": 6,
-          "gc": 26,
-          "dg": -20,
+          "p": 4,
+          "gf": 8,
+          "gc": 32,
+          "dg": -24,
           "pts": 3
         },
         {
-          "pos": 15,
+          "pos": 16,
           "id": "19131991",
           "nombre": "La Villa Mostoles A",
           "nuestro": false,
@@ -3824,21 +3839,6 @@
           "gc": 30,
           "dg": -17,
           "pts": 1
-        },
-        {
-          "pos": 16,
-          "id": "17145583",
-          "nombre": "Rivas Futsal-Youfirst Smart Finace",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265533_rivas_futsal.png",
-          "pj": 3,
-          "g": 0,
-          "e": 0,
-          "p": 3,
-          "gf": 7,
-          "gc": 21,
-          "dg": -14,
-          "pts": 0
         }
       ],
       "equipo": "Futsala Villaverde A"
@@ -3849,6 +3849,21 @@
       "filas": [
         {
           "pos": 1,
+          "id": "17151976",
+          "nombre": "Club C.F.S. el Alamo B",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011730007_ESCUDO_OFICIAL_ok.png",
+          "pj": 3,
+          "g": 3,
+          "e": 0,
+          "p": 0,
+          "gf": 20,
+          "gc": 12,
+          "dg": 8,
+          "pts": 9
+        },
+        {
+          "pos": 2,
           "id": "19361376",
           "nombre": "San Jose de Valderas-Valderas F.S. A",
           "nuestro": false,
@@ -3863,7 +3878,7 @@
           "pts": 9
         },
         {
-          "pos": 2,
+          "pos": 3,
           "id": "21431859",
           "nombre": "Athletic Mostoles B",
           "nuestro": false,
@@ -3878,7 +3893,7 @@
           "pts": 9
         },
         {
-          "pos": 3,
+          "pos": 4,
           "id": "18728896",
           "nombre": "Fuenlabrada Futbol Sala A",
           "nuestro": false,
@@ -3893,22 +3908,22 @@
           "pts": 7
         },
         {
-          "pos": 4,
-          "id": "17151976",
-          "nombre": "Club C.F.S. el Alamo B",
+          "pos": 5,
+          "id": "21493878",
+          "nombre": "Club Escuela Deportiva Manila-Estrellas A",
           "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011730007_ESCUDO_OFICIAL_ok.png",
-          "pj": 2,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014267688_MANILA.png",
+          "pj": 3,
           "g": 2,
           "e": 0,
-          "p": 0,
-          "gf": 14,
-          "gc": 7,
-          "dg": 7,
+          "p": 1,
+          "gf": 19,
+          "gc": 11,
+          "dg": 8,
           "pts": 6
         },
         {
-          "pos": 5,
+          "pos": 6,
           "id": "17210062",
           "nombre": "Futsal Pinto-Grupo Egido",
           "nuestro": false,
@@ -3923,7 +3938,7 @@
           "pts": 6
         },
         {
-          "pos": 6,
+          "pos": 7,
           "id": "18952209",
           "nombre": "Colme Futsal",
           "nuestro": false,
@@ -3938,7 +3953,7 @@
           "pts": 6
         },
         {
-          "pos": 7,
+          "pos": 8,
           "id": "18456762",
           "nombre": "Futsala Villaverde B",
           "nuestro": true,
@@ -3953,34 +3968,19 @@
           "pts": 5
         },
         {
-          "pos": 8,
+          "pos": 9,
           "id": "21476720",
           "nombre": "Atletico Trabenco Zarzaquemada B",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg",
-          "pj": 3,
+          "pj": 4,
           "g": 1,
           "e": 2,
-          "p": 0,
-          "gf": 12,
-          "gc": 9,
-          "dg": 3,
-          "pts": 5
-        },
-        {
-          "pos": 9,
-          "id": "21493878",
-          "nombre": "Club Escuela Deportiva Manila-Estrellas A",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014267688_MANILA.png",
-          "pj": 2,
-          "g": 1,
-          "e": 0,
           "p": 1,
-          "gf": 11,
-          "gc": 7,
-          "dg": 4,
-          "pts": 3
+          "gf": 16,
+          "gc": 17,
+          "dg": -1,
+          "pts": 5
         },
         {
           "pos": 10,
@@ -4018,13 +4018,13 @@
           "nombre": "Casco Antiguo Carabanchel B",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014271119_casco_antiguo.png",
-          "pj": 3,
+          "pj": 4,
           "g": 0,
           "e": 1,
-          "p": 2,
-          "gf": 9,
-          "gc": 11,
-          "dg": -2,
+          "p": 3,
+          "gf": 14,
+          "gc": 17,
+          "dg": -3,
           "pts": 1
         },
         {
@@ -4081,6 +4081,21 @@
         },
         {
           "pos": 2,
+          "id": "17149226",
+          "nombre": "Alcorcon Fsf C",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
+          "pj": 3,
+          "g": 3,
+          "e": 0,
+          "p": 0,
+          "gf": 10,
+          "gc": 3,
+          "dg": 7,
+          "pts": 9
+        },
+        {
+          "pos": 3,
           "id": "17148272",
           "nombre": "Ad Collado-Villalba-Cobiosa A",
           "nuestro": false,
@@ -4095,7 +4110,7 @@
           "pts": 6
         },
         {
-          "pos": 3,
+          "pos": 4,
           "id": "18694124",
           "nombre": "Futsala Villaverde",
           "nuestro": true,
@@ -4110,7 +4125,7 @@
           "pts": 6
         },
         {
-          "pos": 4,
+          "pos": 5,
           "id": "17148711",
           "nombre": "Club Futbol Sala Femenino San Fernando B",
           "nuestro": false,
@@ -4125,7 +4140,7 @@
           "pts": 6
         },
         {
-          "pos": 5,
+          "pos": 6,
           "id": "17145541",
           "nombre": "Torrejon Sala Five Play- Dominos Pizza",
           "nuestro": false,
@@ -4140,49 +4155,34 @@
           "pts": 6
         },
         {
-          "pos": 6,
-          "id": "17149226",
-          "nombre": "Alcorcon Fsf C",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
-          "pj": 2,
-          "g": 2,
-          "e": 0,
-          "p": 0,
-          "gf": 6,
-          "gc": 3,
-          "dg": 3,
-          "pts": 6
-        },
-        {
           "pos": 7,
-          "id": "21476536",
-          "nombre": "Agrupacion Auto-Escuela Simancas",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011024048_escudo.jpg",
-          "pj": 2,
-          "g": 1,
-          "e": 0,
-          "p": 1,
-          "gf": 10,
-          "gc": 9,
-          "dg": 1,
-          "pts": 3
-        },
-        {
-          "pos": 8,
           "id": "18405554",
           "nombre": "Leganes F.S. Masdeporte B",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155551_Captura_de_pantalla_2026_06_01_113319.png",
-          "pj": 2,
-          "g": 1,
+          "pj": 3,
+          "g": 2,
           "e": 0,
           "p": 1,
-          "gf": 5,
-          "gc": 4,
-          "dg": 1,
-          "pts": 3
+          "gf": 8,
+          "gc": 5,
+          "dg": 3,
+          "pts": 6
+        },
+        {
+          "pos": 8,
+          "id": "21476536",
+          "nombre": "Agrupacion Auto-Escuela Simancas",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011024048_escudo.jpg",
+          "pj": 3,
+          "g": 2,
+          "e": 0,
+          "p": 1,
+          "gf": 14,
+          "gc": 12,
+          "dg": 2,
+          "pts": 6
         },
         {
           "pos": 9,
@@ -4220,43 +4220,43 @@
           "nombre": "El Valle A",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png",
-          "pj": 2,
+          "pj": 3,
           "g": 0,
           "e": 0,
-          "p": 2,
+          "p": 3,
           "gf": 3,
-          "gc": 7,
-          "dg": -4,
+          "gc": 11,
+          "dg": -8,
           "pts": 0
         },
         {
           "pos": 12,
-          "id": "18456455",
-          "nombre": "Cfs Artilleros Moratalaz",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012160800_Escudo_bueno.png",
-          "pj": 2,
-          "g": 0,
-          "e": 0,
-          "p": 2,
-          "gf": 0,
-          "gc": 7,
-          "dg": -7,
-          "pts": 0
-        },
-        {
-          "pos": 13,
           "id": "21430669",
           "nombre": "Moralzarzal Futsal-Toolydo",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012158637_escudo_club_positivo.png",
-          "pj": 2,
+          "pj": 3,
           "g": 0,
           "e": 0,
-          "p": 2,
-          "gf": 2,
+          "p": 3,
+          "gf": 5,
+          "gc": 14,
+          "dg": -9,
+          "pts": 0
+        },
+        {
+          "pos": 13,
+          "id": "18456455",
+          "nombre": "Cfs Artilleros Moratalaz",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012160800_Escudo_bueno.png",
+          "pj": 3,
+          "g": 0,
+          "e": 0,
+          "p": 3,
+          "gf": 1,
           "gc": 10,
-          "dg": -8,
+          "dg": -9,
           "pts": 0
         },
         {
@@ -4343,6 +4343,21 @@
         },
         {
           "pos": 5,
+          "id": "17145520",
+          "nombre": "A.D.Escurialense",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012159118_EscudoVectorizado_PNG.png",
+          "pj": 5,
+          "g": 3,
+          "e": 1,
+          "p": 1,
+          "gf": 26,
+          "gc": 23,
+          "dg": 3,
+          "pts": 10
+        },
+        {
+          "pos": 6,
           "id": "18613591",
           "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
           "nuestro": false,
@@ -4357,7 +4372,7 @@
           "pts": 10
         },
         {
-          "pos": 6,
+          "pos": 7,
           "id": "18586496",
           "nombre": "Futsala Villaverde A",
           "nuestro": true,
@@ -4372,7 +4387,7 @@
           "pts": 9
         },
         {
-          "pos": 7,
+          "pos": 8,
           "id": "19068045",
           "nombre": "Paraiso Sagrados Corazones A",
           "nuestro": false,
@@ -4384,21 +4399,6 @@
           "gf": 33,
           "gc": 28,
           "dg": 5,
-          "pts": 7
-        },
-        {
-          "pos": 8,
-          "id": "17145520",
-          "nombre": "A.D.Escurialense",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012159118_EscudoVectorizado_PNG.png",
-          "pj": 4,
-          "g": 2,
-          "e": 1,
-          "p": 1,
-          "gf": 21,
-          "gc": 20,
-          "dg": 1,
           "pts": 7
         },
         {
@@ -4418,21 +4418,6 @@
         },
         {
           "pos": 10,
-          "id": "17210272",
-          "nombre": "E.F.S. Ciudad de Torrejon-Redpiso Torrejon A",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003686_ciudad_de_torrejon.jpg",
-          "pj": 4,
-          "g": 2,
-          "e": 0,
-          "p": 2,
-          "gf": 9,
-          "gc": 16,
-          "dg": -7,
-          "pts": 6
-        },
-        {
-          "pos": 11,
           "id": "17145361",
           "nombre": "Union Deportiva las Rozas Boadilla-Ast Tcnet",
           "nuestro": false,
@@ -4444,6 +4429,21 @@
           "gf": 18,
           "gc": 26,
           "dg": -8,
+          "pts": 6
+        },
+        {
+          "pos": 11,
+          "id": "17210272",
+          "nombre": "E.F.S. Ciudad de Torrejon-Redpiso Torrejon A",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003686_ciudad_de_torrejon.jpg",
+          "pj": 5,
+          "g": 2,
+          "e": 0,
+          "p": 3,
+          "gf": 12,
+          "gc": 21,
+          "dg": -9,
           "pts": 6
         },
         {
