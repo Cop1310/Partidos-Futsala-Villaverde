@@ -1299,21 +1299,6 @@
   "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas": {
    "filas": [
     {
-     "dg": 28,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
-     "g": 2,
-     "gc": 2,
-     "gf": 30,
-     "id": "17145797",
-     "nombre": "Alcorcon F.S. A",
-     "nuestro": false,
-     "p": 0,
-     "pj": 2,
-     "pos": 1,
-     "pts": 6
-    },
-    {
      "dg": 18,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
@@ -1322,6 +1307,21 @@
      "gf": 19,
      "id": "18613589",
      "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
+     "nuestro": false,
+     "p": 0,
+     "pj": 2,
+     "pos": 1,
+     "pts": 6
+    },
+    {
+     "dg": 13,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
+     "g": 2,
+     "gc": 2,
+     "gf": 15,
+     "id": "17145797",
+     "nombre": "Alcorcon F.S. A",
      "nuestro": false,
      "p": 0,
      "pj": 2,
@@ -1434,11 +1434,11 @@
      "pts": 0
     },
     {
-     "dg": -26,
+     "dg": -11,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270033_abaco.png",
      "g": 0,
-     "gc": 30,
+     "gc": 15,
      "gf": 4,
      "id": "27509809",
      "nombre": "Colegio Abaco (FS) A",
@@ -1479,8 +1479,8 @@
    },
    "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas": {
     "actual": 3,
-    "cursor": 13,
-    "fecha": "2026-10-19",
+    "cursor": null,
+    "fecha": "2026-10-20",
     "total": 26
    },
    "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas": {
@@ -1496,15 +1496,15 @@
     "total": 30
    },
    "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas": {
-    "actual": 2,
+    "actual": 3,
     "cursor": null,
-    "fecha": "2026-10-14",
+    "fecha": "2026-10-20",
     "total": 9
    },
    "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas": {
-    "actual": 2,
+    "actual": 3,
     "cursor": null,
-    "fecha": "2026-10-14",
+    "fecha": "2026-10-20",
     "total": 9
    }
   },
@@ -1969,9 +1969,9 @@
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014265540_futsal_pinto.png",
-   "fecha": "2026-10-24",
+   "fecha": "2026-11-24",
    "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
-   "hora": null,
+   "hora": "20:30",
    "jornada": 5,
    "local": [
     "18456762",
@@ -5540,7 +5540,7 @@
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011747038_Imagen_1.png",
    "fecha": "2026-11-07",
    "grupo": "Alevín 1ª Fase FS Grupo 4",
-   "hora": null,
+   "hora": "16:30",
    "jornada": 4,
    "local": [
     "25048394",
@@ -5582,7 +5582,7 @@
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270033_abaco.png",
    "fecha": "2026-11-21",
    "grupo": "Alevín 1ª Fase FS Grupo 4",
-   "hora": null,
+   "hora": "16:30",
    "jornada": 6,
    "local": [
     "25048394",
@@ -5622,9 +5622,9 @@
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
-   "fecha": "2026-12-12",
+   "fecha": "2026-12-13",
    "grupo": "Alevín 1ª Fase FS Grupo 4",
-   "hora": null,
+   "hora": "11:00",
    "jornada": 8,
    "local": [
     "25048394",
@@ -5923,7 +5923,7 @@
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155564_AF_Escudo_OK.png",
    "fecha": "2026-11-14",
    "grupo": "Benjamín 1ª Fase FS Grupo 4",
-   "hora": null,
+   "hora": "12:30",
    "jornada": 5,
    "local": [
     "26731723",
@@ -5984,9 +5984,9 @@
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
-   "fecha": "2026-12-12",
+   "fecha": "2026-12-13",
    "grupo": "Benjamín 1ª Fase FS Grupo 4",
-   "hora": null,
+   "hora": "10:00",
    "jornada": 8,
    "local": [
     "26731723",
@@ -6451,9 +6451,9 @@
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
-   "fecha": "2027-02-06",
+   "fecha": "2027-02-07",
    "grupo": "Primera Juvenil FS Grupo 5",
-   "hora": null,
+   "hora": "11:00",
    "jornada": 13,
    "local": [
     "21727163",
@@ -6474,7 +6474,7 @@
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011730788_escudo_futsal.jpeg",
    "fecha": "2027-02-13",
    "grupo": "Primera Juvenil FS Grupo 5",
-   "hora": null,
+   "hora": "17:00",
    "jornada": 14,
    "local": [
     "21727163",
@@ -6516,7 +6516,7 @@
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
    "fecha": "2027-02-27",
    "grupo": "Primera Juvenil FS Grupo 5",
-   "hora": null,
+   "hora": "17:00",
    "jornada": 16,
    "local": [
     "21727163",
