@@ -696,19 +696,19 @@
      "pts": 12
     },
     {
-     "dg": 8,
+     "dg": 11,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011730007_ESCUDO_OFICIAL_ok.png",
-     "g": 3,
-     "gc": 12,
-     "gf": 20,
+     "g": 4,
+     "gc": 14,
+     "gf": 25,
      "id": "17151976",
      "nombre": "Club C.F.S. el Alamo B",
      "nuestro": false,
      "p": 0,
-     "pj": 3,
+     "pj": 4,
      "pos": 2,
-     "pts": 9
+     "pts": 12
     },
     {
      "dg": 4,
@@ -756,17 +756,17 @@
      "pts": 6
     },
     {
-     "dg": 3,
+     "dg": 0,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265540_futsal_pinto.png",
      "g": 2,
-     "gc": 12,
-     "gf": 15,
+     "gc": 17,
+     "gf": 17,
      "id": "17210062",
      "nombre": "Futsal Pinto-Grupo Egido",
      "nuestro": false,
-     "p": 1,
-     "pj": 3,
+     "p": 2,
+     "pj": 4,
      "pos": 6,
      "pts": 6
     },
