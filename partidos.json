@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-24 11:54",
+  "generado": "2026-10-24 15:06",
   "desde": "2026-10-24",
   "hasta": "2026-10-25",
   "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 24/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *13:30h* - Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 3_\n📍 Pabellón: Leganes - P.M. la Cantera\n⚽ *(8º)* Butarque Futsal-Hellotickets.Es - *(4º)* *_Futsala Villaverde_*\n\n⏰ *17:00h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 6_\n📍 Pabellón: San Lorenzo de el Escorial - P.M. el Zaburdon Principal\n⚽ *(5º)* A.D.Escurialense - *(7º)* *_Futsala Villaverde A_*\n\n⏰ *17:00h* - Primera Juvenil FS Grupo 5\n📌 _Jornada 3_\n📍 Pabellón: Parla - P.M. el Nido\n⚽ *(3º)* F.S. Diagonal C - *(5º)* *_Futsala Villaverde B_*\n\n⏰ *18:00h* - Tercera División FS Grupo 3\n📌 _Jornada 6_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(4º)* *_Futsala Villaverde A_* - *(1º)* F.S. Diagonal A\n\n━━━━━━━━━━━━━━━━\n📅 *DOMINGO 25/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *18:00h* - Primera División Autonómica Femenino FS Grupo Único\n📌 _Jornada 4_\n📍 Pabellón: Mostoles - Pab. Eva Manguan\n⚽ *(1º)* F.S.F. Mostoles B - *(2º)* *_Futsala Villaverde_*",
@@ -5104,14 +5104,14 @@
           "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles A",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014269425_FS_M_STOLES_ESCUDOS_1.png",
-          "pj": 2,
-          "g": 2,
+          "pj": 3,
+          "g": 3,
           "e": 0,
           "p": 0,
-          "gf": 21,
+          "gf": 32,
           "gc": 1,
-          "dg": 20,
-          "pts": 6
+          "dg": 31,
+          "pts": 9
         },
         {
           "pos": 2,
@@ -5130,21 +5130,6 @@
         },
         {
           "pos": 3,
-          "id": "17271080",
-          "nombre": "F.S. Diagonal A",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
-          "pj": 2,
-          "g": 2,
-          "e": 0,
-          "p": 0,
-          "gf": 17,
-          "gc": 1,
-          "dg": 16,
-          "pts": 6
-        },
-        {
-          "pos": 4,
           "id": "25048394",
           "nombre": "Futsala Villaverde",
           "nuestro": true,
@@ -5156,6 +5141,21 @@
           "gf": 14,
           "gc": 1,
           "dg": 13,
+          "pts": 6
+        },
+        {
+          "pos": 4,
+          "id": "17271080",
+          "nombre": "F.S. Diagonal A",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
+          "pj": 3,
+          "g": 2,
+          "e": 0,
+          "p": 1,
+          "gf": 17,
+          "gc": 12,
+          "dg": 5,
           "pts": 6
         },
         {

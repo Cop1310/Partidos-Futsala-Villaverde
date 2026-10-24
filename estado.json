@@ -1143,19 +1143,19 @@
   "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas": {
    "filas": [
     {
-     "dg": 20,
+     "dg": 31,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014269425_FS_M_STOLES_ESCUDOS_1.png",
-     "g": 2,
+     "g": 3,
      "gc": 1,
-     "gf": 21,
+     "gf": 32,
      "id": "17149214",
      "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles A",
      "nuestro": false,
      "p": 0,
-     "pj": 2,
+     "pj": 3,
      "pos": 1,
-     "pts": 6
+     "pts": 9
     },
     {
      "dg": 17,
@@ -1173,21 +1173,6 @@
      "pts": 6
     },
     {
-     "dg": 16,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
-     "g": 2,
-     "gc": 1,
-     "gf": 17,
-     "id": "17271080",
-     "nombre": "F.S. Diagonal A",
-     "nuestro": false,
-     "p": 0,
-     "pj": 2,
-     "pos": 3,
-     "pts": 6
-    },
-    {
      "dg": 13,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
@@ -1199,6 +1184,21 @@
      "nuestro": true,
      "p": 0,
      "pj": 2,
+     "pos": 3,
+     "pts": 6
+    },
+    {
+     "dg": 5,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
+     "g": 2,
+     "gc": 12,
+     "gf": 17,
+     "id": "17271080",
+     "nombre": "F.S. Diagonal A",
+     "nuestro": false,
+     "p": 1,
+     "pj": 3,
      "pos": 4,
      "pts": 6
     },
