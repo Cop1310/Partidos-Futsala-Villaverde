@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-24 15:06",
+  "generado": "2026-10-24 19:49",
   "desde": "2026-10-24",
   "hasta": "2026-10-25",
   "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 24/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *13:30h* - Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 3_\n📍 Pabellón: Leganes - P.M. la Cantera\n⚽ *(8º)* Butarque Futsal-Hellotickets.Es - *(4º)* *_Futsala Villaverde_*\n\n⏰ *17:00h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 6_\n📍 Pabellón: San Lorenzo de el Escorial - P.M. el Zaburdon Principal\n⚽ *(5º)* A.D.Escurialense - *(7º)* *_Futsala Villaverde A_*\n\n⏰ *17:00h* - Primera Juvenil FS Grupo 5\n📌 _Jornada 3_\n📍 Pabellón: Parla - P.M. el Nido\n⚽ *(3º)* F.S. Diagonal C - *(5º)* *_Futsala Villaverde B_*\n\n⏰ *18:00h* - Tercera División FS Grupo 3\n📌 _Jornada 6_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(4º)* *_Futsala Villaverde A_* - *(1º)* F.S. Diagonal A\n\n━━━━━━━━━━━━━━━━\n📅 *DOMINGO 25/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *18:00h* - Primera División Autonómica Femenino FS Grupo Único\n📌 _Jornada 4_\n📍 Pabellón: Mostoles - Pab. Eva Manguan\n⚽ *(1º)* F.S.F. Mostoles B - *(2º)* *_Futsala Villaverde_*",
@@ -4879,7 +4879,7 @@
     },
     {
       "titulo": "Primera Juvenil FS Grupo 5",
-      "jornada": 2,
+      "jornada": 3,
       "filas": [
         {
           "pos": 1,
@@ -4902,14 +4902,14 @@
           "nombre": "Sport Latina-Em Aluche FS",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011928988_Escudo_Nuevo_Aluche_FS___Azul_y_Coral.jpg",
-          "pj": 2,
-          "g": 2,
+          "pj": 3,
+          "g": 3,
           "e": 0,
           "p": 0,
-          "gf": 10,
-          "gc": 3,
-          "dg": 7,
-          "pts": 6
+          "gf": 13,
+          "gc": 5,
+          "dg": 8,
+          "pts": 9
         },
         {
           "pos": 3,
@@ -4958,21 +4958,6 @@
         },
         {
           "pos": 6,
-          "id": "18637528",
-          "nombre": "Pinar de San Jose-Alcorcon B",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
-          "pj": 2,
-          "g": 1,
-          "e": 0,
-          "p": 1,
-          "gf": 6,
-          "gc": 3,
-          "dg": 3,
-          "pts": 3
-        },
-        {
-          "pos": 7,
           "id": "22071510",
           "nombre": "Intersala Mostoles",
           "nuestro": false,
@@ -4987,7 +4972,7 @@
           "pts": 3
         },
         {
-          "pos": 8,
+          "pos": 7,
           "id": "26752417",
           "nombre": "Mostoles Sur FS (FS)",
           "nuestro": false,
@@ -4999,6 +4984,21 @@
           "gf": 6,
           "gc": 7,
           "dg": -1,
+          "pts": 3
+        },
+        {
+          "pos": 8,
+          "id": "18637528",
+          "nombre": "Pinar de San Jose-Alcorcon B",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
+          "pj": 3,
+          "g": 1,
+          "e": 0,
+          "p": 2,
+          "gf": 8,
+          "gc": 6,
+          "dg": 2,
           "pts": 3
         },
         {
@@ -5253,35 +5253,35 @@
     },
     {
       "titulo": "Benjamín 1ª Fase FS Grupo 4",
-      "jornada": 2,
+      "jornada": 3,
       "filas": [
         {
           "pos": 1,
-          "id": "18613589",
-          "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
-          "pj": 2,
-          "g": 2,
-          "e": 0,
-          "p": 0,
-          "gf": 19,
-          "gc": 1,
-          "dg": 18,
-          "pts": 6
-        },
-        {
-          "pos": 2,
           "id": "17145797",
           "nombre": "Alcorcon F.S. A",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
-          "pj": 2,
-          "g": 2,
+          "pj": 3,
+          "g": 3,
           "e": 0,
           "p": 0,
-          "gf": 15,
-          "gc": 2,
+          "gf": 22,
+          "gc": 4,
+          "dg": 18,
+          "pts": 9
+        },
+        {
+          "pos": 2,
+          "id": "18613589",
+          "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
+          "pj": 3,
+          "g": 2,
+          "e": 0,
+          "p": 1,
+          "gf": 21,
+          "gc": 8,
           "dg": 13,
           "pts": 6
         },
@@ -5317,17 +5317,17 @@
         },
         {
           "pos": 5,
-          "id": "26745921",
-          "nombre": "El Valle (FS) C",
+          "id": "18377870",
+          "nombre": "F.S. Diagonal",
           "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png",
-          "pj": 2,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
+          "pj": 3,
           "g": 1,
           "e": 0,
-          "p": 1,
+          "p": 2,
           "gf": 12,
-          "gc": 17,
-          "dg": -5,
+          "gc": 16,
+          "dg": -4,
           "pts": 3
         },
         {
@@ -5347,6 +5347,21 @@
         },
         {
           "pos": 7,
+          "id": "26745921",
+          "nombre": "El Valle (FS) C",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png",
+          "pj": 3,
+          "g": 1,
+          "e": 0,
+          "p": 2,
+          "gf": 16,
+          "gc": 27,
+          "dg": -11,
+          "pts": 3
+        },
+        {
+          "pos": 8,
           "id": "24706419",
           "nombre": "Club Arganda Futsal B",
           "nuestro": false,
@@ -5361,7 +5376,7 @@
           "pts": 0
         },
         {
-          "pos": 8,
+          "pos": 9,
           "id": "24800380",
           "nombre": "Sport Latina-Em Aluche FS",
           "nuestro": false,
@@ -5373,21 +5388,6 @@
           "gf": 5,
           "gc": 10,
           "dg": -5,
-          "pts": 0
-        },
-        {
-          "pos": 9,
-          "id": "18377870",
-          "nombre": "F.S. Diagonal",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
-          "pj": 2,
-          "g": 0,
-          "e": 0,
-          "p": 2,
-          "gf": 2,
-          "gc": 12,
-          "dg": -10,
           "pts": 0
         },
         {

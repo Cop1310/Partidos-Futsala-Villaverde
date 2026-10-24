@@ -480,19 +480,19 @@
      "pts": 6
     },
     {
-     "dg": 7,
+     "dg": 8,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011928988_Escudo_Nuevo_Aluche_FS___Azul_y_Coral.jpg",
-     "g": 2,
-     "gc": 3,
-     "gf": 10,
+     "g": 3,
+     "gc": 5,
+     "gf": 13,
      "id": "27275488",
      "nombre": "Sport Latina-Em Aluche FS",
      "nuestro": false,
      "p": 0,
-     "pj": 2,
+     "pj": 3,
      "pos": 2,
-     "pts": 6
+     "pts": 9
     },
     {
      "dg": 3,
@@ -540,21 +540,6 @@
      "pts": 4
     },
     {
-     "dg": 3,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
-     "g": 1,
-     "gc": 3,
-     "gf": 6,
-     "id": "18637528",
-     "nombre": "Pinar de San Jose-Alcorcon B",
-     "nuestro": false,
-     "p": 1,
-     "pj": 2,
-     "pos": 6,
-     "pts": 3
-    },
-    {
      "dg": 0,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155588_ESCUDO_INTERSALA_NEW.png",
@@ -566,7 +551,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 2,
-     "pos": 7,
+     "pos": 6,
      "pts": 3
     },
     {
@@ -581,6 +566,21 @@
      "nuestro": false,
      "p": 1,
      "pj": 2,
+     "pos": 7,
+     "pts": 3
+    },
+    {
+     "dg": 2,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
+     "g": 1,
+     "gc": 6,
+     "gf": 8,
+     "id": "18637528",
+     "nombre": "Pinar de San Jose-Alcorcon B",
+     "nuestro": false,
+     "p": 2,
+     "pj": 3,
      "pos": 8,
      "pts": 3
     },
@@ -675,7 +675,7 @@
      "pts": 0
     }
    ],
-   "jornada": 2,
+   "jornada": 3,
    "titulo": "Primera Juvenil FS Grupo 5"
   },
   "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas": {
@@ -1301,30 +1301,30 @@
     {
      "dg": 18,
      "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
-     "g": 2,
-     "gc": 1,
-     "gf": 19,
-     "id": "18613589",
-     "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
-     "nuestro": false,
-     "p": 0,
-     "pj": 2,
-     "pos": 1,
-     "pts": 6
-    },
-    {
-     "dg": 13,
-     "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
-     "g": 2,
-     "gc": 2,
-     "gf": 15,
+     "g": 3,
+     "gc": 4,
+     "gf": 22,
      "id": "17145797",
      "nombre": "Alcorcon F.S. A",
      "nuestro": false,
      "p": 0,
-     "pj": 2,
+     "pj": 3,
+     "pos": 1,
+     "pts": 9
+    },
+    {
+     "dg": 13,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
+     "g": 2,
+     "gc": 8,
+     "gf": 21,
+     "id": "18613589",
+     "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
+     "nuestro": false,
+     "p": 1,
+     "pj": 3,
      "pos": 2,
      "pts": 6
     },
@@ -1359,17 +1359,17 @@
      "pts": 6
     },
     {
-     "dg": -5,
+     "dg": -4,
      "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
      "g": 1,
-     "gc": 17,
+     "gc": 16,
      "gf": 12,
-     "id": "26745921",
-     "nombre": "El Valle (FS) C",
+     "id": "18377870",
+     "nombre": "F.S. Diagonal",
      "nuestro": false,
-     "p": 1,
-     "pj": 2,
+     "p": 2,
+     "pj": 3,
      "pos": 5,
      "pts": 3
     },
@@ -1389,6 +1389,21 @@
      "pts": 3
     },
     {
+     "dg": -11,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png",
+     "g": 1,
+     "gc": 27,
+     "gf": 16,
+     "id": "26745921",
+     "nombre": "El Valle (FS) C",
+     "nuestro": false,
+     "p": 2,
+     "pj": 3,
+     "pos": 7,
+     "pts": 3
+    },
+    {
      "dg": -4,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
@@ -1400,7 +1415,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 2,
-     "pos": 7,
+     "pos": 8,
      "pts": 0
     },
     {
@@ -1412,21 +1427,6 @@
      "gf": 5,
      "id": "24800380",
      "nombre": "Sport Latina-Em Aluche FS",
-     "nuestro": false,
-     "p": 2,
-     "pj": 2,
-     "pos": 8,
-     "pts": 0
-    },
-    {
-     "dg": -10,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
-     "g": 0,
-     "gc": 12,
-     "gf": 2,
-     "id": "18377870",
-     "nombre": "F.S. Diagonal",
      "nuestro": false,
      "p": 2,
      "pj": 2,
@@ -1449,7 +1449,7 @@
      "pts": 0
     }
    ],
-   "jornada": 2,
+   "jornada": 3,
    "titulo": "Benjamín 1ª Fase FS Grupo 4"
   }
  },
