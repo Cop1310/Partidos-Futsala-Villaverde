@@ -3,6 +3,21 @@
   "https://www.elbalondemadrid.es/competicion/26738218/grupo/26738219/jornadas": {
    "filas": [
     {
+     "dg": 23,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011730757_escudo_club_sin_fondo.png",
+     "g": 3,
+     "gc": 4,
+     "gf": 27,
+     "id": "17148272",
+     "nombre": "Ad Collado-Villalba-Cobiosa A",
+     "nuestro": false,
+     "p": 1,
+     "pj": 4,
+     "pos": 1,
+     "pts": 9
+    },
+    {
      "dg": 16,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011900787_Aguila_Alcalde_FSF_trazo_negro.jpg",
@@ -14,7 +29,7 @@
      "nuestro": false,
      "p": 0,
      "pj": 3,
-     "pos": 1,
+     "pos": 2,
      "pts": 9
     },
     {
@@ -29,7 +44,7 @@
      "nuestro": true,
      "p": 0,
      "pj": 3,
-     "pos": 2,
+     "pos": 3,
      "pts": 9
     },
     {
@@ -44,7 +59,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 4,
-     "pos": 3,
+     "pos": 4,
      "pts": 9
     },
     {
@@ -59,36 +74,21 @@
      "nuestro": false,
      "p": 0,
      "pj": 3,
-     "pos": 4,
+     "pos": 5,
      "pts": 9
     },
     {
-     "dg": 11,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011730757_escudo_club_sin_fondo.png",
-     "g": 2,
-     "gc": 4,
-     "gf": 15,
-     "id": "17148272",
-     "nombre": "Ad Collado-Villalba-Cobiosa A",
-     "nuestro": false,
-     "p": 1,
-     "pj": 3,
-     "pos": 5,
-     "pts": 6
-    },
-    {
-     "dg": 4,
+     "dg": 3,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155442_escudo_torrejon_FIVE_PLAY_sala.jpg",
      "g": 2,
-     "gc": 10,
-     "gf": 14,
+     "gc": 13,
+     "gf": 16,
      "id": "17145541",
      "nombre": "Torrejon Sala Five Play- Dominos Pizza",
      "nuestro": false,
-     "p": 1,
-     "pj": 3,
+     "p": 2,
+     "pj": 4,
      "pos": 6,
      "pts": 6
     },
@@ -138,6 +138,21 @@
      "pts": 3
     },
     {
+     "dg": -8,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012158637_escudo_club_positivo.png",
+     "g": 1,
+     "gc": 16,
+     "gf": 8,
+     "id": "21430669",
+     "nombre": "Moralzarzal Futsal-Toolydo",
+     "nuestro": false,
+     "p": 3,
+     "pj": 4,
+     "pos": 10,
+     "pts": 3
+    },
+    {
      "dg": -10,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155555_Escudo_Futsi.png",
@@ -149,38 +164,8 @@
      "nuestro": false,
      "p": 2,
      "pj": 3,
-     "pos": 10,
-     "pts": 3
-    },
-    {
-     "dg": -9,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012158637_escudo_club_positivo.png",
-     "g": 0,
-     "gc": 14,
-     "gf": 5,
-     "id": "21430669",
-     "nombre": "Moralzarzal Futsal-Toolydo",
-     "nuestro": false,
-     "p": 3,
-     "pj": 3,
      "pos": 11,
-     "pts": 0
-    },
-    {
-     "dg": -9,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012160800_Escudo_bueno.png",
-     "g": 0,
-     "gc": 10,
-     "gf": 1,
-     "id": "18456455",
-     "nombre": "Cfs Artilleros Moratalaz",
-     "nuestro": false,
-     "p": 3,
-     "pj": 3,
-     "pos": 12,
-     "pts": 0
+     "pts": 3
     },
     {
      "dg": -14,
@@ -194,7 +179,7 @@
      "nuestro": false,
      "p": 4,
      "pj": 4,
-     "pos": 13,
+     "pos": 12,
      "pts": 0
     },
     {
@@ -209,6 +194,21 @@
      "nuestro": false,
      "p": 3,
      "pj": 3,
+     "pos": 13,
+     "pts": 0
+    },
+    {
+     "dg": -21,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012160800_Escudo_bueno.png",
+     "g": 0,
+     "gc": 22,
+     "gf": 1,
+     "id": "18456455",
+     "nombre": "Cfs Artilleros Moratalaz",
+     "nuestro": false,
+     "p": 4,
+     "pj": 4,
      "pos": 14,
      "pts": 0
     }
@@ -495,21 +495,6 @@
      "pts": 6
     },
     {
-     "dg": 2,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155770_3f6870fa_7e7b_452d_aad4_a8297489831d.png",
-     "g": 2,
-     "gc": 2,
-     "gf": 4,
-     "id": "26884014",
-     "nombre": "Fuenlabrada Futbol Sala (FS) B",
-     "nuestro": false,
-     "p": 0,
-     "pj": 2,
-     "pos": 3,
-     "pts": 6
-    },
-    {
      "dg": 9,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155552_Escudo_Cde_La_Villa.png",
@@ -521,7 +506,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 3,
-     "pos": 4,
+     "pos": 3,
      "pts": 6
     },
     {
@@ -536,7 +521,7 @@
      "nuestro": true,
      "p": 0,
      "pj": 2,
-     "pos": 5,
+     "pos": 4,
      "pts": 4
     },
     {
@@ -551,8 +536,38 @@
      "nuestro": false,
      "p": 1,
      "pj": 3,
+     "pos": 5,
+     "pts": 6
+    },
+    {
+     "dg": -1,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155770_3f6870fa_7e7b_452d_aad4_a8297489831d.png",
+     "g": 2,
+     "gc": 7,
+     "gf": 6,
+     "id": "26884014",
+     "nombre": "Fuenlabrada Futbol Sala (FS) B",
+     "nuestro": false,
+     "p": 1,
+     "pj": 3,
      "pos": 6,
      "pts": 6
+    },
+    {
+     "dg": 3,
+     "e": 2,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png",
+     "g": 1,
+     "gc": 9,
+     "gf": 12,
+     "id": "18949928",
+     "nombre": "Andres Segovia-Mostoles",
+     "nuestro": false,
+     "p": 0,
+     "pj": 3,
+     "pos": 7,
+     "pts": 5
     },
     {
      "dg": 4,
@@ -566,7 +581,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 3,
-     "pos": 7,
+     "pos": 8,
      "pts": 4
     },
     {
@@ -581,23 +596,8 @@
      "nuestro": false,
      "p": 2,
      "pj": 3,
-     "pos": 8,
-     "pts": 3
-    },
-    {
-     "dg": 0,
-     "e": 2,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png",
-     "g": 0,
-     "gc": 7,
-     "gf": 7,
-     "id": "18949928",
-     "nombre": "Andres Segovia-Mostoles",
-     "nuestro": false,
-     "p": 0,
-     "pj": 2,
      "pos": 9,
-     "pts": 2
+     "pts": 3
     },
     {
      "dg": -3,
@@ -727,6 +727,21 @@
     },
     {
      "dg": -2,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012177687_colme_ok.png",
+     "g": 3,
+     "gc": 19,
+     "gf": 17,
+     "id": "18952209",
+     "nombre": "Colme Futsal",
+     "nuestro": false,
+     "p": 2,
+     "pj": 5,
+     "pos": 4,
+     "pts": 9
+    },
+    {
+     "dg": -2,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155770_3f6870fa_7e7b_452d_aad4_a8297489831d.png",
      "g": 2,
@@ -737,7 +752,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 4,
-     "pos": 4,
+     "pos": 5,
      "pts": 7
     },
     {
@@ -752,7 +767,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 3,
-     "pos": 5,
+     "pos": 6,
      "pts": 6
     },
     {
@@ -767,22 +782,22 @@
      "nuestro": false,
      "p": 2,
      "pj": 4,
-     "pos": 6,
+     "pos": 7,
      "pts": 6
     },
     {
-     "dg": -4,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012177687_colme_ok.png",
-     "g": 2,
-     "gc": 19,
-     "gf": 15,
-     "id": "18952209",
-     "nombre": "Colme Futsal",
+     "dg": -1,
+     "e": 3,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg",
+     "g": 1,
+     "gc": 21,
+     "gf": 20,
+     "id": "21476720",
+     "nombre": "Atletico Trabenco Zarzaquemada B",
      "nuestro": false,
-     "p": 2,
-     "pj": 4,
-     "pos": 7,
+     "p": 1,
+     "pj": 5,
+     "pos": 8,
      "pts": 6
     },
     {
@@ -797,38 +812,23 @@
      "nuestro": true,
      "p": 0,
      "pj": 3,
-     "pos": 8,
-     "pts": 5
-    },
-    {
-     "dg": -1,
-     "e": 2,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg",
-     "g": 1,
-     "gc": 17,
-     "gf": 16,
-     "id": "21476720",
-     "nombre": "Atletico Trabenco Zarzaquemada B",
-     "nuestro": false,
-     "p": 1,
-     "pj": 4,
      "pos": 9,
      "pts": 5
     },
     {
      "dg": -12,
-     "e": 0,
+     "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265590_brunete.png",
      "g": 1,
-     "gc": 23,
-     "gf": 11,
+     "gc": 27,
+     "gf": 15,
      "id": "18583719",
      "nombre": "Escuela Deportiva Brunete",
      "nuestro": false,
      "p": 3,
-     "pj": 4,
+     "pj": 5,
      "pos": 10,
-     "pts": 3
+     "pts": 4
     },
     {
      "dg": -7,
@@ -846,17 +846,17 @@
      "pts": 2
     },
     {
-     "dg": -3,
+     "dg": -5,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014271119_casco_antiguo.png",
      "g": 0,
-     "gc": 17,
+     "gc": 19,
      "gf": 14,
      "id": "17145360",
      "nombre": "Casco Antiguo Carabanchel B",
      "nuestro": false,
-     "p": 3,
-     "pj": 4,
+     "p": 4,
+     "pj": 5,
      "pos": 12,
      "pts": 1
     },
@@ -1359,6 +1359,21 @@
      "pts": 6
     },
     {
+     "dg": 1,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011928988_Escudo_Nuevo_Aluche_FS___Azul_y_Coral.jpg",
+     "g": 1,
+     "gc": 12,
+     "gf": 13,
+     "id": "24800380",
+     "nombre": "Sport Latina-Em Aluche FS",
+     "nuestro": false,
+     "p": 2,
+     "pj": 3,
+     "pos": 5,
+     "pts": 3
+    },
+    {
      "dg": -4,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
@@ -1370,7 +1385,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 3,
-     "pos": 5,
+     "pos": 6,
      "pts": 3
     },
     {
@@ -1385,7 +1400,7 @@
      "nuestro": true,
      "p": 1,
      "pj": 2,
-     "pos": 6,
+     "pos": 7,
      "pts": 3
     },
     {
@@ -1400,7 +1415,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 3,
-     "pos": 7,
+     "pos": 8,
      "pts": 3
     },
     {
@@ -1415,36 +1430,21 @@
      "nuestro": false,
      "p": 2,
      "pj": 2,
-     "pos": 8,
-     "pts": 0
-    },
-    {
-     "dg": -5,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011928988_Escudo_Nuevo_Aluche_FS___Azul_y_Coral.jpg",
-     "g": 0,
-     "gc": 10,
-     "gf": 5,
-     "id": "24800380",
-     "nombre": "Sport Latina-Em Aluche FS",
-     "nuestro": false,
-     "p": 2,
-     "pj": 2,
      "pos": 9,
      "pts": 0
     },
     {
-     "dg": -11,
+     "dg": -17,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270033_abaco.png",
      "g": 0,
-     "gc": 15,
-     "gf": 4,
+     "gc": 23,
+     "gf": 6,
      "id": "27509809",
      "nombre": "Colegio Abaco (FS) A",
      "nuestro": false,
-     "p": 2,
-     "pj": 2,
+     "p": 3,
+     "pj": 3,
      "pos": 10,
      "pts": 0
     }
@@ -1978,8 +1978,8 @@
     "FUTSALA VILLAVERDE 'B'"
    ],
    "pos": [
-    8,
-    6
+    9,
+    7
    ],
    "resultado": null,
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas",
@@ -6103,7 +6103,7 @@
     "FUTSALA VILLAVERDE"
    ],
    "pos": [
-    6,
+    7,
     4
    ],
    "resultado": null,
