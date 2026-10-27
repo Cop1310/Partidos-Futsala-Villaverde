@@ -647,7 +647,7 @@
     {
      "dg": -7,
      "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011730788_escudo_futsal.jpeg",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014311648_parque_lisboa.png",
      "g": 0,
      "gc": 9,
      "gf": 2,
@@ -1479,8 +1479,8 @@
    },
    "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas": {
     "actual": 4,
-    "cursor": 18,
-    "fecha": "2026-10-26",
+    "cursor": null,
+    "fecha": "2026-10-27",
     "total": 26
    },
    "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas": {
@@ -1496,15 +1496,15 @@
     "total": 30
    },
    "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas": {
-    "actual": 3,
+    "actual": 4,
     "cursor": null,
-    "fecha": "2026-10-20",
+    "fecha": "2026-10-27",
     "total": 9
    },
    "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas": {
-    "actual": 3,
+    "actual": 4,
     "cursor": null,
-    "fecha": "2026-10-20",
+    "fecha": "2026-10-27",
     "total": 9
    }
   },
@@ -4219,9 +4219,9 @@
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014267064_LOPE_DE_VEGA.png",
-   "fecha": "2026-11-01",
+   "fecha": "2026-10-31",
    "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
-   "hora": "13:00",
+   "hora": "17:00",
    "jornada": 7,
    "local": [
     "18586496",
@@ -4998,6 +4998,72 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011900787_Aguila_Alcalde_FSF_trazo_negro.jpg",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "fecha": "2026-10-25",
+   "goles": [
+    {
+     "equipo": "F.S.F. MOSTOLES 'B'",
+     "jugador": "PAULA SANZ DORADO",
+     "lado": "local",
+     "minuto": 12,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "F.S.F. MOSTOLES 'B'",
+     "jugador": "ANGELA DE USERA JEREZ",
+     "lado": "local",
+     "minuto": 26,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "F.S.F. MOSTOLES 'B'",
+     "jugador": "YAIZA RUIZ GARCIA",
+     "lado": "local",
+     "minuto": 32,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "F.S.F. MOSTOLES 'B'",
+     "jugador": "AMAYA MARTINEZ CARO",
+     "lado": "local",
+     "minuto": 38,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "F.S.F. MOSTOLES 'B'",
+     "jugador": "PAULA SANZ DORADO",
+     "lado": "local",
+     "minuto": 39,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "F.S.F. MOSTOLES 'B'",
+     "jugador": "AMAYA MARTINEZ CARO",
+     "lado": "local",
+     "minuto": 39,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "RAQUEL PASTOR VIDAL",
+     "lado": "visitante",
+     "minuto": 4,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "LAURA CORONEL PEREZ JUANA",
+     "lado": "visitante",
+     "minuto": 37,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Primera División Autonómica Femenino FS Grupo Único",
    "hora": "18:00",
    "jornada": 4,
@@ -5009,7 +5075,40 @@
     1,
     2
    ],
-   "resultado": null,
+   "resultado": [
+    6,
+    2
+   ],
+   "tarjetas": [
+    {
+     "equipo": "F.S.F. MOSTOLES 'B'",
+     "jugador": "JORGE MARTIN SUAREZ",
+     "lado": "local",
+     "minuto": 26,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "SOFIA FERNANDEZ NIETO",
+     "lado": "visitante",
+     "minuto": 6,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "MARTA CASTAÑON TERAN",
+     "lado": "visitante",
+     "minuto": 14,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "SILVIA GONZALEZ LOPEZ",
+     "lado": "visitante",
+     "minuto": 29,
+     "tipo": "amarilla"
+    }
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738218/grupo/26738219/jornadas",
    "visitante": [
     "18694124",
