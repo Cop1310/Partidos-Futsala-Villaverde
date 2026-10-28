@@ -711,6 +711,21 @@
      "pts": 15
     },
     {
+     "dg": 11,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014267688_MANILA.png",
+     "g": 3,
+     "gc": 17,
+     "gf": 28,
+     "id": "21493878",
+     "nombre": "Club Escuela Deportiva Manila-Estrellas A",
+     "nuestro": false,
+     "p": 1,
+     "pj": 5,
+     "pos": 3,
+     "pts": 10
+    },
+    {
      "dg": 1,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012177687_colme_ok.png",
@@ -722,7 +737,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 5,
-     "pos": 3,
+     "pos": 4,
      "pts": 9
     },
     {
@@ -737,7 +752,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 5,
-     "pos": 4,
+     "pos": 5,
      "pts": 9
     },
     {
@@ -752,23 +767,8 @@
      "nuestro": false,
      "p": 1,
      "pj": 5,
-     "pos": 5,
-     "pts": 8
-    },
-    {
-     "dg": 8,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014267688_MANILA.png",
-     "g": 2,
-     "gc": 13,
-     "gf": 21,
-     "id": "21493878",
-     "nombre": "Club Escuela Deportiva Manila-Estrellas A",
-     "nuestro": false,
-     "p": 1,
-     "pj": 4,
      "pos": 6,
-     "pts": 7
+     "pts": 8
     },
     {
      "dg": 0,
@@ -801,17 +801,17 @@
      "pts": 6
     },
     {
-     "dg": 6,
+     "dg": 3,
      "e": 2,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
      "g": 1,
-     "gc": 10,
-     "gf": 16,
+     "gc": 17,
+     "gf": 20,
      "id": "18456762",
      "nombre": "Futsala Villaverde B",
      "nuestro": true,
-     "p": 0,
-     "pj": 3,
+     "p": 1,
+     "pj": 4,
      "pos": 9,
      "pts": 5
     },
@@ -2909,6 +2909,96 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
    "fecha": "2026-10-24",
+   "goles": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "GUILLERMO CHIMENO OTERO",
+     "lado": "local",
+     "minuto": 4,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "JAVIER MARAÑÓN FERNÁNDEZ",
+     "lado": "local",
+     "minuto": 18,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "JAVIER MARAÑÓN FERNÁNDEZ",
+     "lado": "local",
+     "minuto": 19,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "KRYSTIAN fraczyk",
+     "lado": "local",
+     "minuto": 39,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "F.S. DIAGONAL 'A'",
+     "jugador": "ANGEL DE LA CRUZ VALLEJO",
+     "lado": "visitante",
+     "minuto": 13,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "F.S. DIAGONAL 'A'",
+     "jugador": "UNAI OLMOS LOZANO",
+     "lado": "visitante",
+     "minuto": 21,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "F.S. DIAGONAL 'A'",
+     "jugador": "JAIME ROMERO MURCIA",
+     "lado": "visitante",
+     "minuto": 25,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "F.S. DIAGONAL 'A'",
+     "jugador": "UNAI OLMOS LOZANO",
+     "lado": "visitante",
+     "minuto": 32,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "F.S. DIAGONAL 'A'",
+     "jugador": "UNAI OLMOS LOZANO",
+     "lado": "visitante",
+     "minuto": 34,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "F.S. DIAGONAL 'A'",
+     "jugador": "JAIME ROMERO MURCIA",
+     "lado": "visitante",
+     "minuto": 35,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "F.S. DIAGONAL 'A'",
+     "jugador": "JAIME ROMERO MURCIA",
+     "lado": "visitante",
+     "minuto": 35,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Tercera División FS Grupo 3",
    "hora": "18:00",
    "jornada": 6,
@@ -2923,6 +3013,57 @@
    "resultado": [
     4,
     7
+   ],
+   "tarjetas": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "KRYSTIAN fraczyk",
+     "lado": "local",
+     "minuto": 9,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "RUBEN DE SANTIAGO NIETO",
+     "lado": "local",
+     "minuto": 23,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ALVARO LORENZO FERNANDEZ",
+     "lado": "local",
+     "minuto": 32,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "CELSO PEREZ SANCHEZ",
+     "lado": "local",
+     "minuto": 32,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "IVAN GONZALEZ LOPEZ",
+     "lado": "local",
+     "minuto": 33,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ALVARO LORENZO FERNANDEZ",
+     "lado": "local",
+     "minuto": 33,
+     "tipo": "roja"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "CELSO PEREZ SANCHEZ",
+     "lado": "local",
+     "minuto": 33,
+     "tipo": "roja"
+    }
    ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas",
    "visitante": [
