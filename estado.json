@@ -279,6 +279,21 @@
      "pts": 11
     },
     {
+     "dg": 15,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg",
+     "g": 3,
+     "gc": 21,
+     "gf": 36,
+     "id": "21476719",
+     "nombre": "Atletico Trabenco Zarzaquemada A",
+     "nuestro": false,
+     "p": 3,
+     "pj": 7,
+     "pos": 5,
+     "pts": 10
+    },
+    {
      "dg": 3,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014271119_casco_antiguo.png",
@@ -290,7 +305,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 6,
-     "pos": 5,
+     "pos": 6,
      "pts": 10
     },
     {
@@ -305,7 +320,7 @@
      "nuestro": true,
      "p": 2,
      "pj": 5,
-     "pos": 6,
+     "pos": 7,
      "pts": 9
     },
     {
@@ -320,7 +335,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 6,
-     "pos": 7,
+     "pos": 8,
      "pts": 8
     },
     {
@@ -335,7 +350,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 5,
-     "pos": 8,
+     "pos": 9,
      "pts": 8
     },
     {
@@ -350,7 +365,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 6,
-     "pos": 9,
+     "pos": 10,
      "pts": 8
     },
     {
@@ -365,38 +380,8 @@
      "nuestro": false,
      "p": 2,
      "pj": 6,
-     "pos": 10,
-     "pts": 8
-    },
-    {
-     "dg": 13,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg",
-     "g": 2,
-     "gc": 18,
-     "gf": 31,
-     "id": "21476719",
-     "nombre": "Atletico Trabenco Zarzaquemada A",
-     "nuestro": false,
-     "p": 3,
-     "pj": 6,
      "pos": 11,
-     "pts": 7
-    },
-    {
-     "dg": -2,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265560_morata.png",
-     "g": 2,
-     "gc": 23,
-     "gf": 21,
-     "id": "18310655",
-     "nombre": "Sporting Morata F.S. A",
-     "nuestro": false,
-     "p": 4,
-     "pj": 6,
-     "pos": 12,
-     "pts": 6
+     "pts": 8
     },
     {
      "dg": -3,
@@ -410,6 +395,21 @@
      "nuestro": false,
      "p": 4,
      "pj": 6,
+     "pos": 12,
+     "pts": 6
+    },
+    {
+     "dg": -4,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265560_morata.png",
+     "g": 2,
+     "gc": 28,
+     "gf": 24,
+     "id": "18310655",
+     "nombre": "Sporting Morata F.S. A",
+     "nuestro": false,
+     "p": 5,
+     "pj": 7,
      "pos": 13,
      "pts": 6
     },
@@ -459,7 +459,7 @@
      "pts": 3
     }
    ],
-   "jornada": 6,
+   "jornada": 8,
    "titulo": "Tercera División FS Grupo 3"
   },
   "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas": {
@@ -1800,6 +1800,96 @@
    "escudo_local": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012179990_LOGO_NUEVO.jpeg",
    "escudo_visitante": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012173144_Screenshot_20260506_090154_WhatsApp.jpg",
    "fecha": "2026-10-27",
+   "goles": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "MARIO GARCIA FRANCHO",
+     "lado": "local",
+     "minuto": 3,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "GONZALO ORTIZ PEÑA",
+     "lado": "local",
+     "minuto": 8,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "DOMINIK FRACZYK",
+     "lado": "local",
+     "minuto": 24,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "RAFAEL ALGABA DOMINGUEZ",
+     "lado": "local",
+     "minuto": 49,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CLUB ESCUELA DEPORTIVA MANILA-ESTRELLAS 'A'",
+     "jugador": "GONZALO FERNANDEZ BUSTO",
+     "lado": "visitante",
+     "minuto": 2,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CLUB ESCUELA DEPORTIVA MANILA-ESTRELLAS 'A'",
+     "jugador": "VICTOR MARUGAN ALONSO",
+     "lado": "visitante",
+     "minuto": 4,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CLUB ESCUELA DEPORTIVA MANILA-ESTRELLAS 'A'",
+     "jugador": "JAIME MILAN JIMENEZ",
+     "lado": "visitante",
+     "minuto": 10,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CLUB ESCUELA DEPORTIVA MANILA-ESTRELLAS 'A'",
+     "jugador": "PABLO CASTELLANOS RAMIREZ",
+     "lado": "visitante",
+     "minuto": 11,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CLUB ESCUELA DEPORTIVA MANILA-ESTRELLAS 'A'",
+     "jugador": "GONZALO FERNANDEZ BUSTO",
+     "lado": "visitante",
+     "minuto": 19,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CLUB ESCUELA DEPORTIVA MANILA-ESTRELLAS 'A'",
+     "jugador": "DANIEL FRAILE PEREZ",
+     "lado": "visitante",
+     "minuto": 26,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CLUB ESCUELA DEPORTIVA MANILA-ESTRELLAS 'A'",
+     "jugador": "IGNACIO LIMPO MORAN",
+     "lado": "visitante",
+     "minuto": 34,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
    "hora": "21:10",
    "jornada": 3,
@@ -1811,7 +1901,26 @@
     10,
     7
    ],
-   "resultado": null,
+   "resultado": [
+    4,
+    7
+   ],
+   "tarjetas": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "RAFAEL IGNACIO JAEN RODRIGUEZ",
+     "lado": "local",
+     "minuto": 26,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "RAFAEL IGNACIO JAEN RODRIGUEZ",
+     "lado": "local",
+     "minuto": 33,
+     "tipo": "roja"
+    }
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas",
    "visitante": [
     "21493878",
@@ -3086,7 +3195,7 @@
    ],
    "pos": [
     2,
-    6
+    7
    ],
    "resultado": null,
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas",
