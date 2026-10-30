@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-29 12:52",
+  "generado": "2026-10-30 12:45",
   "desde": "2026-10-31",
   "hasta": "2026-11-01",
   "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 31/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *17:00h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 7_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(5º)* *_Futsala Villaverde A_* - *(11º)* Lope de Vega A\n\n⏰ *19:30h* - Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 6_\n📍 Pabellón: P.M. la Mina\n⚽ *(13º)* Casco Antiguo Carabanchel B - *(9º)* *_Futsala Villaverde B_*\n\n━━━━━━━━━━━━━━━━\n📅 *DOMINGO 01/11/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *12:30h* - Tercera División FS Grupo 3\n📌 _Jornada 7_\n📍 Pabellón: P.M. San Blas\n⚽ *(2º)* Agrupacion Auto-Escuela Simancas-Dynavin A - *(7º)* *_Futsala Villaverde A_*",
@@ -2810,108 +2810,108 @@
           ],
           "goles": [
             {
-              "minuto": 3,
+              "equipo": "FUTSALA VILLAVERDE 'B'",
               "jugador": "MARIO GARCIA FRANCHO",
-              "equipo": "FUTSALA VILLAVERDE 'B'",
+              "lado": "local",
+              "minuto": 3,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 8,
+              "equipo": "FUTSALA VILLAVERDE 'B'",
               "jugador": "GONZALO ORTIZ PEÑA",
-              "equipo": "FUTSALA VILLAVERDE 'B'",
+              "lado": "local",
+              "minuto": 8,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 24,
+              "equipo": "FUTSALA VILLAVERDE 'B'",
               "jugador": "DOMINIK FRACZYK",
-              "equipo": "FUTSALA VILLAVERDE 'B'",
+              "lado": "local",
+              "minuto": 24,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 49,
+              "equipo": "FUTSALA VILLAVERDE 'B'",
               "jugador": "RAFAEL ALGABA DOMINGUEZ",
-              "equipo": "FUTSALA VILLAVERDE 'B'",
+              "lado": "local",
+              "minuto": 49,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
+              "equipo": "CLUB ESCUELA DEPORTIVA MANILA-ESTRELLAS 'A'",
+              "jugador": "GONZALO FERNANDEZ BUSTO",
+              "lado": "visitante",
               "minuto": 2,
-              "jugador": "GONZALO FERNANDEZ BUSTO",
-              "equipo": "CLUB ESCUELA DEPORTIVA MANILA-ESTRELLAS 'A'",
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 4,
+              "equipo": "CLUB ESCUELA DEPORTIVA MANILA-ESTRELLAS 'A'",
               "jugador": "VICTOR MARUGAN ALONSO",
-              "equipo": "CLUB ESCUELA DEPORTIVA MANILA-ESTRELLAS 'A'",
+              "lado": "visitante",
+              "minuto": 4,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 10,
+              "equipo": "CLUB ESCUELA DEPORTIVA MANILA-ESTRELLAS 'A'",
               "jugador": "JAIME MILAN JIMENEZ",
-              "equipo": "CLUB ESCUELA DEPORTIVA MANILA-ESTRELLAS 'A'",
+              "lado": "visitante",
+              "minuto": 10,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 11,
+              "equipo": "CLUB ESCUELA DEPORTIVA MANILA-ESTRELLAS 'A'",
               "jugador": "PABLO CASTELLANOS RAMIREZ",
-              "equipo": "CLUB ESCUELA DEPORTIVA MANILA-ESTRELLAS 'A'",
+              "lado": "visitante",
+              "minuto": 11,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 19,
+              "equipo": "CLUB ESCUELA DEPORTIVA MANILA-ESTRELLAS 'A'",
               "jugador": "GONZALO FERNANDEZ BUSTO",
-              "equipo": "CLUB ESCUELA DEPORTIVA MANILA-ESTRELLAS 'A'",
+              "lado": "visitante",
+              "minuto": 19,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 26,
+              "equipo": "CLUB ESCUELA DEPORTIVA MANILA-ESTRELLAS 'A'",
               "jugador": "DANIEL FRAILE PEREZ",
-              "equipo": "CLUB ESCUELA DEPORTIVA MANILA-ESTRELLAS 'A'",
+              "lado": "visitante",
+              "minuto": 26,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 34,
-              "jugador": "IGNACIO LIMPO MORAN",
               "equipo": "CLUB ESCUELA DEPORTIVA MANILA-ESTRELLAS 'A'",
+              "jugador": "IGNACIO LIMPO MORAN",
+              "lado": "visitante",
+              "minuto": 34,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             }
           ],
           "tarjetas": [
             {
-              "minuto": 26,
-              "jugador": "RAFAEL IGNACIO JAEN RODRIGUEZ",
               "equipo": "FUTSALA VILLAVERDE 'B'",
-              "tipo": "amarilla",
-              "lado": "local"
+              "jugador": "RAFAEL IGNACIO JAEN RODRIGUEZ",
+              "lado": "local",
+              "minuto": 26,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 33,
-              "jugador": "RAFAEL IGNACIO JAEN RODRIGUEZ",
               "equipo": "FUTSALA VILLAVERDE 'B'",
-              "tipo": "roja",
-              "lado": "local"
+              "jugador": "RAFAEL IGNACIO JAEN RODRIGUEZ",
+              "lado": "local",
+              "minuto": 33,
+              "tipo": "roja"
             }
           ]
         }
