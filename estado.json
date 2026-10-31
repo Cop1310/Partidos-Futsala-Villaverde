@@ -681,19 +681,19 @@
   "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas": {
    "filas": [
     {
-     "dg": 17,
+     "dg": 21,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011730007_ESCUDO_OFICIAL_ok.png",
-     "g": 5,
-     "gc": 14,
-     "gf": 31,
+     "g": 6,
+     "gc": 18,
+     "gf": 39,
      "id": "17151976",
      "nombre": "Club C.F.S. el Alamo B",
      "nuestro": false,
      "p": 0,
-     "pj": 5,
+     "pj": 6,
      "pos": 1,
-     "pts": 15
+     "pts": 18
     },
     {
      "dg": 16,
@@ -741,17 +741,17 @@
      "pts": 9
     },
     {
-     "dg": 0,
+     "dg": -4,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265535_Athletic_Mostoles.png",
      "g": 3,
-     "gc": 17,
-     "gf": 17,
+     "gc": 25,
+     "gf": 21,
      "id": "21431859",
      "nombre": "Athletic Mostoles B",
      "nuestro": false,
-     "p": 2,
-     "pj": 5,
+     "p": 3,
+     "pj": 6,
      "pos": 5,
      "pts": 9
     },
@@ -891,7 +891,7 @@
      "pts": 1
     }
    ],
-   "jornada": 5,
+   "jornada": 6,
    "titulo": "Primera División Autonómica Aficionado FS Grupo 1"
   },
   "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas": {
@@ -4470,6 +4470,88 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014267064_LOPE_DE_VEGA.png",
    "fecha": "2026-10-31",
+   "goles": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "MOAD ABABOU IDIR",
+     "lado": "local",
+     "minuto": 13,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "HUGO ZORRILLA MELENDO",
+     "lado": "local",
+     "minuto": 15,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+     "lado": "local",
+     "minuto": 20,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+     "lado": "local",
+     "minuto": 22,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ANTONIO TOROVICH ESCOBAR",
+     "lado": "local",
+     "minuto": 32,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D. LOPE DE VEGA 'A'",
+     "jugador": "ADRIAN SERRANO MARCOS",
+     "lado": "visitante",
+     "minuto": 19,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D. LOPE DE VEGA 'A'",
+     "jugador": "DAVID GUTIERREZ LAIN",
+     "lado": "visitante",
+     "minuto": 25,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D. LOPE DE VEGA 'A'",
+     "jugador": "DIEGO BUESO BENITO",
+     "lado": "visitante",
+     "minuto": 36,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D. LOPE DE VEGA 'A'",
+     "jugador": "DAVID GUTIERREZ LAIN",
+     "lado": "visitante",
+     "minuto": 36,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D. LOPE DE VEGA 'A'",
+     "jugador": "MIGUEL GARCÍA LORENTE",
+     "lado": "visitante",
+     "minuto": 38,
+     "penalti": true,
+     "propia": false
+    }
+   ],
    "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
    "hora": "17:00",
    "jornada": 7,
@@ -4481,7 +4563,40 @@
     5,
     11
    ],
-   "resultado": null,
+   "resultado": [
+    5,
+    5
+   ],
+   "tarjetas": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ANTONIO TOROVICH ESCOBAR",
+     "lado": "local",
+     "minuto": 32,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+     "lado": "local",
+     "minuto": 38,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "JAVIER MARAÑÓN FERNÁNDEZ",
+     "lado": "local",
+     "minuto": 38,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "MOAD ABABOU IDIR",
+     "lado": "local",
+     "minuto": 40,
+     "tipo": "amarilla"
+    }
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas",
    "visitante": [
     "22413229",
