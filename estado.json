@@ -897,19 +897,19 @@
   "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas": {
    "filas": [
     {
-     "dg": 30,
+     "dg": 35,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png",
-     "g": 6,
+     "g": 7,
      "gc": 13,
-     "gf": 43,
+     "gf": 48,
      "id": "18346138",
      "nombre": "El Valle A",
      "nuestro": false,
      "p": 0,
-     "pj": 6,
+     "pj": 7,
      "pos": 1,
-     "pts": 18
+     "pts": 21
     },
     {
      "dg": 10,
@@ -927,17 +927,17 @@
      "pts": 15
     },
     {
-     "dg": 7,
+     "dg": 2,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
      "g": 4,
-     "gc": 25,
+     "gc": 30,
      "gf": 32,
      "id": "18613591",
      "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
      "nuestro": false,
-     "p": 1,
-     "pj": 6,
+     "p": 2,
+     "pj": 7,
      "pos": 3,
      "pts": 13
     },
@@ -1077,17 +1077,17 @@
      "pts": 6
     },
     {
-     "dg": -16,
+     "dg": -17,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012174389_gsd_deportes_color_v.png",
      "g": 2,
-     "gc": 33,
-     "gf": 17,
+     "gc": 37,
+     "gf": 20,
      "id": "21675505",
      "nombre": "Gredos San Diego las Suertes A",
      "nuestro": false,
-     "p": 4,
-     "pj": 6,
+     "p": 5,
+     "pj": 7,
      "pos": 13,
      "pts": 6
     },
@@ -1122,22 +1122,22 @@
      "pts": 3
     },
     {
-     "dg": -26,
+     "dg": -25,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014258150_ESC_C.D._DOSA__1_.png",
-     "g": 0,
-     "gc": 46,
-     "gf": 20,
+     "g": 1,
+     "gc": 49,
+     "gf": 24,
      "id": "21492126",
      "nombre": "Dosa",
      "nuestro": false,
      "p": 6,
-     "pj": 6,
+     "pj": 7,
      "pos": 16,
-     "pts": 0
+     "pts": 3
     }
    ],
-   "jornada": 6,
+   "jornada": 7,
    "titulo": "Primera División Autonómica Juvenil FS Grupo Único"
   },
   "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas": {

@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-31 12:19",
+  "generado": "2026-10-31 16:01",
   "desde": "2026-10-31",
   "hasta": "2026-11-01",
   "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 31/10/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *17:00h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 7_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(5º)* *_Futsala Villaverde A_* - *(11º)* Lope de Vega A\n\n⏰ *19:30h* - Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 6_\n📍 Pabellón: P.M. la Mina\n⚽ *(13º)* Casco Antiguo Carabanchel B - *(9º)* *_Futsala Villaverde B_*\n\n━━━━━━━━━━━━━━━━\n📅 *DOMINGO 01/11/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *12:30h* - Tercera División FS Grupo 3\n📌 _Jornada 7_\n📍 Pabellón: P.M. San Blas\n⚽ *(2º)* Agrupacion Auto-Escuela Simancas-Dynavin A - *(7º)* *_Futsala Villaverde A_*",
@@ -5259,7 +5259,7 @@
     },
     {
       "titulo": "Primera División Autonómica Juvenil FS Grupo Único",
-      "jornada": 6,
+      "jornada": 7,
       "filas": [
         {
           "pos": 1,
@@ -5267,14 +5267,14 @@
           "nombre": "El Valle A",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png",
-          "pj": 6,
-          "g": 6,
+          "pj": 7,
+          "g": 7,
           "e": 0,
           "p": 0,
-          "gf": 43,
+          "gf": 48,
           "gc": 13,
-          "dg": 30,
-          "pts": 18
+          "dg": 35,
+          "pts": 21
         },
         {
           "pos": 2,
@@ -5297,13 +5297,13 @@
           "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
-          "pj": 6,
+          "pj": 7,
           "g": 4,
           "e": 1,
-          "p": 1,
+          "p": 2,
           "gf": 32,
-          "gc": 25,
-          "dg": 7,
+          "gc": 30,
+          "dg": 2,
           "pts": 13
         },
         {
@@ -5447,13 +5447,13 @@
           "nombre": "Gredos San Diego las Suertes A",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012174389_gsd_deportes_color_v.png",
-          "pj": 6,
+          "pj": 7,
           "g": 2,
           "e": 0,
-          "p": 4,
-          "gf": 17,
-          "gc": 33,
-          "dg": -16,
+          "p": 5,
+          "gf": 20,
+          "gc": 37,
+          "dg": -17,
           "pts": 6
         },
         {
@@ -5492,14 +5492,14 @@
           "nombre": "Dosa",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014258150_ESC_C.D._DOSA__1_.png",
-          "pj": 6,
-          "g": 0,
+          "pj": 7,
+          "g": 1,
           "e": 0,
           "p": 6,
-          "gf": 20,
-          "gc": 46,
-          "dg": -26,
-          "pts": 0
+          "gf": 24,
+          "gc": 49,
+          "dg": -25,
+          "pts": 3
         }
       ],
       "equipo": "Futsala Villaverde A"
