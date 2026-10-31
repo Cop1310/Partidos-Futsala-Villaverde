@@ -219,19 +219,19 @@
   "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas": {
    "filas": [
     {
-     "dg": 23,
+     "dg": 28,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
-     "g": 5,
-     "gc": 19,
-     "gf": 42,
+     "g": 6,
+     "gc": 22,
+     "gf": 50,
      "id": "18378416",
      "nombre": "F.S. Diagonal A",
      "nuestro": false,
      "p": 0,
-     "pj": 6,
+     "pj": 7,
      "pos": 1,
-     "pts": 16
+     "pts": 19
     },
     {
      "dg": 7,
@@ -279,17 +279,17 @@
      "pts": 11
     },
     {
-     "dg": 0,
+     "dg": -5,
      "e": 2,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012146202_logoadop.png",
      "g": 3,
-     "gc": 27,
-     "gf": 27,
+     "gc": 35,
+     "gf": 30,
      "id": "17146989",
      "nombre": "Obispo Perello A",
      "nuestro": false,
-     "p": 1,
-     "pj": 6,
+     "p": 2,
+     "pj": 7,
      "pos": 5,
      "pts": 11
     },
@@ -339,6 +339,21 @@
      "pts": 9
     },
     {
+     "dg": 2,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
+     "g": 3,
+     "gc": 23,
+     "gf": 25,
+     "id": "18439661",
+     "nombre": "Club Arganda Futsal-Albero-Mudanzas Segoviana A",
+     "nuestro": false,
+     "p": 4,
+     "pj": 7,
+     "pos": 9,
+     "pts": 9
+    },
+    {
      "dg": 6,
      "e": 2,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011972491_eurosiris.png",
@@ -350,7 +365,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 5,
-     "pos": 9,
+     "pos": 10,
      "pts": 8
     },
     {
@@ -365,7 +380,7 @@
      "nuestro": false,
      "p": 3,
      "pj": 7,
-     "pos": 10,
+     "pos": 11,
      "pts": 8
     },
     {
@@ -380,23 +395,8 @@
      "nuestro": false,
      "p": 2,
      "pj": 6,
-     "pos": 11,
-     "pts": 8
-    },
-    {
-     "dg": -3,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
-     "g": 2,
-     "gc": 21,
-     "gf": 18,
-     "id": "18439661",
-     "nombre": "Club Arganda Futsal-Albero-Mudanzas Segoviana A",
-     "nuestro": false,
-     "p": 4,
-     "pj": 6,
      "pos": 12,
-     "pts": 6
+     "pts": 8
     },
     {
      "dg": -4,
@@ -414,17 +414,17 @@
      "pts": 6
     },
     {
-     "dg": -15,
+     "dg": -20,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155552_Escudo_Cde_La_Villa.png",
      "g": 1,
-     "gc": 33,
-     "gf": 18,
+     "gc": 40,
+     "gf": 20,
      "id": "19131991",
      "nombre": "La Villa Mostoles A",
      "nuestro": false,
-     "p": 4,
-     "pj": 6,
+     "p": 5,
+     "pj": 7,
      "pos": 14,
      "pts": 4
     },
@@ -696,19 +696,19 @@
      "pts": 18
     },
     {
-     "dg": 16,
+     "dg": 17,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155576_ORIGINAL_VECTOR_1.png",
-     "g": 5,
-     "gc": 13,
-     "gf": 29,
+     "g": 6,
+     "gc": 15,
+     "gf": 32,
      "id": "19361376",
      "nombre": "San Jose de Valderas-Valderas F.S. A",
      "nuestro": false,
      "p": 0,
-     "pj": 5,
+     "pj": 6,
      "pos": 2,
-     "pts": 15
+     "pts": 18
     },
     {
      "dg": 11,
@@ -726,6 +726,21 @@
      "pts": 10
     },
     {
+     "dg": 2,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265540_futsal_pinto.png",
+     "g": 3,
+     "gc": 20,
+     "gf": 22,
+     "id": "17210062",
+     "nombre": "Futsal Pinto-Grupo Egido",
+     "nuestro": false,
+     "p": 2,
+     "pj": 5,
+     "pos": 4,
+     "pts": 9
+    },
+    {
      "dg": 1,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012177687_colme_ok.png",
@@ -737,7 +752,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 5,
-     "pos": 4,
+     "pos": 5,
      "pts": 9
     },
     {
@@ -752,7 +767,7 @@
      "nuestro": false,
      "p": 3,
      "pj": 6,
-     "pos": 5,
+     "pos": 6,
      "pts": 9
     },
     {
@@ -767,53 +782,53 @@
      "nuestro": false,
      "p": 1,
      "pj": 5,
-     "pos": 6,
+     "pos": 7,
      "pts": 8
     },
     {
-     "dg": 0,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265540_futsal_pinto.png",
-     "g": 2,
-     "gc": 17,
-     "gf": 17,
-     "id": "17210062",
-     "nombre": "Futsal Pinto-Grupo Egido",
-     "nuestro": false,
-     "p": 2,
-     "pj": 4,
-     "pos": 7,
-     "pts": 6
-    },
-    {
-     "dg": -1,
+     "dg": -3,
      "e": 3,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg",
      "g": 1,
-     "gc": 21,
-     "gf": 20,
+     "gc": 26,
+     "gf": 23,
      "id": "21476720",
      "nombre": "Atletico Trabenco Zarzaquemada B",
      "nuestro": false,
-     "p": 1,
-     "pj": 5,
+     "p": 2,
+     "pj": 6,
      "pos": 8,
      "pts": 6
     },
     {
-     "dg": 3,
+     "dg": -3,
      "e": 2,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
      "g": 1,
-     "gc": 17,
-     "gf": 20,
+     "gc": 24,
+     "gf": 21,
      "id": "18456762",
      "nombre": "Futsala Villaverde B",
      "nuestro": true,
-     "p": 1,
-     "pj": 4,
+     "p": 2,
+     "pj": 5,
      "pos": 9,
      "pts": 5
+    },
+    {
+     "dg": -2,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014271119_casco_antiguo.png",
+     "g": 1,
+     "gc": 25,
+     "gf": 23,
+     "id": "17145360",
+     "nombre": "Casco Antiguo Carabanchel B",
+     "nuestro": false,
+     "p": 4,
+     "pj": 6,
+     "pos": 10,
+     "pts": 4
     },
     {
      "dg": -12,
@@ -827,7 +842,7 @@
      "nuestro": false,
      "p": 3,
      "pj": 5,
-     "pos": 10,
+     "pos": 11,
      "pts": 4
     },
     {
@@ -842,38 +857,23 @@
      "nuestro": false,
      "p": 2,
      "pj": 5,
-     "pos": 11,
+     "pos": 12,
      "pts": 3
     },
     {
-     "dg": -7,
+     "dg": -8,
      "e": 2,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014276174_C.D.E._WINTER_SQUAD.png",
      "g": 0,
-     "gc": 24,
-     "gf": 17,
+     "gc": 27,
+     "gf": 19,
      "id": "21684391",
      "nombre": "Winter Squad",
      "nuestro": false,
-     "p": 3,
-     "pj": 5,
-     "pos": 12,
-     "pts": 2
-    },
-    {
-     "dg": -8,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014271119_casco_antiguo.png",
-     "g": 0,
-     "gc": 24,
-     "gf": 16,
-     "id": "17145360",
-     "nombre": "Casco Antiguo Carabanchel B",
-     "nuestro": false,
      "p": 4,
-     "pj": 5,
+     "pj": 6,
      "pos": 13,
-     "pts": 1
+     "pts": 2
     },
     {
      "dg": -11,
@@ -927,6 +927,21 @@
      "pts": 15
     },
     {
+     "dg": 6,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
+     "g": 4,
+     "gc": 26,
+     "gf": 32,
+     "id": "18586496",
+     "nombre": "Futsala Villaverde A",
+     "nuestro": true,
+     "p": 2,
+     "pj": 7,
+     "pos": 3,
+     "pts": 13
+    },
+    {
      "dg": 2,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
@@ -938,7 +953,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 7,
-     "pos": 3,
+     "pos": 4,
      "pts": 13
     },
     {
@@ -951,21 +966,6 @@
      "id": "17146979",
      "nombre": "Alcorcon F.S. B",
      "nuestro": false,
-     "p": 2,
-     "pj": 6,
-     "pos": 4,
-     "pts": 12
-    },
-    {
-     "dg": 6,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
-     "g": 4,
-     "gc": 21,
-     "gf": 27,
-     "id": "18586496",
-     "nombre": "Futsala Villaverde A",
-     "nuestro": true,
      "p": 2,
      "pj": 6,
      "pos": 5,
@@ -987,6 +987,21 @@
      "pts": 10
     },
     {
+     "dg": 8,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265598_paraiso.png",
+     "g": 3,
+     "gc": 35,
+     "gf": 43,
+     "id": "19068045",
+     "nombre": "Paraiso Sagrados Corazones A",
+     "nuestro": false,
+     "p": 3,
+     "pj": 7,
+     "pos": 7,
+     "pts": 10
+    },
+    {
      "dg": 2,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012159118_EscudoVectorizado_PNG.png",
@@ -998,7 +1013,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 6,
-     "pos": 7,
+     "pos": 8,
      "pts": 10
     },
     {
@@ -1013,33 +1028,18 @@
      "nuestro": false,
      "p": 2,
      "pj": 5,
-     "pos": 8,
+     "pos": 9,
      "pts": 9
     },
     {
-     "dg": 4,
+     "dg": -1,
      "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265598_paraiso.png",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014267064_LOPE_DE_VEGA.png",
      "g": 2,
-     "gc": 32,
-     "gf": 36,
-     "id": "19068045",
-     "nombre": "Paraiso Sagrados Corazones A",
-     "nuestro": false,
-     "p": 3,
-     "pj": 6,
-     "pos": 9,
-     "pts": 7
-    },
-    {
-     "dg": -8,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265563_escudo_udrb_nuevo_dtf.png",
-     "g": 2,
-     "gc": 30,
-     "gf": 22,
-     "id": "17145361",
-     "nombre": "Union Deportiva las Rozas Boadilla-Ast Tcnet",
+     "gc": 35,
+     "gf": 34,
+     "id": "22413229",
+     "nombre": "Lope de Vega A",
      "nuestro": false,
      "p": 3,
      "pj": 6,
@@ -1047,19 +1047,34 @@
      "pts": 7
     },
     {
-     "dg": -1,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014267064_LOPE_DE_VEGA.png",
+     "dg": -12,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265563_escudo_udrb_nuevo_dtf.png",
      "g": 2,
-     "gc": 30,
-     "gf": 29,
-     "id": "22413229",
-     "nombre": "Lope de Vega A",
+     "gc": 37,
+     "gf": 25,
+     "id": "17145361",
+     "nombre": "Union Deportiva las Rozas Boadilla-Ast Tcnet",
      "nuestro": false,
-     "p": 3,
-     "pj": 5,
+     "p": 4,
+     "pj": 7,
      "pos": 11,
-     "pts": 6
+     "pts": 7
+    },
+    {
+     "dg": -12,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265533_rivas_futsal.png",
+     "g": 2,
+     "gc": 37,
+     "gf": 25,
+     "id": "18345002",
+     "nombre": "Rivas Futsal-Youfirst Smart Finace A",
+     "nuestro": false,
+     "p": 4,
+     "pj": 7,
+     "pos": 12,
+     "pts": 7
     },
     {
      "dg": -12,
@@ -1073,7 +1088,7 @@
      "nuestro": false,
      "p": 4,
      "pj": 6,
-     "pos": 12,
+     "pos": 13,
      "pts": 6
     },
     {
@@ -1088,36 +1103,21 @@
      "nuestro": false,
      "p": 5,
      "pj": 7,
-     "pos": 13,
+     "pos": 14,
      "pts": 6
     },
     {
-     "dg": -17,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265533_rivas_futsal.png",
-     "g": 1,
-     "gc": 37,
-     "gf": 20,
-     "id": "18345002",
-     "nombre": "Rivas Futsal-Youfirst Smart Finace A",
-     "nuestro": false,
-     "p": 4,
-     "pj": 6,
-     "pos": 14,
-     "pts": 4
-    },
-    {
-     "dg": -9,
+     "dg": -14,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
      "g": 1,
-     "gc": 30,
+     "gc": 35,
      "gf": 21,
      "id": "18378932",
      "nombre": "Club Arganda Futsal A",
      "nuestro": false,
-     "p": 5,
-     "pj": 6,
+     "p": 6,
+     "pj": 7,
      "pos": 15,
      "pts": 3
     },
@@ -1468,13 +1468,13 @@
    "https://www.elbalondemadrid.es/competicion/26738218/grupo/26738219/jornadas": {
     "actual": 5,
     "cursor": null,
-    "fecha": "2026-10-26",
+    "fecha": "2026-11-01",
     "total": 26
    },
    "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas": {
     "actual": 7,
     "cursor": null,
-    "fecha": "2026-10-26",
+    "fecha": "2026-11-01",
     "total": 30
    },
    "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas": {
@@ -1486,13 +1486,13 @@
    "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas": {
     "actual": 6,
     "cursor": null,
-    "fecha": "2026-10-26",
+    "fecha": "2026-11-01",
     "total": 26
    },
    "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas": {
     "actual": 7,
     "cursor": null,
-    "fecha": "2026-10-26",
+    "fecha": "2026-11-01",
     "total": 30
    },
    "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas": {
@@ -2114,7 +2114,10 @@
     13,
     9
    ],
-   "resultado": null,
+   "resultado": [
+    7,
+    1
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas",
    "visitante": [
     "18456762",
