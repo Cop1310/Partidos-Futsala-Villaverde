@@ -264,6 +264,21 @@
      "pts": 12
     },
     {
+     "dg": 3,
+     "e": 2,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
+     "g": 3,
+     "gc": 23,
+     "gf": 26,
+     "id": "19128829",
+     "nombre": "Pinar de San Jose-Alcorcon A",
+     "nuestro": false,
+     "p": 2,
+     "pj": 7,
+     "pos": 4,
+     "pts": 11
+    },
+    {
      "dg": 0,
      "e": 2,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012146202_logoadop.png",
@@ -275,7 +290,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 6,
-     "pos": 4,
+     "pos": 5,
      "pts": 11
     },
     {
@@ -290,7 +305,7 @@
      "nuestro": false,
      "p": 3,
      "pj": 7,
-     "pos": 5,
+     "pos": 6,
      "pts": 10
     },
     {
@@ -305,7 +320,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 6,
-     "pos": 6,
+     "pos": 7,
      "pts": 10
     },
     {
@@ -320,23 +335,8 @@
      "nuestro": true,
      "p": 2,
      "pj": 5,
-     "pos": 7,
-     "pts": 9
-    },
-    {
-     "dg": 7,
-     "e": 2,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014263027_8370_sporting_las_aguilas.png",
-     "g": 2,
-     "gc": 17,
-     "gf": 24,
-     "id": "19115935",
-     "nombre": "Sporting las Aguilas de Madrid-Parisat A",
-     "nuestro": false,
-     "p": 2,
-     "pj": 6,
      "pos": 8,
-     "pts": 8
+     "pts": 9
     },
     {
      "dg": 6,
@@ -354,6 +354,21 @@
      "pts": 8
     },
     {
+     "dg": 3,
+     "e": 2,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014263027_8370_sporting_las_aguilas.png",
+     "g": 2,
+     "gc": 21,
+     "gf": 24,
+     "id": "19115935",
+     "nombre": "Sporting las Aguilas de Madrid-Parisat A",
+     "nuestro": false,
+     "p": 3,
+     "pj": 7,
+     "pos": 10,
+     "pts": 8
+    },
+    {
      "dg": -1,
      "e": 2,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013482_Escudo_Don_Palpie.jpg",
@@ -362,21 +377,6 @@
      "gf": 26,
      "id": "18788907",
      "nombre": "Don P'Alpie Aranjuez F.S.- Cafeteria la Tacita",
-     "nuestro": false,
-     "p": 2,
-     "pj": 6,
-     "pos": 10,
-     "pts": 8
-    },
-    {
-     "dg": -1,
-     "e": 2,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
-     "g": 2,
-     "gc": 23,
-     "gf": 22,
-     "id": "19128829",
-     "nombre": "Pinar de San Jose-Alcorcon A",
      "nuestro": false,
      "p": 2,
      "pj": 6,
