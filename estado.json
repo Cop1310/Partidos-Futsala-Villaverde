@@ -234,19 +234,19 @@
      "pts": 19
     },
     {
-     "dg": 7,
+     "dg": 8,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011024048_escudo.jpg",
-     "g": 4,
-     "gc": 13,
-     "gf": 20,
+     "g": 5,
+     "gc": 16,
+     "gf": 24,
      "id": "21476533",
      "nombre": "Agrupacion Auto-Escuela Simancas-Dynavin A",
      "nuestro": false,
      "p": 1,
-     "pj": 5,
+     "pj": 6,
      "pos": 2,
-     "pts": 12
+     "pts": 15
     },
     {
      "dg": 4,
@@ -324,17 +324,17 @@
      "pts": 10
     },
     {
-     "dg": 4,
+     "dg": 3,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
      "g": 3,
-     "gc": 16,
-     "gf": 20,
+     "gc": 20,
+     "gf": 23,
      "id": "17149145",
      "nombre": "Futsala Villaverde A",
      "nuestro": true,
-     "p": 2,
-     "pj": 5,
+     "p": 3,
+     "pj": 6,
      "pos": 8,
      "pts": 9
     },
@@ -912,19 +912,49 @@
      "pts": 21
     },
     {
-     "dg": 10,
+     "dg": 17,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
+     "g": 5,
+     "gc": 21,
+     "gf": 38,
+     "id": "17146979",
+     "nombre": "Alcorcon F.S. B",
+     "nuestro": false,
+     "p": 2,
+     "pj": 7,
+     "pos": 2,
+     "pts": 15
+    },
+    {
+     "dg": 7,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014269425_FS_M_STOLES_ESCUDOS_1.png",
      "g": 5,
-     "gc": 22,
-     "gf": 32,
+     "gc": 28,
+     "gf": 35,
      "id": "17149302",
      "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles B",
      "nuestro": false,
-     "p": 1,
-     "pj": 6,
-     "pos": 2,
+     "p": 2,
+     "pj": 7,
+     "pos": 3,
      "pts": 15
+    },
+    {
+     "dg": 16,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002986_Logo.jpg",
+     "g": 4,
+     "gc": 26,
+     "gf": 42,
+     "id": "17148793",
+     "nombre": "Inter Futbol Sala-Jp Financial B",
+     "nuestro": false,
+     "p": 2,
+     "pj": 7,
+     "pos": 4,
+     "pts": 13
     },
     {
      "dg": 6,
@@ -938,7 +968,7 @@
      "nuestro": true,
      "p": 2,
      "pj": 7,
-     "pos": 3,
+     "pos": 5,
      "pts": 13
     },
     {
@@ -953,38 +983,8 @@
      "nuestro": false,
      "p": 2,
      "pj": 7,
-     "pos": 4,
-     "pts": 13
-    },
-    {
-     "dg": 14,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
-     "g": 4,
-     "gc": 18,
-     "gf": 32,
-     "id": "17146979",
-     "nombre": "Alcorcon F.S. B",
-     "nuestro": false,
-     "p": 2,
-     "pj": 6,
-     "pos": 5,
-     "pts": 12
-    },
-    {
-     "dg": 12,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002986_Logo.jpg",
-     "g": 3,
-     "gc": 23,
-     "gf": 35,
-     "id": "17148793",
-     "nombre": "Inter Futbol Sala-Jp Financial B",
-     "nuestro": false,
-     "p": 2,
-     "pj": 6,
      "pos": 6,
-     "pts": 10
+     "pts": 13
     },
     {
      "dg": 8,
@@ -1002,17 +1002,17 @@
      "pts": 10
     },
     {
-     "dg": 2,
+     "dg": -2,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012159118_EscudoVectorizado_PNG.png",
      "g": 3,
-     "gc": 29,
-     "gf": 31,
+     "gc": 36,
+     "gf": 34,
      "id": "17145520",
      "nombre": "A.D.Escurialense",
      "nuestro": false,
-     "p": 2,
-     "pj": 6,
+     "p": 3,
+     "pj": 7,
      "pos": 8,
      "pts": 10
     },
@@ -3271,6 +3271,64 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011024048_escudo.jpg",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "fecha": "2026-11-01",
+   "goles": [
+    {
+     "equipo": "AGRUPACION AUTO-ESCUELA SIMANCAS - DYNAVIN 'A'",
+     "jugador": "OSCAR PAREJA SAEZ",
+     "lado": "local",
+     "minuto": 11,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "AGRUPACION AUTO-ESCUELA SIMANCAS - DYNAVIN 'A'",
+     "jugador": "JORGE LAZARO MAGAN",
+     "lado": "local",
+     "minuto": 15,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "AGRUPACION AUTO-ESCUELA SIMANCAS - DYNAVIN 'A'",
+     "jugador": "DAVID BENITEZ FARO",
+     "lado": "local",
+     "minuto": 18,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "AGRUPACION AUTO-ESCUELA SIMANCAS - DYNAVIN 'A'",
+     "jugador": "DAVID BENITEZ FARO",
+     "lado": "local",
+     "minuto": 32,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "JAVIER MARAÑÓN FERNÁNDEZ",
+     "lado": "visitante",
+     "minuto": 3,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "RUBEN RODRIGUEZ ORTIZ",
+     "lado": "visitante",
+     "minuto": 8,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "RUBEN RODRIGUEZ ORTIZ",
+     "lado": "visitante",
+     "minuto": 36,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Tercera División FS Grupo 3",
    "hora": "12:30",
    "jornada": 7,
@@ -3282,7 +3340,47 @@
     2,
     7
    ],
-   "resultado": null,
+   "resultado": [
+    4,
+    3
+   ],
+   "tarjetas": [
+    {
+     "equipo": "AGRUPACION AUTO-ESCUELA SIMANCAS - DYNAVIN 'A'",
+     "jugador": "ANGHELO GABRIEL VILLALTA CASTILLO",
+     "lado": "local",
+     "minuto": 13,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "AGRUPACION AUTO-ESCUELA SIMANCAS - DYNAVIN 'A'",
+     "jugador": "JOSE ANTONIO CALVO BELMONTE",
+     "lado": "local",
+     "minuto": 22,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "YOUSSEF EL FTOUHI MUÑOZ",
+     "lado": "visitante",
+     "minuto": 10,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ALVARO LORENZO FERNANDEZ",
+     "lado": "visitante",
+     "minuto": 14,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "IVAN GONZALEZ LOPEZ",
+     "lado": "visitante",
+     "minuto": 33,
+     "tipo": "amarilla"
+    }
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas",
    "visitante": [
     "17149145",
