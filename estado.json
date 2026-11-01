@@ -1049,12 +1049,12 @@
     {
      "dg": -12,
      "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265563_escudo_udrb_nuevo_dtf.png",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265533_rivas_futsal.png",
      "g": 2,
      "gc": 37,
      "gf": 25,
-     "id": "17145361",
-     "nombre": "Union Deportiva las Rozas Boadilla-Ast Tcnet",
+     "id": "18345002",
+     "nombre": "Rivas Futsal-Youfirst Smart Finace A",
      "nuestro": false,
      "p": 4,
      "pj": 7,
@@ -1064,12 +1064,12 @@
     {
      "dg": -12,
      "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265533_rivas_futsal.png",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265563_escudo_udrb_nuevo_dtf.png",
      "g": 2,
      "gc": 37,
      "gf": 25,
-     "id": "18345002",
-     "nombre": "Rivas Futsal-Youfirst Smart Finace A",
+     "id": "17145361",
+     "nombre": "Union Deportiva las Rozas Boadilla-Ast Tcnet",
      "nuestro": false,
      "p": 4,
      "pj": 7,
@@ -2103,6 +2103,72 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014271119_casco_antiguo.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "fecha": "2026-10-31",
+   "goles": [
+    {
+     "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'B'",
+     "jugador": "DIEGO VILLAPALOS CASTELLANOS",
+     "lado": "local",
+     "minuto": 1,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'B'",
+     "jugador": "DIEGO VILLAPALOS CASTELLANOS",
+     "lado": "local",
+     "minuto": 2,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'B'",
+     "jugador": "RAÚL TERCEÑO FERNÁNDEZ",
+     "lado": "local",
+     "minuto": 4,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'B'",
+     "jugador": "ALBERTO SANCHEZ MALAGON",
+     "lado": "local",
+     "minuto": 7,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'B'",
+     "jugador": "ALBERTO SANCHEZ MALAGON",
+     "lado": "local",
+     "minuto": 17,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'B'",
+     "jugador": "HUGO CAPA MORA",
+     "lado": "local",
+     "minuto": 20,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D.E. CASCO ANTIGUO CARABANCHEL 'B'",
+     "jugador": "PABLO OREA MAGDALENO",
+     "lado": "local",
+     "minuto": 26,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "GUILLERMO DE LA TORRE MARTIN MAESTRO",
+     "lado": "visitante",
+     "minuto": 38,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
    "hora": "19:30",
    "jornada": 6,
@@ -2117,6 +2183,22 @@
    "resultado": [
     7,
     1
+   ],
+   "tarjetas": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "STEFANO ANTOVELY CORDOVA URQUIAGA",
+     "lado": "visitante",
+     "minuto": 14,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "OSCAR ADRIAN JIMENEZ RODRIGUEZ",
+     "lado": "visitante",
+     "minuto": 38,
+     "tipo": "amarilla"
+    }
    ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas",
    "visitante": [
