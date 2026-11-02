@@ -1472,39 +1472,39 @@
     "total": 26
    },
    "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas": {
-    "actual": 7,
+    "actual": 8,
     "cursor": null,
-    "fecha": "2026-11-01",
+    "fecha": "2026-11-02",
     "total": 30
    },
    "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas": {
     "actual": 4,
     "cursor": null,
-    "fecha": "2026-10-27",
+    "fecha": "2026-11-02",
     "total": 26
    },
    "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas": {
-    "actual": 6,
+    "actual": 7,
     "cursor": null,
-    "fecha": "2026-11-01",
+    "fecha": "2026-11-02",
     "total": 26
    },
    "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas": {
-    "actual": 7,
+    "actual": 8,
     "cursor": null,
-    "fecha": "2026-11-01",
+    "fecha": "2026-11-02",
     "total": 30
    },
    "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas": {
     "actual": 4,
     "cursor": null,
-    "fecha": "2026-10-27",
+    "fecha": "2026-11-02",
     "total": 9
    },
    "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas": {
     "actual": 4,
     "cursor": null,
-    "fecha": "2026-10-27",
+    "fecha": "2026-11-02",
     "total": 9
    }
   },
@@ -2219,7 +2219,10 @@
     "18456762",
     "FUTSALA VILLAVERDE 'B'"
    ],
-   "pos": null,
+   "pos": [
+    9,
+    14
+   ],
    "resultado": null,
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas",
    "visitante": [
@@ -3400,7 +3403,10 @@
     "17149145",
     "FUTSALA VILLAVERDE 'A'"
    ],
-   "pos": null,
+   "pos": [
+    9,
+    14
+   ],
    "resultado": null,
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas",
    "visitante": [
@@ -4799,7 +4805,10 @@
     "18455408",
     "C.D.E. PINAR DE SAN JOSE - ALCORCON 'A'"
    ],
-   "pos": null,
+   "pos": [
+    8,
+    5
+   ],
    "resultado": null,
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas",
    "visitante": [
@@ -7360,7 +7369,7 @@
    "acta": "https://www.elbalondemadrid.es/acta/5721244?temporada=22&competicion=26738228&grupo=28123215",
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
-   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011730788_escudo_futsal.jpeg",
+   "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014311648_parque_lisboa.png",
    "fecha": "2027-02-13",
    "grupo": "Primera Juvenil FS Grupo 5",
    "hora": "17:00",
