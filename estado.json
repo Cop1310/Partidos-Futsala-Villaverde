@@ -741,17 +741,17 @@
      "pts": 9
     },
     {
-     "dg": 1,
+     "dg": -1,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012177687_colme_ok.png",
      "g": 3,
-     "gc": 21,
-     "gf": 22,
+     "gc": 26,
+     "gf": 25,
      "id": "18952209",
      "nombre": "Colme Futsal",
      "nuestro": false,
-     "p": 2,
-     "pj": 5,
+     "p": 3,
+     "pj": 6,
      "pos": 5,
      "pts": 9
     },
@@ -831,6 +831,21 @@
      "pts": 4
     },
     {
+     "dg": -9,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014263027_8370_sporting_las_aguilas.png",
+     "g": 1,
+     "gc": 28,
+     "gf": 19,
+     "id": "17156293",
+     "nombre": "Sporting las Aguilas de Madrid-Mercado las Aguilas B",
+     "nuestro": false,
+     "p": 4,
+     "pj": 6,
+     "pos": 11,
+     "pts": 4
+    },
+    {
      "dg": -12,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265590_brunete.png",
@@ -842,7 +857,7 @@
      "nuestro": false,
      "p": 3,
      "pj": 5,
-     "pos": 11,
+     "pos": 12,
      "pts": 4
     },
     {
@@ -857,7 +872,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 5,
-     "pos": 12,
+     "pos": 13,
      "pts": 3
     },
     {
@@ -872,23 +887,8 @@
      "nuestro": false,
      "p": 4,
      "pj": 6,
-     "pos": 13,
-     "pts": 2
-    },
-    {
-     "dg": -11,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014263027_8370_sporting_las_aguilas.png",
-     "g": 0,
-     "gc": 25,
-     "gf": 14,
-     "id": "17156293",
-     "nombre": "Sporting las Aguilas de Madrid-Mercado las Aguilas B",
-     "nuestro": false,
-     "p": 4,
-     "pj": 5,
      "pos": 14,
-     "pts": 1
+     "pts": 2
     }
    ],
    "jornada": 6,
@@ -2213,7 +2213,7 @@
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014263027_8370_sporting_las_aguilas.png",
    "fecha": "2026-11-08",
    "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
-   "hora": "12:30",
+   "hora": "14:30",
    "jornada": 7,
    "local": [
     "18456762",
@@ -2221,7 +2221,7 @@
    ],
    "pos": [
     9,
-    14
+    11
    ],
    "resultado": null,
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas",
@@ -3397,7 +3397,7 @@
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012167978_1988_JVK_AZUL__1_.png",
    "fecha": "2026-11-07",
    "grupo": "Tercera División FS Grupo 3",
-   "hora": "18:00",
+   "hora": "18:30",
    "jornada": 8,
    "local": [
     "17149145",
@@ -4794,12 +4794,12 @@
   },
   "5577032": {
    "acta": "https://www.elbalondemadrid.es/acta/5577032?temporada=22&competicion=26749998&grupo=26814437",
-   "campo": "ALCORCON - P.M. M-4 Mª JOSE CALERO (futbol sala)",
+   "campo": "ALCORCON - P.M. LOS CANTOS (futbol sala)",
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
-   "fecha": "2026-11-07",
+   "fecha": "2026-11-08",
    "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
-   "hora": null,
+   "hora": "19:00",
    "jornada": 8,
    "local": [
     "18455408",
@@ -6426,7 +6426,7 @@
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011747038_Imagen_1.png",
    "fecha": "2026-11-07",
    "grupo": "Alevín 1ª Fase FS Grupo 4",
-   "hora": "16:30",
+   "hora": "17:00",
    "jornada": 4,
    "local": [
     "25048394",
@@ -7159,7 +7159,7 @@
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014265540_futsal_pinto.png",
    "fecha": "2026-11-07",
    "grupo": "Primera Juvenil FS Grupo 5",
-   "hora": "19:30",
+   "hora": "20:00",
    "jornada": 4,
    "local": [
     "21727163",
