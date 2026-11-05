@@ -5950,18 +5950,21 @@
   },
   "5578242": {
    "acta": "https://www.elbalondemadrid.es/acta/5578242?temporada=22&competicion=26738218&grupo=26738219",
-   "campo": "LEGANES - CIUDAD DEPORTIVA LA FORTUNA (futbol sala)",
+   "campo": "LEGANES - P.M. LA CANTERA (futbol sala)",
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155551_Captura_de_pantalla_2026_06_01_113319.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
-   "fecha": "2027-02-27",
+   "fecha": "2026-12-02",
    "grupo": "Primera División Autonómica Femenino FS Grupo Único",
    "hora": null,
-   "jornada": 18,
+   "jornada": 5,
    "local": [
     "18405554",
     "LEGANES F.S. MASDEPORTE 'B'"
    ],
-   "pos": null,
+   "pos": [
+    6,
+    4
+   ],
    "resultado": null,
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738218/grupo/26738219/jornadas",
    "visitante": [
