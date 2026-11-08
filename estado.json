@@ -138,6 +138,21 @@
      "pts": 6
     },
     {
+     "dg": -5,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012158637_escudo_club_positivo.png",
+     "g": 2,
+     "gc": 18,
+     "gf": 13,
+     "id": "21430669",
+     "nombre": "Moralzarzal Futsal-Toolydo",
+     "nuestro": false,
+     "p": 3,
+     "pj": 5,
+     "pos": 10,
+     "pts": 6
+    },
+    {
      "dg": -10,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155555_Escudo_Futsi.png",
@@ -149,23 +164,8 @@
      "nuestro": false,
      "p": 2,
      "pj": 4,
-     "pos": 10,
-     "pts": 4
-    },
-    {
-     "dg": -8,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012158637_escudo_club_positivo.png",
-     "g": 1,
-     "gc": 16,
-     "gf": 8,
-     "id": "21430669",
-     "nombre": "Moralzarzal Futsal-Toolydo",
-     "nuestro": false,
-     "p": 3,
-     "pj": 4,
      "pos": 11,
-     "pts": 3
+     "pts": 4
     },
     {
      "dg": -15,
@@ -183,17 +183,17 @@
      "pts": 1
     },
     {
-     "dg": -14,
+     "dg": -17,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png",
      "g": 0,
-     "gc": 17,
-     "gf": 3,
+     "gc": 22,
+     "gf": 5,
      "id": "18406052",
      "nombre": "El Valle A",
      "nuestro": false,
-     "p": 4,
-     "pj": 4,
+     "p": 5,
+     "pj": 5,
      "pos": 13,
      "pts": 0
     },
@@ -234,19 +234,19 @@
      "pts": 19
     },
     {
-     "dg": 8,
+     "dg": 9,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011024048_escudo.jpg",
-     "g": 5,
-     "gc": 16,
-     "gf": 24,
+     "g": 6,
+     "gc": 18,
+     "gf": 27,
      "id": "21476533",
      "nombre": "Agrupacion Auto-Escuela Simancas-Dynavin A",
      "nuestro": false,
      "p": 1,
-     "pj": 6,
+     "pj": 7,
      "pos": 2,
-     "pts": 15
+     "pts": 18
     },
     {
      "dg": 5,
@@ -339,17 +339,17 @@
      "pts": 11
     },
     {
-     "dg": -5,
+     "dg": -6,
      "e": 2,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012146202_logoadop.png",
      "g": 3,
-     "gc": 35,
-     "gf": 30,
+     "gc": 38,
+     "gf": 32,
      "id": "17146989",
      "nombre": "Obispo Perello A",
      "nuestro": false,
-     "p": 2,
-     "pj": 7,
+     "p": 3,
+     "pj": 8,
      "pos": 9,
      "pts": 11
     },
@@ -465,19 +465,19 @@
   "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas": {
    "filas": [
     {
-     "dg": 8,
+     "dg": 10,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011928988_Escudo_Nuevo_Aluche_FS___Azul_y_Coral.jpg",
-     "g": 3,
-     "gc": 5,
-     "gf": 13,
+     "g": 4,
+     "gc": 7,
+     "gf": 17,
      "id": "27275488",
      "nombre": "Sport Latina-Em Aluche FS",
      "nuestro": false,
      "p": 0,
-     "pj": 3,
+     "pj": 4,
      "pos": 1,
-     "pts": 9
+     "pts": 12
     },
     {
      "dg": 3,
@@ -570,6 +570,21 @@
      "pts": 6
     },
     {
+     "dg": 3,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
+     "g": 2,
+     "gc": 8,
+     "gf": 11,
+     "id": "18637528",
+     "nombre": "Pinar de San Jose-Alcorcon B",
+     "nuestro": false,
+     "p": 2,
+     "pj": 4,
+     "pos": 8,
+     "pts": 6
+    },
+    {
      "dg": 4,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155576_ORIGINAL_VECTOR_1.png",
@@ -581,38 +596,8 @@
      "nuestro": false,
      "p": 1,
      "pj": 3,
-     "pos": 8,
-     "pts": 4
-    },
-    {
-     "dg": 2,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
-     "g": 1,
-     "gc": 6,
-     "gf": 8,
-     "id": "18637528",
-     "nombre": "Pinar de San Jose-Alcorcon B",
-     "nuestro": false,
-     "p": 2,
-     "pj": 3,
      "pos": 9,
-     "pts": 3
-    },
-    {
-     "dg": -3,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014263030_Escudo_mostoles_sur_FS__1_.png",
-     "g": 1,
-     "gc": 9,
-     "gf": 6,
-     "id": "26752417",
-     "nombre": "Mostoles Sur FS (FS)",
-     "nuestro": false,
-     "p": 2,
-     "pj": 3,
-     "pos": 10,
-     "pts": 3
+     "pts": 4
     },
     {
      "dg": -5,
@@ -626,7 +611,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 4,
-     "pos": 11,
+     "pos": 10,
      "pts": 4
     },
     {
@@ -641,21 +626,36 @@
      "nuestro": false,
      "p": 2,
      "pj": 3,
+     "pos": 11,
+     "pts": 3
+    },
+    {
+     "dg": -5,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014263030_Escudo_mostoles_sur_FS__1_.png",
+     "g": 1,
+     "gc": 13,
+     "gf": 8,
+     "id": "26752417",
+     "nombre": "Mostoles Sur FS (FS)",
+     "nuestro": false,
+     "p": 3,
+     "pj": 4,
      "pos": 12,
      "pts": 3
     },
     {
-     "dg": -7,
+     "dg": -8,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014311648_parque_lisboa.png",
      "g": 0,
-     "gc": 9,
-     "gf": 2,
+     "gc": 12,
+     "gf": 4,
      "id": "18627864",
      "nombre": "C.S.D. Parque de Lisboa Futsal",
      "nuestro": false,
-     "p": 3,
-     "pj": 3,
+     "p": 4,
+     "pj": 4,
      "pos": 13,
      "pts": 0
     },
@@ -897,19 +897,19 @@
   "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas": {
    "filas": [
     {
-     "dg": 35,
+     "dg": 45,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png",
-     "g": 7,
-     "gc": 13,
-     "gf": 48,
+     "g": 8,
+     "gc": 15,
+     "gf": 60,
      "id": "18346138",
      "nombre": "El Valle A",
      "nuestro": false,
      "p": 0,
-     "pj": 7,
+     "pj": 8,
      "pos": 1,
-     "pts": 21
+     "pts": 24
     },
     {
      "dg": 4,
@@ -972,6 +972,21 @@
      "pts": 13
     },
     {
+     "dg": 11,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265598_paraiso.png",
+     "g": 4,
+     "gc": 38,
+     "gf": 49,
+     "id": "19068045",
+     "nombre": "Paraiso Sagrados Corazones A",
+     "nuestro": false,
+     "p": 3,
+     "pj": 8,
+     "pos": 6,
+     "pts": 13
+    },
+    {
      "dg": 6,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
@@ -983,7 +998,7 @@
      "nuestro": true,
      "p": 2,
      "pj": 7,
-     "pos": 6,
+     "pos": 7,
      "pts": 13
     },
     {
@@ -998,7 +1013,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 7,
-     "pos": 7,
+     "pos": 8,
      "pts": 13
     },
     {
@@ -1013,22 +1028,22 @@
      "nuestro": false,
      "p": 3,
      "pj": 8,
-     "pos": 8,
+     "pos": 9,
      "pts": 13
     },
     {
-     "dg": 8,
+     "dg": -4,
      "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265598_paraiso.png",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265563_escudo_udrb_nuevo_dtf.png",
      "g": 3,
-     "gc": 35,
-     "gf": 43,
-     "id": "19068045",
-     "nombre": "Paraiso Sagrados Corazones A",
+     "gc": 37,
+     "gf": 33,
+     "id": "17145361",
+     "nombre": "Union Deportiva las Rozas Boadilla-Ast Tcnet",
      "nuestro": false,
-     "p": 3,
-     "pj": 7,
-     "pos": 9,
+     "p": 4,
+     "pj": 8,
+     "pos": 10,
      "pts": 10
     },
     {
@@ -1043,37 +1058,7 @@
      "nuestro": false,
      "p": 4,
      "pj": 7,
-     "pos": 10,
-     "pts": 7
-    },
-    {
-     "dg": -12,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265563_escudo_udrb_nuevo_dtf.png",
-     "g": 2,
-     "gc": 37,
-     "gf": 25,
-     "id": "17145361",
-     "nombre": "Union Deportiva las Rozas Boadilla-Ast Tcnet",
-     "nuestro": false,
-     "p": 4,
-     "pj": 7,
      "pos": 11,
-     "pts": 7
-    },
-    {
-     "dg": -12,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003686_ciudad_de_torrejon.jpg",
-     "g": 2,
-     "gc": 33,
-     "gf": 21,
-     "id": "17210272",
-     "nombre": "E.F.S. Ciudad de Torrejon-Redpiso Torrejon A",
-     "nuestro": false,
-     "p": 4,
-     "pj": 7,
-     "pos": 12,
      "pts": 7
     },
     {
@@ -1088,36 +1073,51 @@
      "nuestro": false,
      "p": 5,
      "pj": 8,
+     "pos": 12,
+     "pts": 7
+    },
+    {
+     "dg": -15,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003686_ciudad_de_torrejon.jpg",
+     "g": 2,
+     "gc": 39,
+     "gf": 24,
+     "id": "17210272",
+     "nombre": "E.F.S. Ciudad de Torrejon-Redpiso Torrejon A",
+     "nuestro": false,
+     "p": 5,
+     "pj": 8,
      "pos": 13,
      "pts": 7
     },
     {
-     "dg": -17,
+     "dg": -27,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012174389_gsd_deportes_color_v.png",
      "g": 2,
-     "gc": 37,
-     "gf": 20,
+     "gc": 49,
+     "gf": 22,
      "id": "21675505",
      "nombre": "Gredos San Diego las Suertes A",
      "nuestro": false,
-     "p": 5,
-     "pj": 7,
+     "p": 6,
+     "pj": 8,
      "pos": 14,
      "pts": 6
     },
     {
-     "dg": -14,
+     "dg": -22,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
      "g": 1,
-     "gc": 35,
+     "gc": 43,
      "gf": 21,
      "id": "18378932",
      "nombre": "Club Arganda Futsal A",
      "nuestro": false,
-     "p": 6,
-     "pj": 7,
+     "p": 7,
+     "pj": 8,
      "pos": 15,
      "pts": 3
     },
@@ -1143,19 +1143,19 @@
   "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas": {
    "filas": [
     {
-     "dg": 31,
+     "dg": 48,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014269425_FS_M_STOLES_ESCUDOS_1.png",
-     "g": 3,
+     "g": 4,
      "gc": 1,
-     "gf": 32,
+     "gf": 49,
      "id": "17149214",
      "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles A",
      "nuestro": false,
      "p": 0,
-     "pj": 3,
+     "pj": 4,
      "pos": 1,
-     "pts": 9
+     "pts": 12
     },
     {
      "dg": 26,
@@ -1203,17 +1203,17 @@
      "pts": 9
     },
     {
-     "dg": 16,
+     "dg": -1,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000004293_PARLA.jpg",
      "g": 2,
-     "gc": 4,
+     "gc": 21,
      "gf": 20,
      "id": "26750663",
      "nombre": "Futbol Sala Parla (FS)",
      "nuestro": false,
-     "p": 1,
-     "pj": 3,
+     "p": 2,
+     "pj": 4,
      "pos": 5,
      "pts": 6
     },
@@ -1314,19 +1314,19 @@
      "pts": 12
     },
     {
-     "dg": 13,
+     "dg": 20,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012159060_escudo_CDRPaloma.png",
-     "g": 3,
-     "gc": 15,
-     "gf": 28,
+     "g": 4,
+     "gc": 18,
+     "gf": 38,
      "id": "19200947",
      "nombre": "Racing la Paloma",
      "nuestro": false,
      "p": 0,
-     "pj": 3,
+     "pj": 4,
      "pos": 2,
-     "pts": 9
+     "pts": 12
     },
     {
      "dg": 12,
@@ -1434,17 +1434,17 @@
      "pts": 3
     },
     {
-     "dg": -17,
+     "dg": -24,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270033_abaco.png",
      "g": 0,
-     "gc": 23,
-     "gf": 6,
+     "gc": 33,
+     "gf": 9,
      "id": "27509809",
      "nombre": "Colegio Abaco (FS) A",
      "nuestro": false,
-     "p": 3,
-     "pj": 3,
+     "p": 4,
+     "pj": 4,
      "pos": 10,
      "pts": 0
     }
