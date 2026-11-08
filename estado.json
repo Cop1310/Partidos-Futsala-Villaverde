@@ -249,6 +249,21 @@
      "pts": 15
     },
     {
+     "dg": 5,
+     "e": 2,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
+     "g": 4,
+     "gc": 23,
+     "gf": 28,
+     "id": "19128829",
+     "nombre": "Pinar de San Jose-Alcorcon A",
+     "nuestro": false,
+     "p": 2,
+     "pj": 8,
+     "pos": 3,
+     "pts": 14
+    },
+    {
      "dg": 19,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg",
@@ -260,7 +275,7 @@
      "nuestro": false,
      "p": 3,
      "pj": 8,
-     "pos": 3,
+     "pos": 4,
      "pts": 13
     },
     {
@@ -275,7 +290,7 @@
      "nuestro": false,
      "p": 3,
      "pj": 8,
-     "pos": 4,
+     "pos": 5,
      "pts": 13
     },
     {
@@ -290,7 +305,7 @@
      "nuestro": true,
      "p": 3,
      "pj": 7,
-     "pos": 5,
+     "pos": 6,
      "pts": 12
     },
     {
@@ -305,33 +320,18 @@
      "nuestro": false,
      "p": 3,
      "pj": 7,
-     "pos": 6,
+     "pos": 7,
      "pts": 12
     },
     {
-     "dg": 10,
+     "dg": 8,
      "e": 2,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011972491_eurosiris.png",
      "g": 3,
-     "gc": 17,
+     "gc": 19,
      "gf": 27,
      "id": "17210303",
      "nombre": "C.F.S. Eurosiris-Bingo las Vegas A",
-     "nuestro": false,
-     "p": 1,
-     "pj": 6,
-     "pos": 7,
-     "pts": 11
-    },
-    {
-     "dg": 3,
-     "e": 2,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
-     "g": 3,
-     "gc": 23,
-     "gf": 26,
-     "id": "19128829",
-     "nombre": "Pinar de San Jose-Alcorcon A",
      "nuestro": false,
      "p": 2,
      "pj": 7,
@@ -891,7 +891,7 @@
      "pts": 3
     }
    ],
-   "jornada": 6,
+   "jornada": 7,
    "titulo": "Primera División Autonómica Aficionado FS Grupo 1"
   },
   "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas": {
@@ -1158,19 +1158,19 @@
      "pts": 9
     },
     {
-     "dg": 15,
+     "dg": 26,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
-     "g": 3,
+     "g": 4,
      "gc": 4,
-     "gf": 19,
+     "gf": 30,
      "id": "25048394",
      "nombre": "Futsala Villaverde",
      "nuestro": true,
      "p": 0,
-     "pj": 3,
+     "pj": 4,
      "pos": 2,
-     "pts": 9
+     "pts": 12
     },
     {
      "dg": 10,
@@ -1188,6 +1188,21 @@
      "pts": 9
     },
     {
+     "dg": 10,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002481_escudo.jpg",
+     "g": 3,
+     "gc": 9,
+     "gf": 19,
+     "id": "17155835",
+     "nombre": "Sport Sala 12",
+     "nuestro": false,
+     "p": 1,
+     "pj": 4,
+     "pos": 4,
+     "pts": 9
+    },
+    {
      "dg": 16,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000004293_PARLA.jpg",
@@ -1196,21 +1211,6 @@
      "gf": 20,
      "id": "26750663",
      "nombre": "Futbol Sala Parla (FS)",
-     "nuestro": false,
-     "p": 1,
-     "pj": 3,
-     "pos": 4,
-     "pts": 6
-    },
-    {
-     "dg": 3,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002481_escudo.jpg",
-     "g": 2,
-     "gc": 7,
-     "gf": 10,
-     "id": "17155835",
-     "nombre": "Sport Sala 12",
      "nuestro": false,
      "p": 1,
      "pj": 3,
@@ -1248,36 +1248,6 @@
      "pts": 6
     },
     {
-     "dg": -20,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014269119_las_aves.jpg",
-     "g": 0,
-     "gc": 24,
-     "gf": 4,
-     "id": "26746888",
-     "nombre": "Las Aves FS",
-     "nuestro": false,
-     "p": 3,
-     "pj": 3,
-     "pos": 8,
-     "pts": 0
-    },
-    {
-     "dg": -21,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011747038_Imagen_1.png",
-     "g": 0,
-     "gc": 27,
-     "gf": 6,
-     "id": "26735448",
-     "nombre": "Aquila (FS)",
-     "nuestro": false,
-     "p": 3,
-     "pj": 3,
-     "pos": 9,
-     "pts": 0
-    },
-    {
      "dg": -21,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014269347_butarque_futsal.png",
@@ -1286,6 +1256,36 @@
      "gf": 5,
      "id": "27737683",
      "nombre": "Butarque Futsal-Hellotickets.Es",
+     "nuestro": false,
+     "p": 4,
+     "pj": 4,
+     "pos": 8,
+     "pts": 0
+    },
+    {
+     "dg": -27,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014269119_las_aves.jpg",
+     "g": 0,
+     "gc": 33,
+     "gf": 6,
+     "id": "26746888",
+     "nombre": "Las Aves FS",
+     "nuestro": false,
+     "p": 4,
+     "pj": 4,
+     "pos": 9,
+     "pts": 0
+    },
+    {
+     "dg": -32,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011747038_Imagen_1.png",
+     "g": 0,
+     "gc": 38,
+     "gf": 6,
+     "id": "26735448",
+     "nombre": "Aquila (FS)",
      "nuestro": false,
      "p": 4,
      "pj": 4,
@@ -7371,7 +7371,10 @@
     4,
     14
    ],
-   "resultado": null,
+   "resultado": [
+    5,
+    1
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
    "visitante": [
     "27561905",
