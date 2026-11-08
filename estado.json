@@ -108,6 +108,21 @@
      "pts": 9
     },
     {
+     "dg": -9,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155555_Escudo_Futsi.png",
+     "g": 2,
+     "gc": 17,
+     "gf": 8,
+     "id": "17149523",
+     "nombre": "Futsi Atletico Navalcarnero-Frozen C",
+     "nuestro": false,
+     "p": 2,
+     "pj": 5,
+     "pos": 8,
+     "pts": 7
+    },
+    {
      "dg": 3,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155442_escudo_torrejon_FIVE_PLAY_sala.jpg",
@@ -119,7 +134,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 4,
-     "pos": 8,
+     "pos": 9,
      "pts": 6
     },
     {
@@ -134,7 +149,7 @@
      "nuestro": false,
      "p": 3,
      "pj": 5,
-     "pos": 9,
+     "pos": 10,
      "pts": 6
     },
     {
@@ -149,23 +164,8 @@
      "nuestro": false,
      "p": 3,
      "pj": 5,
-     "pos": 10,
-     "pts": 6
-    },
-    {
-     "dg": -10,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155555_Escudo_Futsi.png",
-     "g": 1,
-     "gc": 15,
-     "gf": 5,
-     "id": "17149523",
-     "nombre": "Futsi Atletico Navalcarnero-Frozen C",
-     "nuestro": false,
-     "p": 2,
-     "pj": 4,
      "pos": 11,
-     "pts": 4
+     "pts": 6
     },
     {
      "dg": -15,
@@ -198,17 +198,17 @@
      "pts": 0
     },
     {
-     "dg": -21,
+     "dg": -22,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012160800_Escudo_bueno.png",
      "g": 0,
-     "gc": 22,
-     "gf": 1,
+     "gc": 25,
+     "gf": 3,
      "id": "18456455",
      "nombre": "Cfs Artilleros Moratalaz",
      "nuestro": false,
-     "p": 4,
-     "pj": 4,
+     "p": 5,
+     "pj": 5,
      "pos": 14,
      "pts": 0
     }
@@ -711,6 +711,21 @@
      "pts": 18
     },
     {
+     "dg": -1,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265535_Athletic_Mostoles.png",
+     "g": 4,
+     "gc": 28,
+     "gf": 27,
+     "id": "21431859",
+     "nombre": "Athletic Mostoles B",
+     "nuestro": false,
+     "p": 3,
+     "pj": 7,
+     "pos": 3,
+     "pts": 12
+    },
+    {
      "dg": 8,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014267688_MANILA.png",
@@ -722,7 +737,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 6,
-     "pos": 3,
+     "pos": 4,
      "pts": 10
     },
     {
@@ -737,23 +752,8 @@
      "nuestro": false,
      "p": 2,
      "pj": 6,
-     "pos": 4,
-     "pts": 10
-    },
-    {
-     "dg": -1,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012177687_colme_ok.png",
-     "g": 3,
-     "gc": 26,
-     "gf": 25,
-     "id": "18952209",
-     "nombre": "Colme Futsal",
-     "nuestro": false,
-     "p": 3,
-     "pj": 6,
      "pos": 5,
-     "pts": 9
+     "pts": 10
     },
     {
      "dg": -2,
@@ -773,47 +773,62 @@
     {
      "dg": -4,
      "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265535_Athletic_Mostoles.png",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012177687_colme_ok.png",
      "g": 3,
-     "gc": 25,
-     "gf": 21,
-     "id": "21431859",
-     "nombre": "Athletic Mostoles B",
+     "gc": 32,
+     "gf": 28,
+     "id": "18952209",
+     "nombre": "Colme Futsal",
      "nuestro": false,
-     "p": 3,
-     "pj": 6,
+     "p": 4,
+     "pj": 7,
      "pos": 7,
      "pts": 9
     },
     {
-     "dg": -3,
-     "e": 3,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg",
-     "g": 1,
-     "gc": 26,
-     "gf": 23,
-     "id": "21476720",
-     "nombre": "Atletico Trabenco Zarzaquemada B",
-     "nuestro": false,
-     "p": 2,
-     "pj": 6,
-     "pos": 8,
-     "pts": 6
-    },
-    {
-     "dg": -3,
+     "dg": -2,
      "e": 2,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
-     "g": 1,
-     "gc": 24,
-     "gf": 21,
+     "g": 2,
+     "gc": 28,
+     "gf": 26,
      "id": "18456762",
      "nombre": "Futsala Villaverde B",
      "nuestro": true,
      "p": 2,
-     "pj": 5,
+     "pj": 6,
+     "pos": 8,
+     "pts": 8
+    },
+    {
+     "dg": -1,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014271119_casco_antiguo.png",
+     "g": 2,
+     "gc": 29,
+     "gf": 28,
+     "id": "17145360",
+     "nombre": "Casco Antiguo Carabanchel B",
+     "nuestro": false,
+     "p": 4,
+     "pj": 7,
      "pos": 9,
-     "pts": 5
+     "pts": 7
+    },
+    {
+     "dg": -4,
+     "e": 3,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg",
+     "g": 1,
+     "gc": 31,
+     "gf": 27,
+     "id": "21476720",
+     "nombre": "Atletico Trabenco Zarzaquemada B",
+     "nuestro": false,
+     "p": 3,
+     "pj": 7,
+     "pos": 10,
+     "pts": 6
     },
     {
      "dg": -5,
@@ -827,36 +842,21 @@
      "nuestro": false,
      "p": 4,
      "pj": 7,
-     "pos": 10,
+     "pos": 11,
      "pts": 5
     },
     {
-     "dg": -2,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014271119_casco_antiguo.png",
-     "g": 1,
-     "gc": 25,
-     "gf": 23,
-     "id": "17145360",
-     "nombre": "Casco Antiguo Carabanchel B",
-     "nuestro": false,
-     "p": 4,
-     "pj": 6,
-     "pos": 11,
-     "pts": 4
-    },
-    {
-     "dg": -9,
+     "dg": -10,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014263027_8370_sporting_las_aguilas.png",
      "g": 1,
-     "gc": 28,
-     "gf": 19,
+     "gc": 33,
+     "gf": 23,
      "id": "17156293",
      "nombre": "Sporting las Aguilas de Madrid-Mercado las Aguilas B",
      "nuestro": false,
-     "p": 4,
-     "pj": 6,
+     "p": 5,
+     "pj": 7,
      "pos": 12,
      "pts": 4
     },
@@ -2212,6 +2212,80 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014263027_8370_sporting_las_aguilas.png",
    "fecha": "2026-11-08",
+   "goles": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "RAFAEL ALGABA DOMINGUEZ",
+     "lado": "local",
+     "minuto": 5,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "RAFAEL ALGABA DOMINGUEZ",
+     "lado": "local",
+     "minuto": 6,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "RAFAEL ALGABA DOMINGUEZ",
+     "lado": "local",
+     "minuto": 14,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "MATEO CONDE SIMBAÑA",
+     "lado": "local",
+     "minuto": 28,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "JAIRO JOSE PORTAS RUBIO",
+     "lado": "local",
+     "minuto": 29,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CDB SPORTING LAS AGUILAS DE MADRID - MERCADO LAS AGUILAS 'B'",
+     "jugador": "RUBEN SAN JULIAN ABELLEIRA",
+     "lado": "visitante",
+     "minuto": 11,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CDB SPORTING LAS AGUILAS DE MADRID - MERCADO LAS AGUILAS 'B'",
+     "jugador": "SHUESTHEIWER RIVERO ALDANA",
+     "lado": "visitante",
+     "minuto": 27,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CDB SPORTING LAS AGUILAS DE MADRID - MERCADO LAS AGUILAS 'B'",
+     "jugador": "SERGIO GÓMEZ GUIJARRO",
+     "lado": "visitante",
+     "minuto": 30,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CDB SPORTING LAS AGUILAS DE MADRID - MERCADO LAS AGUILAS 'B'",
+     "jugador": "JAVIER MARTÍNEZ PÉREZ",
+     "lado": "visitante",
+     "minuto": 36,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
    "hora": "14:30",
    "jornada": 7,
@@ -2223,7 +2297,47 @@
     9,
     11
    ],
-   "resultado": null,
+   "resultado": [
+    5,
+    4
+   ],
+   "tarjetas": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "STEFANO ANTOVELY CORDOVA URQUIAGA",
+     "lado": "local",
+     "minuto": 15,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "STEFANO ANTOVELY CORDOVA URQUIAGA",
+     "lado": "local",
+     "minuto": 22,
+     "tipo": "roja"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "RAFAEL ALGABA DOMINGUEZ",
+     "lado": "local",
+     "minuto": 38,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "CDB SPORTING LAS AGUILAS DE MADRID - MERCADO LAS AGUILAS 'B'",
+     "jugador": "RAUL LOPEZ BLASCO",
+     "lado": "visitante",
+     "minuto": 8,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "CDB SPORTING LAS AGUILAS DE MADRID - MERCADO LAS AGUILAS 'B'",
+     "jugador": "ALEJANDRO MARTINEZ FERRERO",
+     "lado": "visitante",
+     "minuto": 38,
+     "tipo": "amarilla"
+    }
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas",
    "visitante": [
     "17156293",
@@ -7360,6 +7474,56 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014265540_futsal_pinto.png",
    "fecha": "2026-11-07",
+   "goles": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "CARLOS BAUTISTA CODESO",
+     "lado": "local",
+     "minuto": 1,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "IKER GUILLERMO SIMBAÑA VASQUEZ",
+     "lado": "local",
+     "minuto": 28,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "MIGUEL URREA JURADO",
+     "lado": "local",
+     "minuto": 29,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "CARLOS OTERO SIERRA",
+     "lado": "local",
+     "minuto": 47,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "AARON MORENO SALAS",
+     "lado": "local",
+     "minuto": 10,
+     "penalti": false,
+     "propia": true
+    },
+    {
+     "equipo": "FUTSAL PINTO (FS) 'B'",
+     "jugador": "PABLO GARCIA PARRA",
+     "lado": "visitante",
+     "minuto": 42,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Primera Juvenil FS Grupo 5",
    "hora": "20:00",
    "jornada": 4,
@@ -7374,6 +7538,29 @@
    "resultado": [
     5,
     1
+   ],
+   "tarjetas": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "CARLOS OTERO SIERRA",
+     "lado": "local",
+     "minuto": 21,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSAL PINTO (FS) 'B'",
+     "jugador": "ENRIQUE FERNANDEZ DOMINGUEZ",
+     "lado": "visitante",
+     "minuto": 47,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSAL PINTO (FS) 'B'",
+     "jugador": "AARON MORENO SALAS",
+     "lado": "visitante",
+     "minuto": 47,
+     "tipo": "amarilla"
+    }
    ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
    "visitante": [
