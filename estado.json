@@ -5023,6 +5023,88 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "fecha": "2026-11-08",
+   "goles": [
+    {
+     "equipo": "C.D.E. PINAR DE SAN JOSE - ALCORCON 'A'",
+     "jugador": "PIOTR MAREK SPYRA",
+     "lado": "local",
+     "minuto": 30,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D.E. PINAR DE SAN JOSE - ALCORCON 'A'",
+     "jugador": "PIOTR MAREK SPYRA",
+     "lado": "local",
+     "minuto": 34,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+     "lado": "visitante",
+     "minuto": 0,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ALVARO SABROSO GOMEZ",
+     "lado": "visitante",
+     "minuto": 0,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ANTONIO TOROVICH ESCOBAR",
+     "lado": "visitante",
+     "minuto": 11,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+     "lado": "visitante",
+     "minuto": 15,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+     "lado": "visitante",
+     "minuto": 25,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ANTONIO TOROVICH ESCOBAR",
+     "lado": "visitante",
+     "minuto": 29,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "MIGUEL URREA JURADO",
+     "lado": "visitante",
+     "minuto": 31,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+     "lado": "visitante",
+     "minuto": 35,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
    "hora": "19:00",
    "jornada": 8,
@@ -5034,7 +5116,26 @@
     8,
     5
    ],
-   "resultado": null,
+   "resultado": [
+    2,
+    8
+   ],
+   "tarjetas": [
+    {
+     "equipo": "C.D.E. PINAR DE SAN JOSE - ALCORCON 'A'",
+     "jugador": "DIEGO PEIG MUÑOZ",
+     "lado": "local",
+     "minuto": 4,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+     "lado": "visitante",
+     "minuto": 10,
+     "tipo": "amarilla"
+    }
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas",
    "visitante": [
     "18586496",
@@ -5046,9 +5147,9 @@
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014265598_paraiso.png",
-   "fecha": "2026-11-14",
+   "fecha": "2026-12-01",
    "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
-   "hora": "17:30",
+   "hora": "19:30",
    "jornada": 9,
    "local": [
     "18586496",
@@ -5926,12 +6027,12 @@
   },
   "5578159": {
    "acta": "https://www.elbalondemadrid.es/acta/5578159?temporada=22&competicion=26738218&grupo=26738219",
-   "campo": "COLLADO VILLALBA - PAB. MPAL. ENRIQUE BLAS ECHEVARRIA (futbol sala)",
+   "campo": "COLLADO VILLALBA - COL. ROSA CHACEL (futbol sala)",
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011730757_escudo_club_sin_fondo.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
-   "fecha": "2026-11-14",
+   "fecha": "2026-11-15",
    "grupo": "Primera División Autonómica Femenino FS Grupo Único",
-   "hora": null,
+   "hora": "20:00",
    "jornada": 6,
    "local": [
     "17148272",
@@ -6778,7 +6879,7 @@
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "fecha": "2026-11-15",
    "grupo": "Alevín 1ª Fase FS Grupo 4",
-   "hora": "17:30",
+   "hora": "16:30",
    "jornada": 5,
    "local": [
     "26746888",
