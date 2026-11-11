@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-10 14:52",
+  "generado": "2026-11-11 14:03",
   "desde": "2026-11-14",
   "hasta": "2026-11-15",
   "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 14/11/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *12:30h* - Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 5_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(8º)* *_Futsala Villaverde_* - *(6º)* Club Arganda Futsal B\n\n⏰ *17:00h* - Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 8_\n📍 Pabellón: Mostoles - Pab.Multiusos Ivan - Athletic Club Mostoles\n⚽ *(3º)* Athletic Mostoles B - *(8º)* *_Futsala Villaverde B_*\n\n⏰ *19:00h* - Primera Juvenil FS Grupo 5\n📌 _Jornada 5_\n📍 Pabellón: Mostoles - Colegio Villa de Mostoles\n⚽ *(4º)* La Villa Mostoles B - *(3º)* *_Futsala Villaverde B_*\n\n━━━━━━━━━━━━━━━━\n📅 *DOMINGO 15/11/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *16:30h* - Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 5_\n📍 Pabellón: Getafe - Pabellon Deportivo Municipal M4\n⚽ *(9º)* Las Aves FS - *(2º)* *_Futsala Villaverde_*\n\n⏰ *17:40h* - Tercera División FS Grupo 3\n📌 _Jornada 9_\n📍 Pabellón: Mostoles - Pab. Eva Manguan\n⚽ *(5º)* Andres Segovia-Mostoles A - *(7º)* *_Futsala Villaverde A_*\n\n⏰ *20:00h* - Primera División Autonómica Femenino FS Grupo Único\n📌 _Jornada 6_\n📍 Pabellón: Collado Villalba - Col. Rosa Chacel\n⚽ *(4º)* Ad Collado-Villalba-Cobiosa A - *(5º)* *_Futsala Villaverde_*",
@@ -3693,100 +3693,100 @@
           ],
           "goles": [
             {
+              "equipo": "C.D.E. PINAR DE SAN JOSE - ALCORCON 'A'",
+              "jugador": "PIOTR MAREK SPYRA",
+              "lado": "local",
               "minuto": 30,
-              "jugador": "PIOTR MAREK SPYRA",
-              "equipo": "C.D.E. PINAR DE SAN JOSE - ALCORCON 'A'",
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
+              "equipo": "C.D.E. PINAR DE SAN JOSE - ALCORCON 'A'",
+              "jugador": "PIOTR MAREK SPYRA",
+              "lado": "local",
               "minuto": 34,
-              "jugador": "PIOTR MAREK SPYRA",
-              "equipo": "C.D.E. PINAR DE SAN JOSE - ALCORCON 'A'",
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 0,
-              "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
               "equipo": "FUTSALA VILLAVERDE 'A'",
+              "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+              "lado": "visitante",
+              "minuto": 0,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 0,
+              "equipo": "FUTSALA VILLAVERDE 'A'",
               "jugador": "ALVARO SABROSO GOMEZ",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "lado": "visitante",
+              "minuto": 0,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "jugador": "ANTONIO TOROVICH ESCOBAR",
+              "lado": "visitante",
               "minuto": 11,
-              "jugador": "ANTONIO TOROVICH ESCOBAR",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+              "lado": "visitante",
               "minuto": 15,
-              "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+              "lado": "visitante",
               "minuto": 25,
-              "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 29,
+              "equipo": "FUTSALA VILLAVERDE 'A'",
               "jugador": "ANTONIO TOROVICH ESCOBAR",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "lado": "visitante",
+              "minuto": 29,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 31,
+              "equipo": "FUTSALA VILLAVERDE 'A'",
               "jugador": "MIGUEL URREA JURADO",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "lado": "visitante",
+              "minuto": 31,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 35,
-              "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
               "equipo": "FUTSALA VILLAVERDE 'A'",
+              "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+              "lado": "visitante",
+              "minuto": 35,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             }
           ],
           "tarjetas": [
             {
-              "minuto": 4,
-              "jugador": "DIEGO PEIG MUÑOZ",
               "equipo": "C.D.E. PINAR DE SAN JOSE - ALCORCON 'A'",
-              "tipo": "amarilla",
-              "lado": "local"
+              "jugador": "DIEGO PEIG MUÑOZ",
+              "lado": "local",
+              "minuto": 4,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 10,
-              "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
               "equipo": "FUTSALA VILLAVERDE 'A'",
-              "tipo": "amarilla",
-              "lado": "visitante"
+              "jugador": "ANDRES GARCIA SOTOCA BERRIOBEÑA",
+              "lado": "visitante",
+              "minuto": 10,
+              "tipo": "amarilla"
             }
           ]
         }
