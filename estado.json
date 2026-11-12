@@ -93,6 +93,21 @@
      "pts": 9
     },
     {
+     "dg": 5,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155442_escudo_torrejon_FIVE_PLAY_sala.jpg",
+     "g": 3,
+     "gc": 14,
+     "gf": 19,
+     "id": "17145541",
+     "nombre": "Torrejon Sala Five Play- Dominos Pizza",
+     "nuestro": false,
+     "p": 2,
+     "pj": 5,
+     "pos": 7,
+     "pts": 9
+    },
+    {
      "dg": 4,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155551_Captura_de_pantalla_2026_06_01_113319.png",
@@ -104,7 +119,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 4,
-     "pos": 7,
+     "pos": 8,
      "pts": 9
     },
     {
@@ -119,23 +134,8 @@
      "nuestro": false,
      "p": 2,
      "pj": 5,
-     "pos": 8,
-     "pts": 7
-    },
-    {
-     "dg": 3,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155442_escudo_torrejon_FIVE_PLAY_sala.jpg",
-     "g": 2,
-     "gc": 13,
-     "gf": 16,
-     "id": "17145541",
-     "nombre": "Torrejon Sala Five Play- Dominos Pizza",
-     "nuestro": false,
-     "p": 2,
-     "pj": 4,
      "pos": 9,
-     "pts": 6
+     "pts": 7
     },
     {
      "dg": -5,
@@ -168,17 +168,17 @@
      "pts": 6
     },
     {
-     "dg": -15,
+     "dg": -17,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155441_ALARO_FC.png",
      "g": 0,
-     "gc": 18,
-     "gf": 3,
+     "gc": 21,
+     "gf": 4,
      "id": "18730009",
      "nombre": "Alaro Deportiva A",
      "nuestro": false,
-     "p": 3,
-     "pj": 4,
+     "p": 4,
+     "pj": 5,
      "pos": 12,
      "pts": 1
     },
@@ -480,34 +480,19 @@
      "pts": 12
     },
     {
-     "dg": 6,
+     "dg": 9,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
-     "g": 3,
+     "g": 4,
      "gc": 5,
-     "gf": 11,
+     "gf": 14,
      "id": "24772220",
      "nombre": "F.S. Diagonal C",
      "nuestro": false,
      "p": 0,
-     "pj": 3,
+     "pj": 4,
      "pos": 2,
-     "pts": 9
-    },
-    {
-     "dg": 8,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
-     "g": 2,
-     "gc": 6,
-     "gf": 14,
-     "id": "21727163",
-     "nombre": "Futsala Villaverde B",
-     "nuestro": true,
-     "p": 0,
-     "pj": 3,
-     "pos": 3,
-     "pts": 7
+     "pts": 12
     },
     {
      "dg": 16,
@@ -521,8 +506,23 @@
      "nuestro": false,
      "p": 1,
      "pj": 4,
-     "pos": 4,
+     "pos": 3,
      "pts": 9
+    },
+    {
+     "dg": 5,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
+     "g": 2,
+     "gc": 9,
+     "gf": 14,
+     "id": "21727163",
+     "nombre": "Futsala Villaverde B",
+     "nuestro": true,
+     "p": 1,
+     "pj": 4,
+     "pos": 4,
+     "pts": 7
     },
     {
      "dg": 3,
@@ -7701,8 +7701,8 @@
     "C.D. LA VILLA MOSTOLES 'B'"
    ],
    "pos": [
-    4,
-    3
+    3,
+    4
    ],
    "resultado": null,
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
