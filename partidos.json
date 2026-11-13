@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-12 15:06",
+  "generado": "2026-11-13 14:30",
   "desde": "2026-11-14",
   "hasta": "2026-11-15",
   "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 14/11/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *12:30h* - Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 5_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(8º)* *_Futsala Villaverde_* - *(6º)* Club Arganda Futsal B\n\n⏰ *17:00h* - Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 8_\n📍 Pabellón: Mostoles - Pab.Multiusos Ivan - Athletic Club Mostoles\n⚽ *(3º)* Athletic Mostoles B - *(8º)* *_Futsala Villaverde B_*\n\n⏰ *19:00h* - Primera Juvenil FS Grupo 5\n📌 _Jornada 5_\n📍 Pabellón: Mostoles - Colegio Villa de Mostoles\n⚽ *(3º)* La Villa Mostoles B - *(4º)* *_Futsala Villaverde B_*\n\n━━━━━━━━━━━━━━━━\n📅 *DOMINGO 15/11/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *16:30h* - Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 5_\n📍 Pabellón: Getafe - Pabellon Deportivo Municipal M4\n⚽ *(9º)* Las Aves FS - *(2º)* *_Futsala Villaverde_*\n\n⏰ *17:40h* - Tercera División FS Grupo 3\n📌 _Jornada 9_\n📍 Pabellón: Mostoles - Pab. Eva Manguan\n⚽ *(5º)* Andres Segovia-Mostoles A - *(7º)* *_Futsala Villaverde A_*\n\n⏰ *20:00h* - Primera División Autonómica Femenino FS Grupo Único\n📌 _Jornada 6_\n📍 Pabellón: Collado Villalba - Col. Rosa Chacel\n⚽ *(4º)* Ad Collado-Villalba-Cobiosa A - *(5º)* *_Futsala Villaverde_*",
@@ -5797,13 +5797,13 @@
           "nombre": "Fuenlabrada Futbol Sala A",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155770_3f6870fa_7e7b_452d_aad4_a8297489831d.png",
-          "pj": 6,
+          "pj": 7,
           "g": 2,
           "e": 3,
-          "p": 1,
-          "gf": 16,
-          "gc": 18,
-          "dg": -2,
+          "p": 2,
+          "gf": 17,
+          "gc": 20,
+          "dg": -3,
           "pts": 9
         },
         {
@@ -5853,6 +5853,21 @@
         },
         {
           "pos": 10,
+          "id": "18583719",
+          "nombre": "Escuela Deportiva Brunete",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265590_brunete.png",
+          "pj": 7,
+          "g": 2,
+          "e": 1,
+          "p": 4,
+          "gf": 20,
+          "gc": 32,
+          "dg": -12,
+          "pts": 7
+        },
+        {
+          "pos": 11,
           "id": "21476720",
           "nombre": "Atletico Trabenco Zarzaquemada B",
           "nuestro": false,
@@ -5867,7 +5882,7 @@
           "pts": 6
         },
         {
-          "pos": 11,
+          "pos": 12,
           "id": "21445298",
           "nombre": "Andel-Centro Educativo",
           "nuestro": false,
@@ -5882,7 +5897,7 @@
           "pts": 6
         },
         {
-          "pos": 12,
+          "pos": 13,
           "id": "21684391",
           "nombre": "Winter Squad",
           "nuestro": false,
@@ -5897,7 +5912,7 @@
           "pts": 5
         },
         {
-          "pos": 13,
+          "pos": 14,
           "id": "17156293",
           "nombre": "Sporting las Aguilas de Madrid-Mercado las Aguilas B",
           "nuestro": false,
@@ -5909,21 +5924,6 @@
           "gf": 23,
           "gc": 33,
           "dg": -10,
-          "pts": 4
-        },
-        {
-          "pos": 14,
-          "id": "18583719",
-          "nombre": "Escuela Deportiva Brunete",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265590_brunete.png",
-          "pj": 6,
-          "g": 1,
-          "e": 1,
-          "p": 4,
-          "gf": 18,
-          "gc": 31,
-          "dg": -13,
           "pts": 4
         }
       ],

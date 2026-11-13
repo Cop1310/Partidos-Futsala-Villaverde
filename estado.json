@@ -756,17 +756,17 @@
      "pts": 10
     },
     {
-     "dg": -2,
+     "dg": -3,
      "e": 3,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155770_3f6870fa_7e7b_452d_aad4_a8297489831d.png",
      "g": 2,
-     "gc": 18,
-     "gf": 16,
+     "gc": 20,
+     "gf": 17,
      "id": "18728896",
      "nombre": "Fuenlabrada Futbol Sala A",
      "nuestro": false,
-     "p": 1,
-     "pj": 6,
+     "p": 2,
+     "pj": 7,
      "pos": 6,
      "pts": 9
     },
@@ -816,6 +816,21 @@
      "pts": 7
     },
     {
+     "dg": -12,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265590_brunete.png",
+     "g": 2,
+     "gc": 32,
+     "gf": 20,
+     "id": "18583719",
+     "nombre": "Escuela Deportiva Brunete",
+     "nuestro": false,
+     "p": 4,
+     "pj": 7,
+     "pos": 10,
+     "pts": 7
+    },
+    {
      "dg": -4,
      "e": 3,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg",
@@ -827,7 +842,7 @@
      "nuestro": false,
      "p": 3,
      "pj": 7,
-     "pos": 10,
+     "pos": 11,
      "pts": 6
     },
     {
@@ -842,7 +857,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 6,
-     "pos": 11,
+     "pos": 12,
      "pts": 6
     },
     {
@@ -857,7 +872,7 @@
      "nuestro": false,
      "p": 4,
      "pj": 7,
-     "pos": 12,
+     "pos": 13,
      "pts": 5
     },
     {
@@ -872,21 +887,6 @@
      "nuestro": false,
      "p": 5,
      "pj": 7,
-     "pos": 13,
-     "pts": 4
-    },
-    {
-     "dg": -13,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265590_brunete.png",
-     "g": 1,
-     "gc": 31,
-     "gf": 18,
-     "id": "18583719",
-     "nombre": "Escuela Deportiva Brunete",
-     "nuestro": false,
-     "p": 4,
-     "pj": 6,
      "pos": 14,
      "pts": 4
     }
