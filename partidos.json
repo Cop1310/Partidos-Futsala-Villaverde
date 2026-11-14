@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-14 16:33",
+  "generado": "2026-11-14 22:06",
   "desde": "2026-11-14",
   "hasta": "2026-11-15",
   "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 14/11/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *12:30h* - Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 5_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(8º)* *_Futsala Villaverde_* - *(6º)* Club Arganda Futsal B\n\n⏰ *17:00h* - Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 8_\n📍 Pabellón: Mostoles - Pab.Multiusos Ivan - Athletic Club Mostoles\n⚽ *(3º)* Athletic Mostoles B - *(8º)* *_Futsala Villaverde B_*\n\n⏰ *19:00h* - Primera Juvenil FS Grupo 5\n📌 _Jornada 5_\n📍 Pabellón: Mostoles - Colegio Villa de Mostoles\n⚽ *(3º)* La Villa Mostoles B - *(4º)* *_Futsala Villaverde B_*\n\n━━━━━━━━━━━━━━━━\n📅 *DOMINGO 15/11/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *16:30h* - Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 5_\n📍 Pabellón: Getafe - Pabellon Deportivo Municipal M4\n⚽ *(9º)* Las Aves FS - *(2º)* *_Futsala Villaverde_*\n\n⏰ *17:40h* - Tercera División FS Grupo 3\n📌 _Jornada 9_\n📍 Pabellón: Mostoles - Pab. Eva Manguan\n⚽ *(5º)* Andres Segovia-Mostoles A - *(7º)* *_Futsala Villaverde A_*\n\n⏰ *20:00h* - Primera División Autonómica Femenino FS Grupo Único\n📌 _Jornada 6_\n📍 Pabellón: Collado Villalba - Col. Rosa Chacel\n⚽ *(4º)* Ad Collado-Villalba-Cobiosa A - *(5º)* *_Futsala Villaverde_*",
@@ -6148,7 +6148,7 @@
     },
     {
       "titulo": "Primera División Autonómica Juvenil FS Grupo Único",
-      "jornada": 8,
+      "jornada": 9,
       "filas": [
         {
           "pos": 1,
@@ -6291,14 +6291,14 @@
           "nombre": "Union Deportiva las Rozas Boadilla-Ast Tcnet",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265563_escudo_udrb_nuevo_dtf.png",
-          "pj": 8,
-          "g": 3,
+          "pj": 9,
+          "g": 4,
           "e": 1,
           "p": 4,
-          "gf": 33,
-          "gc": 37,
-          "dg": -4,
-          "pts": 10
+          "gf": 38,
+          "gc": 40,
+          "dg": -2,
+          "pts": 13
         },
         {
           "pos": 11,
@@ -6336,13 +6336,13 @@
           "nombre": "E.F.S. Ciudad de Torrejon-Redpiso Torrejon A",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003686_ciudad_de_torrejon.jpg",
-          "pj": 8,
+          "pj": 9,
           "g": 2,
           "e": 1,
-          "p": 5,
-          "gf": 24,
-          "gc": 39,
-          "dg": -15,
+          "p": 6,
+          "gf": 27,
+          "gc": 44,
+          "dg": -17,
           "pts": 7
         },
         {
@@ -6444,6 +6444,21 @@
         },
         {
           "pos": 4,
+          "id": "18637528",
+          "nombre": "Pinar de San Jose-Alcorcon B",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
+          "pj": 5,
+          "g": 3,
+          "e": 0,
+          "p": 2,
+          "gf": 14,
+          "gc": 9,
+          "dg": 5,
+          "pts": 9
+        },
+        {
+          "pos": 5,
           "id": "21727163",
           "nombre": "Futsala Villaverde B",
           "nuestro": true,
@@ -6458,37 +6473,7 @@
           "pts": 7
         },
         {
-          "pos": 5,
-          "id": "18949928",
-          "nombre": "Andres Segovia-Mostoles",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png",
-          "pj": 4,
-          "g": 1,
-          "e": 3,
-          "p": 0,
-          "gf": 13,
-          "gc": 10,
-          "dg": 3,
-          "pts": 6
-        },
-        {
           "pos": 6,
-          "id": "18637528",
-          "nombre": "Pinar de San Jose-Alcorcon B",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
-          "pj": 4,
-          "g": 2,
-          "e": 0,
-          "p": 2,
-          "gf": 11,
-          "gc": 8,
-          "dg": 3,
-          "pts": 6
-        },
-        {
-          "pos": 7,
           "id": "22071510",
           "nombre": "Intersala Mostoles",
           "nuestro": false,
@@ -6503,7 +6488,7 @@
           "pts": 6
         },
         {
-          "pos": 8,
+          "pos": 7,
           "id": "26884014",
           "nombre": "Fuenlabrada Futbol Sala (FS) B",
           "nuestro": false,
@@ -6518,7 +6503,7 @@
           "pts": 6
         },
         {
-          "pos": 9,
+          "pos": 8,
           "id": "27296547",
           "nombre": "Oroquieta-Espinillo B",
           "nuestro": false,
@@ -6530,6 +6515,21 @@
           "gf": 5,
           "gc": 11,
           "dg": -6,
+          "pts": 6
+        },
+        {
+          "pos": 9,
+          "id": "18949928",
+          "nombre": "Andres Segovia-Mostoles",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png",
+          "pj": 5,
+          "g": 1,
+          "e": 3,
+          "p": 1,
+          "gf": 14,
+          "gc": 13,
+          "dg": 1,
           "pts": 6
         },
         {
@@ -6612,7 +6612,7 @@
     },
     {
       "titulo": "Alevín 1ª Fase FS Grupo 4",
-      "jornada": 4,
+      "jornada": 5,
       "filas": [
         {
           "pos": 1,
@@ -6620,14 +6620,14 @@
           "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles A",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014269425_FS_M_STOLES_ESCUDOS_1.png",
-          "pj": 4,
-          "g": 4,
+          "pj": 5,
+          "g": 5,
           "e": 0,
           "p": 0,
-          "gf": 49,
+          "gf": 67,
           "gc": 1,
-          "dg": 48,
-          "pts": 12
+          "dg": 66,
+          "pts": 15
         },
         {
           "pos": 2,
@@ -6710,13 +6710,13 @@
           "nombre": "Futsal Pinto-Grupo Egido",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265540_futsal_pinto.png",
-          "pj": 4,
+          "pj": 5,
           "g": 2,
           "e": 0,
-          "p": 2,
+          "p": 3,
           "gf": 13,
-          "gc": 20,
-          "dg": -7,
+          "gc": 38,
+          "dg": -25,
           "pts": 6
         },
         {
@@ -6803,6 +6803,21 @@
         },
         {
           "pos": 3,
+          "id": "24800380",
+          "nombre": "Sport Latina-Em Aluche FS",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011928988_Escudo_Nuevo_Aluche_FS___Azul_y_Coral.jpg",
+          "pj": 5,
+          "g": 3,
+          "e": 0,
+          "p": 2,
+          "gf": 24,
+          "gc": 18,
+          "dg": 6,
+          "pts": 9
+        },
+        {
+          "pos": 4,
           "id": "18613589",
           "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
           "nuestro": false,
@@ -6817,33 +6832,18 @@
           "pts": 6
         },
         {
-          "pos": 4,
-          "id": "24800380",
-          "nombre": "Sport Latina-Em Aluche FS",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011928988_Escudo_Nuevo_Aluche_FS___Azul_y_Coral.jpg",
-          "pj": 4,
-          "g": 2,
-          "e": 0,
-          "p": 2,
-          "gf": 18,
-          "gc": 16,
-          "dg": 2,
-          "pts": 6
-        },
-        {
           "pos": 5,
           "id": "17149558",
           "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles B",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014269425_FS_M_STOLES_ESCUDOS_1.png",
-          "pj": 3,
+          "pj": 4,
           "g": 2,
           "e": 0,
-          "p": 1,
-          "gf": 10,
-          "gc": 14,
-          "dg": -4,
+          "p": 2,
+          "gf": 12,
+          "gc": 20,
+          "dg": -8,
           "pts": 6
         },
         {

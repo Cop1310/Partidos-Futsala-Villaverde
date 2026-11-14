@@ -511,6 +511,21 @@
     },
     {
      "dg": 5,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
+     "g": 3,
+     "gc": 9,
+     "gf": 14,
+     "id": "18637528",
+     "nombre": "Pinar de San Jose-Alcorcon B",
+     "nuestro": false,
+     "p": 2,
+     "pj": 5,
+     "pos": 4,
+     "pts": 9
+    },
+    {
+     "dg": 5,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
      "g": 2,
@@ -521,38 +536,8 @@
      "nuestro": true,
      "p": 1,
      "pj": 4,
-     "pos": 4,
-     "pts": 7
-    },
-    {
-     "dg": 3,
-     "e": 3,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png",
-     "g": 1,
-     "gc": 10,
-     "gf": 13,
-     "id": "18949928",
-     "nombre": "Andres Segovia-Mostoles",
-     "nuestro": false,
-     "p": 0,
-     "pj": 4,
      "pos": 5,
-     "pts": 6
-    },
-    {
-     "dg": 3,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
-     "g": 2,
-     "gc": 8,
-     "gf": 11,
-     "id": "18637528",
-     "nombre": "Pinar de San Jose-Alcorcon B",
-     "nuestro": false,
-     "p": 2,
-     "pj": 4,
-     "pos": 6,
-     "pts": 6
+     "pts": 7
     },
     {
      "dg": 0,
@@ -566,7 +551,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 4,
-     "pos": 7,
+     "pos": 6,
      "pts": 6
     },
     {
@@ -581,7 +566,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 4,
-     "pos": 8,
+     "pos": 7,
      "pts": 6
     },
     {
@@ -596,6 +581,21 @@
      "nuestro": false,
      "p": 2,
      "pj": 4,
+     "pos": 8,
+     "pts": 6
+    },
+    {
+     "dg": 1,
+     "e": 3,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png",
+     "g": 1,
+     "gc": 13,
+     "gf": 14,
+     "id": "18949928",
+     "nombre": "Andres Segovia-Mostoles",
+     "nuestro": false,
+     "p": 1,
+     "pj": 5,
      "pos": 9,
      "pts": 6
     },
@@ -1032,19 +1032,19 @@
      "pts": 13
     },
     {
-     "dg": -4,
+     "dg": -2,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265563_escudo_udrb_nuevo_dtf.png",
-     "g": 3,
-     "gc": 37,
-     "gf": 33,
+     "g": 4,
+     "gc": 40,
+     "gf": 38,
      "id": "17145361",
      "nombre": "Union Deportiva las Rozas Boadilla-Ast Tcnet",
      "nuestro": false,
      "p": 4,
-     "pj": 8,
+     "pj": 9,
      "pos": 10,
-     "pts": 10
+     "pts": 13
     },
     {
      "dg": -6,
@@ -1077,17 +1077,17 @@
      "pts": 7
     },
     {
-     "dg": -15,
+     "dg": -17,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003686_ciudad_de_torrejon.jpg",
      "g": 2,
-     "gc": 39,
-     "gf": 24,
+     "gc": 44,
+     "gf": 27,
      "id": "17210272",
      "nombre": "E.F.S. Ciudad de Torrejon-Redpiso Torrejon A",
      "nuestro": false,
-     "p": 5,
-     "pj": 8,
+     "p": 6,
+     "pj": 9,
      "pos": 13,
      "pts": 7
     },
@@ -1137,25 +1137,25 @@
      "pts": 3
     }
    ],
-   "jornada": 8,
+   "jornada": 9,
    "titulo": "Primera División Autonómica Juvenil FS Grupo Único"
   },
   "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas": {
    "filas": [
     {
-     "dg": 48,
+     "dg": 66,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014269425_FS_M_STOLES_ESCUDOS_1.png",
-     "g": 4,
+     "g": 5,
      "gc": 1,
-     "gf": 49,
+     "gf": 67,
      "id": "17149214",
      "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles A",
      "nuestro": false,
      "p": 0,
-     "pj": 4,
+     "pj": 5,
      "pos": 1,
-     "pts": 12
+     "pts": 15
     },
     {
      "dg": 26,
@@ -1233,17 +1233,17 @@
      "pts": 6
     },
     {
-     "dg": -7,
+     "dg": -25,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265540_futsal_pinto.png",
      "g": 2,
-     "gc": 20,
+     "gc": 38,
      "gf": 13,
      "id": "21999670",
      "nombre": "Futsal Pinto-Grupo Egido",
      "nuestro": false,
-     "p": 2,
-     "pj": 4,
+     "p": 3,
+     "pj": 5,
      "pos": 7,
      "pts": 6
     },
@@ -1293,7 +1293,7 @@
      "pts": 0
     }
    ],
-   "jornada": 4,
+   "jornada": 5,
    "titulo": "Alevín 1ª Fase FS Grupo 4"
   },
   "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas": {
@@ -1329,6 +1329,21 @@
      "pts": 12
     },
     {
+     "dg": 6,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011928988_Escudo_Nuevo_Aluche_FS___Azul_y_Coral.jpg",
+     "g": 3,
+     "gc": 18,
+     "gf": 24,
+     "id": "24800380",
+     "nombre": "Sport Latina-Em Aluche FS",
+     "nuestro": false,
+     "p": 2,
+     "pj": 5,
+     "pos": 3,
+     "pts": 9
+    },
+    {
      "dg": 12,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
@@ -1340,36 +1355,21 @@
      "nuestro": false,
      "p": 2,
      "pj": 4,
-     "pos": 3,
-     "pts": 6
-    },
-    {
-     "dg": 2,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011928988_Escudo_Nuevo_Aluche_FS___Azul_y_Coral.jpg",
-     "g": 2,
-     "gc": 16,
-     "gf": 18,
-     "id": "24800380",
-     "nombre": "Sport Latina-Em Aluche FS",
-     "nuestro": false,
-     "p": 2,
-     "pj": 4,
      "pos": 4,
      "pts": 6
     },
     {
-     "dg": -4,
+     "dg": -8,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014269425_FS_M_STOLES_ESCUDOS_1.png",
      "g": 2,
-     "gc": 14,
-     "gf": 10,
+     "gc": 20,
+     "gf": 12,
      "id": "17149558",
      "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles B",
      "nuestro": false,
-     "p": 1,
-     "pj": 3,
+     "p": 2,
+     "pj": 4,
      "pos": 5,
      "pts": 6
     },
