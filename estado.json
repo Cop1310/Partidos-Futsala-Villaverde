@@ -3,29 +3,29 @@
   "https://www.elbalondemadrid.es/competicion/26738218/grupo/26738219/jornadas": {
    "filas": [
     {
-     "dg": 19,
+     "dg": 21,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011900787_Aguila_Alcalde_FSF_trazo_negro.jpg",
-     "g": 4,
-     "gc": 4,
-     "gf": 23,
+     "g": 5,
+     "gc": 5,
+     "gf": 26,
      "id": "24236688",
      "nombre": "F.S.F. Mostoles B",
      "nuestro": false,
      "p": 1,
-     "pj": 5,
+     "pj": 6,
      "pos": 1,
-     "pts": 12
+     "pts": 15
     },
     {
-     "dg": 7,
+     "dg": 6,
      "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155551_Captura_de_pantalla_2026_06_01_113319.png",
      "g": 4,
-     "gc": 6,
-     "gf": 13,
-     "id": "17149226",
-     "nombre": "Alcorcon Fsf C",
+     "gc": 9,
+     "gf": 15,
+     "id": "18405554",
+     "nombre": "Leganes F.S. Masdeporte B",
      "nuestro": false,
      "p": 1,
      "pj": 5,
@@ -48,6 +48,21 @@
      "pts": 12
     },
     {
+     "dg": 5,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
+     "g": 4,
+     "gc": 10,
+     "gf": 15,
+     "id": "17149226",
+     "nombre": "Alcorcon Fsf C",
+     "nuestro": false,
+     "p": 2,
+     "pj": 6,
+     "pos": 4,
+     "pts": 12
+    },
+    {
      "dg": -7,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155555_Escudo_Futsi.png",
@@ -59,7 +74,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 6,
-     "pos": 4,
+     "pos": 5,
      "pts": 10
     },
     {
@@ -74,7 +89,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 5,
-     "pos": 5,
+     "pos": 6,
      "pts": 9
     },
     {
@@ -89,36 +104,21 @@
      "nuestro": true,
      "p": 1,
      "pj": 4,
-     "pos": 6,
-     "pts": 9
-    },
-    {
-     "dg": 5,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011024048_escudo.jpg",
-     "g": 3,
-     "gc": 15,
-     "gf": 20,
-     "id": "21476536",
-     "nombre": "Agrupacion Auto-Escuela Simancas",
-     "nuestro": false,
-     "p": 2,
-     "pj": 5,
      "pos": 7,
      "pts": 9
     },
     {
-     "dg": 4,
+     "dg": 3,
      "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155551_Captura_de_pantalla_2026_06_01_113319.png",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011024048_escudo.jpg",
      "g": 3,
-     "gc": 7,
-     "gf": 11,
-     "id": "18405554",
-     "nombre": "Leganes F.S. Masdeporte B",
+     "gc": 18,
+     "gf": 21,
+     "id": "21476536",
+     "nombre": "Agrupacion Auto-Escuela Simancas",
      "nuestro": false,
-     "p": 1,
-     "pj": 4,
+     "p": 3,
+     "pj": 6,
      "pos": 8,
      "pts": 9
     },
@@ -234,19 +234,19 @@
      "pts": 23
     },
     {
-     "dg": 9,
+     "dg": 12,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011024048_escudo.jpg",
-     "g": 6,
-     "gc": 18,
-     "gf": 27,
+     "g": 7,
+     "gc": 22,
+     "gf": 34,
      "id": "21476533",
      "nombre": "Agrupacion Auto-Escuela Simancas-Dynavin A",
      "nuestro": false,
      "p": 1,
-     "pj": 7,
+     "pj": 8,
      "pos": 2,
-     "pts": 18
+     "pts": 21
     },
     {
      "dg": 5,
@@ -339,6 +339,21 @@
      "pts": 12
     },
     {
+     "dg": -1,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265560_morata.png",
+     "g": 4,
+     "gc": 33,
+     "gf": 32,
+     "id": "18310655",
+     "nombre": "Sporting Morata F.S. A",
+     "nuestro": false,
+     "p": 5,
+     "pj": 9,
+     "pos": 9,
+     "pts": 12
+    },
+    {
      "dg": -6,
      "e": 2,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012146202_logoadop.png",
@@ -350,7 +365,7 @@
      "nuestro": false,
      "p": 3,
      "pj": 8,
-     "pos": 9,
+     "pos": 10,
      "pts": 11
     },
     {
@@ -365,7 +380,7 @@
      "nuestro": false,
      "p": 5,
      "pj": 9,
-     "pos": 10,
+     "pos": 11,
      "pts": 10
     },
     {
@@ -380,7 +395,7 @@
      "nuestro": false,
      "p": 3,
      "pj": 8,
-     "pos": 11,
+     "pos": 12,
      "pts": 9
     },
     {
@@ -395,36 +410,21 @@
      "nuestro": false,
      "p": 4,
      "pj": 9,
-     "pos": 12,
-     "pts": 9
-    },
-    {
-     "dg": -3,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265560_morata.png",
-     "g": 3,
-     "gc": 31,
-     "gf": 28,
-     "id": "18310655",
-     "nombre": "Sporting Morata F.S. A",
-     "nuestro": false,
-     "p": 5,
-     "pj": 8,
      "pos": 13,
      "pts": 9
     },
     {
-     "dg": -13,
+     "dg": -15,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265533_rivas_futsal.png",
      "g": 2,
-     "gc": 37,
-     "gf": 24,
+     "gc": 41,
+     "gf": 26,
      "id": "17145583",
      "nombre": "Rivas Futsal-Youfirst Smart Finace",
      "nuestro": false,
-     "p": 5,
-     "pj": 7,
+     "p": 6,
+     "pj": 8,
      "pos": 14,
      "pts": 6
     },
@@ -444,17 +444,17 @@
      "pts": 6
     },
     {
-     "dg": -26,
+     "dg": -29,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155552_Escudo_Cde_La_Villa.png",
      "g": 1,
-     "gc": 48,
-     "gf": 22,
+     "gc": 55,
+     "gf": 26,
      "id": "19131991",
      "nombre": "La Villa Mostoles A",
      "nuestro": false,
-     "p": 6,
-     "pj": 8,
+     "p": 7,
+     "pj": 9,
      "pos": 16,
      "pts": 4
     }
@@ -912,6 +912,21 @@
      "pts": 24
     },
     {
+     "dg": 7,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
+     "g": 6,
+     "gc": 38,
+     "gf": 45,
+     "id": "18613591",
+     "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
+     "nuestro": false,
+     "p": 2,
+     "pj": 9,
+     "pos": 2,
+     "pts": 19
+    },
+    {
      "dg": 20,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002986_Logo.jpg",
@@ -923,7 +938,7 @@
      "nuestro": false,
      "p": 2,
      "pj": 8,
-     "pos": 2,
+     "pos": 3,
      "pts": 16
     },
     {
@@ -938,22 +953,22 @@
      "nuestro": true,
      "p": 2,
      "pj": 8,
-     "pos": 3,
+     "pos": 4,
      "pts": 16
     },
     {
-     "dg": 4,
+     "dg": 1,
      "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012159118_EscudoVectorizado_PNG.png",
      "g": 5,
-     "gc": 34,
-     "gf": 38,
-     "id": "18613591",
-     "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
+     "gc": 46,
+     "gf": 47,
+     "id": "17145520",
+     "nombre": "A.D.Escurialense",
      "nuestro": false,
-     "p": 2,
-     "pj": 8,
-     "pos": 4,
+     "p": 3,
+     "pj": 9,
+     "pos": 5,
      "pts": 16
     },
     {
@@ -968,7 +983,7 @@
      "nuestro": false,
      "p": 3,
      "pj": 8,
-     "pos": 5,
+     "pos": 6,
      "pts": 15
     },
     {
@@ -983,7 +998,7 @@
      "nuestro": false,
      "p": 3,
      "pj": 8,
-     "pos": 6,
+     "pos": 7,
      "pts": 15
     },
     {
@@ -995,21 +1010,6 @@
      "gf": 49,
      "id": "19068045",
      "nombre": "Paraiso Sagrados Corazones A",
-     "nuestro": false,
-     "p": 3,
-     "pj": 8,
-     "pos": 7,
-     "pts": 13
-    },
-    {
-     "dg": -1,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012159118_EscudoVectorizado_PNG.png",
-     "g": 4,
-     "gc": 42,
-     "gf": 41,
-     "id": "17145520",
-     "nombre": "A.D.Escurialense",
      "nuestro": false,
      "p": 3,
      "pj": 8,
@@ -1092,17 +1092,17 @@
      "pts": 7
     },
     {
-     "dg": -24,
+     "dg": -26,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014258150_ESC_C.D._DOSA__1_.png",
      "g": 2,
-     "gc": 52,
-     "gf": 28,
+     "gc": 58,
+     "gf": 32,
      "id": "21492126",
      "nombre": "Dosa",
      "nuestro": false,
-     "p": 6,
-     "pj": 8,
+     "p": 7,
+     "pj": 9,
      "pos": 14,
      "pts": 6
     },
@@ -1122,17 +1122,17 @@
      "pts": 6
     },
     {
-     "dg": -22,
+     "dg": -25,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
      "g": 1,
-     "gc": 43,
-     "gf": 21,
+     "gc": 50,
+     "gf": 25,
      "id": "18378932",
      "nombre": "Club Arganda Futsal A",
      "nuestro": false,
-     "p": 7,
-     "pj": 8,
+     "p": 8,
+     "pj": 9,
      "pos": 16,
      "pts": 3
     }
@@ -1314,19 +1314,19 @@
      "pts": 15
     },
     {
-     "dg": 20,
+     "dg": 21,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012159060_escudo_CDRPaloma.png",
-     "g": 4,
-     "gc": 18,
-     "gf": 38,
+     "g": 5,
+     "gc": 22,
+     "gf": 43,
      "id": "19200947",
      "nombre": "Racing la Paloma",
      "nuestro": false,
      "p": 0,
-     "pj": 4,
+     "pj": 5,
      "pos": 2,
-     "pts": 12
+     "pts": 15
     },
     {
      "dg": 20,
@@ -1389,17 +1389,17 @@
      "pts": 3
     },
     {
-     "dg": -6,
+     "dg": -7,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
      "g": 1,
-     "gc": 22,
-     "gf": 16,
+     "gc": 27,
+     "gf": 20,
      "id": "18377870",
      "nombre": "F.S. Diagonal",
      "nuestro": false,
-     "p": 3,
-     "pj": 4,
+     "p": 4,
+     "pj": 5,
      "pos": 7,
      "pts": 3
     },
@@ -1479,7 +1479,7 @@
    },
    "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas": {
     "actual": 5,
-    "cursor": 26,
+    "cursor": null,
     "fecha": "2026-11-15",
     "total": 26
    },
@@ -1498,13 +1498,13 @@
    "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas": {
     "actual": 5,
     "cursor": null,
-    "fecha": "2026-11-09",
+    "fecha": "2026-11-15",
     "total": 9
    },
    "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas": {
     "actual": 5,
     "cursor": null,
-    "fecha": "2026-11-09",
+    "fecha": "2026-11-15",
     "total": 9
    }
   },
@@ -5159,8 +5159,8 @@
     "FUTSALA VILLAVERDE 'A'"
    ],
    "pos": [
-    3,
-    7
+    4,
+    8
    ],
    "resultado": null,
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas",

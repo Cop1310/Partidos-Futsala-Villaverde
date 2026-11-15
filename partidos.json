@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-15 14:03",
+  "generado": "2026-11-15 17:04",
   "desde": "2026-11-14",
   "hasta": "2026-11-15",
   "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 14/11/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *12:30h* - Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 5_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(8º)* *_Futsala Villaverde_* - *(6º)* Club Arganda Futsal B\n\n⏰ *17:00h* - Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 8_\n📍 Pabellón: Mostoles - Pab.Multiusos Ivan - Athletic Club Mostoles\n⚽ *(3º)* Athletic Mostoles B - *(8º)* *_Futsala Villaverde B_*\n\n⏰ *19:00h* - Primera Juvenil FS Grupo 5\n📌 _Jornada 5_\n📍 Pabellón: Mostoles - Colegio Villa de Mostoles\n⚽ *(3º)* La Villa Mostoles B - *(4º)* *_Futsala Villaverde B_*\n\n━━━━━━━━━━━━━━━━\n📅 *DOMINGO 15/11/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *16:30h* - Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 5_\n📍 Pabellón: Getafe - Pabellon Deportivo Municipal M4\n⚽ *(9º)* Las Aves FS - *(2º)* *_Futsala Villaverde_*\n\n⏰ *17:40h* - Tercera División FS Grupo 3\n📌 _Jornada 9_\n📍 Pabellón: Mostoles - Pab. Eva Manguan\n⚽ *(5º)* Andres Segovia-Mostoles A - *(7º)* *_Futsala Villaverde A_*\n\n⏰ *20:00h* - Primera División Autonómica Femenino FS Grupo Único\n📌 _Jornada 6_\n📍 Pabellón: Collado Villalba - Col. Rosa Chacel\n⚽ *(4º)* Ad Collado-Villalba-Cobiosa A - *(5º)* *_Futsala Villaverde_*",
@@ -69,7 +69,7 @@
     },
     {
       "sabado": "2026-12-05",
-      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *MARTES 01/12/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *19:30h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 9_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(3º)* *_Futsala Villaverde A_* - *(7º)* Paraiso Sagrados Corazones A",
+      "partidos": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *MARTES 01/12/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *19:30h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 9_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(4º)* *_Futsala Villaverde A_* - *(8º)* Paraiso Sagrados Corazones A",
       "resultados": ""
     },
     {
@@ -5521,14 +5521,14 @@
           "nombre": "Agrupacion Auto-Escuela Simancas-Dynavin A",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011024048_escudo.jpg",
-          "pj": 7,
-          "g": 6,
+          "pj": 8,
+          "g": 7,
           "e": 0,
           "p": 1,
-          "gf": 27,
-          "gc": 18,
-          "dg": 9,
-          "pts": 18
+          "gf": 34,
+          "gc": 22,
+          "dg": 12,
+          "pts": 21
         },
         {
           "pos": 3,
@@ -5622,6 +5622,21 @@
         },
         {
           "pos": 9,
+          "id": "18310655",
+          "nombre": "Sporting Morata F.S. A",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265560_morata.png",
+          "pj": 9,
+          "g": 4,
+          "e": 0,
+          "p": 5,
+          "gf": 32,
+          "gc": 33,
+          "dg": -1,
+          "pts": 12
+        },
+        {
+          "pos": 10,
           "id": "17146989",
           "nombre": "Obispo Perello A",
           "nuestro": false,
@@ -5636,7 +5651,7 @@
           "pts": 11
         },
         {
-          "pos": 10,
+          "pos": 11,
           "id": "18439661",
           "nombre": "Club Arganda Futsal-Albero-Mudanzas Segoviana A",
           "nuestro": false,
@@ -5651,7 +5666,7 @@
           "pts": 10
         },
         {
-          "pos": 11,
+          "pos": 12,
           "id": "18788907",
           "nombre": "Don P'Alpie Aranjuez F.S.- Cafeteria la Tacita",
           "nuestro": false,
@@ -5666,7 +5681,7 @@
           "pts": 9
         },
         {
-          "pos": 12,
+          "pos": 13,
           "id": "19115935",
           "nombre": "Sporting las Aguilas de Madrid-Parisat A",
           "nuestro": false,
@@ -5681,33 +5696,18 @@
           "pts": 9
         },
         {
-          "pos": 13,
-          "id": "18310655",
-          "nombre": "Sporting Morata F.S. A",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265560_morata.png",
-          "pj": 8,
-          "g": 3,
-          "e": 0,
-          "p": 5,
-          "gf": 28,
-          "gc": 31,
-          "dg": -3,
-          "pts": 9
-        },
-        {
           "pos": 14,
           "id": "17145583",
           "nombre": "Rivas Futsal-Youfirst Smart Finace",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265533_rivas_futsal.png",
-          "pj": 7,
+          "pj": 8,
           "g": 2,
           "e": 0,
-          "p": 5,
-          "gf": 24,
-          "gc": 37,
-          "dg": -13,
+          "p": 6,
+          "gf": 26,
+          "gc": 41,
+          "dg": -15,
           "pts": 6
         },
         {
@@ -5731,13 +5731,13 @@
           "nombre": "La Villa Mostoles A",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155552_Escudo_Cde_La_Villa.png",
-          "pj": 8,
+          "pj": 9,
           "g": 1,
           "e": 1,
-          "p": 6,
-          "gf": 22,
-          "gc": 48,
-          "dg": -26,
+          "p": 7,
+          "gf": 26,
+          "gc": 55,
+          "dg": -29,
           "pts": 4
         }
       ],
@@ -5970,28 +5970,28 @@
           "nombre": "F.S.F. Mostoles B",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011900787_Aguila_Alcalde_FSF_trazo_negro.jpg",
-          "pj": 5,
-          "g": 4,
+          "pj": 6,
+          "g": 5,
           "e": 0,
           "p": 1,
-          "gf": 23,
-          "gc": 4,
-          "dg": 19,
-          "pts": 12
+          "gf": 26,
+          "gc": 5,
+          "dg": 21,
+          "pts": 15
         },
         {
           "pos": 2,
-          "id": "17149226",
-          "nombre": "Alcorcon Fsf C",
+          "id": "18405554",
+          "nombre": "Leganes F.S. Masdeporte B",
           "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155551_Captura_de_pantalla_2026_06_01_113319.png",
           "pj": 5,
           "g": 4,
           "e": 0,
           "p": 1,
-          "gf": 13,
-          "gc": 6,
-          "dg": 7,
+          "gf": 15,
+          "gc": 9,
+          "dg": 6,
           "pts": 12
         },
         {
@@ -6011,6 +6011,21 @@
         },
         {
           "pos": 4,
+          "id": "17149226",
+          "nombre": "Alcorcon Fsf C",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
+          "pj": 6,
+          "g": 4,
+          "e": 0,
+          "p": 2,
+          "gf": 15,
+          "gc": 10,
+          "dg": 5,
+          "pts": 12
+        },
+        {
+          "pos": 5,
           "id": "17149523",
           "nombre": "Futsi Atletico Navalcarnero-Frozen C",
           "nuestro": false,
@@ -6025,7 +6040,7 @@
           "pts": 10
         },
         {
-          "pos": 5,
+          "pos": 6,
           "id": "17148272",
           "nombre": "Ad Collado-Villalba-Cobiosa A",
           "nuestro": false,
@@ -6040,7 +6055,7 @@
           "pts": 9
         },
         {
-          "pos": 6,
+          "pos": 7,
           "id": "18694124",
           "nombre": "Futsala Villaverde",
           "nuestro": true,
@@ -6055,33 +6070,18 @@
           "pts": 9
         },
         {
-          "pos": 7,
+          "pos": 8,
           "id": "21476536",
           "nombre": "Agrupacion Auto-Escuela Simancas",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011024048_escudo.jpg",
-          "pj": 5,
+          "pj": 6,
           "g": 3,
           "e": 0,
-          "p": 2,
-          "gf": 20,
-          "gc": 15,
-          "dg": 5,
-          "pts": 9
-        },
-        {
-          "pos": 8,
-          "id": "18405554",
-          "nombre": "Leganes F.S. Masdeporte B",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155551_Captura_de_pantalla_2026_06_01_113319.png",
-          "pj": 4,
-          "g": 3,
-          "e": 0,
-          "p": 1,
-          "gf": 11,
-          "gc": 7,
-          "dg": 4,
+          "p": 3,
+          "gf": 21,
+          "gc": 18,
+          "dg": 3,
           "pts": 9
         },
         {
@@ -6198,6 +6198,21 @@
         },
         {
           "pos": 2,
+          "id": "18613591",
+          "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
+          "pj": 9,
+          "g": 6,
+          "e": 1,
+          "p": 2,
+          "gf": 45,
+          "gc": 38,
+          "dg": 7,
+          "pts": 19
+        },
+        {
+          "pos": 3,
           "id": "17148793",
           "nombre": "Inter Futbol Sala-Jp Financial B",
           "nuestro": false,
@@ -6212,7 +6227,7 @@
           "pts": 16
         },
         {
-          "pos": 3,
+          "pos": 4,
           "id": "18586496",
           "nombre": "Futsala Villaverde A",
           "nuestro": true,
@@ -6227,22 +6242,22 @@
           "pts": 16
         },
         {
-          "pos": 4,
-          "id": "18613591",
-          "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
+          "pos": 5,
+          "id": "17145520",
+          "nombre": "A.D.Escurialense",
           "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
-          "pj": 8,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012159118_EscudoVectorizado_PNG.png",
+          "pj": 9,
           "g": 5,
           "e": 1,
-          "p": 2,
-          "gf": 38,
-          "gc": 34,
-          "dg": 4,
+          "p": 3,
+          "gf": 47,
+          "gc": 46,
+          "dg": 1,
           "pts": 16
         },
         {
-          "pos": 5,
+          "pos": 6,
           "id": "17146979",
           "nombre": "Alcorcon F.S. B",
           "nuestro": false,
@@ -6257,7 +6272,7 @@
           "pts": 15
         },
         {
-          "pos": 6,
+          "pos": 7,
           "id": "17149302",
           "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles B",
           "nuestro": false,
@@ -6272,7 +6287,7 @@
           "pts": 15
         },
         {
-          "pos": 7,
+          "pos": 8,
           "id": "19068045",
           "nombre": "Paraiso Sagrados Corazones A",
           "nuestro": false,
@@ -6284,21 +6299,6 @@
           "gf": 49,
           "gc": 38,
           "dg": 11,
-          "pts": 13
-        },
-        {
-          "pos": 8,
-          "id": "17145520",
-          "nombre": "A.D.Escurialense",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012159118_EscudoVectorizado_PNG.png",
-          "pj": 8,
-          "g": 4,
-          "e": 1,
-          "p": 3,
-          "gf": 41,
-          "gc": 42,
-          "dg": -1,
           "pts": 13
         },
         {
@@ -6382,13 +6382,13 @@
           "nombre": "Dosa",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014258150_ESC_C.D._DOSA__1_.png",
-          "pj": 8,
+          "pj": 9,
           "g": 2,
           "e": 0,
-          "p": 6,
-          "gf": 28,
-          "gc": 52,
-          "dg": -24,
+          "p": 7,
+          "gf": 32,
+          "gc": 58,
+          "dg": -26,
           "pts": 6
         },
         {
@@ -6412,13 +6412,13 @@
           "nombre": "Club Arganda Futsal A",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
-          "pj": 8,
+          "pj": 9,
           "g": 1,
           "e": 0,
-          "p": 7,
-          "gf": 21,
-          "gc": 43,
-          "dg": -22,
+          "p": 8,
+          "gf": 25,
+          "gc": 50,
+          "dg": -25,
           "pts": 3
         }
       ],
@@ -6823,14 +6823,14 @@
           "nombre": "Racing la Paloma",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012159060_escudo_CDRPaloma.png",
-          "pj": 4,
-          "g": 4,
+          "pj": 5,
+          "g": 5,
           "e": 0,
           "p": 0,
-          "gf": 38,
-          "gc": 18,
-          "dg": 20,
-          "pts": 12
+          "gf": 43,
+          "gc": 22,
+          "dg": 21,
+          "pts": 15
         },
         {
           "pos": 3,
@@ -6898,13 +6898,13 @@
           "nombre": "F.S. Diagonal",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
-          "pj": 4,
+          "pj": 5,
           "g": 1,
           "e": 0,
-          "p": 3,
-          "gf": 16,
-          "gc": 22,
-          "dg": -6,
+          "p": 4,
+          "gf": 20,
+          "gc": 27,
+          "dg": -7,
           "pts": 3
         },
         {
