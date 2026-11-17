@@ -1503,8 +1503,8 @@
    },
    "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas": {
     "actual": 6,
-    "cursor": 8,
-    "fecha": "2026-11-16",
+    "cursor": null,
+    "fecha": "2026-11-17",
     "total": 9
    }
   },
@@ -2350,6 +2350,144 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014265535_Athletic_Mostoles.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "fecha": "2026-11-14",
+   "goles": [
+    {
+     "equipo": "CDE ATHLETIC MOSTOLES 'B'",
+     "jugador": "JOSE MARTIN RODRIGUEZ",
+     "lado": "local",
+     "minuto": 1,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CDE ATHLETIC MOSTOLES 'B'",
+     "jugador": "IVAN MUÑOZ RUBIO",
+     "lado": "local",
+     "minuto": 6,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CDE ATHLETIC MOSTOLES 'B'",
+     "jugador": "JOSE GUILLERMO CABRERA MARTÍN",
+     "lado": "local",
+     "minuto": 11,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CDE ATHLETIC MOSTOLES 'B'",
+     "jugador": "ARON DIEZ MORCILLO",
+     "lado": "local",
+     "minuto": 17,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CDE ATHLETIC MOSTOLES 'B'",
+     "jugador": "ALEJANDRO QUEIPO DÍAZ",
+     "lado": "local",
+     "minuto": 20,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CDE ATHLETIC MOSTOLES 'B'",
+     "jugador": "PABLO FERNANDEZ VALADES",
+     "lado": "local",
+     "minuto": 23,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CDE ATHLETIC MOSTOLES 'B'",
+     "jugador": "PABLO FERNANDEZ VALADES",
+     "lado": "local",
+     "minuto": 25,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CDE ATHLETIC MOSTOLES 'B'",
+     "jugador": "ALVARO SEGOVIA DOCIO",
+     "lado": "local",
+     "minuto": 32,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CDE ATHLETIC MOSTOLES 'B'",
+     "jugador": "ALVARO SEGOVIA DOCIO",
+     "lado": "local",
+     "minuto": 33,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CDE ATHLETIC MOSTOLES 'B'",
+     "jugador": "FRANCISCO DANIEL MORA GONZÁLEZ",
+     "lado": "local",
+     "minuto": 34,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CDE ATHLETIC MOSTOLES 'B'",
+     "jugador": "SERGIO RODRIGUEZ BRAVO",
+     "lado": "local",
+     "minuto": 38,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CDE ATHLETIC MOSTOLES 'B'",
+     "jugador": "SERGIO RODRIGUEZ BRAVO",
+     "lado": "local",
+     "minuto": 39,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "GONZALO ORTIZ PEÑA",
+     "lado": "visitante",
+     "minuto": 7,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "GONZALO ORTIZ PEÑA",
+     "lado": "visitante",
+     "minuto": 8,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "HUGO ZORRILLA MELENDO",
+     "lado": "visitante",
+     "minuto": 12,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "MATEO CONDE SIMBAÑA",
+     "lado": "visitante",
+     "minuto": 28,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "MATEO CONDE SIMBAÑA",
+     "lado": "visitante",
+     "minuto": 29,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
    "hora": "17:00",
    "jornada": 8,
@@ -2365,6 +2503,29 @@
     12,
     5
    ],
+   "tarjetas": [
+    {
+     "equipo": "CDE ATHLETIC MOSTOLES 'B'",
+     "jugador": "ALEJANDRO SANCHEZ PALOMO MUÑOZ",
+     "lado": "local",
+     "minuto": 27,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "ALBERTO BARON CUEVAS",
+     "lado": "visitante",
+     "minuto": 18,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "RAFAEL ALGABA DOMINGUEZ",
+     "lado": "visitante",
+     "minuto": 33,
+     "tipo": "amarilla"
+    }
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas",
    "visitante": [
     "18456762",
@@ -2378,7 +2539,7 @@
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011730007_ESCUDO_OFICIAL_ok.png",
    "fecha": "2026-11-22",
    "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
-   "hora": "12:30",
+   "hora": "19:30",
    "jornada": 9,
    "local": [
     "18456762",
@@ -3673,7 +3834,7 @@
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg",
    "fecha": "2026-11-21",
    "grupo": "Tercera División FS Grupo 3",
-   "hora": "18:00",
+   "hora": "17:30",
    "jornada": 10,
    "local": [
     "17149145",
@@ -5177,12 +5338,12 @@
   },
   "5577049": {
    "acta": "https://www.elbalondemadrid.es/acta/5577049?temporada=22&competicion=26749998&grupo=26814437",
-   "campo": "TORREJON DE ARDOZ - P.M. JOAQUIN BLUME (futbol sala)",
+   "campo": "TORREJON DE ARDOZ - P.M. JAVI LIMONES (futbol sala)",
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000003686_ciudad_de_torrejon.jpg",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
-   "hora": null,
+   "hora": "11:15",
    "jornada": 10,
    "local": [
     "17210272",
