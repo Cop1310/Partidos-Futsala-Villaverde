@@ -711,6 +711,21 @@
      "pts": 18
     },
     {
+     "dg": 15,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014267688_MANILA.png",
+     "g": 5,
+     "gc": 32,
+     "gf": 47,
+     "id": "21493878",
+     "nombre": "Club Escuela Deportiva Manila-Estrellas A",
+     "nuestro": false,
+     "p": 2,
+     "pj": 8,
+     "pos": 3,
+     "pts": 16
+    },
+    {
      "dg": 6,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265535_Athletic_Mostoles.png",
@@ -722,23 +737,8 @@
      "nuestro": false,
      "p": 3,
      "pj": 8,
-     "pos": 3,
-     "pts": 15
-    },
-    {
-     "dg": 12,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014267688_MANILA.png",
-     "g": 4,
-     "gc": 25,
-     "gf": 37,
-     "id": "21493878",
-     "nombre": "Club Escuela Deportiva Manila-Estrellas A",
-     "nuestro": false,
-     "p": 2,
-     "pj": 7,
      "pos": 4,
-     "pts": 13
+     "pts": 15
     },
     {
      "dg": 4,
@@ -846,17 +846,17 @@
      "pts": 7
     },
     {
-     "dg": -8,
+     "dg": -11,
      "e": 3,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012153384_Escudo_Color__14_.png",
      "g": 1,
-     "gc": 36,
-     "gf": 28,
+     "gc": 46,
+     "gf": 35,
      "id": "21445298",
      "nombre": "Andel-Centro Educativo",
      "nuestro": false,
-     "p": 3,
-     "pj": 7,
+     "p": 4,
+     "pj": 8,
      "pos": 12,
      "pts": 6
     },
@@ -3809,6 +3809,72 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012166880_ESCUDO_ORIGINAL_FONDO_BLANCO.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "fecha": "2026-11-15",
+   "goles": [
+    {
+     "equipo": "C.D.E. ANDRES SEGOVIA-MOSTOLES 'A'",
+     "jugador": "JUAN HIPOLITO MBAGA ANGONO",
+     "lado": "local",
+     "minuto": 9,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D.E. ANDRES SEGOVIA-MOSTOLES 'A'",
+     "jugador": "VICTOR VALLEJO MIRAVALLES",
+     "lado": "local",
+     "minuto": 29,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D.E. ANDRES SEGOVIA-MOSTOLES 'A'",
+     "jugador": "IGNACIO JOSE CABERO VALLE",
+     "lado": "local",
+     "minuto": 37,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D.E. ANDRES SEGOVIA-MOSTOLES 'A'",
+     "jugador": "MARCOS CARRILLO ALONSO",
+     "lado": "local",
+     "minuto": 40,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "GUILLERMO CHIMENO OTERO",
+     "lado": "visitante",
+     "minuto": 3,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "GUILLERMO CHIMENO OTERO",
+     "lado": "visitante",
+     "minuto": 6,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "IVAN GONZALEZ LOPEZ",
+     "lado": "visitante",
+     "minuto": 35,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "IVAN JOSE ATERIDO JIMENEZ",
+     "lado": "visitante",
+     "minuto": 36,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Tercera División FS Grupo 3",
    "hora": "17:40",
    "jornada": 9,
@@ -3820,7 +3886,33 @@
     5,
     7
    ],
-   "resultado": null,
+   "resultado": [
+    4,
+    4
+   ],
+   "tarjetas": [
+    {
+     "equipo": "C.D.E. ANDRES SEGOVIA-MOSTOLES 'A'",
+     "jugador": "JOSÉ MARÍA OCAMPOS GONZÁLEZ",
+     "lado": "local",
+     "minuto": 31,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "GUILLERMO CHIMENO OTERO",
+     "lado": "visitante",
+     "minuto": 31,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ALVARO LORENZO FERNANDEZ",
+     "lado": "visitante",
+     "minuto": 33,
+     "tipo": "amarilla"
+    }
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas",
    "visitante": [
     "17149145",
@@ -7164,6 +7256,72 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014269119_las_aves.jpg",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "fecha": "2026-11-15",
+   "goles": [
+    {
+     "equipo": "CDE LAS AVES FS",
+     "jugador": "PEDRO ROYAN DOMINGUEZ",
+     "lado": "local",
+     "minuto": 11,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CDE LAS AVES FS",
+     "jugador": "LUCA ARROYO GONZALEZ",
+     "lado": "local",
+     "minuto": 13,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "ABRAHAM GONZALEZ SANJULIAN",
+     "lado": "visitante",
+     "minuto": 4,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "ABRAHAM GONZALEZ SANJULIAN",
+     "lado": "visitante",
+     "minuto": 6,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "DANIEL PLA RUIZ",
+     "lado": "visitante",
+     "minuto": 17,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "LEONIDAS PIZARRO SANCHO",
+     "lado": "visitante",
+     "minuto": 22,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "ANTONIO LUQUE CABEZAS",
+     "lado": "visitante",
+     "minuto": 24,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "ANTONIO LUQUE CABEZAS",
+     "lado": "visitante",
+     "minuto": 34,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Alevín 1ª Fase FS Grupo 4",
    "hora": "16:30",
    "jornada": 5,
@@ -7175,7 +7333,26 @@
     9,
     2
    ],
-   "resultado": null,
+   "resultado": [
+    2,
+    6
+   ],
+   "tarjetas": [
+    {
+     "equipo": "CDE LAS AVES FS",
+     "jugador": "PEDRO ROYAN DOMINGUEZ",
+     "lado": "local",
+     "minuto": 40,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "DAVID MAGAN VICENTE",
+     "lado": "visitante",
+     "minuto": 15,
+     "tipo": "amarilla"
+    }
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26750017/grupo/28105968/jornadas",
    "visitante": [
     "25048394",
@@ -7187,9 +7364,9 @@
    "campo": "P.M. PLATA Y CASTAÑAR (futbol sala)",
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270033_abaco.png",
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "grupo": "Alevín 1ª Fase FS Grupo 4",
-   "hora": "16:30",
+   "hora": "18:00",
    "jornada": 6,
    "local": [
     "25048394",
