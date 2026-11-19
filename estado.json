@@ -1299,12 +1299,12 @@
   "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas": {
    "filas": [
     {
-     "dg": 51,
+     "dg": 36,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
      "g": 5,
      "gc": 5,
-     "gf": 56,
+     "gf": 41,
      "id": "17145797",
      "nombre": "Alcorcon F.S. A",
      "nuestro": false,
@@ -1419,11 +1419,11 @@
      "pts": 3
     },
     {
-     "dg": -36,
+     "dg": -21,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012156607_Club_Deportivo_El_Valle_2022_4x.png",
      "g": 1,
-     "gc": 52,
+     "gc": 37,
      "gf": 16,
      "id": "26745921",
      "nombre": "El Valle (FS) C",

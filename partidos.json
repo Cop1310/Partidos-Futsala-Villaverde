@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-18 15:41",
+  "generado": "2026-11-19 15:47",
   "desde": "2026-11-21",
   "hasta": "2026-11-22",
   "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 21/11/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *15:30h* - Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 6_\n📍 Pabellón: Parla - P.M. Francisco Javier Castillejo\n⚽ *(7º)* F.S. Diagonal - *(8º)* *_Futsala Villaverde_*\n\n⏰ *17:30h* - Tercera División FS Grupo 3\n📌 _Jornada 10_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(7º)* *_Futsala Villaverde A_* - *(3º)* Atletico Trabenco Zarzaquemada A\n\n⏰ *19:30h* - Primera Juvenil FS Grupo 5\n📌 _Jornada 6_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(7º)* *_Futsala Villaverde B_* - *(10º)* Oroquieta-Espinillo B\n\n━━━━━━━━━━━━━━━━\n📅 *DOMINGO 22/11/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *11:15h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 10_\n📍 Pabellón: Torrejon de Ardoz - P.M. Javi Limones\n⚽ *(13º)* E.F.S. Ciudad de Torrejon-Redpiso Torrejon A - *(5º)* *_Futsala Villaverde A_*\n\n⏰ *14:30h* - Primera División Autonómica Femenino FS Grupo Único\n📌 _Jornada 7_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(3º)* *_Futsala Villaverde_* - *(6º)* Futsi Atletico Navalcarnero-Frozen C\n\n⏰ *18:00h* - Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 6_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(2º)* *_Futsala Villaverde_* - *(5º)* Colegio Abaco (FS) B\n\n⏰ *19:30h* - Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 9_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(9º)* *_Futsala Villaverde B_* - *(1º)* Club C.F.S. el Alamo B",
@@ -4107,84 +4107,84 @@
           ],
           "goles": [
             {
-              "minuto": 11,
+              "equipo": "CDE LAS AVES FS",
               "jugador": "PEDRO ROYAN DOMINGUEZ",
-              "equipo": "CDE LAS AVES FS",
+              "lado": "local",
+              "minuto": 11,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 13,
+              "equipo": "CDE LAS AVES FS",
               "jugador": "LUCA ARROYO GONZALEZ",
-              "equipo": "CDE LAS AVES FS",
+              "lado": "local",
+              "minuto": 13,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
+              "equipo": "FUTSALA VILLAVERDE",
+              "jugador": "ABRAHAM GONZALEZ SANJULIAN",
+              "lado": "visitante",
               "minuto": 4,
-              "jugador": "ABRAHAM GONZALEZ SANJULIAN",
-              "equipo": "FUTSALA VILLAVERDE",
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
+              "equipo": "FUTSALA VILLAVERDE",
+              "jugador": "ABRAHAM GONZALEZ SANJULIAN",
+              "lado": "visitante",
               "minuto": 6,
-              "jugador": "ABRAHAM GONZALEZ SANJULIAN",
-              "equipo": "FUTSALA VILLAVERDE",
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 17,
+              "equipo": "FUTSALA VILLAVERDE",
               "jugador": "DANIEL PLA RUIZ",
-              "equipo": "FUTSALA VILLAVERDE",
+              "lado": "visitante",
+              "minuto": 17,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 22,
+              "equipo": "FUTSALA VILLAVERDE",
               "jugador": "LEONIDAS PIZARRO SANCHO",
-              "equipo": "FUTSALA VILLAVERDE",
+              "lado": "visitante",
+              "minuto": 22,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
+              "equipo": "FUTSALA VILLAVERDE",
+              "jugador": "ANTONIO LUQUE CABEZAS",
+              "lado": "visitante",
               "minuto": 24,
-              "jugador": "ANTONIO LUQUE CABEZAS",
-              "equipo": "FUTSALA VILLAVERDE",
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 34,
-              "jugador": "ANTONIO LUQUE CABEZAS",
               "equipo": "FUTSALA VILLAVERDE",
+              "jugador": "ANTONIO LUQUE CABEZAS",
+              "lado": "visitante",
+              "minuto": 34,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             }
           ],
           "tarjetas": [
             {
-              "minuto": 40,
-              "jugador": "PEDRO ROYAN DOMINGUEZ",
               "equipo": "CDE LAS AVES FS",
-              "tipo": "amarilla",
-              "lado": "local"
+              "jugador": "PEDRO ROYAN DOMINGUEZ",
+              "lado": "local",
+              "minuto": 40,
+              "tipo": "amarilla"
             },
             {
-              "minuto": 15,
-              "jugador": "DAVID MAGAN VICENTE",
               "equipo": "FUTSALA VILLAVERDE",
-              "tipo": "amarilla",
-              "lado": "visitante"
+              "jugador": "DAVID MAGAN VICENTE",
+              "lado": "visitante",
+              "minuto": 15,
+              "tipo": "amarilla"
             }
           ]
         },
@@ -4202,91 +4202,91 @@
           ],
           "goles": [
             {
-              "minuto": 9,
+              "equipo": "C.D.E. ANDRES SEGOVIA-MOSTOLES 'A'",
               "jugador": "JUAN HIPOLITO MBAGA ANGONO",
-              "equipo": "C.D.E. ANDRES SEGOVIA-MOSTOLES 'A'",
+              "lado": "local",
+              "minuto": 9,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 29,
+              "equipo": "C.D.E. ANDRES SEGOVIA-MOSTOLES 'A'",
               "jugador": "VICTOR VALLEJO MIRAVALLES",
-              "equipo": "C.D.E. ANDRES SEGOVIA-MOSTOLES 'A'",
+              "lado": "local",
+              "minuto": 29,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 37,
+              "equipo": "C.D.E. ANDRES SEGOVIA-MOSTOLES 'A'",
               "jugador": "IGNACIO JOSE CABERO VALLE",
-              "equipo": "C.D.E. ANDRES SEGOVIA-MOSTOLES 'A'",
+              "lado": "local",
+              "minuto": 37,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
-              "minuto": 40,
+              "equipo": "C.D.E. ANDRES SEGOVIA-MOSTOLES 'A'",
               "jugador": "MARCOS CARRILLO ALONSO",
-              "equipo": "C.D.E. ANDRES SEGOVIA-MOSTOLES 'A'",
+              "lado": "local",
+              "minuto": 40,
               "penalti": false,
-              "propia": false,
-              "lado": "local"
+              "propia": false
             },
             {
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "jugador": "GUILLERMO CHIMENO OTERO",
+              "lado": "visitante",
               "minuto": 3,
-              "jugador": "GUILLERMO CHIMENO OTERO",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "jugador": "GUILLERMO CHIMENO OTERO",
+              "lado": "visitante",
               "minuto": 6,
-              "jugador": "GUILLERMO CHIMENO OTERO",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 35,
+              "equipo": "FUTSALA VILLAVERDE 'A'",
               "jugador": "IVAN GONZALEZ LOPEZ",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "lado": "visitante",
+              "minuto": 35,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             },
             {
-              "minuto": 36,
-              "jugador": "IVAN JOSE ATERIDO JIMENEZ",
               "equipo": "FUTSALA VILLAVERDE 'A'",
+              "jugador": "IVAN JOSE ATERIDO JIMENEZ",
+              "lado": "visitante",
+              "minuto": 36,
               "penalti": false,
-              "propia": false,
-              "lado": "visitante"
+              "propia": false
             }
           ],
           "tarjetas": [
             {
-              "minuto": 31,
-              "jugador": "JOSÉ MARÍA OCAMPOS GONZÁLEZ",
               "equipo": "C.D.E. ANDRES SEGOVIA-MOSTOLES 'A'",
-              "tipo": "amarilla",
-              "lado": "local"
-            },
-            {
+              "jugador": "JOSÉ MARÍA OCAMPOS GONZÁLEZ",
+              "lado": "local",
               "minuto": 31,
-              "jugador": "GUILLERMO CHIMENO OTERO",
-              "equipo": "FUTSALA VILLAVERDE 'A'",
-              "tipo": "amarilla",
-              "lado": "visitante"
+              "tipo": "amarilla"
             },
             {
-              "minuto": 33,
-              "jugador": "ALVARO LORENZO FERNANDEZ",
               "equipo": "FUTSALA VILLAVERDE 'A'",
-              "tipo": "amarilla",
-              "lado": "visitante"
+              "jugador": "GUILLERMO CHIMENO OTERO",
+              "lado": "visitante",
+              "minuto": 31,
+              "tipo": "amarilla"
+            },
+            {
+              "equipo": "FUTSALA VILLAVERDE 'A'",
+              "jugador": "ALVARO LORENZO FERNANDEZ",
+              "lado": "visitante",
+              "minuto": 33,
+              "tipo": "amarilla"
             }
           ]
         },
@@ -7388,9 +7388,9 @@
           "g": 5,
           "e": 0,
           "p": 0,
-          "gf": 56,
+          "gf": 41,
           "gc": 5,
-          "dg": 51,
+          "dg": 36,
           "pts": 15
         },
         {
@@ -7509,8 +7509,8 @@
           "e": 0,
           "p": 3,
           "gf": 16,
-          "gc": 52,
-          "dg": -36,
+          "gc": 37,
+          "dg": -21,
           "pts": 3
         },
         {
