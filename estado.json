@@ -1188,21 +1188,6 @@
      "pts": 12
     },
     {
-     "dg": 8,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002481_escudo.jpg",
-     "g": 3,
-     "gc": 13,
-     "gf": 21,
-     "id": "17155835",
-     "nombre": "Sport Sala 12",
-     "nuestro": false,
-     "p": 2,
-     "pj": 5,
-     "pos": 4,
-     "pts": 9
-    },
-    {
      "dg": -4,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270033_abaco.png",
@@ -1211,6 +1196,21 @@
      "gf": 12,
      "id": "27509906",
      "nombre": "Colegio Abaco (FS) B",
+     "nuestro": false,
+     "p": 2,
+     "pj": 5,
+     "pos": 4,
+     "pts": 9
+    },
+    {
+     "dg": 8,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002481_escudo.jpg",
+     "g": 3,
+     "gc": 13,
+     "gf": 21,
+     "id": "17155835",
+     "nombre": "Sport Sala 12",
      "nuestro": false,
      "p": 2,
      "pj": 5,
@@ -1263,37 +1263,37 @@
      "pts": 3
     },
     {
-     "dg": -31,
+     "dg": -30,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014269119_las_aves.jpg",
-     "g": 0,
-     "gc": 39,
-     "gf": 8,
+     "g": 1,
+     "gc": 41,
+     "gf": 11,
      "id": "26746888",
      "nombre": "Las Aves FS",
      "nuestro": false,
      "p": 5,
-     "pj": 5,
+     "pj": 6,
      "pos": 9,
-     "pts": 0
+     "pts": 3
     },
     {
-     "dg": -42,
+     "dg": -43,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011747038_Imagen_1.png",
      "g": 0,
-     "gc": 48,
-     "gf": 6,
+     "gc": 51,
+     "gf": 8,
      "id": "26735448",
      "nombre": "Aquila (FS)",
      "nuestro": false,
-     "p": 5,
-     "pj": 5,
+     "p": 6,
+     "pj": 6,
      "pos": 10,
      "pts": 0
     }
    ],
-   "jornada": 5,
+   "jornada": 6,
    "titulo": "Alevín 1ª Fase FS Grupo 4"
   },
   "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas": {
