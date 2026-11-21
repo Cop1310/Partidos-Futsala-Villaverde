@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-21 14:48",
+  "generado": "2026-11-21 17:36",
   "desde": "2026-11-21",
   "hasta": "2026-11-22",
   "texto": "Información sacada de la web El Balón de Madrid\n\n━━━━━━━━━━━━━━━━\n📅 *SÁBADO 21/11/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *15:30h* - Benjamín 1ª Fase FS Grupo 4\n📌 _Jornada 6_\n📍 Pabellón: Parla - P.M. Francisco Javier Castillejo\n⚽ *(7º)* F.S. Diagonal - *(8º)* *_Futsala Villaverde_*\n\n⏰ *17:30h* - Tercera División FS Grupo 3\n📌 _Jornada 10_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(7º)* *_Futsala Villaverde A_* - *(3º)* Atletico Trabenco Zarzaquemada A\n\n⏰ *19:30h* - Primera Juvenil FS Grupo 5\n📌 _Jornada 6_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(7º)* *_Futsala Villaverde B_* - *(10º)* Oroquieta-Espinillo B\n\n━━━━━━━━━━━━━━━━\n📅 *DOMINGO 22/11/2026*\n━━━━━━━━━━━━━━━━\n\n⏰ *11:15h* - Primera División Autonómica Juvenil FS Grupo Único\n📌 _Jornada 10_\n📍 Pabellón: Torrejon de Ardoz - P.M. Javi Limones\n⚽ *(13º)* E.F.S. Ciudad de Torrejon-Redpiso Torrejon A - *(5º)* *_Futsala Villaverde A_*\n\n⏰ *14:30h* - Primera División Autonómica Femenino FS Grupo Único\n📌 _Jornada 7_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(3º)* *_Futsala Villaverde_* - *(6º)* Futsi Atletico Navalcarnero-Frozen C\n\n⏰ *18:00h* - Alevín 1ª Fase FS Grupo 4\n📌 _Jornada 6_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(2º)* *_Futsala Villaverde_* - *(5º)* Colegio Abaco (FS) B\n\n⏰ *19:30h* - Primera División Autonómica Aficionado FS Grupo 1\n📌 _Jornada 9_\n📍 Pabellón: P.M. Plata y Castañar\n⚽ *(9º)* *_Futsala Villaverde B_* - *(1º)* Club C.F.S. el Alamo B",
@@ -6924,6 +6924,21 @@
         },
         {
           "pos": 12,
+          "id": "21675505",
+          "nombre": "Gredos San Diego las Suertes A",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012174389_gsd_deportes_color_v.png",
+          "pj": 10,
+          "g": 3,
+          "e": 0,
+          "p": 7,
+          "gf": 32,
+          "gc": 58,
+          "dg": -26,
+          "pts": 9
+        },
+        {
+          "pos": 13,
           "id": "22413229",
           "nombre": "Lope de Vega A",
           "nuestro": false,
@@ -6938,7 +6953,7 @@
           "pts": 7
         },
         {
-          "pos": 13,
+          "pos": 14,
           "id": "17210272",
           "nombre": "E.F.S. Ciudad de Torrejon-Redpiso Torrejon A",
           "nuestro": false,
@@ -6953,7 +6968,7 @@
           "pts": 7
         },
         {
-          "pos": 14,
+          "pos": 15,
           "id": "21492126",
           "nombre": "Dosa",
           "nuestro": false,
@@ -6968,33 +6983,18 @@
           "pts": 6
         },
         {
-          "pos": 15,
-          "id": "21675505",
-          "nombre": "Gredos San Diego las Suertes A",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012174389_gsd_deportes_color_v.png",
-          "pj": 9,
-          "g": 2,
-          "e": 0,
-          "p": 7,
-          "gf": 26,
-          "gc": 55,
-          "dg": -29,
-          "pts": 6
-        },
-        {
           "pos": 16,
           "id": "18378932",
           "nombre": "Club Arganda Futsal A",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
-          "pj": 9,
+          "pj": 10,
           "g": 1,
           "e": 0,
-          "p": 8,
-          "gf": 25,
-          "gc": 50,
-          "dg": -25,
+          "p": 9,
+          "gf": 28,
+          "gc": 56,
+          "dg": -28,
           "pts": 3
         }
       ],
@@ -7257,32 +7257,17 @@
           "nombre": "F.S. Diagonal A",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
-          "pj": 5,
-          "g": 4,
+          "pj": 6,
+          "g": 5,
           "e": 0,
           "p": 1,
-          "gf": 28,
-          "gc": 17,
-          "dg": 11,
-          "pts": 12
+          "gf": 43,
+          "gc": 18,
+          "dg": 25,
+          "pts": 15
         },
         {
           "pos": 4,
-          "id": "27509906",
-          "nombre": "Colegio Abaco (FS) B",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270033_abaco.png",
-          "pj": 5,
-          "g": 3,
-          "e": 0,
-          "p": 2,
-          "gf": 12,
-          "gc": 16,
-          "dg": -4,
-          "pts": 9
-        },
-        {
-          "pos": 5,
           "id": "17155835",
           "nombre": "Sport Sala 12",
           "nuestro": false,
@@ -7294,6 +7279,21 @@
           "gf": 21,
           "gc": 13,
           "dg": 8,
+          "pts": 9
+        },
+        {
+          "pos": 5,
+          "id": "27509906",
+          "nombre": "Colegio Abaco (FS) B",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270033_abaco.png",
+          "pj": 5,
+          "g": 3,
+          "e": 0,
+          "p": 2,
+          "gf": 12,
+          "gc": 16,
+          "dg": -4,
           "pts": 9
         },
         {
@@ -7317,13 +7317,13 @@
           "nombre": "Futsal Pinto-Grupo Egido",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265540_futsal_pinto.png",
-          "pj": 5,
+          "pj": 6,
           "g": 2,
           "e": 0,
-          "p": 3,
-          "gf": 13,
-          "gc": 38,
-          "dg": -25,
+          "p": 4,
+          "gf": 14,
+          "gc": 53,
+          "dg": -39,
           "pts": 6
         },
         {
@@ -7384,14 +7384,14 @@
           "nombre": "Alcorcon F.S. A",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
-          "pj": 5,
-          "g": 5,
+          "pj": 6,
+          "g": 6,
           "e": 0,
           "p": 0,
-          "gf": 41,
-          "gc": 5,
-          "dg": 36,
-          "pts": 15
+          "gf": 51,
+          "gc": 6,
+          "dg": 45,
+          "pts": 18
         },
         {
           "pos": 2,
@@ -7399,14 +7399,14 @@
           "nombre": "Racing la Paloma",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012159060_escudo_CDRPaloma.png",
-          "pj": 5,
+          "pj": 6,
           "g": 5,
-          "e": 0,
+          "e": 1,
           "p": 0,
-          "gf": 43,
-          "gc": 22,
+          "gf": 45,
+          "gc": 24,
           "dg": 21,
-          "pts": 15
+          "pts": 16
         },
         {
           "pos": 3,
@@ -7414,14 +7414,14 @@
           "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
           "nuestro": false,
           "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
-          "pj": 5,
+          "pj": 6,
           "g": 3,
-          "e": 0,
+          "e": 1,
           "p": 2,
-          "gf": 34,
-          "gc": 14,
+          "gf": 36,
+          "gc": 16,
           "dg": 20,
-          "pts": 9
+          "pts": 10
         },
         {
           "pos": 4,
@@ -7455,21 +7455,6 @@
         },
         {
           "pos": 6,
-          "id": "24706419",
-          "nombre": "Club Arganda Futsal B",
-          "nuestro": false,
-          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
-          "pj": 4,
-          "g": 1,
-          "e": 0,
-          "p": 3,
-          "gf": 20,
-          "gc": 26,
-          "dg": -6,
-          "pts": 3
-        },
-        {
-          "pos": 7,
           "id": "18377870",
           "nombre": "F.S. Diagonal",
           "nuestro": false,
@@ -7484,7 +7469,7 @@
           "pts": 3
         },
         {
-          "pos": 8,
+          "pos": 7,
           "id": "26731723",
           "nombre": "Futsala Villaverde",
           "nuestro": true,
@@ -7496,6 +7481,21 @@
           "gf": 5,
           "gc": 14,
           "dg": -9,
+          "pts": 3
+        },
+        {
+          "pos": 8,
+          "id": "24706419",
+          "nombre": "Club Arganda Futsal B",
+          "nuestro": false,
+          "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
+          "pj": 5,
+          "g": 1,
+          "e": 0,
+          "p": 4,
+          "gf": 21,
+          "gc": 36,
+          "dg": -15,
           "pts": 3
         },
         {

@@ -1062,6 +1062,21 @@
      "pts": 10
     },
     {
+     "dg": -26,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012174389_gsd_deportes_color_v.png",
+     "g": 3,
+     "gc": 58,
+     "gf": 32,
+     "id": "21675505",
+     "nombre": "Gredos San Diego las Suertes A",
+     "nuestro": false,
+     "p": 7,
+     "pj": 10,
+     "pos": 12,
+     "pts": 9
+    },
+    {
      "dg": -14,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014267064_LOPE_DE_VEGA.png",
@@ -1073,7 +1088,7 @@
      "nuestro": false,
      "p": 6,
      "pj": 9,
-     "pos": 12,
+     "pos": 13,
      "pts": 7
     },
     {
@@ -1088,7 +1103,7 @@
      "nuestro": false,
      "p": 6,
      "pj": 9,
-     "pos": 13,
+     "pos": 14,
      "pts": 7
     },
     {
@@ -1103,36 +1118,21 @@
      "nuestro": false,
      "p": 7,
      "pj": 9,
-     "pos": 14,
-     "pts": 6
-    },
-    {
-     "dg": -29,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012174389_gsd_deportes_color_v.png",
-     "g": 2,
-     "gc": 55,
-     "gf": 26,
-     "id": "21675505",
-     "nombre": "Gredos San Diego las Suertes A",
-     "nuestro": false,
-     "p": 7,
-     "pj": 9,
      "pos": 15,
      "pts": 6
     },
     {
-     "dg": -25,
+     "dg": -28,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
      "g": 1,
-     "gc": 50,
-     "gf": 25,
+     "gc": 56,
+     "gf": 28,
      "id": "18378932",
      "nombre": "Club Arganda Futsal A",
      "nuestro": false,
-     "p": 8,
-     "pj": 9,
+     "p": 9,
+     "pj": 10,
      "pos": 16,
      "pts": 3
     }
@@ -1173,34 +1173,19 @@
      "pts": 15
     },
     {
-     "dg": 11,
+     "dg": 25,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
-     "g": 4,
-     "gc": 17,
-     "gf": 28,
+     "g": 5,
+     "gc": 18,
+     "gf": 43,
      "id": "17271080",
      "nombre": "F.S. Diagonal A",
      "nuestro": false,
      "p": 1,
-     "pj": 5,
+     "pj": 6,
      "pos": 3,
-     "pts": 12
-    },
-    {
-     "dg": -4,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270033_abaco.png",
-     "g": 3,
-     "gc": 16,
-     "gf": 12,
-     "id": "27509906",
-     "nombre": "Colegio Abaco (FS) B",
-     "nuestro": false,
-     "p": 2,
-     "pj": 5,
-     "pos": 4,
-     "pts": 9
+     "pts": 15
     },
     {
      "dg": 8,
@@ -1211,6 +1196,21 @@
      "gf": 21,
      "id": "17155835",
      "nombre": "Sport Sala 12",
+     "nuestro": false,
+     "p": 2,
+     "pj": 5,
+     "pos": 4,
+     "pts": 9
+    },
+    {
+     "dg": -4,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270033_abaco.png",
+     "g": 3,
+     "gc": 16,
+     "gf": 12,
+     "id": "27509906",
+     "nombre": "Colegio Abaco (FS) B",
      "nuestro": false,
      "p": 2,
      "pj": 5,
@@ -1233,17 +1233,17 @@
      "pts": 6
     },
     {
-     "dg": -25,
+     "dg": -39,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265540_futsal_pinto.png",
      "g": 2,
-     "gc": 38,
-     "gf": 13,
+     "gc": 53,
+     "gf": 14,
      "id": "21999670",
      "nombre": "Futsal Pinto-Grupo Egido",
      "nuestro": false,
-     "p": 3,
-     "pj": 5,
+     "p": 4,
+     "pj": 6,
      "pos": 7,
      "pts": 6
     },
@@ -1299,49 +1299,49 @@
   "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas": {
    "filas": [
     {
-     "dg": 36,
+     "dg": 45,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
-     "g": 5,
-     "gc": 5,
-     "gf": 41,
+     "g": 6,
+     "gc": 6,
+     "gf": 51,
      "id": "17145797",
      "nombre": "Alcorcon F.S. A",
      "nuestro": false,
      "p": 0,
-     "pj": 5,
+     "pj": 6,
      "pos": 1,
-     "pts": 15
+     "pts": 18
     },
     {
      "dg": 21,
-     "e": 0,
+     "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012159060_escudo_CDRPaloma.png",
      "g": 5,
-     "gc": 22,
-     "gf": 43,
+     "gc": 24,
+     "gf": 45,
      "id": "19200947",
      "nombre": "Racing la Paloma",
      "nuestro": false,
      "p": 0,
-     "pj": 5,
+     "pj": 6,
      "pos": 2,
-     "pts": 15
+     "pts": 16
     },
     {
      "dg": 20,
-     "e": 0,
+     "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
      "g": 3,
-     "gc": 14,
-     "gf": 34,
+     "gc": 16,
+     "gf": 36,
      "id": "18613589",
      "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
      "nuestro": false,
      "p": 2,
-     "pj": 5,
+     "pj": 6,
      "pos": 3,
-     "pts": 9
+     "pts": 10
     },
     {
      "dg": 6,
@@ -1374,21 +1374,6 @@
      "pts": 6
     },
     {
-     "dg": -6,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
-     "g": 1,
-     "gc": 26,
-     "gf": 20,
-     "id": "24706419",
-     "nombre": "Club Arganda Futsal B",
-     "nuestro": false,
-     "p": 3,
-     "pj": 4,
-     "pos": 6,
-     "pts": 3
-    },
-    {
      "dg": -7,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
@@ -1400,7 +1385,7 @@
      "nuestro": false,
      "p": 4,
      "pj": 5,
-     "pos": 7,
+     "pos": 6,
      "pts": 3
     },
     {
@@ -1415,6 +1400,21 @@
      "nuestro": true,
      "p": 1,
      "pj": 2,
+     "pos": 7,
+     "pts": 3
+    },
+    {
+     "dg": -15,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155564_AF_Escudo_OK.png",
+     "g": 1,
+     "gc": 36,
+     "gf": 21,
+     "id": "24706419",
+     "nombre": "Club Arganda Futsal B",
+     "nuestro": false,
+     "p": 4,
+     "pj": 5,
      "pos": 8,
      "pts": 3
     },
