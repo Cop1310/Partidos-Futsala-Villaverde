@@ -48,6 +48,21 @@
      "pts": 15
     },
     {
+     "dg": 11,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
+     "g": 5,
+     "gc": 11,
+     "gf": 22,
+     "id": "17149226",
+     "nombre": "Alcorcon Fsf C",
+     "nuestro": false,
+     "p": 2,
+     "pj": 7,
+     "pos": 4,
+     "pts": 15
+    },
+    {
      "dg": 6,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155551_Captura_de_pantalla_2026_06_01_113319.png",
@@ -59,7 +74,7 @@
      "nuestro": false,
      "p": 1,
      "pj": 5,
-     "pos": 4,
+     "pos": 5,
      "pts": 12
     },
     {
@@ -74,21 +89,6 @@
      "nuestro": false,
      "p": 3,
      "pj": 7,
-     "pos": 5,
-     "pts": 12
-    },
-    {
-     "dg": 5,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
-     "g": 4,
-     "gc": 10,
-     "gf": 15,
-     "id": "17149226",
-     "nombre": "Alcorcon Fsf C",
-     "nuestro": false,
-     "p": 2,
-     "pj": 6,
      "pos": 6,
      "pts": 12
     },
@@ -108,17 +108,17 @@
      "pts": 10
     },
     {
-     "dg": 20,
+     "dg": 14,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011730757_escudo_club_sin_fondo.png",
      "g": 3,
-     "gc": 12,
-     "gf": 32,
+     "gc": 19,
+     "gf": 33,
      "id": "17148272",
      "nombre": "Ad Collado-Villalba-Cobiosa A",
      "nuestro": false,
-     "p": 3,
-     "pj": 6,
+     "p": 4,
+     "pj": 7,
      "pos": 8,
      "pts": 9
     },
@@ -311,6 +311,21 @@
     {
      "dg": -1,
      "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265560_morata.png",
+     "g": 4,
+     "gc": 37,
+     "gf": 36,
+     "id": "18310655",
+     "nombre": "Sporting Morata F.S. A",
+     "nuestro": false,
+     "p": 5,
+     "pj": 10,
+     "pos": 7,
+     "pts": 13
+    },
+    {
+     "dg": -1,
+     "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
      "g": 4,
      "gc": 37,
@@ -320,7 +335,7 @@
      "nuestro": true,
      "p": 4,
      "pj": 9,
-     "pos": 7,
+     "pos": 8,
      "pts": 13
     },
     {
@@ -335,21 +350,6 @@
      "nuestro": false,
      "p": 2,
      "pj": 8,
-     "pos": 8,
-     "pts": 12
-    },
-    {
-     "dg": -1,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265560_morata.png",
-     "g": 4,
-     "gc": 33,
-     "gf": 32,
-     "id": "18310655",
-     "nombre": "Sporting Morata F.S. A",
-     "nuestro": false,
-     "p": 5,
-     "pj": 9,
      "pos": 9,
      "pts": 12
     },
@@ -385,76 +385,76 @@
     },
     {
      "dg": -2,
-     "e": 3,
+     "e": 4,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014263027_8370_sporting_las_aguilas.png",
      "g": 2,
-     "gc": 31,
-     "gf": 29,
+     "gc": 35,
+     "gf": 33,
      "id": "19115935",
      "nombre": "Sporting las Aguilas de Madrid-Parisat A",
      "nuestro": false,
      "p": 4,
-     "pj": 9,
+     "pj": 10,
      "pos": 12,
-     "pts": 9
+     "pts": 10
     },
     {
-     "dg": -3,
-     "e": 3,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013482_Escudo_Don_Palpie.jpg",
-     "g": 2,
-     "gc": 42,
-     "gf": 39,
-     "id": "18788907",
-     "nombre": "Don P'Alpie Aranjuez F.S.- Cafeteria la Tacita",
-     "nuestro": false,
-     "p": 4,
-     "pj": 9,
-     "pos": 13,
-     "pts": 9
-    },
-    {
-     "dg": -33,
+     "dg": -31,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012167978_1988_JVK_AZUL__1_.png",
-     "g": 2,
-     "gc": 56,
-     "gf": 23,
+     "g": 3,
+     "gc": 58,
+     "gf": 27,
      "id": "18734838",
      "nombre": "Ciudad Villa de Vallecas F.S.",
      "nuestro": false,
      "p": 6,
-     "pj": 9,
-     "pos": 14,
-     "pts": 7
+     "pj": 10,
+     "pos": 13,
+     "pts": 10
     },
     {
-     "dg": -15,
+     "dg": -14,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265533_rivas_futsal.png",
-     "g": 2,
-     "gc": 41,
-     "gf": 26,
+     "g": 3,
+     "gc": 45,
+     "gf": 31,
      "id": "17145583",
      "nombre": "Rivas Futsal-Youfirst Smart Finace",
      "nuestro": false,
      "p": 6,
-     "pj": 8,
-     "pos": 15,
-     "pts": 6
+     "pj": 9,
+     "pos": 14,
+     "pts": 9
     },
     {
-     "dg": -29,
+     "dg": -4,
+     "e": 3,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013482_Escudo_Don_Palpie.jpg",
+     "g": 2,
+     "gc": 47,
+     "gf": 43,
+     "id": "18788907",
+     "nombre": "Don P'Alpie Aranjuez F.S.- Cafeteria la Tacita",
+     "nuestro": false,
+     "p": 5,
+     "pj": 10,
+     "pos": 15,
+     "pts": 9
+    },
+    {
+     "dg": -31,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155552_Escudo_Cde_La_Villa.png",
      "g": 1,
-     "gc": 55,
-     "gf": 26,
+     "gc": 59,
+     "gf": 28,
      "id": "19131991",
      "nombre": "La Villa Mostoles A",
      "nuestro": false,
-     "p": 7,
-     "pj": 9,
+     "p": 8,
+     "pj": 10,
      "pos": 16,
      "pts": 4
     }
@@ -697,6 +697,21 @@
     },
     {
      "dg": 16,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155576_ORIGINAL_VECTOR_1.png",
+     "g": 7,
+     "gc": 30,
+     "gf": 46,
+     "id": "19361376",
+     "nombre": "San Jose de Valderas-Valderas F.S. A",
+     "nuestro": false,
+     "p": 2,
+     "pj": 9,
+     "pos": 2,
+     "pts": 21
+    },
+    {
+     "dg": 16,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014267688_MANILA.png",
      "g": 6,
@@ -707,23 +722,8 @@
      "nuestro": false,
      "p": 2,
      "pj": 9,
-     "pos": 2,
-     "pts": 19
-    },
-    {
-     "dg": 11,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155576_ORIGINAL_VECTOR_1.png",
-     "g": 6,
-     "gc": 29,
-     "gf": 40,
-     "id": "19361376",
-     "nombre": "San Jose de Valderas-Valderas F.S. A",
-     "nuestro": false,
-     "p": 2,
-     "pj": 8,
      "pos": 3,
-     "pts": 18
+     "pts": 19
     },
     {
      "dg": 10,
@@ -786,17 +786,17 @@
      "pts": 10
     },
     {
-     "dg": -5,
+     "dg": -10,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012177687_colme_ok.png",
      "g": 3,
-     "gc": 36,
-     "gf": 31,
+     "gc": 42,
+     "gf": 32,
      "id": "18952209",
      "nombre": "Colme Futsal",
      "nuestro": false,
-     "p": 5,
-     "pj": 8,
+     "p": 6,
+     "pj": 9,
      "pos": 8,
      "pts": 9
     },
@@ -927,6 +927,21 @@
      "pts": 22
     },
     {
+     "dg": 24,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
+     "g": 6,
+     "gc": 35,
+     "gf": 59,
+     "id": "17146979",
+     "nombre": "Alcorcon F.S. B",
+     "nuestro": false,
+     "p": 3,
+     "pj": 10,
+     "pos": 3,
+     "pts": 19
+    },
+    {
      "dg": 22,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002986_Logo.jpg",
@@ -938,22 +953,22 @@
      "nuestro": false,
      "p": 2,
      "pj": 9,
-     "pos": 3,
+     "pos": 4,
      "pts": 19
     },
     {
-     "dg": 24,
+     "dg": 7,
      "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014269425_FS_M_STOLES_ESCUDOS_1.png",
      "g": 6,
-     "gc": 31,
-     "gf": 55,
-     "id": "17146979",
-     "nombre": "Alcorcon F.S. B",
+     "gc": 42,
+     "gf": 49,
+     "id": "17149302",
+     "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles B",
      "nuestro": false,
-     "p": 3,
-     "pj": 9,
-     "pos": 4,
+     "p": 4,
+     "pj": 10,
+     "pos": 5,
      "pts": 18
     },
     {
@@ -968,7 +983,7 @@
      "nuestro": true,
      "p": 3,
      "pj": 9,
-     "pos": 5,
+     "pos": 6,
      "pts": 16
     },
     {
@@ -983,23 +998,23 @@
      "nuestro": false,
      "p": 4,
      "pj": 10,
-     "pos": 6,
+     "pos": 7,
      "pts": 16
     },
     {
-     "dg": 4,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014269425_FS_M_STOLES_ESCUDOS_1.png",
-     "g": 5,
-     "gc": 39,
-     "gf": 43,
-     "id": "17149302",
-     "nombre": "Mrb F.S. Mostoles-Ciudad de Mostoles B",
+     "dg": -1,
+     "e": 2,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
+     "g": 4,
+     "gc": 36,
+     "gf": 35,
+     "id": "18455408",
+     "nombre": "Pinar de San Jose-Alcorcon A",
      "nuestro": false,
-     "p": 4,
+     "p": 3,
      "pj": 9,
-     "pos": 7,
-     "pts": 15
+     "pos": 8,
+     "pts": 14
     },
     {
      "dg": 9,
@@ -1013,21 +1028,6 @@
      "nuestro": false,
      "p": 4,
      "pj": 9,
-     "pos": 8,
-     "pts": 13
-    },
-    {
-     "dg": -1,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
-     "g": 4,
-     "gc": 32,
-     "gf": 31,
-     "id": "18455408",
-     "nombre": "Pinar de San Jose-Alcorcon A",
-     "nuestro": false,
-     "p": 3,
-     "pj": 8,
      "pos": 9,
      "pts": 13
     },
@@ -1047,17 +1047,17 @@
      "pts": 13
     },
     {
-     "dg": -12,
+     "dg": -15,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265533_rivas_futsal.png",
      "g": 3,
-     "gc": 47,
-     "gf": 35,
+     "gc": 53,
+     "gf": 38,
      "id": "18345002",
      "nombre": "Rivas Futsal-Youfirst Smart Finace A",
      "nuestro": false,
-     "p": 5,
-     "pj": 9,
+     "p": 6,
+     "pj": 10,
      "pos": 11,
      "pts": 10
     },
@@ -6683,6 +6683,80 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155555_Escudo_Futsi.png",
    "fecha": "2026-11-22",
+   "goles": [
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "MARIA DEL CARMEN DE INES CARAMAZANA",
+     "lado": "local",
+     "minuto": 3,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "MARIA DEL CARMEN DE INES CARAMAZANA",
+     "lado": "local",
+     "minuto": 5,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "SOFIA FERNANDEZ NIETO",
+     "lado": "local",
+     "minuto": 10,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "SILVIA GONZALEZ LOPEZ",
+     "lado": "local",
+     "minuto": 25,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "SOFIA FERNANDEZ NIETO",
+     "lado": "local",
+     "minuto": 37,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "MARIA DEL CARMEN DE INES CARAMAZANA",
+     "lado": "local",
+     "minuto": 38,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D. FUTSI ATLETICO NAVALCARNERO - FROZEN 'C'",
+     "jugador": "SARAY MARTINEZ MARTIN",
+     "lado": "visitante",
+     "minuto": 4,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D. FUTSI ATLETICO NAVALCARNERO - FROZEN 'C'",
+     "jugador": "ALICIA CALDERÓN GONZÁLEZ",
+     "lado": "visitante",
+     "minuto": 9,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "C.D. FUTSI ATLETICO NAVALCARNERO - FROZEN 'C'",
+     "jugador": "SARAY MARTINEZ MARTIN",
+     "lado": "visitante",
+     "minuto": 16,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Primera División Autonómica Femenino FS Grupo Único",
    "hora": "14:30",
    "jornada": 7,
@@ -6694,7 +6768,40 @@
     3,
     6
    ],
-   "resultado": null,
+   "resultado": [
+    6,
+    3
+   ],
+   "tarjetas": [
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "ALICIA BREA GIL",
+     "lado": "local",
+     "minuto": 31,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "C.D. FUTSI ATLETICO NAVALCARNERO - FROZEN 'C'",
+     "jugador": "ALICIA CALDERÓN GONZÁLEZ",
+     "lado": "visitante",
+     "minuto": 24,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "C.D. FUTSI ATLETICO NAVALCARNERO - FROZEN 'C'",
+     "jugador": "SARAY MARTINEZ MARTIN",
+     "lado": "visitante",
+     "minuto": 31,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "C.D. FUTSI ATLETICO NAVALCARNERO - FROZEN 'C'",
+     "jugador": "SARAY MARTINEZ MARTIN",
+     "lado": "visitante",
+     "minuto": 32,
+     "tipo": "roja"
+    }
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738218/grupo/26738219/jornadas",
    "visitante": [
     "17149523",
