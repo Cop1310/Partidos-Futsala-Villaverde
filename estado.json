@@ -3,6 +3,21 @@
   "https://www.elbalondemadrid.es/competicion/26738218/grupo/26738219/jornadas": {
    "filas": [
     {
+     "dg": 30,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011900787_Aguila_Alcalde_FSF_trazo_negro.jpg",
+     "g": 6,
+     "gc": 7,
+     "gf": 37,
+     "id": "24236688",
+     "nombre": "F.S.F. Mostoles B",
+     "nuestro": false,
+     "p": 1,
+     "pj": 7,
+     "pos": 1,
+     "pts": 18
+    },
+    {
      "dg": 14,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003259_escudo_sanfer_web.jpg",
@@ -14,38 +29,23 @@
      "nuestro": false,
      "p": 1,
      "pj": 7,
-     "pos": 1,
+     "pos": 2,
      "pts": 18
     },
     {
-     "dg": 21,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011900787_Aguila_Alcalde_FSF_trazo_negro.jpg",
-     "g": 5,
-     "gc": 5,
-     "gf": 26,
-     "id": "24236688",
-     "nombre": "F.S.F. Mostoles B",
-     "nuestro": false,
-     "p": 1,
-     "pj": 6,
-     "pos": 2,
-     "pts": 15
-    },
-    {
-     "dg": 9,
+     "dg": 12,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
-     "g": 4,
-     "gc": 11,
-     "gf": 20,
+     "g": 5,
+     "gc": 14,
+     "gf": 26,
      "id": "18694124",
      "nombre": "Futsala Villaverde",
      "nuestro": true,
      "p": 1,
-     "pj": 5,
+     "pj": 6,
      "pos": 3,
-     "pts": 12
+     "pts": 15
     },
     {
      "dg": 6,
@@ -65,6 +65,21 @@
     {
      "dg": 5,
      "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155442_escudo_torrejon_FIVE_PLAY_sala.jpg",
+     "g": 4,
+     "gc": 18,
+     "gf": 23,
+     "id": "17145541",
+     "nombre": "Torrejon Sala Five Play- Dominos Pizza",
+     "nuestro": false,
+     "p": 3,
+     "pj": 7,
+     "pos": 5,
+     "pts": 12
+    },
+    {
+     "dg": 5,
+     "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000013822_escudo_alcorcon.jpeg",
      "g": 4,
      "gc": 10,
@@ -74,22 +89,22 @@
      "nuestro": false,
      "p": 2,
      "pj": 6,
-     "pos": 5,
+     "pos": 6,
      "pts": 12
     },
     {
-     "dg": -7,
+     "dg": -10,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155555_Escudo_Futsi.png",
      "g": 3,
-     "gc": 20,
-     "gf": 13,
+     "gc": 26,
+     "gf": 16,
      "id": "17149523",
      "nombre": "Futsi Atletico Navalcarnero-Frozen C",
      "nuestro": false,
-     "p": 2,
-     "pj": 6,
-     "pos": 6,
+     "p": 3,
+     "pj": 7,
+     "pos": 7,
      "pts": 10
     },
     {
@@ -104,7 +119,7 @@
      "nuestro": false,
      "p": 3,
      "pj": 6,
-     "pos": 7,
+     "pos": 8,
      "pts": 9
     },
     {
@@ -116,21 +131,6 @@
      "gf": 21,
      "id": "21476536",
      "nombre": "Agrupacion Auto-Escuela Simancas",
-     "nuestro": false,
-     "p": 3,
-     "pj": 6,
-     "pos": 8,
-     "pts": 9
-    },
-    {
-     "dg": 3,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155442_escudo_torrejon_FIVE_PLAY_sala.jpg",
-     "g": 3,
-     "gc": 17,
-     "gf": 20,
-     "id": "17145541",
-     "nombre": "Torrejon Sala Five Play- Dominos Pizza",
      "nuestro": false,
      "p": 3,
      "pj": 6,
@@ -168,17 +168,17 @@
      "pts": 6
     },
     {
-     "dg": -12,
+     "dg": -21,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012158637_escudo_club_positivo.png",
      "g": 2,
-     "gc": 28,
-     "gf": 16,
+     "gc": 39,
+     "gf": 18,
      "id": "21430669",
      "nombre": "Moralzarzal Futsal-Toolydo",
      "nuestro": false,
-     "p": 4,
-     "pj": 6,
+     "p": 5,
+     "pj": 7,
      "pos": 12,
      "pts": 6
     },
@@ -198,17 +198,17 @@
      "pts": 3
     },
     {
-     "dg": -26,
+     "dg": -28,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012160800_Escudo_bueno.png",
      "g": 0,
-     "gc": 29,
-     "gf": 3,
+     "gc": 32,
+     "gf": 4,
      "id": "18456455",
      "nombre": "Cfs Artilleros Moratalaz",
      "nuestro": false,
-     "p": 6,
-     "pj": 6,
+     "p": 7,
+     "pj": 7,
      "pos": 14,
      "pts": 0
     }
@@ -465,19 +465,19 @@
   "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas": {
    "filas": [
     {
-     "dg": 18,
+     "dg": 21,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
-     "g": 5,
-     "gc": 5,
-     "gf": 23,
+     "g": 6,
+     "gc": 6,
+     "gf": 27,
      "id": "24772220",
      "nombre": "F.S. Diagonal C",
      "nuestro": false,
      "p": 0,
-     "pj": 5,
+     "pj": 6,
      "pos": 1,
-     "pts": 15
+     "pts": 18
     },
     {
      "dg": 24,
@@ -525,21 +525,6 @@
      "pts": 12
     },
     {
-     "dg": 5,
-     "e": 0,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
-     "g": 3,
-     "gc": 9,
-     "gf": 14,
-     "id": "18637528",
-     "nombre": "Pinar de San Jose-Alcorcon B",
-     "nuestro": false,
-     "p": 2,
-     "pj": 5,
-     "pos": 5,
-     "pts": 9
-    },
-    {
      "dg": 3,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
@@ -549,6 +534,21 @@
      "id": "21727163",
      "nombre": "Futsala Villaverde B",
      "nuestro": true,
+     "p": 2,
+     "pj": 6,
+     "pos": 5,
+     "pts": 10
+    },
+    {
+     "dg": -1,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155576_ORIGINAL_VECTOR_1.png",
+     "g": 3,
+     "gc": 16,
+     "gf": 15,
+     "id": "19361375",
+     "nombre": "San Jose de Valderas-Valderas F.S. B",
+     "nuestro": false,
      "p": 2,
      "pj": 6,
      "pos": 6,
@@ -570,6 +570,21 @@
      "pts": 9
     },
     {
+     "dg": 2,
+     "e": 0,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012191063_Escudo_pinar_24_25.png",
+     "g": 3,
+     "gc": 13,
+     "gf": 15,
+     "id": "18637528",
+     "nombre": "Pinar de San Jose-Alcorcon B",
+     "nuestro": false,
+     "p": 3,
+     "pj": 6,
+     "pos": 8,
+     "pts": 9
+    },
+    {
      "dg": -3,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155770_3f6870fa_7e7b_452d_aad4_a8297489831d.png",
@@ -581,23 +596,8 @@
      "nuestro": false,
      "p": 3,
      "pj": 6,
-     "pos": 8,
-     "pts": 9
-    },
-    {
-     "dg": -2,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0012155576_ORIGINAL_VECTOR_1.png",
-     "g": 2,
-     "gc": 15,
-     "gf": 13,
-     "id": "19361375",
-     "nombre": "San Jose de Valderas-Valderas F.S. B",
-     "nuestro": false,
-     "p": 2,
-     "pj": 5,
      "pos": 9,
-     "pts": 7
+     "pts": 9
     },
     {
      "dg": -9,
@@ -630,17 +630,17 @@
      "pts": 4
     },
     {
-     "dg": -7,
+     "dg": -8,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014263030_Escudo_mostoles_sur_FS__1_.png",
      "g": 1,
-     "gc": 17,
-     "gf": 10,
+     "gc": 19,
+     "gf": 11,
      "id": "26752417",
      "nombre": "Mostoles Sur FS (FS)",
      "nuestro": false,
-     "p": 4,
-     "pj": 5,
+     "p": 5,
+     "pj": 6,
      "pos": 12,
      "pts": 3
     },
@@ -726,19 +726,19 @@
      "pts": 18
     },
     {
-     "dg": 6,
+     "dg": 10,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265535_Athletic_Mostoles.png",
-     "g": 5,
-     "gc": 33,
-     "gf": 39,
+     "g": 6,
+     "gc": 37,
+     "gf": 47,
      "id": "21431859",
      "nombre": "Athletic Mostoles B",
      "nuestro": false,
      "p": 3,
-     "pj": 8,
+     "pj": 9,
      "pos": 4,
-     "pts": 15
+     "pts": 18
     },
     {
      "dg": 0,
@@ -831,17 +831,17 @@
      "pts": 7
     },
     {
-     "dg": -4,
+     "dg": -8,
      "e": 4,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg",
      "g": 1,
-     "gc": 35,
-     "gf": 31,
+     "gc": 43,
+     "gf": 35,
      "id": "21476720",
      "nombre": "Atletico Trabenco Zarzaquemada B",
      "nuestro": false,
-     "p": 3,
-     "pj": 8,
+     "p": 4,
+     "pj": 9,
      "pos": 11,
      "pts": 7
     },
@@ -912,18 +912,33 @@
      "pts": 30
     },
     {
-     "dg": 7,
+     "dg": 9,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003683_futsala_pinto.jpg",
-     "g": 6,
-     "gc": 38,
-     "gf": 45,
+     "g": 7,
+     "gc": 42,
+     "gf": 51,
      "id": "18613591",
      "nombre": "Futsala Pinto-Escuela Patri Chamorro A",
      "nuestro": false,
      "p": 2,
-     "pj": 9,
+     "pj": 10,
      "pos": 2,
+     "pts": 22
+    },
+    {
+     "dg": 22,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002986_Logo.jpg",
+     "g": 6,
+     "gc": 29,
+     "gf": 51,
+     "id": "17148793",
+     "nombre": "Inter Futbol Sala-Jp Financial B",
+     "nuestro": false,
+     "p": 2,
+     "pj": 9,
+     "pos": 3,
      "pts": 19
     },
     {
@@ -938,36 +953,21 @@
      "nuestro": false,
      "p": 3,
      "pj": 9,
-     "pos": 3,
+     "pos": 4,
      "pts": 18
     },
     {
-     "dg": 20,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000002986_Logo.jpg",
-     "g": 5,
-     "gc": 28,
-     "gf": 48,
-     "id": "17148793",
-     "nombre": "Inter Futbol Sala-Jp Financial B",
-     "nuestro": false,
-     "p": 2,
-     "pj": 8,
-     "pos": 4,
-     "pts": 16
-    },
-    {
-     "dg": 12,
+     "dg": 11,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
      "g": 5,
-     "gc": 28,
-     "gf": 40,
+     "gc": 32,
+     "gf": 43,
      "id": "18586496",
      "nombre": "Futsala Villaverde A",
      "nuestro": true,
-     "p": 2,
-     "pj": 8,
+     "p": 3,
+     "pj": 9,
      "pos": 5,
      "pts": 16
     },
@@ -1002,17 +1002,17 @@
      "pts": 15
     },
     {
-     "dg": 11,
+     "dg": 9,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265598_paraiso.png",
      "g": 4,
-     "gc": 38,
-     "gf": 49,
+     "gc": 41,
+     "gf": 50,
      "id": "19068045",
      "nombre": "Paraiso Sagrados Corazones A",
      "nuestro": false,
-     "p": 3,
-     "pj": 8,
+     "p": 4,
+     "pj": 9,
      "pos": 8,
      "pts": 13
     },
@@ -1032,17 +1032,17 @@
      "pts": 13
     },
     {
-     "dg": -2,
+     "dg": -4,
      "e": 1,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014265563_escudo_udrb_nuevo_dtf.png",
      "g": 4,
-     "gc": 40,
-     "gf": 38,
+     "gc": 46,
+     "gf": 42,
      "id": "17145361",
      "nombre": "Union Deportiva las Rozas Boadilla-Ast Tcnet",
      "nuestro": false,
-     "p": 4,
-     "pj": 9,
+     "p": 5,
+     "pj": 10,
      "pos": 10,
      "pts": 13
     },
@@ -1062,6 +1062,21 @@
      "pts": 10
     },
     {
+     "dg": -16,
+     "e": 1,
+     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003686_ciudad_de_torrejon.jpg",
+     "g": 3,
+     "gc": 47,
+     "gf": 31,
+     "id": "17210272",
+     "nombre": "E.F.S. Ciudad de Torrejon-Redpiso Torrejon A",
+     "nuestro": false,
+     "p": 6,
+     "pj": 10,
+     "pos": 12,
+     "pts": 10
+    },
+    {
      "dg": -23,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014258150_ESC_C.D._DOSA__1_.png",
@@ -1073,7 +1088,7 @@
      "nuestro": false,
      "p": 7,
      "pj": 10,
-     "pos": 12,
+     "pos": 13,
      "pts": 9
     },
     {
@@ -1088,7 +1103,7 @@
      "nuestro": false,
      "p": 7,
      "pj": 10,
-     "pos": 13,
+     "pos": 14,
      "pts": 9
     },
     {
@@ -1103,21 +1118,6 @@
      "nuestro": false,
      "p": 7,
      "pj": 10,
-     "pos": 14,
-     "pts": 7
-    },
-    {
-     "dg": -17,
-     "e": 1,
-     "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0000003686_ciudad_de_torrejon.jpg",
-     "g": 2,
-     "gc": 44,
-     "gf": 27,
-     "id": "17210272",
-     "nombre": "E.F.S. Ciudad de Torrejon-Redpiso Torrejon A",
-     "nuestro": false,
-     "p": 6,
-     "pj": 9,
      "pos": 15,
      "pts": 7
     },
@@ -3925,6 +3925,128 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011037990_Escudo_nuevo_2_colores.jpg",
    "fecha": "2026-11-21",
+   "goles": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "OLIVER RAOS BERMUDEZ",
+     "lado": "local",
+     "minuto": 1,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "IVAN GONZALEZ LOPEZ",
+     "lado": "local",
+     "minuto": 26,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ALVARO LORENZO FERNANDEZ",
+     "lado": "local",
+     "minuto": 32,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "RUBEN RODRIGUEZ ORTIZ",
+     "lado": "local",
+     "minuto": 37,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "ATLETICO TRABENCO ZARZAQUEMADA 'A'",
+     "jugador": "DANIEL MUÑOZ MARTIN",
+     "lado": "visitante",
+     "minuto": 3,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "ATLETICO TRABENCO ZARZAQUEMADA 'A'",
+     "jugador": "DANIEL DE DIEGO GABRIEL",
+     "lado": "visitante",
+     "minuto": 4,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "ATLETICO TRABENCO ZARZAQUEMADA 'A'",
+     "jugador": "ALVARO CELADILLA NIETO",
+     "lado": "visitante",
+     "minuto": 6,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "ATLETICO TRABENCO ZARZAQUEMADA 'A'",
+     "jugador": "ALBERTO BALLESTEROS GARCIA",
+     "lado": "visitante",
+     "minuto": 11,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "ATLETICO TRABENCO ZARZAQUEMADA 'A'",
+     "jugador": "DANIEL DE DIEGO GABRIEL",
+     "lado": "visitante",
+     "minuto": 20,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "ATLETICO TRABENCO ZARZAQUEMADA 'A'",
+     "jugador": "DANIEL DE DIEGO GABRIEL",
+     "lado": "visitante",
+     "minuto": 20,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "ATLETICO TRABENCO ZARZAQUEMADA 'A'",
+     "jugador": "ALBERTO BALLESTEROS GARCIA",
+     "lado": "visitante",
+     "minuto": 32,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "ATLETICO TRABENCO ZARZAQUEMADA 'A'",
+     "jugador": "DAVID SANCHEZ CRIADO",
+     "lado": "visitante",
+     "minuto": 36,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "ATLETICO TRABENCO ZARZAQUEMADA 'A'",
+     "jugador": "DANIEL MUÑOZ MARTIN",
+     "lado": "visitante",
+     "minuto": 37,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "ATLETICO TRABENCO ZARZAQUEMADA 'A'",
+     "jugador": "VICTOR BAENA GONZALEZ",
+     "lado": "visitante",
+     "minuto": 39,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "ATLETICO TRABENCO ZARZAQUEMADA 'A'",
+     "jugador": "VICTOR BAENA GONZALEZ",
+     "lado": "visitante",
+     "minuto": 39,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Tercera División FS Grupo 3",
    "hora": "17:30",
    "jornada": 10,
@@ -3939,6 +4061,50 @@
    "resultado": [
     4,
     11
+   ],
+   "tarjetas": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "KRYSTIAN fraczyk",
+     "lado": "local",
+     "minuto": 18,
+     "tipo": "roja"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "JOSE CEBRIAN ROMERO",
+     "lado": "local",
+     "minuto": 27,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "ALVARO LORENZO FERNANDEZ",
+     "lado": "local",
+     "minuto": 35,
+     "tipo": "roja"
+    },
+    {
+     "equipo": "ATLETICO TRABENCO ZARZAQUEMADA 'A'",
+     "jugador": "GONZALO ISIDORO SANCHEZ",
+     "lado": "visitante",
+     "minuto": 11,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "ATLETICO TRABENCO ZARZAQUEMADA 'A'",
+     "jugador": "AITOR LATORRE LUCAS",
+     "lado": "visitante",
+     "minuto": 23,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "ATLETICO TRABENCO ZARZAQUEMADA 'A'",
+     "jugador": "DANIEL DE DIEGO GABRIEL",
+     "lado": "visitante",
+     "minuto": 31,
+     "tipo": "amarilla"
+    }
    ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738221/grupo/26771028/jornadas",
    "visitante": [
@@ -5437,6 +5603,64 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000003686_ciudad_de_torrejon.jpg",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "fecha": "2026-11-22",
+   "goles": [
+    {
+     "equipo": "E.F.S. CIUDAD DE TORREJON - REDPISO TORREJON 'A'",
+     "jugador": "ISAAC SAMAJON RECIO",
+     "lado": "local",
+     "minuto": 18,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "E.F.S. CIUDAD DE TORREJON - REDPISO TORREJON 'A'",
+     "jugador": "ISAAC SAMAJON RECIO",
+     "lado": "local",
+     "minuto": 20,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "E.F.S. CIUDAD DE TORREJON - REDPISO TORREJON 'A'",
+     "jugador": "ISAAC SAMAJON RECIO",
+     "lado": "local",
+     "minuto": 23,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "E.F.S. CIUDAD DE TORREJON - REDPISO TORREJON 'A'",
+     "jugador": "JOSE CARLOS HERNANDEZ TOBARUELA",
+     "lado": "local",
+     "minuto": 27,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "GONZALO ORTIZ PEÑA",
+     "lado": "visitante",
+     "minuto": 1,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "MIGUEL GOMEZ RUIZ",
+     "lado": "visitante",
+     "minuto": 10,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "MIGUEL GOMEZ RUIZ",
+     "lado": "visitante",
+     "minuto": 25,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
    "hora": "11:15",
    "jornada": 10,
@@ -5448,7 +5672,33 @@
     13,
     5
    ],
-   "resultado": null,
+   "resultado": [
+    4,
+    3
+   ],
+   "tarjetas": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "MIGUEL GOMEZ RUIZ",
+     "lado": "visitante",
+     "minuto": 9,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "CARLOS OTERO SIERRA",
+     "lado": "visitante",
+     "minuto": 14,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'A'",
+     "jugador": "MIGUEL GOMEZ RUIZ",
+     "lado": "visitante",
+     "minuto": 38,
+     "tipo": "roja"
+    }
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26749998/grupo/26814437/jornadas",
    "visitante": [
     "18586496",
@@ -7742,6 +7992,112 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012155817_Diagonalfondo_blanco2.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "fecha": "2026-11-21",
+   "goles": [
+    {
+     "equipo": "F.S. DIAGONAL",
+     "jugador": "ALAN CORNEJO CALZADO",
+     "lado": "local",
+     "minuto": 4,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "F.S. DIAGONAL",
+     "jugador": "ALAN CORNEJO CALZADO",
+     "lado": "local",
+     "minuto": 6,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "F.S. DIAGONAL",
+     "jugador": "DAVID GHOERGHITA",
+     "lado": "local",
+     "minuto": 7,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "F.S. DIAGONAL",
+     "jugador": "ADRIAN GONZALEZ PARRA",
+     "lado": "local",
+     "minuto": 8,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "F.S. DIAGONAL",
+     "jugador": "DAVID GHOERGHITA",
+     "lado": "local",
+     "minuto": 12,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "F.S. DIAGONAL",
+     "jugador": "ADRIAN GONZALEZ PARRA",
+     "lado": "local",
+     "minuto": 20,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "F.S. DIAGONAL",
+     "jugador": "DAVID GHOERGHITA",
+     "lado": "local",
+     "minuto": 33,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "F.S. DIAGONAL",
+     "jugador": "MANUEL CASSUSO MARTINEZ",
+     "lado": "local",
+     "minuto": 40,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "F.S. DIAGONAL",
+     "jugador": "ANDRES VASILEV YANEV",
+     "lado": "local",
+     "minuto": 48,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "F.S. DIAGONAL",
+     "jugador": "ALEJANDRO TORO SANTOS",
+     "lado": "local",
+     "minuto": 49,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "DAVID MAGAN VICENTE",
+     "lado": "visitante",
+     "minuto": 18,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "ALVARO RUIZ SALCEDO",
+     "lado": "visitante",
+     "minuto": 31,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE",
+     "jugador": "DAVID MAGAN VICENTE",
+     "lado": "visitante",
+     "minuto": 36,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Benjamín 1ª Fase FS Grupo 4",
    "hora": "15:30",
    "jornada": 6,
@@ -7757,6 +8113,7 @@
     10,
     3
    ],
+   "tarjetas": [],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26750019/grupo/28118560/jornadas",
    "visitante": [
     "26731723",
