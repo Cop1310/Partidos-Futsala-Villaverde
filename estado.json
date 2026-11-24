@@ -2538,6 +2538,80 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0011730007_ESCUDO_OFICIAL_ok.png",
    "fecha": "2026-11-22",
+   "goles": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "GONZALO ORTIZ PEÑA",
+     "lado": "local",
+     "minuto": 4,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "IZAN GONZALEZ BLAZQUEZ",
+     "lado": "local",
+     "minuto": 7,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "JUAN FELIPE MAFLA RAMIREZ",
+     "lado": "local",
+     "minuto": 25,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "MARIO GARCIA FRANCHO",
+     "lado": "local",
+     "minuto": 37,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "MARIO GARCIA FRANCHO",
+     "lado": "local",
+     "minuto": 38,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "MARIO GARCIA FRANCHO",
+     "lado": "local",
+     "minuto": 39,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CLUB C.F.S. EL ALAMO 'B'",
+     "jugador": "LOIC ADRIAN GEIVERS LOPEZ",
+     "lado": "visitante",
+     "minuto": 6,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CLUB C.F.S. EL ALAMO 'B'",
+     "jugador": "LOIC ADRIAN GEIVERS LOPEZ",
+     "lado": "visitante",
+     "minuto": 34,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "CLUB C.F.S. EL ALAMO 'B'",
+     "jugador": "SOUFIAN JEBARY",
+     "lado": "visitante",
+     "minuto": 38,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Primera División Autonómica Aficionado FS Grupo 1",
    "hora": "19:30",
    "jornada": 9,
@@ -2549,7 +2623,47 @@
     9,
     1
    ],
-   "resultado": null,
+   "resultado": [
+    6,
+    3
+   ],
+   "tarjetas": [
+    {
+     "equipo": "CLUB C.F.S. EL ALAMO 'B'",
+     "jugador": "JUAN SEBASTIAN BUSTOS PEÑA",
+     "lado": "visitante",
+     "minuto": 17,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "CLUB C.F.S. EL ALAMO 'B'",
+     "jugador": "MOSTAFA ASSIDAH ELMOKADIM",
+     "lado": "visitante",
+     "minuto": 31,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "CLUB C.F.S. EL ALAMO 'B'",
+     "jugador": "LOIC ADRIAN GEIVERS LOPEZ",
+     "lado": "visitante",
+     "minuto": 34,
+     "tipo": "amarilla"
+    },
+    {
+     "equipo": "CLUB C.F.S. EL ALAMO 'B'",
+     "jugador": "JUAN SEBASTIAN BUSTOS PEÑA",
+     "lado": "visitante",
+     "minuto": 37,
+     "tipo": "roja"
+    },
+    {
+     "equipo": "CLUB C.F.S. EL ALAMO 'B'",
+     "jugador": "MOSTAFA ASSIDAH ELMOKADIM",
+     "lado": "visitante",
+     "minuto": 38,
+     "tipo": "roja"
+    }
+   ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738243/grupo/26738244/jornadas",
    "visitante": [
     "17151976",
@@ -5713,12 +5827,12 @@
   },
   "5577057": {
    "acta": "https://www.elbalondemadrid.es/acta/5577057?temporada=22&competicion=26749998&grupo=26814437",
-   "campo": "LAS ROZAS - P.M. SAN JOSE (futbol sala)",
+   "campo": "P.M. SAN BLAS (futbol sala)",
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014265563_escudo_udrb_nuevo_dtf.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
-   "fecha": "2026-11-28",
+   "fecha": "2026-11-29",
    "grupo": "Primera División Autonómica Juvenil FS Grupo Único",
-   "hora": null,
+   "hora": "18:20",
    "jornada": 11,
    "local": [
     "17145361",
@@ -7757,12 +7871,12 @@
   },
   "5712431": {
    "acta": "https://www.elbalondemadrid.es/acta/5712431?temporada=22&competicion=26750017&grupo=28105968",
-   "campo": "MOSTOLES - PAB. EVA MANGUAN (futbol sala)",
+   "campo": "MOSTOLES - COLEGIO VILLA DE MOSTOLES (futbol sala)",
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014269425_FS_M_STOLES_ESCUDOS_1.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "fecha": "2026-11-28",
    "grupo": "Alevín 1ª Fase FS Grupo 4",
-   "hora": null,
+   "hora": "19:30",
    "jornada": 7,
    "local": [
     "17149214",
@@ -8244,12 +8358,12 @@
   },
   "5719215": {
    "acta": "https://www.elbalondemadrid.es/acta/5719215?temporada=22&competicion=26750019&grupo=28118560",
-   "campo": "P.M. ARGANZUELA LA FUNDI (futbol sala)",
+   "campo": "COL. NUESTRA SEÑORA DE LA PALOMA.(futbol sala)",
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0012159060_escudo_CDRPaloma.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "fecha": "2026-11-28",
    "grupo": "Benjamín 1ª Fase FS Grupo 4",
-   "hora": null,
+   "hora": "10:00",
    "jornada": 7,
    "local": [
     "19200947",
@@ -8778,6 +8892,24 @@
    "escudo_local": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0014270047_futbolsala_villaverde.png",
    "escudo_visitante": "https://appweb.rffm.es/pnfg/pimg/Clubes/00100_0000002362_escudo2_3.jpg",
    "fecha": "2026-11-21",
+   "goles": [
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "MIGUEL GOMEZ RUIZ",
+     "lado": "local",
+     "minuto": 12,
+     "penalti": false,
+     "propia": false
+    },
+    {
+     "equipo": "FUTSALA VILLAVERDE 'B'",
+     "jugador": "GONZALO GOMEZ MERINO",
+     "lado": "local",
+     "minuto": 24,
+     "penalti": false,
+     "propia": false
+    }
+   ],
    "grupo": "Primera Juvenil FS Grupo 5",
    "hora": "19:30",
    "jornada": 6,
@@ -8792,6 +8924,15 @@
    "resultado": [
     2,
     0
+   ],
+   "tarjetas": [
+    {
+     "equipo": "C.D.E. OROQUIETA-ESPINILLO 'B'",
+     "jugador": "CARLOS BARRIOS NAVARRO",
+     "lado": "visitante",
+     "minuto": 41,
+     "tipo": "amarilla"
+    }
    ],
    "url_grupo": "https://www.elbalondemadrid.es/competicion/26738228/grupo/28123215/jornadas",
    "visitante": [
