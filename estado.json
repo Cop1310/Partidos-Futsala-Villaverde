@@ -1158,17 +1158,17 @@
      "pts": 18
     },
     {
-     "dg": 30,
+     "dg": 27,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270047_futbolsala_villaverde.png",
      "g": 5,
-     "gc": 6,
+     "gc": 9,
      "gf": 36,
      "id": "25048394",
      "nombre": "Futsala Villaverde",
      "nuestro": true,
-     "p": 0,
-     "pj": 5,
+     "p": 1,
+     "pj": 6,
      "pos": 2,
      "pts": 15
     },
@@ -1188,19 +1188,19 @@
      "pts": 15
     },
     {
-     "dg": -4,
+     "dg": -1,
      "e": 0,
      "escudo": "https://www.elbalondemadrid.es/escudo/Clubes/00100_0014270033_abaco.png",
-     "g": 3,
+     "g": 4,
      "gc": 16,
-     "gf": 12,
+     "gf": 15,
      "id": "27509906",
      "nombre": "Colegio Abaco (FS) B",
      "nuestro": false,
      "p": 2,
-     "pj": 5,
+     "pj": 6,
      "pos": 4,
-     "pts": 9
+     "pts": 12
     },
     {
      "dg": -2,
